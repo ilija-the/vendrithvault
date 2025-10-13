@@ -1,5 +1,5 @@
 ---
-aliases:
 tags:
   - people
 ---
+Person Information
