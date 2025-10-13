@@ -3,4 +3,4 @@ tags:
   - people
 ---
 
-An [[Aiuvarin]]
+A [[Aiuvarin|half-elf]]
