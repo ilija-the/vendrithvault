@@ -1,4 +1,8 @@
-#events #circles
+---
+tags:
+  - events
+  - circles
+---
 
 A crisis in which a [[Sanitationist]] (a philosopher of the [[Sanitorium]]) by the name [[Jade the Just]] controversially pushed to reduce or end the autonomy of [[Philosophia]] but was met with resistance, including armed resistance.
 

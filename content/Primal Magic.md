@@ -1,4 +1,8 @@
-#primal #magic 
+---
+tags:
+  - magic
+  - primal
+---
 
 
 

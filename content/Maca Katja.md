@@ -1,4 +1,7 @@
-#people 
+---
+tags:
+  - people
+---
 
 [[Varvevan]]
 [[Friedport]]

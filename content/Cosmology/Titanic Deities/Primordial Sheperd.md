@@ -1,4 +1,8 @@
-#deities #religion 
+---
+tags:
+  - religion
+  - deities
+---
 
 One of the [[Titans]].
 

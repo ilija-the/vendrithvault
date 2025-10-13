@@ -1,5 +1,7 @@
-#deities
-
+---
+tags:
+  - deities
+---
 One of the [[Titans]], deeply connected to a slave rebellion in [[Talvas]].
 
 

@@ -2,6 +2,7 @@
 aliases:
   - Kiam Lockneed
 tags:
+  - people
 ---
-#people 
+
 

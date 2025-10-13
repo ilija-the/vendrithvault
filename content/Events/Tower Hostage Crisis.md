@@ -1,3 +1,6 @@
-#events
+---
+tags:
+  - events
+---
 [[Philosophia]]
 [[Iron Lotus]]

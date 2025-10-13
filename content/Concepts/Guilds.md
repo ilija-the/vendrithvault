@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 [[Guilds of Philosophia]]
 
 [[Horizan Guild Association]]

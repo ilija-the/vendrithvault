@@ -1,4 +1,8 @@
-#deities #religion 
+---
+tags:
+  - religion
+  - deities
+---
 
 One of the [[Titans]], a dragon that signed the [[Draconic Concordat]].
 [[Philosophia]]

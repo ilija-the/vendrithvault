@@ -1,4 +1,8 @@
-#deities #religion 
+---
+tags:
+  - religion
+  - deities
+---
 
 One of the [[Titans]]. Founder of [[Philosophia]], betrayed by the [[Hooded Saviour]]. As she was "killed" by him, she underwent [[Reverence]] against her will.
 

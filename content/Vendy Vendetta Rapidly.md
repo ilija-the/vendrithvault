@@ -1,4 +1,9 @@
-#people #call-of-the-cardinals #landcrab-plot 
+---
+tags:
+  - people
+  - landcrab-plot
+  - call-of-the-cardinals
+---
 
  [[Friedport]]
  [[Vestitur Relics]]

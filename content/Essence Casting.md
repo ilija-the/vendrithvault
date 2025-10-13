@@ -1,2 +1,5 @@
-#magic #rules
-
+---
+tags:
+  - magic
+  - rules
+---

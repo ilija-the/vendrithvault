@@ -1,6 +1,9 @@
-#society 
+---
+tags:
+  - society
+---
 
-Believers of [[Utopian Theory]]. 
+Believers of [[Utopian Theory]].
 
 [[Crusaders]]
 [[Northpoint]]

@@ -1,3 +1,6 @@
-#people 
+---
+tags:
+  - people
+---
 
 [[Gator Grippli]]

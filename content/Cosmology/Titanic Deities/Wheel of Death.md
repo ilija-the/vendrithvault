@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 
 One of the [[Titans]].
 

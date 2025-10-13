@@ -1,3 +1,8 @@
-#people #welcome-to-friedport 
+---
+tags:
+  - people
+  - welcome-to-friedport
+---
+
 
 [[Piracy]]

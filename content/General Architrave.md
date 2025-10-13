@@ -1,4 +1,7 @@
-#people 
+---
+tags:
+  - people
+---
 
 A [[Hobgoblins|hobgoblin]] general of the [[Crusaders]] that was ultimately tried for massive crimes of corruption and sentenced to death by hanging. His crimes coming to light was aided by the [[Moonless Night]].
 

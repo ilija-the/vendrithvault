@@ -1,4 +1,7 @@
-#cosmos
+---
+tags:
+  - cosmos
+---
 A set of origin stories shared by most peoples of Vendrith, in varying forms.
 
 One is the story of the [[Sibling Dragons]].

@@ -1,2 +1,5 @@
-#society 
+---
+tags:
+  - society
+---
 [[Ancestries of Vendrith]]

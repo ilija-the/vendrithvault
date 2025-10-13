@@ -1,5 +1,8 @@
-#society 
-Especially secret and often illegal and cultlike. 
+---
+tags:
+  - society
+---
+Especially secret and often illegal and cultlike.
 
 Represented by the Eye of Occultism, a formerly secret symbol used to signal receptibility to forbidden knowledge.
 

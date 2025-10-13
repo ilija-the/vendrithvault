@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 [[Adventurer Crisis]]
 
 NPC adventurers:

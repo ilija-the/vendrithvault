@@ -1,4 +1,7 @@
-#people 
+---
+tags:
+  - people
+---
 
 [[Zcaldon]]
 [[Trinities]]

@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 The majority population of Vendrith.
 
 [[Goblin evolution]]

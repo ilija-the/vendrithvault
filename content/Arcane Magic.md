@@ -1,4 +1,8 @@
-#magic #arcane
+---
+tags:
+  - magic
+  - arcane
+---
 
 [[Wizard]]
 [[Witch]]

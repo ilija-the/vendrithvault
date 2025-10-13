@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 A non-titanic deity often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]].
 
 Acknowledged as an acceptable figure of worship by the [[Crusaders]] as part of the [[Truth Concord]], though it is not a faith commonly respected by those who worship titans.

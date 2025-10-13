@@ -1,4 +1,8 @@
-#people #circles 
+---
+tags:
+  - circles
+  - people
+---
 
 [[Sanitorium]]
 [[Philosophers of the Round]]

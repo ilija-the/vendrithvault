@@ -1,1 +1,4 @@
-#people 
+---
+tags:
+  - people
+---

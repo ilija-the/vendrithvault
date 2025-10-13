@@ -1,6 +1,9 @@
-#events 
+---
+tags:
+  - events
+---
 
-[[Yellow]] 
+[[Yellow]]
 [[The Shattered]]
 [[Bemdali Fireworks]]
 [[Jjeen]]

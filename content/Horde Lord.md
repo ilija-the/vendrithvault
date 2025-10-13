@@ -1,1 +1,5 @@
-#deities #religion 
+---
+tags:
+  - religion
+  - deities
+---

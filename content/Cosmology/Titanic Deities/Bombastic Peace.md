@@ -1,4 +1,7 @@
-#deities s
+---
+tags:
+  - deities
+---
 One of the [[Titans]].
 
 **Pantheon** Eydwin, Titanic

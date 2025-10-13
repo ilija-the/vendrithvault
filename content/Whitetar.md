@@ -1,3 +1,6 @@
-#material 
+---
+tags:
+  - material
+---
 
 [[Special Materials]]

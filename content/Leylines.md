@@ -1,4 +1,7 @@
-#magic 
+---
+tags:
+  - magic
+---
 
 [[Magnus Strike]]
 [[Magus in the High Tower]]

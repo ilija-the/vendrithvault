@@ -1,1 +1,4 @@
-#places 
+---
+tags:
+  - places
+---

@@ -1,2 +1,5 @@
-#society 
-A rather new 
+---
+tags:
+  - society
+---
+A rather new

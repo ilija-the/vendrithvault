@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 Consists of languages identified with the [[Ancestries of Vendrith]] as well as a number of Common Languages.
 
 Regional common languages:

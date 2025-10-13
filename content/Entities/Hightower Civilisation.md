@@ -1,1 +1,4 @@
-#society 
+---
+tags:
+  - society
+---

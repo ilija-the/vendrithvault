@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 Sometimes worshipped by cults as a [[Deity]]. Speculated to be [[Hypertyrants]].
 
 **Pantheon** None

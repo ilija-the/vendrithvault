@@ -3,8 +3,10 @@ aliases:
   - Tjehen
   - Tjehenet
   - Faience
+
+tags:
+  - material
 ---
-#material 
 
 Also known as Tjehen.
 

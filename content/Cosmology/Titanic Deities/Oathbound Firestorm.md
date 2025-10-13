@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 Formerly one Guardian Angel of [[Cosmology/Planes/Haeven]], then of the [[Titans]], then finally the [[Devil]] queen of Crimson.
 
 **Pantheon** Titanic, Crusader Alliance

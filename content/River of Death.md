@@ -1,5 +1,7 @@
-#cosmos
-
+---
+tags:
+  - cosmos
+---
 [[Great Flow]]
 
 [[Necromancy]]

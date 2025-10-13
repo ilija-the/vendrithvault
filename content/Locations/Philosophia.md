@@ -1,4 +1,7 @@
-#places 
+---
+tags:
+  - places
+---
 A large and ancient city at the centre of [[Mogxa]] founded by the [[Icen Maiden]].
 
 Technically the capital of the [[Sanitorium]], but exists in a unique state of self-governance under the [[Guilds of Philosophia]] as part of the [[Pactlaw]].

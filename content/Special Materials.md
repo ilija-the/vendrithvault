@@ -1,4 +1,7 @@
-#material 
+---
+tags:
+  - material
+---
 
 [[Mundane Materials]]
 

@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 
 One of the [[Titans]]. Formerly known as the God-King Idur, who's name has been used to name the [[Old World - Iduria]].
 

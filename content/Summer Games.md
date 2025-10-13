@@ -1,4 +1,7 @@
-#events 
+---
+tags:
+  - events
+---
 
 [[Friedport]]
 

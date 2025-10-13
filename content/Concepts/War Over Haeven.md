@@ -1,12 +1,14 @@
-#events
-
+---
+tags:
+  - events
+---
 Directly involved the regions of [[Canath]], [[Galae]], and [[Mogxa]].
 
 Evolved into an ideological war over the role of [[Titans]].
 
 A climactic battle was fought at the [[Rainbow Bridge]].
 
-As a result, the titans were exiled from [[Materia]] and the bridge to [[Cosmology/Planes/Haeven]] shattered. 
+As a result, the titans were exiled from [[Materia]] and the bridge to [[Cosmology/Planes/Haeven]] shattered.
 
 This started the age known as [[The Great Silence]].
 

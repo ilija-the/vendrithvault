@@ -1,2 +1,5 @@
-#cosmos
+---
+tags:
+  - cosmos
+---
 [[Cosmology of Vendrith]]

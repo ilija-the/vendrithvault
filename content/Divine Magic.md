@@ -1,2 +1,6 @@
-#divine #magic 
+---
+tags:
+  - magic
+  - divine
+---
 

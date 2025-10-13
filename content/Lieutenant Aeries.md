@@ -1,6 +1,8 @@
 ---
 aliases:
   - Aeries
+
+tags:
+  - people
 ---
-#people 
 

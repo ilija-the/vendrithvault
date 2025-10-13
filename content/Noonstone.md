@@ -1,4 +1,7 @@
-#material 
+---
+tags:
+  - material
+---
 
 Not to be confused with [[Moonstone]].
 
