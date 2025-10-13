@@ -1,5 +1,0 @@
-#people 
-
-[[Zcaldon]]
-[[Trinities]]
-[[Friedport]]

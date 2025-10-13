@@ -1,3 +1,0 @@
-#occult #magic 
-
-[[Occultism]]

@@ -1,1 +1,0 @@
-A type of [[Golem]] made in [[Canath]] to protect far-flung towns with little defensive ability of their own. Usually made with [[Enchanted Copper]] or [[Enchanted Bronze]]. 

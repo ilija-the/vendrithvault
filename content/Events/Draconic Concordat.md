@@ -1,1 +1,0 @@
-A [[Concordat]] that prevented dragons from reproducing as well turning the [[Draconic Empire]] into the [[Kobold Throne]]. 

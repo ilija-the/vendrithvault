@@ -1,4 +1,0 @@
-#people 
-
-[[Varvevan]]
-[[Friedport]]

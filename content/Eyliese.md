@@ -1,3 +1,0 @@
-#people 
-
-An [[Aiuvarin]] 

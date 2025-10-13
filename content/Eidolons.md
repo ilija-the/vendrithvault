@@ -1,3 +1,0 @@
-[[Summoner]]
-[[Companions]]
-[[Familiars]]

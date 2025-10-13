@@ -1,2 +1,0 @@
-#society 
-[[Ancestries of Vendrith]].

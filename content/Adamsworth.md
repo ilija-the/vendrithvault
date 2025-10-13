@@ -1,3 +1,0 @@
-#places 
-
-[[Horizan Peninsula]].

@@ -1,4 +1,0 @@
-#magic #arcane
-
-[[Wizard]]
-[[Witch]]

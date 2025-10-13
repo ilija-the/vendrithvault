@@ -1,2 +1,0 @@
-#society 
-A rather new 

@@ -1,6 +1,0 @@
----
-aliases:
-  - Aeries
----
-#people 
-
