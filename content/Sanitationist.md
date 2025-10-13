@@ -1,0 +1,1 @@
+A title often used for officials or supporters of the [[Sanitorium]], such as the [[Philosophers of the Round]].

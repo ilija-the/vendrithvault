@@ -1,0 +1,1 @@
+The individuals making up the council that governs the [[Sanitorium]], with the aid of the [[Knights of the Round]].
