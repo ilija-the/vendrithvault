@@ -1,0 +1,1 @@
+A [[Leshy]] [[Familiars|familiar]], strangely owned by another Leshy - [[Gourdon]].

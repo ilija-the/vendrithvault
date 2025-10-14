@@ -1,0 +1,1 @@
+A highly obscure historical or mythological term referring to enormous entities that could barely even be described as creatures.

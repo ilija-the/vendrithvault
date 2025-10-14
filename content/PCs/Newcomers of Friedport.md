@@ -1,0 +1,12 @@
+[[Friedport]]
+[[Herō of Friedport]]
+
+[[Gator Grippli]]
+[[Ashur Holdok]]
+[[Bande Aparte]]
+[[Louen Leonceur]]
+[[Sebastian Faust]]
+[[Cardinal Rackawn]]
+[[Roslyn Chatkur]]
+[[Magnus Strike]]
+[[Suite Feul]]
