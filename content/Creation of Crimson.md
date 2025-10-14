@@ -1,1 +1,0 @@
-[[War Over Haeven]] [[Devil Queen]] [[Oathbound Firestorm]] [[Crimson Desert]] [[Crimson]] [[Demonic Brigade]]. 

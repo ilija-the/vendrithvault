@@ -1,7 +1,0 @@
----
-tags:
-  - magic
-  - occult
----
-
-[[Occultism]]

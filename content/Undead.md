@@ -1,1 +1,0 @@
-A class of the [[Monsters of Vendrith]].

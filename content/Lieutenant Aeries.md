@@ -1,8 +1,0 @@
----
-aliases:
-  - Aeries
-
-tags:
-  - people
----
-

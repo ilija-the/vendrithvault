@@ -1,5 +1,0 @@
----
-tags:
-  - religion
-  - deities
----

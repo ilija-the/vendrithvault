@@ -1,3 +1,0 @@
-A type of creature infamous for once running the widely-hated [[Draconic Empire]]. After they were prevented from reproducing and lost their empire with the [[Draconic Concordat]], many dragons refused to give up their form and instead fled to [[Vilhun]] and [[Deria]]. They likely have a reputation for being greedy and selfish from this history.
-
-Still, dragons are deeply connected to the mythos of Vendrith, as the planet itself is said to be the corpse of the [[Sibling Dragons]]. Dragons therefore are often revered and deeply in touch with the magical and natural essence of the world.

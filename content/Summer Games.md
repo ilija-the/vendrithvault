@@ -1,7 +1,0 @@
----
-tags:
-  - events
----
-
-[[Friedport]]
-

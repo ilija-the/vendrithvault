@@ -1,6 +1,0 @@
----
-tags:
-  - people
----
-
-[[Gator Grippli]]
