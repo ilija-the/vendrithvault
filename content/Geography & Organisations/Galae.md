@@ -17,15 +17,15 @@ Galae can be roughly split into a few parts:
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]].
 
 #### **Galaen Wilds**
-The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads.
+The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads. Also accessible by the [[Regal Path]] from [[Nagonkor]], which was used by invading crusaders in the [[Galaekor Campaign]].
 
 #### **Crimson Desert**
 *Main article - [[Crimson Desert]]*
 The border with Ferweth is marked by a distinctive red desert.
 
 #### **Scarred Galae.**
-Consists of region of spotted lakes and mountains known as the Scar, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just northThe historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
+Consists of region of spotted lakes and mountains known as The Scar, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eSastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
-
+The Island of [[Enui]] is sometimes claimed as being of Galae descent.
 
 #places 
