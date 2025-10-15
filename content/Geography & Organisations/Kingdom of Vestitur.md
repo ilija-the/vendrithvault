@@ -4,4 +4,4 @@ Source of the legend of the [[Vestitur Relics]], which were made when the castle
 
 Occasionally exports [[Whitetar]]. Rumoured to be a source of [[Blackice]]. 
 
-Recently had its monarch and heir presumptive both go missing in the [[Thousand Tombs Pass]], prompting a succession crisis. Has been overtaken by the distantly related [[Goblin King]].
+Recently had its monarch and heir presumptive both go missing in the [[Silver Pass]], prompting a succession crisis. Has been overtaken by the distantly related [[Goblin King]].

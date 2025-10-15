@@ -1,2 +1,2 @@
 #places #winter-campaign 
-A part of the [[Thousand Tombs Pass]].
+A part of the [[Silver Pass]].
