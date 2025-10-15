@@ -4,4 +4,5 @@ aliases:
 tags:
   - places
   - galae
+  - settlement
 ---

@@ -16,12 +16,12 @@ Galae can be split into a number of areas:
 A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
 
 #### The North Steppe.
-Accessible from Canath through the [[Bronze Canal]]. Largely home to nomadic shepherds instead of settlements, though a couple of towns straddle the northern [[Blissfeldt]] coastline - such as the rather sizeable [[Littlehorne]]. The border with Ferweth is marked by the distinctive [[Crimson Desert]].
+The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple  straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. The border with Ferweth is marked by the distinctive [[Crimson Desert]].
 
-#### The Lake Rockies.
-The lands surrounding the beginning of the Mogxan peninsula, consisting of a number of dotted lakes and mountains.
+##### The Scar
+A
 
-#### The Eastern Reaches.
+#### Scarred Galae.
 Consists of a craggy land to the north and west and an undefined stretch of flatlands stretching into Mogxa. [[Cragmoore]] is sometimes known as the ''eastern capital'' of Galae.
 
 

@@ -3,6 +3,6 @@ aliases:
 tags:
   - places
   - galae
-  - city
+  - settlement
 ---
 Sometimes called the ''western capital'' of [[Galae]]. 
