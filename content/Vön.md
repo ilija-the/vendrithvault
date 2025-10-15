@@ -8,6 +8,7 @@ tags:
   - canath
   - encanath
   - winter-campaign
+  - vön
 ---
 A cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[Flock of Man]], but has since remained an unpopulated periphery. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
 

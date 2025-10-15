@@ -1,0 +1,6 @@
+---
+tags:
+  - places
+  - galae
+  - nagonkor
+---
