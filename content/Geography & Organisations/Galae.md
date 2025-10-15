@@ -10,10 +10,10 @@ A historical region that today is quite contested in its extent. It lies in betw
 
 Galae can be split into a number of areas:
 #### The High Plateau.
-A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. 
+A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
 
 #### The North Steppe.
-
+Accessible from Canath through the [[Bronze Canal]].
 
 #### The Central Lakes.
 
