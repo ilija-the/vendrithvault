@@ -8,9 +8,9 @@ tags:
 
 A historical region that today is quite contested in its extent. It lies in between [[Ferweth]] to the northwest, [[Mogxa]] to the east and [[Encanath]] to the west and south. Galae has notably in recent history become the grounds for Canathi and Mogxan espionage and warfare as part of the [[Eternal Crusade]]. It also shares a small jungle border with [[Nagonkor]], which it once shared a civilization with (Galaekor). 
 
-Galae can be split into a number of sub-regions:
+Galae can be split into a number of areas:
 #### The High Plateau.
-A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, not far from the [[Path of Gold]] - the main pass used to get through the [[Galaen Mountains]]. 
+A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. 
 
 #### The North Steppe.
 
