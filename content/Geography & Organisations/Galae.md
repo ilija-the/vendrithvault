@@ -24,7 +24,7 @@ The largest and most open region of Accessible from Canath through the [[Bronze 
 The border with Ferweth is marked by a distinctive red desert.
 
 #### **Scarred Galae.**
-Consists of region of spotted lakes and mountains known as The Scar, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eSastern plains of Galae are now considered part of Mogxa and the Sanitorium.
+Consists of region of spotted lakes and mountains known as The Scar, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
 The Island of [[Enui]] is sometimes claimed as being of Galae descent.
 
