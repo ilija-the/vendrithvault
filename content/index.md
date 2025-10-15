@@ -1,4 +1,4 @@
-Welcome to the Vendrith wiki! Go to the [[Overview]] for pointers at where indeed.
+Welcome to the Vendrith wiki! Go to the [[Overview]] for some pointers at where to look.
 
 
 
