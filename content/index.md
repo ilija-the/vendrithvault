@@ -1,4 +1,6 @@
-Welcome to the Vendrith wiki! Go to the [[Overview]] for some pointers at where to look.
+Welcome to the wiki of Vendrith! This is a setting authored by Ilija and their players
+
+Go to the [[Overview]] for some pointers at where to look.
 
 
 
