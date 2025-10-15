@@ -1,0 +1,6 @@
+---
+aliases:
+  - Von
+  - Voncanath
+  - Vöncanath
+---
