@@ -11,15 +11,15 @@ Galae was once home to the historically significant [[Elves|Elven]] [[Hightower 
 
 In recent history, Galae is most known as the battlegrounds of the [[War Over Haeven]] and [[Eternal Crusade]], primarily being played out by [[Mogxa|Mogxan]] and [[Canath|Canathi]] interests. The [[Crusaders]] and [[Sanitorium]] have much influence over the Galaen settlements near their borders.
 
-Galae can be split into a number of areas:
+Galae can be roughly split into a few parts:
 #### The High Plateau.
-A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
+A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]].
 
-#### The North Steppe.
-The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple  straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. The border with Ferweth is marked by the distinctive [[Crimson Desert]].
+#### Galaen Wilds
+The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple  straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. 
 
-##### The Scar
-A
+#### [[Crimson Desert]]
+The border with Ferweth is marked by the distinctive Crimson Desert.
 
 #### Scarred Galae.
 Consists of a craggy land to the north and west and an undefined stretch of flatlands stretching into Mogxa. [[Cragmoore]] is sometimes known as the ''eastern capital'' of Galae.
