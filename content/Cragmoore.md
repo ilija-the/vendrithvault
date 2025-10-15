@@ -7,3 +7,4 @@ tags:
   - galae
   - settlement
 ---
+Sometimes called the ''eastern capital'' of [[Galae]]. 
