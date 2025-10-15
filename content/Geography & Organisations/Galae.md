@@ -5,6 +5,7 @@ aliases:
 tags:
   - places
 ---
+### **Overview**
 A historical region that today is quite contested in its extent. It lies in between [[Ferweth]] to the northwest, [[Mogxa]] to the east and [[Encanath]] to the west and south. It also shares a small jungle border with [[Nagonkor]].
 
 Galae was once home to the historically significant [[Elves|Elven]] [[Hightower Civilisation]], which was also propped up by the [[Amurrun]] and [[Hobgoblins]]/[[Vanara]] (before they diverged). After the downfall of the hightowers the peoples of [[Nagonkor]] inhabited large parts of Galae in a series of kingdoms by the name of Galaekor. Since their downfall and retreat, Galae has failed to form anything resembling a unifying polity or identity. A series of [[Kholo]] migrations have arrived in Galae from [[Far World - Eydwin|Eydwin]], whom has become a considerable part of the population.
@@ -12,17 +13,18 @@ Galae was once home to the historically significant [[Elves|Elven]] [[Hightower 
 In recent history, Galae is most known as the battlegrounds of the [[War Over Haeven]] and [[Eternal Crusade]], primarily being played out by [[Mogxa|Mogxan]] and [[Canath|Canathi]] interests. The [[Crusaders]] and [[Sanitorium]] have much influence over the Galaen settlements near their borders.
 
 Galae can be roughly split into a few parts:
-#### The High Plateau.
+#### **The High Plateau.**
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]].
 
-#### Galaen Wilds
+#### **Galaen Wilds**
 The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple  straddle the northern [[Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. 
 
-#### [[Crimson Desert]]
-The border with Ferweth is marked by the distinctive Crimson Desert.
+#### **Crimson Desert**
+*Main article - [[Crimson Desert]]*
+The border with Ferweth is marked by a distinctive red desert.
 
-#### Scarred Galae.
-Consists of a craggy land to the north and west and an undefined stretch of flatlands stretching into Mogxa. [[Cragmoore]] is sometimes known as the ''eastern capital'' of Galae.
+#### **Scarred Galae.**
+Consists of region of spotted lakes and mountains known as the Scar, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
 
 
