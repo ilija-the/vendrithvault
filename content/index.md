@@ -1,6 +1,8 @@
-Welcome to the Vendrith wiki! This is a fantasy setting mainly authored by Ilija, with [[Vilhun|Vauxs]] and [[Ferweth|Lucky]] each having co-authored a region of their own. Much has also been created directly or indirectly by everyone who has ever played our games, of course - much thanks to all involved <3
+Welcome to the Vendrith wiki! This is a fantasy setting mainly authored by Ilija, with [[Vilhun|Vauxs]] and [[Ferweth|Lucky]] each having co-authored a region of their own. Much has also been created directly or indirectly by everyone who has ever played our games, of course - much thanks to all involved 💛
 
-There is an [[Overview]] that recaps the most important parts of the setting, which you can use to learn the basics or to find your way to more information. Another good place to start is the **inciting incident** of most of the stories of Vendrith - the [[War Over Haeven]].
+Vendrith is a fantasy setting fit for heroics, aiming roughly emulate a fantastical version of our own world immediately pre-renaissance. The setting tries to combine cultural influences from all over to make the world not feel exclusively western.
+
+There is an [[Overview]] that recaps the most important parts of the setting, which you can use to learn the basics or to find your way to more information. Another good place to start is the **inciting incident** of most of the stories of Vendrith - the [[War Over Haeven]] 🙏
 
 Alternatively you can browse the tags at the bottom of this page, or check out the graph by clicking the button in the top right 🤯
 

@@ -2,8 +2,15 @@
 aliases:
   - Vendrith
 ---
-### Introduction
-Vendrith is a setting made by Ilija and their players, with Lucky coauthoring the region of Ferweth and Vauxs the region of Vilhun. It is a diverse and magical fantasy setting fit for systems like Pathfinder, aiming roughly emulate a fantastical version of our own world immediately pre-renaissance. Vendrith tries to combine cultural influences from all over to make the world not feel exclusively western. The defining turning point of Vendrith is the war some decades ago in which the Titans (gods) were exiled from this world.
+### Mythos
+
+
+### War Over Haeven
+
+
+### The Old and New World
+
+
 
 ### [[Mythos of Vendrith|Mythos]]
 Trinities are seen as holy in Vendrith, so its no wonder its origin mythos comes in three parts: 
