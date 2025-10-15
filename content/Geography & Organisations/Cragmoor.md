@@ -5,4 +5,4 @@ A walled off city in [[Galae]] known for being strict in governance yet effectiv
 [[Ashur Holdok]]
 [[Borgrumm Holdok]]
 [[Sister Amelie Kenton]]
-[[Antoine]]
+[[Antoine Dumas]]

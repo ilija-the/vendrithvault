@@ -12,4 +12,5 @@ A cold lands in eastern [[Encanath]], bordering the harsh and generally impassab
 
 Vön is home to the [[Kingdom of Vestitur]], most famous for the myth of the [[Vestitur Relics]].
 
+#### Etymology
 The name Vön is thought to mean "rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanath, meaning something like "can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from.
