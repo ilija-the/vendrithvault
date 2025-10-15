@@ -1,4 +1,4 @@
-Welcome to the wiki of Vendrith! This is a fantasy setting mainly authored by Ilija, with Vauxs and Lucky each having co-authored a region of their own. Much has also been created directly or indirectly by everyone who has ever played our games, of course <3
+Welcome to the Vendrith wiki! This is a fantasy setting mainly authored by Ilija, with [[Vilhun|Vauxs]] and [[Ferweth|Lucky]] each having co-authored a region of their own. Much has also been created directly or indirectly by everyone who has ever played our games, of course - much thanks to all involved <3
 
 
 
