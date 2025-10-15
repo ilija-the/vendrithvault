@@ -16,13 +16,13 @@ Galae can be split into a number of areas:
 A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
 
 #### The North Steppe.
-Accessible from Canath through the [[Bronze Canal]].
+Accessible from Canath through the [[Bronze Canal]]. Largely home to nomadic sheperds instead of settlements, though a couple of towns mark the northern coastline. The border with Ferweth is  
 
 #### The Lake Rockies.
-The lands surrounding the beginnings of
+The lands surrounding the beginning of the Mogxan peninsula, consisting of a number of dotted lakes and mountains.
 
 #### The Eastern Reaches.
-Stretches into the Mogxan peninsula.
+Consists of a craggy land to the north and west and an undefined stretch of flatlands stretching into Mogxa. [[Cragmoor]] is sometimes known as the ''eastern capital'' of Galae.
 
 
 
