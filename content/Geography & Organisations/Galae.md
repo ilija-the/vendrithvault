@@ -13,10 +13,10 @@ In recent history, Galae is most known as the battlegrounds of the [[War Over Ha
 
 Galae can be split into a number of areas:
 #### The High Plateau.
-A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
+A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, up the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used one is the [[Silver Pass]].
 
 #### The North Steppe.
-Accessible from Canath through the [[Bronze Canal]]. Largely home to nomadic sheperds instead of settlements, though a couple of towns straddle the northern [[Blissfeldt]] coastline - such as the rather sizeable [[Littlehorne]]. The border with Ferweth is marked by the distinctive [[Crimson Desert]]. 
+Accessible from Canath through the [[Bronze Canal]]. Largely home to nomadic shepherds instead of settlements, though a couple of towns straddle the northern [[Blissfeldt]] coastline - such as the rather sizeable [[Littlehorne]]. The border with Ferweth is marked by the distinctive [[Crimson Desert]].
 
 #### The Lake Rockies.
 The lands surrounding the beginning of the Mogxan peninsula, consisting of a number of dotted lakes and mountains.
