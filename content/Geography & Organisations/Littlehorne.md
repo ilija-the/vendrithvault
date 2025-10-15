@@ -5,4 +5,6 @@ tags:
   - places
   - galae
   - settlement
+  - galaenwilds
+  - iduria
 ---
