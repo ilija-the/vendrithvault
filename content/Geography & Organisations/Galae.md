@@ -10,7 +10,7 @@ A historical region that today is quite contested in its extent. It lies in betw
 
 Galae can be split into a number of sub-regions:
 #### The High Plateau.
-A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The "western capital" of Galae lies atop the [[Path of Gold]] 
+A great plateau marks a historic border between Galae and Canath, visible for miles on end all around. The [[''western capital'']] of Galae lies here, not far from the [[Path of Gold]] - the main pass used to get through the [[Galaen Mountains]]. 
 
 #### The North Steppe.
 
