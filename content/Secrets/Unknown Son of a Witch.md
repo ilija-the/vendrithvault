@@ -1,4 +1,4 @@
 [[Gen]]
 [[Unknown Father]]
-[[''Son of a witch'']]
+[[Insults]]
 [[Unknown Witch]]
