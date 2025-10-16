@@ -1,3 +1,7 @@
+---
+tags:
+  - call-of-the-cardinals
+---
 [[Tricky]]
 [[Rex Stormwind|Rex]]
 [[Louen Leonceur|Louen]]
