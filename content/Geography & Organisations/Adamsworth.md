@@ -1,3 +1,5 @@
-#places 
-
+---
+tags:
+  - places
+---
 [[Horizan Peninsula]].

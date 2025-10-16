@@ -1,3 +1,7 @@
-#places 
+---
+tags:
+  - places/canath
+---
+
 An internal sea that's predominantly considered part of [[Canath]]. Famous for hosting floating islands above it. Once closely associated with [[Haeven]] and thought to be home of the [[Rainbow Bridge]].
 
