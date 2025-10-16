@@ -2,10 +2,22 @@
 tags:
   - admin
 ---
+### General Themes
+Things we love to see in Vendrith.
 
 
 ### Cautionary topics
+Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
+
+### Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
+
+Firearms.
+The exile of deities.
+Ascension.
+The World Fleece.
+Travelling the cosmos.
+
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
@@ -17,6 +29,6 @@ Some topics are entirely reserved for Ilija to deal with, often those relating t
 5. A
 6. 
 
-This is an inexhaustive list. Use your 
+This is an inexhaustive list. Use your brain, and consult with Ilija if you have doubts.
 
 
