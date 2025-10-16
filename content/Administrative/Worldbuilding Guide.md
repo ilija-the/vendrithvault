@@ -14,10 +14,10 @@ These are topics with specific visions/rules that need to be kept in mind.
 
 **Underdark-style realm.** You are free to make specific underground areas of course, and even ones that can be decently big, but avoid making sweeping implications for the  underground of the world. 
 **Deities as a whole.** You'll almost certainly have to consult with Ilija about the integration of new deities, due to how much they inherently have large implications and are tied up in high-level plot.
+**Ascension.** Must re
 **Firearms.** Need to largely stay the domain of Crusaders, and any non-godpowder alternatives to them (redpowder, air-rifles) need to remain niche.
 **The Great Silence.** The Titans no longer communicate or interfere with the world directly. Miracles can and still happen, but there is still no confirmation that 1) the exiled Titans are watching, or 2) the exiled Titans can communicate with us still.
-Ascension.
-The World Fleece.
+The World Fleece. It must remain mysterious.
 Travelling the cosmos.
 What's south in Eydwin?
 What happened to the Elves.
