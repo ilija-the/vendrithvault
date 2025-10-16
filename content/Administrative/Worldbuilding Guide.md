@@ -12,15 +12,16 @@ Topics which are allowed but usually need to be done in a sensitive way, includi
 ### Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
 
-**Underdark-style realm.** You are free to make specific underground areas of course, and even ones that can be decently big, but avoid making sweeping implications for the  underground of the world. 
-**Deities as a whole.** You'll almost certainly have to consult with Ilija about the integration of new deities, due to how much they inherently have large implications and are tied up in high-level plot.
-**Ascension.** Must re
+**Underdark-style realm.** You are free to make specific underground areas, but avoid making sweeping implications for the underground of the world. There is no confirmed equivalent of an underdark in the current worldbuilding of Vendrith.
+**Deities.** Almost always have big implications, be cautious and do consult with Ilija.
+**Ascension.** Must remain mystical.
 **Firearms.** Need to largely stay the domain of Crusaders, and any non-godpowder alternatives to them (redpowder, air-rifles) need to remain niche.
 **The Great Silence.** The Titans no longer communicate or interfere with the world directly. Miracles can and still happen, but there is still no confirmation that 1) the exiled Titans are watching, or 2) the exiled Titans can communicate with us still.
-The World Fleece. It must remain mysterious.
-Travelling the cosmos.
-What's south in Eydwin?
-What happened to the Elves.
+**The World Fleece.** It must remain mysterious.
+**Travelling the cosmos.** Extraplanar travel is arduous, and all but a few planes are extremely poorly documented. There are specific dangers/difficulties to travelling 'upstream' and 'downstream' (see [[Great Flow]]).
+**What's south in Eydwin?** There is more land, but we do not know it well. The world remains centred on Iduria.
+****
+**Downfall of the Hightowers.** It's not an unknowable topic, but nobody has an exact thesis on why their downfall happened.
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
