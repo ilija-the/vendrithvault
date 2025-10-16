@@ -7,4 +7,4 @@ aliases:
 ---
 ![[AbuSabaku Abarone.jpg|300]]
 
-Abarone, Father of [[Sabaku]]
+Abarone, Father of [[Sabaku Abarone|Sabaku]]
