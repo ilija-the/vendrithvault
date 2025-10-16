@@ -5,4 +5,5 @@ tags:
   - circles
   - people
   - goblin
+  - places
 ---
