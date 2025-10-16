@@ -38,8 +38,10 @@ For planes other than that of [[Materia]], use the cosmos tag with a similar for
 
 Articles highly related to a campaign should be tagged with its campaign name, such as ``landcrab-plot`` or ``road-to-longdawn``. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
 
-### What to article?
-There are no right answers, but here's some precedent you can draw from. 
+### What to article? what to link?
+There are no right answers, but here's some precedent you can draw from. Obviously everything from the tags is good to make articles on - places, people and events in particular. You'll still have to use judgement as to when to bother including something, as not every single shop or named NPC is always interesting or relevant enough to bother including (Friedport would be one third of this wiki if it included all its NPCs). 
+
+When it comes to PCs, I recommend making an article for their party and link everyone to that - instead of always linking everyone to eachother (subject to change, but this is what we're doing for now). You can still link PCs and PCs, and PCs and NPCs that have particular connections of course, such as being in relationships, being related, or having played important parts in eachother's stories **separate** from their act
 
 ### Description
 Adding meat to the bone of your article is an art, not a science. How you structure your article should be based on needs - short articles for example do not need summaries or separate headings. However, here are some nice guidelines of some things you may include, in an order that may be best to follow.
