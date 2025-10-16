@@ -19,10 +19,13 @@ Adding proper tags to your article should be top priority, as it is easily forgo
 
 You are also recommended to do a nested tag if possible - particularly for #places. An example would be ``places/iduria/mogxa/philosophia`` for a location in Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
 
-To keep things simple, the format remains-
-places
-continental region, that being either Iduria, Eydwin or Horiza
-region, such as Canath, Mogxa or Horizan Peninsula → 3) settlement, if applicable → 4) specific locale, such as a tavern, a famous rock or an academy.
+The format for a nested place tag is then: 
+
+``places/``
+``continental region/`` that being either Iduria, Eydwin or Horiza
+``region/`` such as Canath, Mogxa or Horizan Peninsula → 3) settlement, if applicable → 4) ``specific locale/`` such as a tavern, a famous rock or an academy.
+
+Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. For now at least, this includes not tagging the division of [[Canath]] into [[Brincanath]] and [[Encanath]], and place in either is simply tagged as being in Canath. If in doubt whic
 
 For planes other than that of [[Materia]], use the cosmos tag.
 cosmos → plane → region, if applicable → settlement, if applicable → specific locale.
