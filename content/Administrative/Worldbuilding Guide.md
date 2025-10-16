@@ -12,7 +12,8 @@ Topics which are allowed but usually need to be done in a sensitive way, includi
 ### Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
 
-Firearms.
+**Underdark-style realm.** You are free to make specific underground areas of course, and even ones that can be decently big, but avoid making sweeping implications for the  underground of the world. 
+Firearms. Need to largely stay the domain of Crusaders, and any non-godpowder alternatives to them (redpowder, air-rifles)
 The exile of deities.
 Ascension.
 The World Fleece.
