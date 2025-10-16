@@ -24,3 +24,6 @@ cosmos → plane → region, if applicable → settlement, if applicable → spe
 Articles highly related to a campaign should be tagged with its campaign name, such as landcrab-plot or road-to-longdawn.
 
 ### Description
+The exact ordering of information is highly dependent on how much info there is, and which parts may be most relevant, but there are some general guidelines to be aware of.
+
+Before anything you may need clarifications such as "not to be confused with..." to distinguish it from other similarly titled articles. Beyond that, start with simple and short description. Sometimes it may be insightful to include in a parenthesis how a name is pronounced and what it means - though longer sections on etymology should have its own  
