@@ -13,4 +13,4 @@ For those who haven't used obsidian - the quickest possible rundown is...
 > Besides the above that can apply to everyone's workflow, there are also optional addons that Vauxs finds useful but are not necessary for working with this wiki.
 > - [Templater](obsidian://show-plugin?id=templater-obsidian) for working with templates and creating new documents with a template
 > - [Iconizer](obsidian://show-plugin?id=obsidian-icon-folder) for decorating folders and documents for better visual inspection
-> - [Fancy-a-Story](https://github.com/ElsaTam/obsidian-fancy-a-story) theme and [Style Settings](obsidian://show-plugin?id=obsidian-style-settings) for nicer Obsidian UI
+> - [Fancy-a-Story](https://github.com/ElsaTam/obsidian-fancy-a-story) [theme](https://help.obsidian.md/themes) and [Style Settings](obsidian://show-plugin?id=obsidian-style-settings) for nicer Obsidian UI
