@@ -4,4 +4,5 @@ tags:
 ---
 For those who haven't used obsidian - the quickest possible rundown is...
 
-(elaborate)
+- Reading the [official Obsidian wiki](https://help.obsidian.md/)!
+- (elaborate further)
