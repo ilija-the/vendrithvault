@@ -5,4 +5,4 @@ Often claimed only by [[Dragons]] and the animals that live on them. These drago
 
 Sailing to the [[New World - Horiza]] can be challenging due to the presence of the Derian islands on the way.
 
-Dragons of the Derian islands have sometimes offered work as [[Mercenaries]] to [[Mogxa]]ns.
+Dragons of the Derian islands have sometimes offered work as [[Mercenaries]] to [[Mogxa|Mogxans]].
