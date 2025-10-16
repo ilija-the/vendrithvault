@@ -1,5 +1,5 @@
 ---
 tags:
-  - places
+  - places/horiza
 ---
 [[Horizan Peninsula]].
