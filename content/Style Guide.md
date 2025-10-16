@@ -22,15 +22,19 @@ Adding proper tags to your article should be top priority, as it is easily forgo
 You are also recommended to do a nested tag if possible - particularly for #places. An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
 
 The format for a nested place tag is then: 
+	``places/``
+	``continental region/`` that being either Iduria, Eydwin or Horiza
+	``region/`` such as Canath, Mogxa or Horizan Peninsula
+	``specific locale/`` such as a tavern, a famous rock or an academy
 
-``places/``
-``continental region/`` that being either Iduria, Eydwin or Horiza
-``region/`` such as Canath, Mogxa or Horizan Peninsula → 3) settlement, if applicable → 4) ``specific locale/`` such as a tavern, a famous rock or an academy.
+Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
 
-Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in Canath. If in doubt which region a location should be tagged as, ask Ilija.
-
-For planes other than that of [[Materia]], use the cosmos tag.
-cosmos → plane → region, if applicable → settlement, if applicable → specific locale.
+For planes other than that of [[Materia]], use the cosmos tag with a similar format:
+	``cosmos/``
+	``plane/``
+	``region/`` if applicable, usually a part of a plane with its own characteristic elements
+	``settlement/`` if applicable, as rare as extraplanar settlements are
+	``specific locale/`` 
 
 Articles highly related to a campaign should be tagged with its campaign name, such as landcrab-plot or road-to-longdawn.
 
