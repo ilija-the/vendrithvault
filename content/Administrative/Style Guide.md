@@ -2,10 +2,6 @@
 tags:
   - admin
 ---
-### Quick Obsidian Guide
-For those who haven't used obsidian - the quickest possible rundown is...
-
-(elaborate)
 
 ### Titles
 Names are important.
