@@ -36,9 +36,9 @@ For planes other than that of [[Materia]], use the cosmos tag with a similar for
 	``settlement/`` if applicable, as rare as extraplanar settlements are
 	``specific locale/`` 
 
-Articles highly related to a campaign should be tagged with its campaign name, such as landcrab-plot or road-to-longdawn.
+Articles highly related to a campaign should be tagged with its campaign name, such as landcrab-plot or road-to-longdawn. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
 
 ### Description
-The exact ordering of information is highly dependent on how much info there is, and which parts may be most relevant, but there are some general guidelines to be aware of.
+Adding meat to the bone of your article is an art, not a science. How you structure your article should be based on needs - short articles for example do not need summaries or separate headings. However, here are some nice guidelines of some things you may include, in an order that may be best to follow.
 
 Before anything you may need clarifications such as "not to be confused with..." to distinguish it from other similarly titled articles. Beyond that, start with simple and short description. Sometimes it may be insightful to include in a parenthesis how a name is pronounced and what it means - though longer sections on etymology should have its own heading. 
