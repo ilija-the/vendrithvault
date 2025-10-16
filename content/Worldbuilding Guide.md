@@ -17,7 +17,8 @@ The exile of deities.
 Ascension.
 The World Fleece.
 Travelling the cosmos.
-
+What's south in Eydwin?
+What happened to the Elves.
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
