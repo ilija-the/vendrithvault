@@ -1,1 +1,5 @@
-#society 
+---
+tags:
+  - society
+  - restricted
+---

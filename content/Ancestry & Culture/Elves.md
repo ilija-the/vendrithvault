@@ -1,4 +1,10 @@
-#society 
+---
+tags:
+  - restricted
+  - ancestry
+  - society
+---
+
 One of the [[Ancestries of Vendrith]].
 
 Once the elite of the [[Hightower Civilisation]] of [[Galae]].

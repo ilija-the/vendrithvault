@@ -1,3 +1,7 @@
+---
+tags:
+  - religion
+---
 [[Titans]]
 [[Mantle]]
 [[Saint]]
