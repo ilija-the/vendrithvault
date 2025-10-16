@@ -7,5 +7,3 @@ tags:
 ---
 [[So-Called Heroes]]
 Talks to some seemingly [[Occultism|Occult]] "friends."
-
-#people
