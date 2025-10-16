@@ -4,5 +4,6 @@ aliases:
 tags:
   - construct
   - ancestry
+  - restricted
 ---
 

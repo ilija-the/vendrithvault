@@ -19,11 +19,11 @@ These are topics with specific visions/rules that need to be kept in mind.
 **The Great Silence.** The Titans no longer communicate or interfere with the world directly. Miracles can and still happen, but there is still no confirmation that 1) the exiled Titans are watching, or 2) the exiled Titans can communicate with us still.
 **The World Fleece.** It must remain mysterious.
 **Travelling the cosmos.** Extraplanar travel is arduous, and all but a few planes are extremely poorly documented. There are specific dangers/difficulties to travelling 'upstream' and 'downstream' (see [[Great Flow]]).
-**What's south in Eydwin?** There is more land, but we do not know it well. The world remains centred on Iduria.
-**The Elves.** Remain a people who's formula still remains lost, and most attempts to make elves can only make something akin to automatons.
+**What's south in [[Eydwi]]?** There is more land, but we do not know it well. The world remains centred on Iduria.
+**[[Elves|The Elves]].** Remain a people who's formula still remains lost, and most attempts to make elves can only make something akin to automatons.
 **Living Elves.** They are not known to age like most, but their bodies still decay and die depending on the environment they endure. Therefore very few elves still remain (rare ancestry), and those who do usually have memory issues around the hightower civilisation days.
 **Downfall of the Hightowers.** It's not an unknowable topic, but nobody has an exact thesis on why their downfall happened.
-**Automatons.** Are still rare, and different from maker to maker, region to region.
+**[[Automatons]].** Are still rare, and different from maker to maker, region to region.
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
