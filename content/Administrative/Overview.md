@@ -3,6 +3,8 @@ aliases:
   - Vendrith
   - Summary
   - Handout
+tags:
+  - admin
 ---
 ### Mythos
 *[[Mythos of Vendrith|main article]]*
