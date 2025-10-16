@@ -1,6 +1,7 @@
 ---
 tags:
   - religion
+  - restricted
 ---
 [[Titans]]
 [[Mantle]]
