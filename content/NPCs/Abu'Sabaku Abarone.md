@@ -5,6 +5,6 @@ tags:
 aliases:
   - Father Abarone
 ---
-![[AbuSabaku Abarone.jpg|300]]
+Abarone, Father of [[Sabaku Abarone|Sabaku]].
 
-Abarone, Father of [[Sabaku Abarone|Sabaku]]
+Poli
