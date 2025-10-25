@@ -9,6 +9,12 @@ aliases:
 Note: We use the term homebrew to refer to 'content' such as player options, and houserules to refer to changes to rules.
 ```
 
+
+In this house we love team+. You can usually expect their content to be confirmed by the GM so long as you ask.
+
+
+
+### Vendrith Homebrew
 The homebrew 'content' we have made for Vendrith. Also includes a list of renames or minor changes to existing content.
 
 Shrieking Frailty. Hybrid study for the Magus.
@@ -32,7 +38,7 @@ Shroud of Humanitarianism. Used to shield fallen soldiers until they can receive
 
 Dainty Umbrella. A magic item often carried by Leshys, they are made of bamboo and can slow ones fall.
 
-Van and Foggle. In adventures where Stamina plays a role, these serve as easy ways to regain stamina points. Vanberries restore 1 per berry but give you a -1 circumstance penalty to actions that require precise hand movements for 1 hour. Vanberry juice regains 5 stamina. Enchanted vanberries remove the penalty and recover 2 per berry. A fogglefruit recovers 1d8+2 and a Foggledrink Energiser recovers 2d8+4, but both also give you a -1 circumstance penalty against Sickened for 1 hour.
+Van and Foggle. In adventures where Stamina (see [[Houserules]]) plays a role, these serve as easy ways to regain stamina points. Vanberries restore 1 per berry but give you a -1 circumstance penalty to actions that require precise hand movements for 1 hour. Vanberry juice regains 5 stamina. Enchanted vanberries remove the penalty and recover 2 per berry. A fogglefruit recovers 1d8+2 and a Foggledrink Energiser recovers 2d8+4, but both also give you a -1 circumstance penalty against Sickened for 1 hour.
 
 Ashur's Inventions:
 Alarm Bolt.
