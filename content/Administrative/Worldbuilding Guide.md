@@ -2,6 +2,8 @@
 tags:
   - admin
 ---
+[[index|Click here to return to the index.]]
+
 ### Detailed Guides
 Some topics have their own pages that serve as a more detailed out-of-character overview for contributors and curious players. These include:
 [[Diegetic Books]].

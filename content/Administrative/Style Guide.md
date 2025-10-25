@@ -2,6 +2,7 @@
 tags:
   - admin
 ---
+[[index|Click here to return to the index.]]
 ### Titles
 Names are important.
 

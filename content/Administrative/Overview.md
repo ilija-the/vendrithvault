@@ -6,6 +6,8 @@ aliases:
 tags:
   - admin
 ---
+[[index|Click here to return to the index.]]
+
 ### Mythos
 *[[Mythos of Vendrith|main article]]*
 
