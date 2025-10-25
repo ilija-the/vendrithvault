@@ -2,6 +2,10 @@
 tags:
   - admin
 ---
+### Detailed Guides
+Some topics have their own pages that serve as an out-of-character overview. These include:
+
+
 ### General Themes
 Things we love to see in Vendrith.
 
