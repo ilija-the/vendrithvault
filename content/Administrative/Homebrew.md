@@ -11,11 +11,20 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 
 The homebrew 'content' we have made for Vendrith. Also includes a list of renames or minor changes to existing content.
 
+Shrieking Frailty Hybrid Study.
+
 Clan Pistol → Sect Pistol. A pistol that shows allegiance to a specific [[Crusader Sects|Crusader Sect]], which is considered a great humiliation and disservice to your faith to lose.
+
+Project Reality.
+Rushed Setup.
+
+Sun Pendant.
+
+Primordial Sheperd Pendant.
 
 Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost is 2 and the DC is 17.
 
-Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that
+Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power.
 
 Old Sea Dog's Corset. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
 

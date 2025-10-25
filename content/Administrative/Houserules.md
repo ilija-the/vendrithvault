@@ -10,8 +10,11 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 
 ### Possible Houserules
 [[Essence Casting|Essence Magic]]
-
-
+Support Moves.
+Coordinated Crews.
+Friedport Aid.
+Boss Actions.
+Formulas.
 ### Untested Houserules
 
 [[Slow Healing]].
