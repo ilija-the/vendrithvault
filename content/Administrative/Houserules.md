@@ -15,6 +15,8 @@ Coordinated Crews.
 Friedport Aid.
 Boss Actions.
 Formulas.
+Plentiful Deities.
+Hunlords and House Spirits.
 ### Untested Houserules
 
 [[Slow Healing]].

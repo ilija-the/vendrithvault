@@ -11,16 +11,16 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 
 The homebrew 'content' we have made for Vendrith. Also includes a list of renames or minor changes to existing content.
 
-Shrieking Frailty Hybrid Study.
+Shrieking Frailty. Hybrid study for the Magus.
 
 Clan Pistol → Sect Pistol. A pistol that shows allegiance to a specific [[Crusader Sects|Crusader Sect]], which is considered a great humiliation and disservice to your faith to lose.
 
 Project Reality.
 Rushed Setup.
 
-Sun Pendant.
-
-Primordial Sheperd Pendant.
+Sun Wheel → Sun Pendant.
+Broken Tusk Pendant → Primordial Shepperd Pendant.
+Necklace of Knives → Necklace of Miniature Swords. Symbol of the Grand Scheme and his infinite armoury.
 
 Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost is 2 and the DC is 17.
 
