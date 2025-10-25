@@ -9,5 +9,6 @@ Sometimes there are books in Vendrith. While they are not as commonplace as a mo
 
 Here is a list of the known books of Vendrith:
 
-A Dissertation of [[3+1 Theorem|3+1]]. 
-On the Oir
+**A Dissertation of 3+1.** Origin of the [[3+1 Theorem]].
+**On the Presumptions of Rebirthers.** Challenges a belief in reincarnation ([[Three Lives Theory]]).
+**Origins of the Theory of Three.** Speaks about [[Trinities]].
