@@ -6,7 +6,7 @@ aliases:
 ---
 [[index|Click here to return to the index.]]
 
-Note: for houserules see instead [[Rules and Rulings]].
+Note: We use the term homebrew to refer to 'content' such as player options, and houserules to refer to changes to rules.
 
 The homebrew 'content' we have made for Vendrith. Also includes a list of renames or minor changes to existing content.
 
