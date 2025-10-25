@@ -3,8 +3,8 @@ tags:
   - admin
 ---
 ### Detailed Guides
-Some topics have their own pages that serve as an out-of-character overview. These include:
-
+Some topics have their own pages that serve as a more detailed out-of-character overview for contributors and curious players. These include:
+[[Diegetic Books]].
 
 ### General Themes
 Things we love to see in Vendrith.
