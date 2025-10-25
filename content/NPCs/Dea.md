@@ -3,4 +3,4 @@ tags:
   - people
   - fool-me-once
 ---
-A council member
+Was a council member of [[Veridica]].
