@@ -2,17 +2,15 @@ A great many of the stories, teachings, structures and symbols of Vendrith come 
 
 The [[Titans]] often entered into trinities representing different approaches or perspectives to similar subjects.
 
-[[Guilds of Philosophia]]
-[[Faddish Guilds]]
-[[Folksy Guilds]]
-[[Formal Guilds]]
-
+- [[Guilds of Philosophia]]
+	- [[Faddish Guilds]]
+	- [[Folksy Guilds]]
+	- [[Formal Guilds]]
 - [[Hun Lords]]
 	- [[Free Lord]]
-[[Steel Lord]]
-[[Horde Lord]]
-
-[[Societies of Mogxa]]
-[[Painter Societies]]
-[[Wheel Societies]]
-[[Mirror Societies]]
+	- [[Steel Lord]]
+	- [[Horde Lord]]
+- [[Societies of Mogxa]]
+	- [[Painter Societies]]
+	- [[Wheel Societies]]
+	- [[Mirror Societies]]
