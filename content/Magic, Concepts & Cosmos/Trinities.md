@@ -7,8 +7,8 @@ The [[Titans]] often entered into trinities representing different approaches or
 [[Folksy Guilds]]
 [[Formal Guilds]]
 
-[[Hun Lords]]
-[[Free Lord]]
+- [[Hun Lords]]
+	- [[Free Lord]]
 [[Steel Lord]]
 [[Horde Lord]]
 
