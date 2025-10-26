@@ -1,3 +1,7 @@
 #deities #religion 
 
-One of the [[Hun Lords]], credited with Vilhun's military might
+One of the [[Hun Lords]], credited with Vilhi military might on both land and sea.
+
+All dynasties of the Horde Lord are of goblin heritage, and he himself is considered to been a goblin.
+
+Considered to be the **powerful** and **wise** of the siblings.
