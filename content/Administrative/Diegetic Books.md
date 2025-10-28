@@ -24,11 +24,12 @@ Here is a list of the known books of Vendrith:
 
 **The Philosophised Downfall of Mogxa.** Book critical of the Philosophian system that makes grand and oddly specific claims about its eventual doomsday. Said to have been [[Jade the Just]]'s favourite book.
 
-**Treatise on Healing.** Old Mogxan book central to the teaching of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
+**Treatise on Healing.** Old Mogxan book central to the knowledge of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
 
 **Understanding the Great Flow.** Relatively modern interpretation and summary the theories of the [[Great Flow]]. Lacks a lot of the references to specific planes of older books.
 
 **A. Plumbus Collection.** Highly acclaimed series of writings on farming written for low-literacy readers, now collected in one intimidatingly large book. The book functions as an improvised weapon that deals 1d4 bludgeoning damage and has the backswing trait.
+
 ### Stories
 **Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Piracy|Pirate]]'s terrifying exploits.
 
