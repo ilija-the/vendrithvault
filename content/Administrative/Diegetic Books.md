@@ -21,11 +21,11 @@ Here is a list of the known books of Vendrith:
 
 **Origins of the Theory of Three.** Speaks about [[Trinities]].
 
-Terror of the Salty Sea Crusaders.
+Terror of the Salty Sea Crusaders. 
 
-The Diary of a River Kingdom.
+The Diary of a River Kingdom. Fictional book about adventurers founding a kingdom in a vast land.
 
-The Philosophised Downfall of Mogxa.
+The Philosophised Downfall of Mogxa. Highly critical book of the Philosophian system.
 
 **Treatise on Healing.** Old mogxan book central to the teaching of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
 
