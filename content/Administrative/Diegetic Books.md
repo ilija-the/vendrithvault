@@ -28,6 +28,7 @@ Here is a list of the known books of Vendrith:
 
 **Understanding the Great Flow.** About the [[Great Flow]].
 
+**A. Plumbus Collection.** Highly acclaimed series of writings on farming written for low-literacy readers, now collected in one intimidatingly large book. The book functions as an improvised weapon that deals 1d4 bludgeoning damage and has the backswing trai
 ### Stories
 **Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Piracy|Pirate]]'s terrifying exploits.
 
