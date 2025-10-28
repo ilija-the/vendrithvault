@@ -15,18 +15,20 @@ Central to the history of writing is the [[War over Writing]]. This conflict rev
 
 Here is a list of the known books of Vendrith:
 
+### Academia
 **A Dissertation of 3+1.** Origin of the [[3+1 Theorem]].
 
 **On the Presumptions of Rebirthers.** Challenges a belief in reincarnation ([[Three Lives Theory]]).
 
 **Origins of the Theory of Three.** Speaks about [[Trinities]].
 
-Terror of the Salty Sea Crusaders. 
+**The Philosophised Downfall of Mogxa.** Book critical of the Philosophian system.
 
-The Diary of a River Kingdom. Fictional book about adventurers founding a kingdom in a vast land.
+**Treatise on Healing.** Old Mogxan book central to the teaching of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
 
-The Philosophised Downfall of Mogxa. Highly critical book of the Philosophian system.
+**Understanding the Great Flow.** About the [[Great Flow]].
 
-**Treatise on Healing.** Old mogxan book central to the teaching of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
+### Stories
+**Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Piracy|Pirate]]'s terrifying exploits.
 
-Understanding the Great Flow.
+**The Diary of a River Kingdom.** Fictional book about adventurers founding a kingdom in a vast land.
