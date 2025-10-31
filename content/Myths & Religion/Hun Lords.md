@@ -5,9 +5,9 @@ Some outsiders have identified the [[Hun Lords]] as titans. Controversially, the
 
 The Hun Lords are as follows:
 
-| Hun Lord       |   Role   |     Tarot      |
-| -------------- | :------: | :------------: |
-| [[Free Lord]]  |  Judge   | Justice (VIII) |
-| [[Horde Lord]] |   King   |  Emperor (IV)  |
-| [[Steel Lord]] | Inventor | Strength (XI)  |
-| [[Lost Lord]]  |    ?     |  Hermit (IX)   |
+| Hun Lord       |   Role   |    Tarot     |
+| -------------- | :------: | :----------: |
+| [[Free Lord]]  |  Judge   |   Justice    |
+| [[Horde Lord]] |   King   | The Emperor  |
+| [[Steel Lord]] | Inventor | The Magician |
+| [[Lost Lord]]  |    ?     |  The Hermit  |
