@@ -4,4 +4,4 @@ One of the [[Hun Lords]], credited with the creation of Vilhuni [[Automatons]] a
 
 Considered to be the **creative** and **intellectual** of the siblings.
 
-Is reviled for their **inventions**
+Is praised and reviled for their **inventions**.

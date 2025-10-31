@@ -5,7 +5,7 @@ Some outsiders have identified the [[Hun Lords]] as titans. Controversially, the
 
 The Hun Lords are as follows:
 
-- The [[Free Lord]].
-- The [[Horde Lord]].
+- The [[Free Lord]], The Judge. Judgement.
+- The [[Horde Lord]]. Strength.
 - The [[Steel Lord]].
 - The [[Lost Lord]].

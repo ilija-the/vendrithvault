@@ -7,3 +7,5 @@ Widely believed to have died heirless past [[War Over Haeven]], but there is a c
 Patron saint of Vilhuni [[Gnomes]].
 
 Considered to be the **sly** and **far-sighted** of the siblings. Ever so ironic, given their death.
+
+Has been forgotten to time, and thus is not particularly thought of as anything but insignificant.
