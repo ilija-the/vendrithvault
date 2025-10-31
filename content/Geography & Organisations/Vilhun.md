@@ -1,6 +1,8 @@
 ---
 tags:
   - places
+aliases:
+  - Vilhi
 ---
 ![[vilhun.png]]
 
