@@ -8,6 +8,6 @@ The Hun Lords are as follows:
 | Hun Lord       |   Role   |     Tarot      |
 | -------------- | :------: | :------------: |
 | [[Free Lord]]  |  Judge   | Justice (VIII) |
-| [[Horde Lord]] |   King   | Strength (XI)  |
-| [[Steel Lord]] | Inventor |  Emperor (IV)  |
+| [[Horde Lord]] |   King   |  Emperor (IV)  |
+| [[Steel Lord]] | Inventor | Strength (XI)  |
 | [[Lost Lord]]  |    ?     |  Hermit (IX)   |
