@@ -10,9 +10,7 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 ```
 
 
-In this house we love team+. You can usually expect their content to be confirmed by the GM so long as you ask.
-
-
+In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
 
 ### Vendrith Homebrew
 The homebrew 'content' we have made for Vendrith. Also includes a list of renames or minor changes to existing content.
