@@ -2,7 +2,7 @@
 tags:
   - kitsune
   - champion
-  - Cleric
+  - classes/cleric
   - people
   - call-of-the-cardinals
   - landcrab-plot
