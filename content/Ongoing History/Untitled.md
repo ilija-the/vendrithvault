@@ -1,0 +1,1 @@
+One of many apocalyptic prophecies predicting the fall of Vilhun to a mix of internal conflicts and divine forces. A notable orc diaspora believes in 
