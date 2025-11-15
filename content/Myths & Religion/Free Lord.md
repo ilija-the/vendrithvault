@@ -1,6 +1,6 @@
 #deities #religion 
 
-One of the [[Hun Lords]], credited with bringing autonomy to the Vilhuni archipelago.
+One of the [[Hun Lords]], credited with bringing autonomy to the Vilhi archipelago.
 
 Often pictured as a human, or otherwise non-descript humanoid knight.
 

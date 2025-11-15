@@ -9,7 +9,7 @@ aliases:
 
 One of the [[Ancestries of Vendrith]].
 
-Once the middle-class builders of [[Hightower Civilisation]]s.
+Once the middle-class builders of [[Hightower Civilisation|Hightower Civilisations]].
 
 [[Amurrun Markings]]
 
