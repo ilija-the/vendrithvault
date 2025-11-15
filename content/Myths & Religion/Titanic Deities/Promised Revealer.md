@@ -1,5 +1,5 @@
 #deities 
-One of the [[Titans]], founder of the [[Orcs]]s and worshipped as a prophet. An alternate or heretical version of this teachings culminate in the worship of the [[Macabre Maelstrom]].
+One of the [[Titans]], founder of the [[Orcs]] and worshipped as a prophet. An alternate or heretical version of this teachings culminate in the worship of the [[Macabre Maelstrom]].
 
 [[Cosmology of Vendrith]]
 

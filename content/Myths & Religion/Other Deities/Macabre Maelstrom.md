@@ -1,5 +1,5 @@
 #deities 
-A heretical version of [[Promised Revealer]] worship, often held by [[Orcs]]s that have splintered and become warlike nomads or tribes in various corners of the world.
+A heretical version of [[Promised Revealer]] worship, often held by [[Orcs]] that have splintered and become warlike nomads or tribes in various corners of the world.
 
 [[Cosmology of Vendrith]]
 
