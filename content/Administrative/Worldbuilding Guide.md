@@ -7,7 +7,9 @@ tags:
 ### Detailed Guides
 Some topics have their own pages that serve as a more detailed out-of-character overview for contributors and curious players. These include:
 [[Diegetic Books]].
-
+[[Timekeeping.]]
+[[Language Guide.]]
+[[World Map and Scale.]]
 ### General Themes
 Things we love to see in Vendrith.
 
