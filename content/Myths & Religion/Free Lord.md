@@ -1,4 +1,9 @@
-#deities #religion 
+---
+tags:
+  - deities
+  - religion
+---
+![[The Free Lord.png|right|200]]
 
 One of the [[Hun Lords]], credited with bringing autonomy to the Vilhi archipelago.
 
