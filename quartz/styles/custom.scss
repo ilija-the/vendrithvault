@@ -275,10 +275,10 @@ img:is([alt~=ctr], [alt~=center]) {
 }
 
 /*Left & Right*/
-.markdown-rendered img:is([alt~=left], [alt~=locl]),
-.markdown-rendered img:is([src*="#left"], [src*="#locl"]),
-.markdown-rendered .image-embed:is([alt~=left], [alt~=locl]),
-.markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
+.quartz-body img:is([alt~=left], [alt~=locl]),
+.quartz-body img:is([src*="#left"], [src*="#locl"]),
+.quartz-body .image-embed:is([alt~=left], [alt~=locl]),
+.quartz-body .image-embed:is([src*="#left"], [src*="#locl"]) {
 	float: left;
 	margin-right: 2%;
 	margin-top: 0px;
@@ -286,10 +286,10 @@ img:is([alt~=ctr], [alt~=center]) {
 	float: inline-start;
 }
 
-.markdown-rendered img:is([alt~=right], [alt~=locr]),
-.markdown-rendered img:is([src*="#right"], [src*="#locr"]),
-.markdown-rendered .image-embed:is([alt~=right], [alt~=locr]),
-.markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+.quartz-body img:is([alt~=right], [alt~=locr]),
+.quartz-body img:is([src*="#right"], [src*="#locr"]),
+.quartz-body .image-embed:is([alt~=right], [alt~=locr]),
+.quartz-body .image-embed:is([src*="#right"], [src*="#locr"]) {
 	float: right;
 	margin-left: 2%;
 	margin-bottom: 0px;
