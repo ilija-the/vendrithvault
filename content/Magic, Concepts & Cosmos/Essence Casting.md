@@ -26,7 +26,7 @@ Essence Spellcasting merges spell slots and spells known into one value, and get
 Spells are then cast using *[[Essence Casting#Essence|Essence]]* in combat or using *[[Essence Casting#Essence|Incantations]]* out of combat. 
 ### Essence
 *Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level via *Initial Draw* class feature). 
-The amount of Essence you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2]
+The amount of *Essence* you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2] Your maximum amount of *Essence* is referred to as your *Essence P*
 
 On your turn, you can then cast any spell up to the rank equal to your *Essence*. If the spell has a casting time of 2 actions or longer, you increase your *Essence* by 1, able to cast a higher rank spell next turn. Otherwise, you suffer an *Essence Leak*, which reduces your *Essence* to 0.
 
@@ -38,10 +38,13 @@ If you do, you can repeat the cycle of casting a cantrip, casting spells up to y
 #### Strategy
 The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 
 
-In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights.
+In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights via *Terminus* bonuses.
 
 ### Incantations
+*Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum essence rank.
 
 [^1]: For example: Psychics have 2 spell slots per rank, while knowing 3 spells. In Essence, they know 2 spells, as many as they have slots.
 
 [^2]: For example: You are a 7th-level Wizard. You have access to 1st, 2nd, 3rd, and 4th rank spells. As such, your Essence Draw is 2.
+
+[^3]: *If your timing is tight enough that you don’t have 20 seconds to spare and you’re keeping track of things round by round, chances are good that you should already be in an encounter...*
