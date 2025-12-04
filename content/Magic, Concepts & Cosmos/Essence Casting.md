@@ -35,6 +35,10 @@ Once you reach an *Essence* value equal to your maximum rank, casting another sp
 Once you have reached an *Essence* value of 0 after the first *Essence Draw*, whether by completing an *Essence Cycle* or suffering an *Essence Leak*, you must have a class feature such as *Essence Rebirth* (gained at level 3 for most casters) to continue casting spells for the encounter. 
 If you do, you can repeat the cycle of casting a cantrip, casting spells up to your maximum, and finishing an essence cycle.
 
+>[!details]- Specific Spellcasters
+>Sorcerers, Wizards, and anyone else who gains 4 spell slots gain an extra 5th slot to compensate for every essence caster being able to cast nigh-infinite amount of spells compared to Vancian.
+>Psychics have a special mechanic where they 
+
 #### Strategy
 The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 
 
