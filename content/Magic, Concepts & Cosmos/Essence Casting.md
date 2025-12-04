@@ -25,13 +25,17 @@ Essence Spellcasting merges spell slots and spells known into one value, and get
 
 Spells are then cast using *[[Essence Casting#Essence|Essence]]* in combat or using *[[Essence Casting#Essence|Incantations]]* out of combat. 
 ### Essence
-*Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level). The amount of Essence you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2]
+*Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level via *Initial Draw* class feature). 
+The amount of Essence you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2]
 
 On your turn, you can then cast any spell up to the rank equal to your *Essence*. If the spell has a casting time of 2 actions or longer, you increase your *Essence* by 1, able to cast a higher rank spell next turn. Otherwise, you suffer an *Essence Leak*, which reduces your *Essence* to 0.
 
 Once you reach an *Essence* value equal to your maximum rank, casting another spell causes an overflow called a *Essence Cycle!* This reduces your *Essence* to 0, and are able to use special *Terminus* free actions, giving you powerful bonuses. 
 
-Once you have reached an *Essence* value of 0 after the first *Essence Draw*, you must have a class feature such as *Essence Rebirth* (gained at level 3 for most casters) to continue casting spells for the encounter. Then the 
+Once you have reached an *Essence* value of 0 after the first *Essence Draw*, whether by completing an *Essence Cycle* or suffering an *Essence Leak*, you must have a class feature such as *Essence Rebirth* (gained at level 3 for most casters) to continue casting spells for the encounter. 
+If you do, you can repeat the cycle of casting a cantrip, casting spells up to your maximum, and finishing an essence cycle.
+
+The gameplan as such revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank.
 
 ### Incantations
 
