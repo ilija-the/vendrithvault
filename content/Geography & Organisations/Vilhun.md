@@ -13,3 +13,11 @@ Home to a staunchly independent people, as well as a notable number of [[Dragons
 Primary regional deities of note are the [[Hun Lords]], with the multiple noble families, and all dynasties, being associated with their divine lineage.
 
 The primary spellcasting system in the isles is that of [[Essence Casting]].
+
+## Ancestries
+
+| Rarity   | Ancestry                          |
+| -------- | --------------------------------- |
+| Common   | Human, Goblin, Lizardfolk, Gnomes |
+| Uncommon | Kitsune, Automaton, Dragonblood   |
+| Rare     |                                   |
