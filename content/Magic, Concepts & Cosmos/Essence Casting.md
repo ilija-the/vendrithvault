@@ -15,3 +15,8 @@ While a caster can wield both ways of wielding magic – and almost all of them 
 Despite the friction, this large difference in magic methodology does also bring a lot of cultural exchange in metropolitan areas from exchange magic students and scholars. 
 
 While slot spellcasters primarily view essence as a more raw, basic form of magic that can be studied as a form of mastering the fundamentals such as cantrips, Vilhi students primarily focus on translating complex (and to them, woefully inefficient) Mogxian spells to become castable via essence methods on the fly.
+
+## Rules
+
+> [!note]
+> The full rules for Essence Spellcasting is available in [Magic+](https://www.drivethrurpg.com/en/product/531728/index.html).
