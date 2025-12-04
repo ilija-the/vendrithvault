@@ -18,5 +18,9 @@ While slot spellcasters primarily view essence as a more raw, basic form of magi
 
 ## Rules
 
-> [!note]
+> [!note]-
 > The full rules for Essence Spellcasting is available in [Magic+](https://www.drivethrurpg.com/en/product/531728/index.html).
+
+Essence Spellcasting merges spell slots and spells known into one value, and gets rid of the consumable aspect of spell slots. As such, you are able to cast a mostly infinite amount of spells in a day, with your selection of spells being limited to the amount of spell slots you have.[^1]
+
+[^1]: For example: Psychics have 2 spell slots per rank, while knowing 3 spells. In Essence, they know 2 spells, as many as they have slots.
