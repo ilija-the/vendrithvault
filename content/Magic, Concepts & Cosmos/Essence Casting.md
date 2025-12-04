@@ -38,7 +38,7 @@ If you do, you can repeat the cycle of casting a cantrip, casting spells up to y
 #### Strategy
 The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 
 
-In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights via *Terminus* bonuses.
+In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell and pre-buff ahead of battles. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights via *Terminus* bonuses.
 
 ### Incantations
 *Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum *Essence Pool* and incur a temporary cost. Casting an *incantation* reduces both your *Essence Draw* and your *Essence Pool* by 1, and if that would reduce your essence draw to 0, you can’t draw essence or cast essence spells. This cost can be removed when you Refocus, dismissing the active spells **and** *incantations*.
