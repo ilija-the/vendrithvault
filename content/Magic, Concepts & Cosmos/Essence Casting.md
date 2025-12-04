@@ -38,7 +38,7 @@ If you do, you can repeat the cycle of casting a cantrip, casting spells up to y
 >[!details]- Specific Spellcasters
 >Sorcerers, Wizards, and anyone else who gains 4 spell slots gain an extra 5th slot to compensate for every essence caster being able to cast nigh-infinite amount of spells compared to Vancian.
 >Psychics have a special mechanic where they after they cast their first spell, they immediately incur an Essence Leak, due to their design as a 2-slot caster. They still often win out by being able to cast more than 2 spells in a day.
->As an extension of the rule that you have as many spells known as you have slots, Animists must choose which spells they prepare from their apparitions every long rest, up to the amount of spell slots they have. Also, they must pick one spell per rank to be a signature spell, not having all of them as signatures.
+>As an extension of the rule that you have as many spells known as you have slots, Animists must choose which spells they prepare from their apparitions every long rest, up to the amount of spell slots they have. Also, they must pick one spell per rank to be a signature spell, not having all of them as signature spells.
 
 #### Strategy
 The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 
