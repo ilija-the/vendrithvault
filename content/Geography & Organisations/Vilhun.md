@@ -15,10 +15,10 @@ Primary regional deities of note are the [[Hun Lords]], with the multiple noble 
 The primary spellcasting system in the isles is that of [[Essence Casting]].
 
 ## Ancestries
-The makeup of the Vilhi society closely resembles that of the Hun Lords, with historically Kitsune, Automatons, and Dragonblood being notable minorities due
+The makeup of the Vilhi society closely resembles that of the Hun Lords, with Kitsune, Automatons, and Dragonblood being notable minorities due to history. There may be a slightly larger amount of Elves than elsewhere on the continent due to proximity to the now-sunken [[Hightower Civilisation|hightowers]].
 
-| Rarity   | Ancestries                                            |
-| -------- | ----------------------------------------------------- |
-| Common   | Human, Goblin, Lizardfolk, Gnomes                     |
-| Uncommon | Kitsune, Automaton, Dragonblood, remaining ancestries |
-| Rare     | Elves                                                 |
+| Rarity   | Ancestries                                                     |
+| -------- | -------------------------------------------------------------- |
+| Common   | [[Humans]], [[Goblins]], [[Lizardfolk]], [[Gnomes]]            |
+| Uncommon | [[Kitsune]], [[Automatons]], Dragonblood, remaining ancestries |
+| Rare     | Elves                                                          |
