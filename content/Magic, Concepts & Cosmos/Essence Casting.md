@@ -35,7 +35,10 @@ Once you reach an *Essence* value equal to your maximum rank, casting another sp
 Once you have reached an *Essence* value of 0 after the first *Essence Draw*, whether by completing an *Essence Cycle* or suffering an *Essence Leak*, you must have a class feature such as *Essence Rebirth* (gained at level 3 for most casters) to continue casting spells for the encounter. 
 If you do, you can repeat the cycle of casting a cantrip, casting spells up to your maximum, and finishing an essence cycle.
 
-The gameplan as such revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank.
+#### Strategy
+The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 
+
+In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights.
 
 ### Incantations
 
