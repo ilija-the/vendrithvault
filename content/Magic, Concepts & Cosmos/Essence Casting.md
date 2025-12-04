@@ -23,8 +23,12 @@ While slot spellcasters primarily view essence as a more raw, basic form of magi
 
 Essence Spellcasting merges spell slots and spells known into one value, and gets rid of the consumable aspect of spell slots. As such, you are able to cast a mostly infinite amount of spells in a day, with your selection of spells being limited to the amount of spell slots you have.[^1]
 
-Spells are then cast using Essence in combat or using Incantations out of combat. 
+Spells are then cast using *Essence* in combat or using Incantations out of combat. 
 
-Essence is a resource that increases as you fight over the course of a battle. You start to accumulate essence by casting a cantrip, or after 5th level by rolling initiative. The amount of Essence you gain is called Essence Draw, and it is equal to your `Maximum Spell Rank - 3`.
+*Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level). The amount of Essence you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`.[^2]
+
+On your turn, you can then cast any spell up to the rank equal to your *Essence*. If the spell is a 2 action spell or lo
 
 [^1]: For example: Psychics have 2 spell slots per rank, while knowing 3 spells. In Essence, they know 2 spells, as many as they have slots.
+
+[^2]: For example: You are a 7th-level Wizard. You have access to 1st, 2nd, 3rd, and 4th rank spells. As such, your Essence Draw is 2.
