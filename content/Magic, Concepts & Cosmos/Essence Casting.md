@@ -41,9 +41,11 @@ The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaini
 In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights via *Terminus* bonuses.
 
 ### Incantations
-*Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum *Essence Pool* and incur a temporary cost. Casting an incantation reduces both your *Essence Draw* and your *Essence Pool* by 1, and if that would reduce your essence draw to 0, you can’t draw essence or cast essence spells. This cost can be removed when you Refocus, dismissing the active spells **and** incantations.
+*Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum *Essence Pool* and incur a temporary cost. Casting an *incantation* reduces both your *Essence Draw* and your *Essence Pool* by 1, and if that would reduce your essence draw to 0, you can’t draw essence or cast essence spells. This cost can be removed when you Refocus, dismissing the active spells **and** *incantations*.
 
-You may avoid this cost by increasing the casting time to 1 hour. However, you cannot mainai
+You may avoid this cost by increasing the casting time to 1 hour (or longer, per the spells casting time). However, a *long incantation* is dismissed when you cast another *incantation*, "short" or long.
+
+If an *incantation* creates a permanent object, even if it doesn’t have a duration, the object disappears after casting a *long incantation* or recovering your essence draw and essence pool from the *incantation*. If you created a permanent object with an *incantation* and you do not cast another *incantation* or *long incantation* for 24 hours, the object retains its permanence and does not disappear.
 
 [^1]: For example: Psychics have 2 spell slots per rank, while knowing 3 spells. In Essence, they know 2 spells, as many as they have slots.
 
