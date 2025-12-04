@@ -12,6 +12,8 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 [[World Map and Scale.]]
 ### General Themes
 Things we love to see in Vendrith.
+- Drowning, apparently.
+- Fall damage, apparently.
 
 
 ### Cautionary topics
