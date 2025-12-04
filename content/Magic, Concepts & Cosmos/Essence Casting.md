@@ -26,7 +26,7 @@ Essence Spellcasting merges spell slots and spells known into one value, and get
 Spells are then cast using *[[Essence Casting#Essence|Essence]]* in combat or using *[[Essence Casting#Essence|Incantations]]* out of combat. 
 ### Essence
 *Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level via *Initial Draw* class feature). 
-The amount of *Essence* you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2] Your maximum amount of *Essence* is referred to as your *Essence P*
+The amount of *Essence* you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2] Your maximum amount of *Essence* is referred to as your *Essence Pool*, equal to your `Maximum Spell Rank`.
 
 On your turn, you can then cast any spell up to the rank equal to your *Essence*. If the spell has a casting time of 2 actions or longer, you increase your *Essence* by 1, able to cast a higher rank spell next turn. Otherwise, you suffer an *Essence Leak*, which reduces your *Essence* to 0.
 
@@ -41,7 +41,9 @@ The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaini
 In comparison to Vancian Spellcasting (using spell slots as consumables) you lose on the tempo of being able to start combat with your highest rank spell. In exchange, you are able to cast more throughout the day, not worry about how many copies of a spell to prepare, and have advantage in long fights via *Terminus* bonuses.
 
 ### Incantations
-*Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum essence rank.
+*Incantations* are the out of combat way of casting spells, with a longer casting time (except reactions, i.e. Gentle Fall). An *incantation* takes either 20 seconds or the spell’s normal casting time, whichever is longer.[^3] At the end of that period, you cast a spell up to your maximum *Essence Pool* and incur a temporary cost. Casting an incantation reduces both your *Essence Draw* and your *Essence Pool* by 1, and if that would reduce your essence draw to 0, you can’t draw essence or cast essence spells. This cost can be removed when you Refocus, dismissing the active spells **and** incantations.
+
+You may avoid this cost by increasing the casting time to 1 hour. However, you cannot mainai
 
 [^1]: For example: Psychics have 2 spell slots per rank, while knowing 3 spells. In Essence, they know 2 spells, as many as they have slots.
 
