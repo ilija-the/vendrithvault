@@ -1,4 +1,9 @@
-#deities #religion 
+---
+tags:
+  - religion
+  - deities
+---
+![[The Horde Lord.png|right|200]]
 
 One of the [[Hun Lords]], credited with Vilhi military might on both land and sea.
 
