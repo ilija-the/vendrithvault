@@ -2,6 +2,7 @@
 tags:
   - religion
   - deities
+  - primal
 ---
 ![[The Horde Lord.png|right|200]]
 

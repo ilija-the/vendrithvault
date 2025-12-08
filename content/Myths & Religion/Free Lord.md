@@ -2,6 +2,7 @@
 tags:
   - deities
   - religion
+  - divine
 ---
 ![[The Free Lord.png|right|200]]
 
