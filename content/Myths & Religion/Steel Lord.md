@@ -3,6 +3,8 @@ tags:
   - deities
   - religion
   - arcane
+aliases:
+  - The Steel Lord
 ---
 ![[The Steel Lord.png|right|200]]
 

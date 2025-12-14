@@ -3,6 +3,8 @@ tags:
   - religion
   - deities
   - primal
+aliases:
+  - The Horde Lord
 ---
 ![[The Horde Lord.png|right|200]]
 

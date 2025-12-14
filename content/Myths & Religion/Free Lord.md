@@ -3,6 +3,8 @@ tags:
   - deities
   - religion
   - divine
+aliases:
+  - The Free Lord
 ---
 ![[The Free Lord.png|right|200]]
 
