@@ -3,7 +3,6 @@ tags:
   - deities
   - religion
 ---
-
 Four lords appointed by the [[One & Only]] to rule [[Vilhun]] in her stead. Three of the lords became the ancestor of virtually all recognised houses of Vilhun, while the fourth is said to have died heirless.
 
 The Hun Lords are considered to be immortal emissaries and viceroys of the [[One & Only]], able to commune with her, and more broadly with the rest of the [[Titans]].[^1] Prayer to Hun Lords thus is often a means to communicate with the rest of the titans that are relevant to the subject of the prayer. Not being titans themselves, they are considered to still be in the material plane to this day, regardless of the events of [[War Over Haeven]].
