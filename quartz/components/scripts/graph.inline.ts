@@ -146,13 +146,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const nodes = [...neighbourhood].map((url) => {
     const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
-    const color = data.get(url)?.content.match("color: \"(.+)\"")?.[0]
-    console.log(data.get(url)?.content)
+    const color = data.get(url)?.content.match("color: (.+)")?.[0]
+    console.log(color)
     return {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
-      color: data.get(url)?.content.match("color: \"(.+)\"")?.[0] || undefined
+      color,
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
