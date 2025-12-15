@@ -146,8 +146,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const nodes = [...neighbourhood].map((url) => {
     const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
-    const color = data.get(url)?.content.match("color: (.+)")?.[0]
-    console.log(color)
+    const color = data.get(url)?.content?.match("color: (.+)")?.[0]
     return {
       id: url,
       text,
