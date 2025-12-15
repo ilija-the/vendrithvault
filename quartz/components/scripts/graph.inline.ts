@@ -426,7 +426,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
 
     if (isTagNode) {
-      gfx.stroke({ width: 2, color: color(n, isTagNode) })
+      gfx.stroke({ width: 2, color: color(n, false) })
     }
 
     nodesContainer.addChild(gfx)
