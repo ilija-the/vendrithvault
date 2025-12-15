@@ -196,12 +196,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color
+  // #region calculate color
   const color = (d: NodeData, isTagNode: boolean) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (d.color) {
+    if (d.color) {
       return d.color;
     } else if (visited.has(d.id)) {
       return computedStyleMap["--tertiary"]
@@ -214,6 +211,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       return computedStyleMap["--gray"]
     }
   }
+  // #endregion
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
@@ -428,6 +426,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     if (isTagNode) {
       gfx.stroke({ width: 2, color: color(n, false) })
     }
+
+    if (d.id === slug)
 
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
