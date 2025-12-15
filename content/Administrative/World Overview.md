@@ -5,7 +5,7 @@ aliases:
   - Handout
 tags:
   - admin
-color: dc0000
+color: "#dc0000"
 ---
 [[index|Click here to return to the index.]]
 
