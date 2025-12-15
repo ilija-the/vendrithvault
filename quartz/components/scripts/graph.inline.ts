@@ -146,11 +146,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const nodes = [...neighbourhood].map((url) => {
     const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    const color = data.get(url)?.color;
+    console.log(color)
     return {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
-      color: data.get(url)?.color,
+      color,
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
