@@ -197,7 +197,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color
-  const color = (d: NodeData) => {
+  const color = (d: NodeData, isTagNode: boolean) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
@@ -205,9 +205,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       return d.color;
     } else if (visited.has(d.id)) {
       return computedStyleMap["--tertiary"]
+    } else if (isTagNode) {
+      return computedStyleMap["--light"];
     } else if (d.id.startsWith("tags/")) {
       const tagStyle = getComputedStyle(document.documentElement).getPropertyValue(`--tag-${d.text.replace("#", "")}`)
-      console.log(tagStyle, d)
       return tagStyle || computedStyleMap["--tertiary"]
     } else {
       return computedStyleMap["--gray"]
@@ -408,7 +409,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: color(n, isTagNode) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
