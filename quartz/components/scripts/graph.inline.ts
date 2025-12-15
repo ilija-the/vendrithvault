@@ -31,6 +31,7 @@ type NodeData = {
   id: SimpleSlug
   text: string
   tags: string[]
+  color?: string
 } & SimulationNodeDatum
 
 type SimpleLinkData = {
@@ -149,6 +150,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
+      color: data.get(url)?.content
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
@@ -198,6 +200,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
+    } else if (d.color) {
+      return d.color;
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
