@@ -151,7 +151,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
-      color: data.get(url)?.content.match("color")[0]
+      color: data.get(url)?.content.match("color: \"(.+)\"")?.[0] || undefined
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
