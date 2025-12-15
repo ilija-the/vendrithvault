@@ -204,7 +204,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else if (d.color) {
       return d.color;
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
+      const tagStyle = getComputedStyle(document.documentElement).getPropertyValue(`--tag-${d.id}`)
+      return tagStyle || computedStyleMap["--tertiary"]
     } else {
       return computedStyleMap["--gray"]
     }
