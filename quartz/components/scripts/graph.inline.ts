@@ -428,26 +428,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
 
     if (n.id === slug) {
-      // triangle size relative to node radius
-      const r = nodeRadius(n);
-      const tri = new Graphics({
-        interactive: false,
-      });
+        const r = nodeRadius(n);
+        const tri = new Graphics({ interactive: false });
 
-      // draw an upward-pointing triangle centered on the node
-      tri
-        .beginFill(color(n, false)) // same color as the node
-        .moveTo(-12, -r - 6)
-        .lineTo(12, -r - 6)
-        .lineTo(0, -r - 22)
-        .closePath()
-        .endFill();
+        // Define size for the equilateral triangle
+        const sideLength = 12; // Adjust this value to make it smaller/larger
+        const halfSide = sideLength / 2;
+        // Height of an equilateral triangle: sideLength * sqrt(3) / 2
+        const triHeight = sideLength * Math.sqrt(3) / 2;
 
-      // place triangle above the circle
-      tri.x = 0;
-      tri.y = 0; // relative to gfx center (0,0) where the circle is drawn
+        // Position the triangle above the circle, pointing down
+        // The tip of the triangle should be just above the circle's edge
+        const tipY = -r - 5; // Adjust '5' for desired distance from circle
+        const baseY = tipY - triHeight; // Top edge of the triangle
 
-      gfx.addChild(tri);
+        tri
+          .poly([
+            -halfSide,
+            baseY, // Top-left point
+            halfSide,
+            baseY, // Top-right point
+            0,
+            tipY, // Bottom-center point (the tip, pointing down)
+          ])
+          .fill({ color: color(n, false) });
+
+        gfx.addChild(tri);
     }
 
     nodesContainer.addChild(gfx)
