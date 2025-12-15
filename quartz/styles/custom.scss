@@ -2,6 +2,10 @@
 
 // put your custom CSS here!
 
+:root {
+	--tag-society: rgb(10, 10, 10);
+}
+
 body {
 	--image-border-color: var(--background-modifier-border);
 	--image-border-width: 1px;
