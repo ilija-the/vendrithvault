@@ -428,11 +428,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
 
     if (n.id === slug) {
-      const pointer = new Graphics({
+      // triangle size relative to node radius
+      const r = nodeRadius(n);
+      const tri = new Graphics({
         interactive: false,
-        hitArea: new Triangle(0, 0, 100, 0, 50, 50),
-      })
-      gfx.addChild(pointer)
+      });
+
+      // draw an upward-pointing triangle centered on the node
+      tri
+        .beginFill(color(n, false)) // same color as the node
+        .moveTo(-12, -r - 6)
+        .lineTo(12, -r - 6)
+        .lineTo(0, -r - 22)
+        .closePath()
+        .endFill();
+
+      // place triangle above the circle
+      tri.x = 0;
+      tri.y = 0; // relative to gfx center (0,0) where the circle is drawn
+
+      gfx.addChild(tri);
     }
 
     nodesContainer.addChild(gfx)
