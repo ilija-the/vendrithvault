@@ -14,7 +14,7 @@ import {
   drag,
   zoom,
 } from "d3"
-import { Text, Graphics, Application, Container, Circle } from "pixi.js"
+import { Text, Graphics, Application, Container, Circle, Triangle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
@@ -427,7 +427,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       gfx.stroke({ width: 2, color: color(n, false) })
     }
 
-    if (d.id === slug)
+    if (n.id === slug) {
+      const pointer = new Graphics({
+        interactive: false,
+        hitArea: new Triangle(0, 0, 100, 0, 50, 50),
+      })
+      gfx.addChild(pointer)
+    }
 
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
