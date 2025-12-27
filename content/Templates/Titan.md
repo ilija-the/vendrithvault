@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 > [!important] WIP!
-> Subject to changes. Further info
+> Subject to changes.
 ### Description
 **Summary** The {{title}}
 **Base of Worship** 

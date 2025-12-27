@@ -3,6 +3,7 @@ tags:
   - deities
   - religion
   - titans
+  - canath
 aliases:
 ---
 > [!important] WIP!

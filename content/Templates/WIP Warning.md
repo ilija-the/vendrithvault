@@ -1,2 +1,2 @@
 > [!important] WIP!
-> Subject to changes. Further info
+> Subject to changes.
