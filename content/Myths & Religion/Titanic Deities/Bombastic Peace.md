@@ -21,20 +21,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** Fire, Earth, Wealth, Protection
+**Alternate** Cities, Nature
+**Skill** Crafting
+**Attribute** Constitution
+**Font** Healing
+**Sanctify** Can Holy
+**Weapons** Hand Cannon
 **Spells** (italics the 3 main ones)
-(1) []()()
-(2) []()()
-(3) []()()
-(4) []()()
-(5) []()()
-(6) []()()
-(7) []()()
+(1) [Flourishing Flora]()()
+(2) [Ash Cloud]()()
+(3) [Fireworks Blast]()()
+(4) [Mountain Resilience]()()
+(5) [Wall of Stone]()()
+(6) [Elemental Confluence]()()
+(7) [Volcanic Eruption]()()
 (8) []()()
 (9) []()()
