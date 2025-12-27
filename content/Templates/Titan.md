@@ -5,10 +5,10 @@ tags:
   - titans
 aliases:
 ---
-**Summary** {{title}}
-**Base of Worship**
-**Appearance, Items and Powers.**
-**Relations and History.**
+**Summary** The {{title}}
+**Base of Worship** The {{title}}
+**Appearance, Items and Powers.** The {{title}}
+**Relations and History.** The {{title}}
 
 **Areas of Concern**
 **Edicts** 
