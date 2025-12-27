@@ -1,9 +1,7 @@
 #deities #religion #titans
 
-Description: 1 Summary. 2 Base of worship. 3 Relations. 
+Description: 1 Summary. 2 Described appearance(s). 3 Base of worship. 4 Relations (including trinities) and history.
 
-**Pantheon** Titanic
-**Trinity** Paths and Destinies
 **Areas of Concern**
 **Edicts** 
 **Anathema** Go blindly
