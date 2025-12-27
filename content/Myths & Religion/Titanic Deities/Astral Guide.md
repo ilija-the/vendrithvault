@@ -5,7 +5,7 @@ tags:
   - titans
 aliases:
 ---
-**NOTE** Subject to changes. In particular, Ilija has considered a greater opposition between a titan akin to the Astral Guide, who leads a fluid and ocean-like guiding light and destiny; and a titan akin to the Feathered Pen, whom sees the destinies written in the stars and writes them down as f
+**NOTE** Subject to changes. In particular, Ilija has considered a greater opposition between a titan akin to the Astral Guide, who leads a fluid and ocean-like guiding light and destiny; and a titan akin to the Feathered Pen, whom sees the destinies fixed in the stars and writes them down so one can embrace it. Possible real life inspirations for the Astral Guide include: Gytrash, Castor and Pollux, Ariadne, Hermes, Saint Cristopher, Hectate, Trivia, Khonsu, Xaman Ek, the Hajj.
 
 --- 
 
