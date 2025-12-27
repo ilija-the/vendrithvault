@@ -1,4 +1,43 @@
-#deities
+---
+tags:
+  - deities
+  - religion
+  - titans
+aliases:
+---
+> [!important] WIP!
+> Subject to changes.
+### Description
+**Summary** The Golden Heart is the patron of benevolence and justice, as well as of all enslaved or otherwise captive people.
+**Base of Worship** 
+**Appearance, Items and Powers.**
+**Relations, History and Forms.**
+
+**Areas of Concern**
+**Edicts** 
+**Anathema**
+
+---
+### Mechanical Details
+**Domains**
+**Alternate**
+**Skill** 
+**Attribute** 
+**Font** 
+**Sanctify** 
+**Weapons** 
+**Spells** (italics the 3 main ones)
+(1) []()
+(2) []()
+(3) []()
+(4) []()
+(5) []()
+(6) []()
+(7) []()
+(8) []()
+(9) []()
+
+
 
 One of the [[Titans]], deeply connected to a slave rebellion in [[Talvas]].
 
