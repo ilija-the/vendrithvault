@@ -5,7 +5,10 @@ tags:
   - titans
 aliases:
 ---
-Description: 1 Summary. 2 Described appearance(s). 3 Base of worship. 4 Relations (including trinities) and history.
+**Summary** {{title}}
+**Base of Worship**
+**Appearance, Items and Powers.**
+**Relations and History.**
 
 **Areas of Concern**
 **Edicts** 
