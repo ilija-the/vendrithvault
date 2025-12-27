@@ -8,22 +8,13 @@ tags:
   - titans
   - crimson
 ---
-#deities 
-Formerly one Guardian Angel of [[Haeven]], then of the [[Titans]], and finally the leader of the [[Devil|devils]] of the [[Crimson]] plane of [[Hel]].
-
-**Trinity** Duty and Wellbeing
-
-
-
-
-
 > [!important] WIP!
 > Subject to changes.
 ### Description
-**Summary** The fiercely loyal lead soldier once served as the Guardian [[Angel]] of [[Haeven]], now turned Queen of [[Devil]]. During the war over heaven, she turned swathes of Galae into a desert of blood carving out the plane of Crimson, from which she continues the fight with her devil armies and serves as a pseudo-titan..
+**Summary** The fiercely loyal lead soldier once served as the Guardian [[Angel]] of [[Haeven]], now turned Queen of [[Devil|Devils]]. During the war over heaven, she turned swathes of Galae into a desert of blood carving out the plane of [[Crimson]], from which she continues the fight with her devil armies and serves as a pseudo-titan.
 **Base of Worship** She has the majority of lesser [[Devil|Devils]] at her beck and call. Though she is generally controversial to worship from Materia, she is seen as a steadfast warrior for the Crusader cause by some.
 **Appearance, Items and Powers.** 
-**Relations, History and Forms.** Speculated to one day fit in the Trinity of Duty and Wellbeing, sometimes identified with Wrath and Kindness, together with the [[Golden Heart]] and [[Immortal Memory]]. Has sworn to endlessly destroy the [[Demonic Brigade]].
+**Relations, History and Forms.** Speculated to one day fit in the Trinity of Duty and Wellbeing, sometimes identified with Wrath and Kindness, together with the [[Golden Heart]] and [[Immortal Memory]]. Little is known about her relation to these two, though she's been compared to the worst brutality of the Golden Heart, and is quite obsessed with [[Firearms]], which are said to have been planted in Materia by the Immortal Memory. Sworn to destroy the [[Demonic Brigade]].
 
 **Areas of Concern** Duty, stoicism, contracts
 **Edicts** Create and follow binding agreements
@@ -31,14 +22,14 @@ Formerly one Guardian Angel of [[Haeven]], then of the [[Titans]], and finally t
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
-**Spells** (italics the 3 main ones)
+**Domains** Duty, Zeal, Fire, Dust
+**Alternate** Naga, Destruction, Judgement*
+**Skill** Diplomacy
+**Attribute** Charisma
+**Font** Harm
+**Sanctify** Must Unholy
+**Weapons** Bec de Corbin, Blunderbuss
+**Spells**
 (1) []()
 (2) []()
 (3) []()
