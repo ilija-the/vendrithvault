@@ -3,7 +3,6 @@
 One of the [[Titans]].
 
 **Pantheon** Titanic
-
 **Trinity** Paths and Destinies
 
 ---
