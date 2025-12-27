@@ -20,19 +20,18 @@ aliases:
 
 ---
 ### Mechanical Details
-
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** Travel, Luck, Moon, Cold
+**Alternate** Void, Star
+**Skill** Survival
+**Attribute** Wisdom
+**Font** Healing
+**Sanctify** Must Holy
+**Weapons** Sun Sling
 **Spells** (italics the 3 main ones)
 (1)
 (2)
-(3),
-(4),
+(3)
+(4)
 (5)
 (6)
 (7)

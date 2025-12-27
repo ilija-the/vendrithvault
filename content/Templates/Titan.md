@@ -5,17 +5,20 @@ tags:
   - titans
 aliases:
 ---
+> [!important] WIP!
+> Subject to changes. Further info
+### Description
 **Summary** The {{title}}
-**Base of Worship** The {{title}}
-**Appearance, Items and Powers.** The {{title}}
-**Relations and History.** The {{title}}
+**Base of Worship** 
+**Appearance, Items and Powers.**
+**Relations and History.**
 
 **Areas of Concern**
 **Edicts** 
 **Anathema**
 
 ---
-
+### Mechanical Details
 **Domains**
 **Alternate**
 **Skill** 
@@ -26,8 +29,8 @@ aliases:
 **Spells** (italics the 3 main ones)
 (1)
 (2)
-(3),
-(4),
+(3)
+(4)
 (5)
 (6)
 (7)
