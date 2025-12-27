@@ -20,12 +20,12 @@ The fiercely loyal lead soldier of the titans, tragically stuck fighting for dei
 > [!important] WIP!
 > Subject to changes.
 ### Description
-**Summary** The Devil Queen of Crimson is the leader of the devil armies of the plane of [[Crimson]], and yet continues to serve as a pseudo-titan 
-**Base of Worship** 
-**Appearance, Items and Powers.**
-**Relations, History and Forms.**
+**Summary** The Devil Queen of Crimson is the leader of the devil armies of the plane of [[Crimson]], and yet continues to serve as a pseudo-titan assisting with duty, stoicism and contracts. 
+**Base of Worship** She has the majority of [[Devil|Devils]] at her beck and call. Though she is generally controversial to worship from Materia a, she is seen as a steadfast warrior for the Crusader cause by some.
+**Appearance, Items and Powers.** 
+**Relations, History and Forms.** Speculated to one day fit in the Trinity of Duty and Wellbeing, sometimes identified with Wrath and Kindness, together with the Golden Heart and Immortal Memory.
 
-**Areas of Concern**
+**Areas of Concern** Duty, stoicism, contracts
 **Edicts** Create and follow binding agreements
 **Anathema** Break your oaths, lament your situation
 
