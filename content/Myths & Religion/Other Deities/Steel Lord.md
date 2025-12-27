@@ -1,6 +1,6 @@
 ---
 tags:
-  - deities
+  - deities/vilhun
   - religion
   - arcane
 aliases:
