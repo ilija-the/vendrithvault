@@ -1,3 +1,7 @@
+---
+tags:
+  - deities
+---
 #deities 
 A non-titanic deity often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]].
 

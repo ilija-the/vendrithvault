@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 A [[Deity]] said to be the either the first of the [[Titans]] or something above it as its creator. One of the core stories of the [[Mythos of Vendrith]]. 
 
 **Pantheon** Vendrith Mythos
