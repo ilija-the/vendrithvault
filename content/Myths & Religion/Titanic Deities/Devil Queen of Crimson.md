@@ -37,5 +37,5 @@ tags:
 (5) [Pillars of Sand](https://2e.aonprd.com/Spells.aspx?ID=653)
 (6) [Flame Vortex](https://2e.aonprd.com/Spells.aspx?ID=911)
 (7) [Control Sand](https://2e.aonprd.com/Spells.aspx?ID=652)
-(8) [Burning Blossoms]()
-(9) [Linnorm Sting]()
+(8) [Burning Blossoms](https://2e.aonprd.com/Spells.aspx?ID=878)
+(9) [Linnorm Sting](https://2e.aonprd.com/Spells.aspx?ID=828)
