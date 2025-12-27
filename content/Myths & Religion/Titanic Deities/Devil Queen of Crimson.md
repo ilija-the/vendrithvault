@@ -30,12 +30,12 @@ tags:
 **Sanctify** Must Unholy
 **Weapons** Bec de Corbin, Blunderbuss
 **Spells**
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Dehydrate](https://2e.aonprd.com/Spells.aspx?ID=1351)
+(2) [Flame Wisp](https://2e.aonprd.com/Spells.aspx?ID=912)
+(3) [Blazing Dive](https://2e.aonprd.com/Spells.aspx?ID=869)
+(4) [Wall of Fire](https://2e.aonprd.com/Spells.aspx?ID=1748)
+(5) [Pillars of Sand](https://2e.aonprd.com/Spells.aspx?ID=653)
+(6) [Flame Vortex](https://2e.aonprd.com/Spells.aspx?ID=911)
+(7) [Control Sand](https://2e.aonprd.com/Spells.aspx?ID=652)
+(8) [Burning Blossoms]()
+(9) [Linnorm Sting]()
