@@ -28,12 +28,12 @@ aliases:
 **Sanctify** Must Holy
 **Weapons** Sun Sling
 **Spells**
-(1) [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)
+**(1)** [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)
 (2) [Albatross Curse](https://2e.aonprd.com/Spells.aspx?ID=1946)
-(3) [Far Sight
-(4) [Soft Landing
-(5) [Umbral Journey
-(6) [Blanket of Stars
+(3) [Far Sight](https://2e.aonprd.com/Spells.aspx?ID=1101)
+**(4)** [Soft Landing](https://2e.aonprd.com/Spells.aspx?ID=1164)
+(5) [Umbral Journey](https://2e.aonprd.com/Spells.aspx?ID=1729)
+**(6)** [Blanket of Stars](https://2e.aonprd.com/Spells.aspx?ID=1967)
 (7) [
-(8) [Migration
-(9) [Falling Stars
+(8) [Migration](https://2e.aonprd.com/Spells.aspx?ID=1600)
+(9) [Falling Stars](https://2e.aonprd.com/Spells.aspx?ID=1521)
