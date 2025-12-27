@@ -1,8 +1,8 @@
 ---
 tags:
-  - deities
   - religion
   - divine
+  - deities/vilhun
 aliases:
   - The Free Lord
 ---

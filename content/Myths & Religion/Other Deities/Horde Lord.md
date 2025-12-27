@@ -1,8 +1,8 @@
 ---
 tags:
   - religion
-  - deities
   - primal
+  - deities/vilhun
 aliases:
   - The Horde Lord
 ---

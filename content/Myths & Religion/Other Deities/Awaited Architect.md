@@ -1,4 +1,9 @@
-#deities 
+---
+tags:
+  - deities/titanic
+  - deities/elven
+  - deities/old
+---
 A [[Deity]].
 
 **Pantheon** Old, Elven, Titanic

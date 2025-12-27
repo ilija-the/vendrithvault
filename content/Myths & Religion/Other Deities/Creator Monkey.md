@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - deities
+---
 A [[Deity]] and mythical monkey-like figure said to have wandered the great expanse when he found the dead [[Sibling Dragons]], and painted all known life onto them like a canvas. Part of the [[Mythos of Vendrith]].
 
 Sometimes called the Lively Creator.

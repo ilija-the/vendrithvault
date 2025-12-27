@@ -1,7 +1,7 @@
 ---
 tags:
-  - deities
   - religion
+  - deities/vilhun
 ---
 Four lords appointed by the [[One & Only]] to rule [[Vilhun]] in her stead. Three of the lords became the ancestor of virtually all recognised houses of Vilhun, while the fourth is said to have died heirless.
 
