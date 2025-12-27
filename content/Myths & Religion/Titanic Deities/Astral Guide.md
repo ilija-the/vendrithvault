@@ -13,8 +13,10 @@ Said to have helped lead now-venerated titans into the horizon, the Cosmic Guide
 ---
 
 **Domains**
-Alternate Domains
-Skill
-Font
-Sanctify
-Weapons
+**Alternate**
+**Skill** Survival
+**Attribute** Wisdom
+**Font** Healing
+**Sanctify** Must Holy
+**Weapons** Sun Sling
+**Spells** Buoyant Bubbles (1), Albatross Curse (2), Far Sight (3), Soft Landing (4), Umbral Journey (5), Blanket of Stars (6), XXX (7), Migration (8), Falling Stars (9)
