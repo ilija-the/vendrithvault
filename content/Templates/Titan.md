@@ -11,7 +11,7 @@ aliases:
 **Summary** The {{title}}
 **Base of Worship** 
 **Appearance, Items and Powers.**
-**Relations and History.**
+**Relations, History and Forms.**
 
 **Areas of Concern**
 **Edicts** 
