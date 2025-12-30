@@ -1,3 +1,5 @@
+Many of the [[Languages|Languages of Vendrith]] are deeply tied to the [[Ancestries of Vendrith]]
+
 [[Goblins]]
 [[Gnomes]]
 [[Elves]]
@@ -7,3 +9,8 @@
 [[Amurrun]]
 [[Kitsune]]
 [[Dwarves]]
+[[Trip-kee]]
+[[Ysoki]]
+[[Vanara]]
+[[Orcs]]
+[[Dragons]]

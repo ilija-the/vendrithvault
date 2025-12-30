@@ -14,21 +14,7 @@ Regional languages:
 [[Bay Pidgin]]
 [[Harza Pidgin]]
 
-Ancestral languages:
-[[Draconic]]
-[[Halfling]]
-[[Goblin]]
-[[Orcish]]
-[[Elven]]
-[[Gnomish]]
-[[Dwarven]]
-[[Vanara Language]]
-[[Kholo language]]
-[[Trip-kee language]]
-[[Iruxi Language]]
-[[Amurrun Language]]
-[[Ysoki Language]]
-[[Kitsune Language]]
+[[Ancestral Languages]]:
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
