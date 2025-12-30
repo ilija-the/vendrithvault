@@ -1,6 +1,8 @@
 ---
 tags:
   - admin
+  - homebrew
+  - houserules
 aliases:
   - Homebrew
 ---
