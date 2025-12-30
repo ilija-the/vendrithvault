@@ -1,5 +1,5 @@
 #society 
-Consists of languages identified with the [[Ancestries of Vendrith]] as well as a number of Common Languages.
+Consists of [[Ancestral Languages]] as well as a number of Common Languages.
 
 Regional common languages:
 [[Idurian]]
