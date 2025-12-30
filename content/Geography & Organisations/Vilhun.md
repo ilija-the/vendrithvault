@@ -21,6 +21,6 @@ The makeup of the Vilhi society closely resembles that of the Hun Lords, with Ki
 
 | Rarity   | Ancestries                                                         |
 | -------- | ------------------------------------------------------------------ |
-| Common   | [[Humans]], [[Goblins]], [[Lizardfolk]], [[Gnomes]]                |
+| Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]]                |
 | Uncommon | [[Kitsune]], [[Automatons]], [[Dragonblood]], remaining ancestries |
 | Rare     | [[Elves]]                                                          |

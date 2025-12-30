@@ -8,7 +8,7 @@ aliases:
 ---
 ![[The Steel Lord.png|right|200]]
 
-One of the [[Hun Lords]], credited with the creation of Vilhi [[Automatons]] and many of magical theorems still taught across [[Vilhun]]. Considered to have been a [[Lizardfolk]].
+One of the [[Hun Lords]], credited with the creation of Vilhi [[Automatons]] and many of magical theorems still taught across [[Vilhun]]. Considered to have been a [[Iruxi]].
 
 Considered to be the **creative** and **intellectual** of the siblings.
 
