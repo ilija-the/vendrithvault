@@ -22,12 +22,12 @@ tags:
 
 ---
 ### Mechanical Details
-**Domains** Duty, Zeal, Fire, Dust
-**Alternate** Naga, Destruction, Judgement*
-**Skill** Diplomacy
-**Attribute** Charisma
-**Font** Harm
-**Sanctify** Must Unholy
+**Domains** [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Dust](https://2e.aonprd.com/Domains.aspx?ID=107).
+**Alternate** [Naga](https://2e.aonprd.com/Domains.aspx?ID=113), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71), Judgement (Clerics+).
+**Skill** Diplomacy.
+**Attribute** Charisma.
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** Must Unholy.
 **Weapons** [Bec de Corbin](https://2e.aonprd.com/Weapons.aspx?ID=272), [Blunderbuss](https://2e.aonprd.com/Weapons.aspx?ID=196)
 **Spells**
 (1) [Dehydrate](https://2e.aonprd.com/Spells.aspx?ID=1351)

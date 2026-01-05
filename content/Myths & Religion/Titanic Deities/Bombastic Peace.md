@@ -21,11 +21,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Fire, Earth, Wealth, Protection
-**Alternate** Cities, Nature
+**Domains** [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90).
+**Alternate** [Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85).
 **Skill** Crafting
 **Attribute** Constitution
-**Font** Healing
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify** Can Holy
 **Weapons** [Hand Cannon](https://2e.aonprd.com/Weapons.aspx?ID=523)
 **Spells**
