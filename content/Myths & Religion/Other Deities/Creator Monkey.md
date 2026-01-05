@@ -22,19 +22,19 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Creation, Passion, Sun, Sorrow.
-**Alternate** Darkness, Dreams, Artifice (Clerics+).
+**Domains** [Creation](https://2e.aonprd.com/Domains.aspx?ID=68), [Passion](https://2e.aonprd.com/Domains.aspx?ID=88), [Sun](https://2e.aonprd.com/Domains.aspx?ID=92), [Sorrow](https://2e.aonprd.com/Domains.aspx?ID=117).
+**Alternate** [Darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72), Artifice (Clerics+).
 **Skill** Performance.
 **Attribute** Charisma.
-**Font** Either.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** None allowed.
 **Weapons** [Whip Staff](https://2e.aonprd.com/Weapons.aspx?ID=308), Tail.
 **Spells**
-(1) [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
+***(1) [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)***
 (2) [Emphatic Link](https://2e.aonprd.com/Spells.aspx?ID=1115)
-(3) [Painted Scout](https://2e.aonprd.com/Spells.aspx?ID=1096)
+***(3) [Painted Scout](https://2e.aonprd.com/Spells.aspx?ID=1096)***
 (4) [Chroma Leach](https://2e.aonprd.com/Spells.aspx?ID=1976)
-(5) [Wave of Despair](https://2e.aonprd.com/Spells.aspx?ID=1757)
+***(5) [Wave of Despair](https://2e.aonprd.com/Spells.aspx?ID=1757)***
 (6) [Vibrant Pattern](https://2e.aonprd.com/Spells.aspx?ID=1741)
 (7) [Duplicate Foe](https://2e.aonprd.com/Spells.aspx?ID=1505)
 (8) [All is One, One is All](https://2e.aonprd.com/Spells.aspx?ID=815)
