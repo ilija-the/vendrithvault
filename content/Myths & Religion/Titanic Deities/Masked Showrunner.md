@@ -3,6 +3,8 @@ tags:
   - deities
   - religion
   - titans
+  - deities/philosophia
+  - deities/old
 aliases:
   - Oni Mask
   - Peach Mask
