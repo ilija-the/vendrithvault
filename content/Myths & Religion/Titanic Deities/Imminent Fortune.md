@@ -28,7 +28,7 @@ aliases:
 **Sanctify** 
 **Weapons** [Starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
 **Spells
-(1) []()
+(1) [Agitate]()
 (2) []()
 (3) []()
 (4) []()
