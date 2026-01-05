@@ -19,20 +19,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=96), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71).
+**Alternate** [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Might](https://2e.aonprd.com/Domains.aspx?ID=83).
+**Skill** Intimidation.
+**Attribute** Strength.
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** None allowed.
+**Weapons** [Earthbreaker](https://2e.aonprd.com/Weapons.aspx?ID=281)
 **Spells
 (1) []()
-(2) []()
+(2) [Exploding Earth](https://2e.aonprd.com/Spells.aspx?ID=1331)
 (3) []()
-(4) []()
+(4) [Grasping Earth](https://2e.aonprd.com/Spells.aspx?ID=1334)
 (5) []()
 (6) []()
-(7) []()
+(7) [Heaving Earth](https://2e.aonprd.com/Spells.aspx?ID=1335)
 (8) []()
 (9) []()

@@ -7,6 +7,9 @@ aliases:
   - Tritas
   - Kiya
 ---
+
+
+
 Three mythological dragons (each considered a [[Deity]]) said to have created the lands of Vendrith, or more precisely Materia, itself. 
 
 The three dragons are:
