@@ -13,7 +13,7 @@ aliases:
 **Appearance, Items and Powers.** Their two most common forms include wearing a Noh mask of an oni, and wearing a Noh mask of a lady. The former is how they're shown in Philosophia, often clad in hedonistic gear such as leather straps and spikes.
 **Relations, History and Forms.** 
 
-**Areas of Concern** Theatre, masquerades, identities.
+**Areas of Concern** Nightlife, theatre, sweet and sour fruit.
 **Edicts** 
 **Anathema**
 
@@ -27,15 +27,15 @@ aliases:
 **Sanctify** Can Unholy or Holy.
 **Weapons** 
 **Spells** (italics the 3 main ones)
-(1) [Friendfetch]()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Friendfetch](https://2e.aonprd.com/Spells.aspx?ID=860)
+(2) [Instant Parade](https://2e.aonprd.com/Spells.aspx?ID=1288)
+(3) [Hypnotize](https://2e.aonprd.com/Spells.aspx?ID=1564)
+(4) [Mirror's Misfortune](https://2e.aonprd.com/Spells.aspx?ID=951)
+(5) [Glimmer of Charm](https://2e.aonprd.com/Spells.aspx?ID=919)
+(6) [Phantom Orchestra](https://2e.aonprd.com/Spells.aspx?ID=1317)
+(7) [Entrancing Eyes](https://2e.aonprd.com/Spells.aspx?ID=649)
+(8) [Uncontrollable Dance]()
+(9) [Phantasmogoria]()
 
 
 One of the [[Titans]].
