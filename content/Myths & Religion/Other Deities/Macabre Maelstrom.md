@@ -3,13 +3,14 @@ tags:
   - deities
   - religion
   - titans
+  - deities/orcish
 aliases:
 ---
 > [!important] WIP!
 > Subject to changes.
 ### Description
-**Summary** The Macabre Maelstrom may be a heretical version of [[Promised Revealer]] worship, often held by [[Orcs]] that have splintered and become warlike nomads or tribes in various corners of the world.
-**Base of Worship** 
+**Summary** The road to death and doomsday is a colourful and chaotic one, and one which we shape as we traverse it. The worship of the Macabre Maelstrom and its philosophy may be a heretical version of [[Promised Revealer]] worship.
+**Base of Worship** Often worshipped by [[Orcs]] that have splintered and become warlike nomads or tribes in various corners of the world.
 **Appearance, Items and Powers.**
 **Relations, History and Forms.**
 
@@ -19,18 +20,18 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** Abomination, Nothingness, Dust, Death.
+**Alternate** Darkness, Repose.
+**Skill** Occultism.
+**Attribute** Charisma.
+**Font** Harm.
+**Sanctify** Must Unholy.
+**Weapons** [Orc Necksplitter](https://2e.aonprd.com/Weapons.aspx?ID=422)
 **Spells
 (1) []()
 (2) []()
 (3) []()
-(4) []()
+(4) [Visions of Death]()
 (5) []()
 (6) []()
 (7) []()
@@ -47,7 +48,7 @@ A
 
 ---
 
-The road to death and doomsday is a colorful and chaotic one, and one which we shape as we traverse it. The worship of the Macabre Maelstrom and its philosophy is a non-titannic heresy that shot off from the revelations of the Promised Revealer.
+
 
 ---
 
