@@ -22,12 +22,12 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
+**Domains** Soul, Change, Trickery, Abomination
+**Alternate** Plague, Undeath, Intrigue (Clerics+)
+**Skill** Deception
+**Attribute** Charisma
+**Font** Harm or Heal
+**Sanctify** Can Unholy
 **Weapons** 
 **Spells** (italics the 3 main ones)
 (1) []()
