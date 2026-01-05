@@ -21,13 +21,13 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate**
-**Skill** 
-**Attribute** 
+**Domains** [Healing](https://2e.aonprd.com/Domains.aspx?ID=78), [Metal](https://2e.aonprd.com/Domains.aspx?ID=112), [Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71).
+**Alternate** [Fate](https://2e.aonprd.com/Domains.aspx?ID=75), [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120).
+**Skill** Medicine.
+**Attribute** Intelligence.
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
-**Sanctify**
-**Weapons** [Shield bo]
+**Sanctify** Can choose holy or unholy.
+**Weapons** [Shield Bow](https://2e.aonprd.com/Weapons.aspx?ID=339)
 **Spells
 (1) []()
 (2) []()
