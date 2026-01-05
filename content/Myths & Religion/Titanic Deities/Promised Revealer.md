@@ -21,18 +21,18 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), 
-**Alternate** 
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82) (one has to go)
+**Alternate** [Truth](https://2e.aonprd.com/Domains.aspx?ID=95), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114)
+**Skill** Occultism.
+**Attribute** Intelligence.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** None allowed (changed).
+**Weapons** [Orc Knuckle Dagger](https://2e.aonprd.com/Weapons.aspx?ID=415)
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
+(1) [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709)
+(2) [Quench](https://2e.aonprd.com/Spells.aspx?ID=709)
+(3) [Dive and Breach](https://2e.aonprd.com/Spells.aspx?ID=1386)
+(4) [Elemental Sense
 (5) []()
 (6) []()
 (7) []()
