@@ -14,7 +14,7 @@ aliases:
 **Summary** Arbiter and creator of time, or another form time takes on, magic. Has yet to exist, yet is watching all. Said to be analytical side of the [[Creator Monkey|Creator Monkey's]] personality.
 **Base of Worship** Elves, librarians and high mages.
 **Appearance, Items and Powers.** Depicted with a unique staff containing both an hourglass and an endless scroll.
-**Relations, History and Forms.** 
+**Relations, History and Forms.** [[Trinity of Invention and Consequence]]
 
 **Areas of Concern**
 **Edicts** 
@@ -22,14 +22,14 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
-**Spells** (italics the 3 main ones)
+**Domains** Time, Magic, Void, Decay.
+**Alternate** Change, Water, Artifice (Clerics+).
+**Skill** Arcana.
+**Attribute** Intelligence.
+**Font** Harm.
+**Sanctify** None allowed.
+**Weapons** Staff.
+**Spells**
 (1) []()
 (2) []()
 (3) []()
