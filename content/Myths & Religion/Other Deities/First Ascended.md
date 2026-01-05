@@ -20,23 +20,23 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate** 
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
+**Domains** Family, Ambition, Protection, Change.
+**Alternate** Travel, Might, Revolution (Clerics+).
+**Skill** Intimidation.
+**Attribute** Dexterity.
+**Font** Either.
+**Sanctify** Can Holy.
 **Weapons** Temple Sword, Wing.
 **Spells** (italics the 3 main ones)
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Gentle Landing](https://2e.aonprd.com/Spells.aspx?ID=1542)
+(2) [Frog Tongue](https://2e.aonprd.com/Spells.aspx?ID=1953)
+(3) [Feet to Fins](https://2e.aonprd.com/Spells.aspx?ID=1525)
+(4) [Elemental Gift](https://2e.aonprd.com/Spells.aspx?ID=904)
+(5) [Forceful Hand](https://2e.aonprd.com/Spells.aspx?ID=915)
+(6) [Elemental Confluence](https://2e.aonprd.com/Spells.aspx?ID=903)
+(7) [True Target](https://2e.aonprd.com/Spells.aspx?ID=1726)
+(8) [Monstrosity Form](https://2e.aonprd.com/Spells.aspx?ID=1608)
+(9) [Metamorphosis](https://2e.aonprd.com/Spells.aspx?ID=1599)
 
 
 
