@@ -28,14 +28,14 @@ aliases:
 **Attribute** Charisma
 **Font** Harm or Heal
 **Sanctify** Can Holy or Unholy
-**Weapons** Corset Knife, 
+**Weapons** Corset Knife, Coat Pistol
 **Spells** (italics the 3 main ones)
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348)
+(2) [Erase Trail](https://2e.aonprd.com/Spells.aspx?ID=1117)
+(3) [Mind Reading]()
+(4) [Rewrite Memory]()
+(5) [Grisly Growths]()
+(6) [Poltergeist's Fury]()
+(7) [Possession]()
+(8) [Undermine Reality]()
+(9) [Summon Ancient Fleshforged]()
