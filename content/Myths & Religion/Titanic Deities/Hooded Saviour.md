@@ -21,12 +21,12 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
+**Domains** 
+**Alternate** 
+**Skill** Thievery.
+**Attribute** Dexterity.
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** Can choose unholy.
 **Weapons** 
 **Spells
 (1) []()

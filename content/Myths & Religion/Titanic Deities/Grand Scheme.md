@@ -21,12 +21,12 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
+**Domains** 
 **Alternate**
 **Skill** 
 **Attribute** 
 **Font** 
-**Sanctify** 
+**Sanctify**
 **Weapons** 
 **Spells
 (1) []()
