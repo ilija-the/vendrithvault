@@ -24,16 +24,16 @@ aliases:
 **Alternate** [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124).
 **Skill** Acrobatics.
 **Attribute** Dexterity.
-**Font** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** none allowed.
-**Weapons** 
+**Weapons** [Bo Staff](https://2e.aonprd.com/Weapons.aspx?ID=372)
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
+(1) [Gust of Wind](https://2e.aonprd.com/Spells.aspx?ID=1550)
+(2) [Blur](https://2e.aonprd.com/Spells.aspx?ID=1455)
+(3) [Levitate](https://2e.aonprd.com/Spells.aspx?ID=1584)
+(4) [Tortoise and the Hare](https://2e.aonprd.com/Spells.aspx?ID=1021)
+(5) [Pressure Zone](https://2e.aonprd.com/Spells.aspx?ID=1318)
+(6) [Unexpected Transposition](https://2e.aonprd.com/Spells.aspx?ID=1024)
+(7) [Spell Riposte](https://2e.aonprd.com/Spells.aspx?ID=2027)
 (8) []()
 (9) []()
