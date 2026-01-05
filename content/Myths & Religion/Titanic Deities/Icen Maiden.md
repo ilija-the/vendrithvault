@@ -24,7 +24,7 @@ aliases:
 **Domains**
 **Alternate**
 **Skill** 
-**Attribute** 
+**Attribute** Charisma.
 **Font** 
 **Sanctify** 
 **Weapons** 
