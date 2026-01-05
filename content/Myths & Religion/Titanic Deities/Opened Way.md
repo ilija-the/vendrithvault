@@ -16,16 +16,16 @@ aliases:
 
 **Areas of Concern**
 **Edicts** Humiliate the powers that be, find the freedom you desire
-**Anathema**
+**Anathema** 
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
+**Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Air](https://2e.aonprd.com/Domains.aspx?ID=65).
+**Alternate** [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124).
+**Skill** Acrobatics.
+**Attribute** Dexterity.
 **Font** 
-**Sanctify** 
+**Sanctify** none allowed.
 **Weapons** 
 **Spells
 (1) []()
