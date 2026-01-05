@@ -2,8 +2,42 @@
 tags:
   - deities/titanic
   - deities/old
+  - deities
+  - religion
+  - titans
+aliases:
 ---
-A [[Deity]].
+> [!important] WIP!
+> Subject to changes.
+### Description
+**Summary** The Ancient Survivor
+**Base of Worship** 
+**Appearance, Items and Powers.**
+**Relations, History and Forms.**
+
+**Areas of Concern**
+**Edicts** 
+**Anathema**
+
+---
+### Mechanical Details
+**Domains**
+**Alternate**
+**Skill** 
+**Attribute** 
+**Font** 
+**Sanctify** 
+**Weapons** 
+**Spells** (italics the 3 main ones)
+(1) []()
+(2) []()
+(3) []()
+(4) []()
+(5) []()
+(6) []()
+(7) []()
+(8) []()
+(9) []()A [[Deity]].
 
 **Pantheon** Old, Titanic
 
