@@ -10,7 +10,7 @@ aliases:
 ### Description
 **Summary** The Masked Showrunner
 **Base of Worship** Was once a household deity for much of lower nobility in Mogxa. Now known for being the icon of the Faddish Guilds of Philosophia, whom often worship the Masked Showrunner despite the Sanitorium ban.
-**Appearance, Items and Powers.** 
+**Appearance, Items and Powers.** Their two most common forms include wearing a Noh mask of an oni, and wearing a Noh mask of a lady. The former is how they're shown in Philosophia, often clad in hedonistic gear such as leather straps and spikes.
 **Relations, History and Forms.** 
 
 **Areas of Concern** Theatre, masquerades, identities.
@@ -27,7 +27,7 @@ aliases:
 **Sanctify** Can Unholy or Holy.
 **Weapons** 
 **Spells** (italics the 3 main ones)
-(1) []()
+(1) [Friendfetch]()
 (2) []()
 (3) []()
 (4) []()
