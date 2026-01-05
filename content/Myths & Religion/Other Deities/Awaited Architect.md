@@ -28,7 +28,7 @@ aliases:
 **Attribute** Intelligence.
 **Font** Harm.
 **Sanctify** None allowed.
-**Weapons** Staff.
+**Weapons** [Staff](https://2e.aonprd.com/Weapons.aspx?ID=367).
 **Spells**
 (1) [Deja Vu](https://2e.aonprd.com/Spells.aspx?ID=1986)
 (2) [Loose Time's Arrow](https://2e.aonprd.com/Spells.aspx?ID=1185)
