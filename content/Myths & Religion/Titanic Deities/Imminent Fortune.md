@@ -24,16 +24,16 @@ aliases:
 **Alternate**
 **Skill** Diplomacy.
 **Attribute** Charisma.
-**Font** 
-**Sanctify** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) (changed).
+**Sanctify** Can choose holy.
 **Weapons** [Starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
 **Spells
-(1) [Agitate]()
+(1) [Agitate](https://2e.aonprd.com/Spells.aspx?ID=2341)
 (2) []()
 (3) []()
-(4) []()
+(4) [Winning Streak](https://2e.aonprd.com/Spells.aspx?ID=1034)
 (5) []()
-(6) []()
+(6) [Blanket of Stars](https://2e.aonprd.com/Spells.aspx?ID=1967)
 (7) []()
 (8) []()
 (9) []()

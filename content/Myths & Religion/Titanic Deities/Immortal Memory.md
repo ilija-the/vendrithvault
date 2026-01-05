@@ -5,6 +5,7 @@ tags:
   - titans
 aliases:
   - The Memory
+  - Restored Memory
 ---
 > [!important] WIP!
 > Subject to changes.
