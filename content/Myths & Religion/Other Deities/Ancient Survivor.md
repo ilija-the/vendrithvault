@@ -13,12 +13,12 @@ aliases:
 ### Description
 **Summary** The Ancient Survivor
 **Base of Worship** Very few groups can be said to worship the Ancient Survivor. Those who do tend to harbour intense feelings such as fear (of death), paranoia, and contempt.
-**Appearance, Items and Powers.** The Ancient Survivor is identified No known appearance, though some of its devotees are said to have grown and morphed in a cancerous way, sometimes multiplying their limbs or growing spikes. 
+**Appearance, Items and Powers.** The Ancient Survivor is only really identified with the image of a threaded needle. Some of its devotees are said to have grown and morphed in a cancerous way, sometimes multiplying their limbs or growing spikes. 
 **Relations, History and Forms.** [[Trinity of Samsara and the Veil]]
 
-**Areas of Concern**
+**Areas of Concern** Survival, anonymity
 **Edicts** Do anything it takes to survive,
-**Anathema** Stand out from the rest, forgive those who hurt you
+**Anathema** Stand out from the rest, forget those who hurt you
 
 ---
 ### Mechanical Details
