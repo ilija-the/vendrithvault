@@ -22,20 +22,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate**
+**Domains** [Glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124), [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105).
+**Alternate** [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99), [Dragon](https://2e.aonprd.com/Domains.aspx?ID=106).
 **Skill** Society
 **Attribute** Intelligence or Strength (changed).
 **Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Must choose holy.
 **Weapons** [Stiletto Pen](https://2e.aonprd.com/Weapons.aspx?ID=137)
 **Spells
-(1) [Pocket Library]()
+(1) [Pocket Library](https://2e.aonprd.com/Spells.aspx?ID=2291)
 (2) []()
-(3) []()
+(3) [Transcribe Conflict](https://2e.aonprd.com/Spells.aspx?ID=1231)
 (4) []()
 (5) []()
-(6) []()
+(6) [Never Mind](https://2e.aonprd.com/Spells.aspx?ID=1614)
 (7) []()
 (8) []()
 (9) []()

@@ -27,11 +27,11 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Stealth.
+**Attribute** Wisdom.
 **Font** 
-**Sanctify** 
-**Weapons** 
+**Sanctify** Can choose holy.
+**Weapons** [Shears](https://2e.aonprd.com/Weapons.aspx?ID=446)
 **Spells
 (1) []()
 (2) []()
