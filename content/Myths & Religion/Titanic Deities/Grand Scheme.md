@@ -3,6 +3,7 @@ tags:
   - deities
   - religion
   - titans
+  - deities/kholo
 aliases:
   - The Scheme
 ---
