@@ -23,11 +23,11 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Medicine.
+**Attribute** Wisdom.
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** [Whip Claw](https://2e.aonprd.com/Weapons.aspx?ID=482), Claw.
 **Spells**
 (1) []()
 (2) []()
