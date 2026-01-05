@@ -26,7 +26,7 @@ aliases:
 **Attribute** Charisma.
 **Font** Either.
 **Sanctify** None allowed.
-**Weapons** Whip Staff, Tail.
+**Weapons** [Whip Staff](https://2e.aonprd.com/Weapons.aspx?ID=308), Tail.
 **Spells**
 (1) [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
 (2) [Emphatic Link](https://2e.aonprd.com/Spells.aspx?ID=1115)

@@ -28,7 +28,7 @@ tags:
 **Attribute** Charisma
 **Font** Harm
 **Sanctify** Must Unholy
-**Weapons** Bec de Corbin, Blunderbuss
+**Weapons** [Bec de Corbin](https://2e.aonprd.com/Weapons.aspx?ID=272), [Blunderbuss](https://2e.aonprd.com/Weapons.aspx?ID=196)
 **Spells**
 (1) [Dehydrate](https://2e.aonprd.com/Spells.aspx?ID=1351)
 (2) [Flame Wisp](https://2e.aonprd.com/Spells.aspx?ID=912)

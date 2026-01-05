@@ -27,8 +27,8 @@ aliases:
 **Attribute** Constitution
 **Font** Healing
 **Sanctify** Can Holy
-**Weapons** Hand Cannon
-**Spells** (italics the 3 main ones)
+**Weapons** [Hand Cannon](https://2e.aonprd.com/Weapons.aspx?ID=523)
+**Spells**
 (1) [Flourishing Flora](https://2e.aonprd.com/Spells.aspx?ID=1401)
 **(2)** [Ash Cloud](https://2e.aonprd.com/Spells.aspx?ID=865)
 (3) [Fireworks Blast](https://2e.aonprd.com/Spells.aspx?ID=1284)

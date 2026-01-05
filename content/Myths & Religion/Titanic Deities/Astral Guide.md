@@ -29,7 +29,7 @@ aliases:
 **Attribute** Wisdom.
 **Font** Healing.
 **Sanctify** Must Holy.
-**Weapons** Sun Sling.
+**Weapons** [Sun Sling](https://2e.aonprd.com/Weapons.aspx?ID=248).
 **Spells**
 ***(1)** [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)*
 (2) [Albatross Curse](https://2e.aonprd.com/Spells.aspx?ID=1946)

@@ -27,7 +27,7 @@ aliases:
 **Attribute** Charisma.
 **Font** Heal or Harm.
 **Sanctify** Can Unholy or Holy.
-**Weapons** Whip, Flute Rocket.
+**Weapons** [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Flute Rocket](https://2e.aonprd.com/SiegeWeapons.aspx?ID=53)
 **Spells**
 (1) [Friendfetch](https://2e.aonprd.com/Spells.aspx?ID=860)
 ***(2) [Instant Parade](https://2e.aonprd.com/Spells.aspx?ID=1288)***
