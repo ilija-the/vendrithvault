@@ -21,7 +21,7 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** [Sun](https://2e.aonprd.com/Domains.aspx?ID=92), 
+**Domains** [Sun](https://2e.aonprd.com/Domains.aspx?ID=92), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68), [Lightning](https://2e.aonprd.com/Domains.aspx?ID=111), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124).
 **Alternate** 
 **Skill** Crafting.
 **Attribute** Intelligence.
@@ -29,12 +29,12 @@ aliases:
 **Sanctify** Can choose holy.
 **Weapons** [Sukung](https://2e.aonprd.com/Weapons.aspx?ID=341), [Fire Lance](https://2e.aonprd.com/Weapons.aspx?ID=190).
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Temporary Tool](https://2e.aonprd.com/Spells.aspx?ID=2369)
+(2) [Elemental Zone](https://2e.aonprd.com/Spells.aspx?ID=905)
+(3) [Pyrotechnics](https://2e.aonprd.com/Spells.aspx?ID=645)
+(4) [Creation](https://2e.aonprd.com/Spells.aspx?ID=1477)
+(5) [Lightning Storm](https://2e.aonprd.com/Spells.aspx?ID=2007)
+(6) [Vibrant Pattern](https://2e.aonprd.com/Spells.aspx?ID=1741)
+(7) [Beheading Buzz Saw](https://2e.aonprd.com/Spells.aspx?ID=1365)
+(8) [Prismatic Wall](https://2e.aonprd.com/Spells.aspx?ID=234)
+(9) [Detonate Magic](https://2e.aonprd.com/Spells.aspx?ID=1488)
