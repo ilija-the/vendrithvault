@@ -22,11 +22,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Time, Magic, Void, Decay.
-**Alternate** Change, Water, Artifice (Clerics+).
+**Domains** [Time](https://2e.aonprd.com/Domains.aspx?ID=121), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Decay](https://2e.aonprd.com/Domains.aspx?ID=104).
+**Alternate** [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), Artifice (Clerics+).
 **Skill** Arcana.
 **Attribute** Intelligence.
-**Font** Harm.
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** None allowed.
 **Weapons** [Staff](https://2e.aonprd.com/Weapons.aspx?ID=367).
 **Spells**

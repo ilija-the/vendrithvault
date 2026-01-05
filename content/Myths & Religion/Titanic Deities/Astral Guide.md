@@ -23,8 +23,8 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Luck]
-**Alternate** Void, Star.
+**Domains** [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Luck](https://2e.aonprd.com/Domains.aspx?ID=81), [Moon](https://2e.aonprd.com/Domains.aspx?ID=84), [Cold](https://2e.aonprd.com/Domains.aspx?ID=103.)
+**Alternate** [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Star](https://2e.aonprd.com/Domains.aspx?ID=119).
 **Skill** Survival.
 **Attribute** Wisdom.
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
