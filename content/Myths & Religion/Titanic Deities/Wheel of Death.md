@@ -20,20 +20,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate**
+**Domains** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120), [Plague](https://2e.aonprd.com/Domains.aspx?ID=115), [Cities](https://2e.aonprd.com/Domains.aspx?ID=66).
+**Alternate** [Decay](https://2e.aonprd.com/Domains.aspx?ID=104), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76) (changed).
 **Skill** Stealth.
 **Attribute** Constitution.
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
+**Sanctify** Can choose holy or unholy.
+**Weapons** [Shauth Lash](https://2e.aonprd.com/Weapons.aspx?ID=159), [Shauth Blade](https://2e.aonprd.com/Weapons.aspx?ID=157)
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
+(1) [Pest Form]()
+(2) [Tremorsense]()
+(3) [Moth's Supper]()
+(4) [Bursting Bloom]()
+(5) [Toxic Cloud]()
+(6) [Cursed Metamorphosis]()
 (7) []()
 (8) []()
 (9) []()
