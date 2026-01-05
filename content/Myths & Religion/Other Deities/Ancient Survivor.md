@@ -29,13 +29,13 @@ aliases:
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552) (changed)
 **Sanctify** Can Holy or Unholy.
 **Weapons** [Corset Knife](https://2e.aonprd.com/Weapons.aspx?ID=278), [Coat Pistol](https://2e.aonprd.com/Weapons.aspx?ID=189).
-**Spells**
-***(1) [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348)***
+**Spells** 
+(1) [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348)
 (2) [Erase Trail](https://2e.aonprd.com/Spells.aspx?ID=1117)
-(3) [Mind Reading](https://2e.aonprd.com/Spells.aspx?ID=1602)
-***(4) [Rewrite Memory](https://2e.aonprd.com/Spells.aspx?ID=1655)***
-(5) [Grisly Growths](https://2e.aonprd.com/Spells.aspx?ID=1998)
+(3) [Mind Reading](https://2e.aonprd.com/Spells.aspx?ID=1602)*
+(4) [Rewrite Memory](https://2e.aonprd.com/Spells.aspx?ID=1655)
+(5) [Grisly Growths](https://2e.aonprd.com/Spells.aspx?ID=1998)*
 (6) [Poltergeist's Fury](https://2e.aonprd.com/Spells.aspx?ID=1160)
-***(7) [Possession](https://2e.aonprd.com/Spells.aspx?ID=1638)***
+(7) [Possession](https://2e.aonprd.com/Spells.aspx?ID=1638)*
 (8) [Undermine Reality](https://2e.aonprd.com/Spells.aspx?ID=659)
 (9) [Summon Ancient Fleshforged](https://2e.aonprd.com/Spells.aspx?ID=1256)
