@@ -23,11 +23,11 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Skill** Nature.
+**Attribute** Strength or Wisdom (changed).
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) (changed).
+**Sanctify** Can choose holy.
+**Weapons** [Phalanx Piercer](https://2e.aonprd.com/Weapons.aspx?ID=337), Jaws
 **Spells
 (1) []()
 (2) []()

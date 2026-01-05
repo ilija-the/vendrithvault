@@ -35,5 +35,5 @@ aliases:
 (5) [Pressure Zone](https://2e.aonprd.com/Spells.aspx?ID=1318)
 (6) [Unexpected Transposition](https://2e.aonprd.com/Spells.aspx?ID=1024)
 (7) [Spell Riposte](https://2e.aonprd.com/Spells.aspx?ID=2027)
-(8) []()
-(9) []()
+(8) [Whirlwind](https://2e.aonprd.com/Spells.aspx?ID=1033)
+(9) [Prismatic Sphere](https://2e.aonprd.com/Spells.aspx?ID=232)
