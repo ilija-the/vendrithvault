@@ -22,8 +22,8 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Diplomacy.
+**Attribute** Charisma.
 **Font** 
 **Sanctify** 
 **Weapons** 
