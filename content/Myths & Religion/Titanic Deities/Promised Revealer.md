@@ -21,8 +21,8 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
+**Domains** [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), 
+**Alternate** 
 **Skill** 
 **Attribute** 
 **Font** 
