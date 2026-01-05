@@ -23,11 +23,11 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Nature.
+**Attribute** Wisdom or Charisma.
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** [Khakkhara](https://2e.aonprd.com/Weapons.aspx?ID=412), 
 **Spells
 (1) []()
 (2) []()
