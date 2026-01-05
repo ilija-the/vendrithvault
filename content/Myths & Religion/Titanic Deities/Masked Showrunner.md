@@ -6,20 +6,20 @@ tags:
 aliases:
 ---
 > [!important] WIP!
-> Founder of Philosophian theatre, and a flexible role-based morality that appears chaotic to outsiders.
+> Founder of Philosophian theater, and a flexible role-based morality that appears chaotic to outsiders.
 ### Description
 **Summary** The Masked Showrunner
-**Base of Worship** Extremely pop
-**Appearance, Items and Powers.**
-**Relations, History and Forms.**
+**Base of Worship** Known for being the icon of the Faddish Guilds of Philosophia, of whom many still revere them despite the ban on deity worship in Mogxa. Was once however a staple deity of large parts of Mogxa, known in a softer form than what the Philosophians portray nowadays.
+**Appearance, Items and Powers.** 
+**Relations, History and Forms.** 
 
-**Areas of Concern**
+**Areas of Concern** Theater, masquerades
 **Edicts** 
 **Anathema**
 
 ---
 ### Mechanical Details
-**Domains**
+**Domains** Passion, Confidence, Indulgence, Pain.
 **Alternate**
 **Skill** 
 **Attribute** 
