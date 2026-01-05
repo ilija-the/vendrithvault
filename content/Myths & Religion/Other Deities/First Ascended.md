@@ -22,11 +22,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** [Family](https://2e.aonprd.com/Domains.aspx?ID=74), Ambition, Protection, Change.
-**Alternate** Travel, Might, Revolution (Clerics+).
+**Domains** [Family](https://2e.aonprd.com/Domains.aspx?ID=74), [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90), [Change](https://2e.aonprd.com/Domains.aspx?ID=102).
+**Alternate** [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Might](https://2e.aonprd.com/Domains.aspx?ID=83), Revolution (Clerics+).
 **Skill** Intimidation.
 **Attribute** Dexterity.
-**Font** Either.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Can Holy.
 **Weapons** [Temple Sword](https://2e.aonprd.com/Weapons.aspx?ID=418), Wing.
 **Spells**
