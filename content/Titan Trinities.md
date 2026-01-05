@@ -4,16 +4,23 @@ Inspired by the [[Sibling Dragons]], many titans have at some point or other ent
 
 It is believed that when the Titans were exiled, these titan trinities existed:
 
-[[Trinity of Agriculture and Metropolis]] - also tied to Greed and Generosity. Has been held by [[Bombastic Peace]], [[Twotailed Drake]] and [[Resting Crown]].
+### [[Trinity of Agriculture and Metropolis]].
+Also tied to Greed and Generosity. Has been held by [[Bombastic Peace]], [[Twotailed Drake]] and [[Resting Crown]].
 
-[[Trinity of Duty and Wellbeing]] - also tied to Wrath and Kindness. Has been held by [[Devil Queen of Crimson]], [[Golden Heart]] and [[Immortal Memory]]. 
+### [[Trinity of Duty and Wellbeing]].
+Also tied to Wrath and Kindness. Has been held by [[Devil Queen of Crimson]], [[Golden Heart]] and [[Immortal Memory]]. 
 
-[[Trinity of Invention and Consequence]] - also tied to Gluttony and Temperance. Has been held by the [[Luminous Idea]], [[Primordial Shepherd]] and [[Awaited Architect]].
+### [[Trinity of Invention and Consequence]].
+Also tied to Gluttony and Temperance. Has been held by the [[Luminous Idea]], [[Primordial Shepherd]] and [[Awaited Architect]].
 
-[[Trinity of Paths and Destinies]] - also tied to Pride and Humility. Has been held by [[Relentless Pen]], [[Resting Crown]], [[Imminent Fortune]] and [[Astral Guide]]. 
+### [[Trinity of Paths and Destinies]].
+Also tied to Pride and Humility. Has been held by [[Relentless Pen]], [[Resting Crown]], [[Imminent Fortune]] and [[Astral Guide]]. 
 
-[[Trinity of Relationships and Hierarchy]] - also tied to Lust and Love. Has been held by [[Icen Maiden]], [[Masked Showrunner]] and [[Hooded Saviour]]. 
+### [[Trinity of Relationships and Hierarchy]].
+Also tied to Lust and Love. Has been held by [[Icen Maiden]], [[Masked Showrunner]] and [[Hooded Saviour]]. 
 
-[[Trinity of Samsara and the Veil]] - also tied to Envy and Charity. Has been held by the [[Ancient Survivor]], [[Promised Revealer]] and [[Wheel of Death]].
+### [[Trinity of Samsara and the Veil]].
+Also tied to Envy and Charity. Has been held by the [[Ancient Survivor]], [[Promised Revealer]] and [[Wheel of Death]].
 
-[[Trinity of Will and Power]] - also tied to Sloth and Zeal. Has been held by [[Grand Scheme]], [[Opened Way]] and [[Triumphant Successor]].
+### [[Trinity of Will and Power]],
+Also tied to Sloth and Zeal. Has been held by [[Grand Scheme]], [[Opened Way]] and [[Triumphant Successor]].

@@ -2,7 +2,7 @@ A great many of the stories, teachings, structures and symbols of Vendrith come 
 
 The [[Titans]] often entered into [[Titan Trinities]] representing different approaches or perspectives to similar subjects. In this tradition it is common to see one titan as above the others in a hierarchy akin to the shape of a triangle pointing upward.
 
-In other traditions, trinities are supposed to represent more or less equal positions, or sometimes the 
+In other traditions, trinities are supposed to represent more or less equal positions. Sometimes the triangle is inverted, with the two positions on top representing offshoots from the original position at the bottom.
 
 
 - [[Guilds of Philosophia]]
