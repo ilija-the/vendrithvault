@@ -11,11 +11,11 @@ aliases:
 **Summary** The Masked Showrunner
 **Base of Worship** Was once a household deity for much of lower nobility in Mogxa. Now known for being the icon of the Faddish Guilds of Philosophia, whom often worship the Masked Showrunner despite the Sanitorium ban.
 **Appearance, Items and Powers.** Their two most common forms include wearing a Noh mask of an oni, and wearing a Noh mask of a lady. The former is how they're shown in Philosophia, often clad in hedonistic gear such as leather straps and spikes.
-**Relations, History and Forms.** 
+**Relations, History and Forms.** [[Trinity of Relationships and Hierarchy]]
 
 **Areas of Concern** Nightlife, theatre, sweet and sour fruit.
-**Edicts** 
-**Anathema**
+**Edicts** Celebrate and indulge, lead both a life and a nightlife, try different roles.
+**Anathema** Allow society to normalize you, feel bad about doing what's right for you
 
 ---
 ### Mechanical Details
@@ -25,8 +25,8 @@ aliases:
 **Attribute** Charisma.
 **Font** Heal or Harm.
 **Sanctify** Can Unholy or Holy.
-**Weapons** 
-**Spells** (italics the 3 main ones)
+**Weapons** Whip, 
+**Spells**
 (1) [Friendfetch](https://2e.aonprd.com/Spells.aspx?ID=860)
 (2) [Instant Parade](https://2e.aonprd.com/Spells.aspx?ID=1288)
 (3) [Hypnotize](https://2e.aonprd.com/Spells.aspx?ID=1564)
@@ -34,25 +34,5 @@ aliases:
 (5) [Glimmer of Charm](https://2e.aonprd.com/Spells.aspx?ID=919)
 (6) [Phantom Orchestra](https://2e.aonprd.com/Spells.aspx?ID=1317)
 (7) [Entrancing Eyes](https://2e.aonprd.com/Spells.aspx?ID=649)
-(8) [Uncontrollable Dance]()
-(9) [Phantasmogoria]()
-
-
-One of the [[Titans]].
-[[Philosophia]]
-
-**Pantheon** Philosophian, Titanic
-
-**Trinity** Relationships and Hierarchy
-
----
-
-Founder of Philosophian theatre, and a flexible role-based morality that often appears chaotic to outsiders.
-
----
-
-**Areas of Concern**
-
-**Edicts** Change your roles and perspective in response to life
-
-**Anathema** Allow society to normalize you, feel bad about doing what's right for you
+(8) [Uncontrollable Dance](https://2e.aonprd.com/Spells.aspx?ID=1730)
+(9) [Phantasmogoria](https://2e.aonprd.com/Spells.aspx?ID=1629)
