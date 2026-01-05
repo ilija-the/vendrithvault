@@ -3,29 +3,30 @@ tags:
   - deities
   - religion
   - titans
+  - deities/old
 aliases:
 ---
 > [!important] WIP!
-> Subject to changes.
+> Subject to changes. Divine themes.
 ### Description
-**Summary** The First Ascended
+**Summary** Winged prime of humanity, guardian of the [[Keys of Creation]], and architect of the role of [[Titan|Titanhood]].  Aspiration, adaptability, rejecting boundaries, leadership.
 **Base of Worship** 
-**Appearance, Items and Powers.**
-**Relations, History and Forms.**
+**Appearance, Items and Powers.** Some today, especially certain [[Crusader Sects|sects]], depict the First Ascended as a winged human.
+**Relations, History and Forms.** 
 
-**Areas of Concern**
-**Edicts** 
-**Anathema**
+**Areas of Concern** Aspiration, adaptability, leadership.
+**Edicts** Pursue your proper station, adapt and change throughout your life.
+**Anathema** Lose your humanity in pursuit of power, disrespect a prostitute.
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
+**Domains** 
+**Alternate** 
 **Skill** 
 **Attribute** 
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** Temple Sword, Wing.
 **Spells** (italics the 3 main ones)
 (1) []()
 (2) []()
