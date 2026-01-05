@@ -26,8 +26,8 @@ aliases:
 **Skill** Nature.
 **Attribute** Wisdom or Charisma.
 **Font** 
-**Sanctify** 
-**Weapons** [Khakkhara](https://2e.aonprd.com/Weapons.aspx?ID=412), 
+**Sanctify** Must choose holy.
+**Weapons** [Khakkhara](https://2e.aonprd.com/Weapons.aspx?ID=412), [Slide Pistol](https://2e.aonprd.com/Weapons.aspx?ID=524)
 **Spells
 (1) []()
 (2) []()
