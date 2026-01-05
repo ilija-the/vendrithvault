@@ -29,9 +29,9 @@ aliases:
 **Sanctify** None allowed (changed)
 **Weapons** [Gauntlet](https://2e.aonprd.com/Weapons.aspx?ID=359)
 **Spells
-(1) []()
-(2) []()
-(3) []()
+(1) [Synchronize Steps](https://2e.aonprd.com/Spells.aspx?ID=1126)
+(2) [Voice on the Breeze](https://2e.aonprd.com/Spells.aspx?ID=1325)
+(3) [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516=)
 (4) []()
 (5) []()
 (6) []()
