@@ -23,11 +23,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Truth, Secrecy, Nightmares, Dreams.
-**Alternate** Knowledge, Delirium, Intrigue (Clerics+).
+**Domains** [Truth](https://2e.aonprd.com/Domains.aspx?ID=95), [Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72).
+**Alternate** [Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), Intrigue (Clerics+).
 **Skill** Occultism.
 **Attribute** Wisdom.
-**Font** Harm.
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** None allowed.
 **Weapons** [Bola](https://2e.aonprd.com/Weapons.aspx?ID=433)
 **Spells**

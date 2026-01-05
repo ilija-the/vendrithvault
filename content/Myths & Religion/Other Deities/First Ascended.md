@@ -22,7 +22,7 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Family, Ambition, Protection, Change.
+**Domains** [Family](https://2e.aonprd.com/Domains.aspx?ID=74), Ambition, Protection, Change.
 **Alternate** Travel, Might, Revolution (Clerics+).
 **Skill** Intimidation.
 **Attribute** Dexterity.
