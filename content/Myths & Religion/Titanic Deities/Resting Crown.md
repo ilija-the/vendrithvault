@@ -25,20 +25,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
+**Domains** [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Introspection](https://2e.aonprd.com/Domains.aspx?ID=110), [Perfection](https://2e.aonprd.com/Domains.aspx?ID=89), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85).
+**Alternate** [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77).
 **Skill** Stealth.
 **Attribute** Wisdom.
-**Font** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify** Can choose holy.
 **Weapons** [Shears](https://2e.aonprd.com/Weapons.aspx?ID=446)
 **Spells
-(1) []()
+(1) [Vanishing Tracks](https://2e.aonprd.com/Spells.aspx?ID=1737)
 (2) []()
-(3) []()
+(3) [Cozy Cabin](https://2e.aonprd.com/Spells.aspx?ID=1474)
 (4) []()
 (5) []()
-(6) []()
+(6) [Aura of the Unremarkable](https://2e.aonprd.com/Spells.aspx?ID=847)
 (7) []()
 (8) []()
 (9) []()

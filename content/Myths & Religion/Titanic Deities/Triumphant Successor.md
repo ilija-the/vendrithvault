@@ -22,11 +22,11 @@ aliases:
 ### Mechanical Details
 **Domains**
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Athletics.
+**Attribute** Strength or Dexterity (changed).
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** [Wish Blade](https://2e.aonprd.com/Weapons.aspx?ID=150)
 **Spells
 (1) []()
 (2) []()
