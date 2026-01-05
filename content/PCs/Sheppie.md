@@ -9,7 +9,7 @@ tags:
   - animist
 ---
 [[So-Called Heroes]]
-[[Primordial Sheperd]]
+[[Primordial Shepherd]]
 [[Wheel of Death]]
 
 #people 
