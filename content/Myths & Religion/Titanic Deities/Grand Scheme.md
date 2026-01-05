@@ -25,9 +25,9 @@ aliases:
 **Alternate**
 **Skill** 
 **Attribute** 
-**Font** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify**
-**Weapons** 
+**Weapons** [Shield bo]
 **Spells
 (1) []()
 (2) []()
