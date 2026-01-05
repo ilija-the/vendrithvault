@@ -20,20 +20,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
+**Domains** [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Toil](https://2e.aonprd.com/Domains.aspx?ID=122), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Lightning](https://2e.aonprd.com/Domains.aspx?ID=111)
+**Alternate** [Might](https://2e.aonprd.com/Domains.aspx?ID=83)
 **Skill** Athletics.
 **Attribute** Strength or Dexterity (changed).
-**Font** 
-**Sanctify** 
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** Must choose holy.
 **Weapons** [Wish Blade](https://2e.aonprd.com/Weapons.aspx?ID=150)
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Conductive Weapon](https://2e.aonprd.com/Spells.aspx?ID=1367)
+(2) [Telekinetic Maneuver](https://2e.aonprd.com/Spells.aspx?ID=1717)
+(3) [Haste]()
+(4) [Draw the Lightning]()
+(5) [Telekinetic Haul]()
+(6) [Chain Lightning]()
+(7) [Momentary Recovery]()
+(8) [Monstrosity Form]()
+(9) [Wrathful Storm]()
