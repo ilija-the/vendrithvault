@@ -7,7 +7,7 @@ aliases:
   - The Fortune
 ---
 > [!important] WIP!
-> Subject to changes.
+> Subject to changes. Probably removed in favour of a duo between the Pen and the Guide?
 ### Description
 **Summary** Mistress of victory - the coalescence of luck, determination, fate and willpower.
 **Base of Worship** 
