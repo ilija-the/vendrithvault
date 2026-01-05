@@ -21,11 +21,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Passion, Confidence, Indulgence, Pain.
-**Alternate** Delirium, Fire, Curse (Clerics+).
+**Domains** [Passion](https://2e.aonprd.com/Domains.aspx?ID=88), [Confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [Indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [Pain](https://2e.aonprd.com/Domains.aspx?ID=87).
+**Alternate** [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), Curse (Clerics+).
 **Skill** Performance.
 **Attribute** Charisma.
-**Font** Heal or Harm.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Can Unholy or Holy.
 **Weapons** [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Flute Rocket](https://2e.aonprd.com/SiegeWeapons.aspx?ID=53)
 **Spells**

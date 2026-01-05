@@ -12,7 +12,7 @@ aliases:
 > [!important] WIP!
 > Subject to changes.
 ### Description
-**Summary** A slumbering non-titanic ur-beast's curiosity pierces into our waking world, hungry for knowledge, experience, and especially secrets. Who even knows what would happen if it weren't sated, and awoke once more. The Daydreaming Truth is may be an ur-deity, often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]].
+**Summary** A slumbering non-titanic [[Ur|ur-beast's]] curiosity pierces into our waking world, hungry for knowledge, experience, and especially secrets. Who even knows what would happen if it weren't sated, and awoke once more. The Daydreaming Truth is may be an ur-deity, often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]].
 **Base of Worship** Truth is closely tied to Halflings throughout history, whom despite their mysterious origins, seem drawn to it. Still, many who seek the truth in life seek its help.
 **Appearance, Items and Powers.** A giant shadow blots out the stars of the night sky. Some claim it speaks to them in a dreamlike trance that takes place in mystical sceneries.
 **Relations, History and Forms.** Acknowledged as an acceptable figure of worship by the [[Crusaders]] as part of the [[Truth Concord]], though it is not a faith commonly respected by those who worship titans.
