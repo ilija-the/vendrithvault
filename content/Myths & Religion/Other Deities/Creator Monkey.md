@@ -28,12 +28,12 @@ aliases:
 **Sanctify** None allowed.
 **Weapons** Whip Staff, Tail.
 **Spells**
-(1) [Phantasmal Minion]()
-(2) [Emphatic Link]()
-(3) [Painted Scout]()
-(4) [Chroma Leach]()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Phantasmal Minion](https://2e.aonprd.com/Spells.aspx?ID=1631)
+(2) [Emphatic Link](https://2e.aonprd.com/Spells.aspx?ID=1115)
+(3) [Painted Scout](https://2e.aonprd.com/Spells.aspx?ID=1096)
+(4) [Chroma Leach](https://2e.aonprd.com/Spells.aspx?ID=1976)
+(5) [Wave of Despair](https://2e.aonprd.com/Spells.aspx?ID=1757)
+(6) [Vibrant Pattern](https://2e.aonprd.com/Spells.aspx?ID=1741)
+(7) [Duplicate Foe](https://2e.aonprd.com/Spells.aspx?ID=1505)
+(8) [All is One, One is All](https://2e.aonprd.com/Spells.aspx?ID=815)
+(9) [Falling Stars](https://2e.aonprd.com/Spells.aspx?ID=1521)
