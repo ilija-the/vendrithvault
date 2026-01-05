@@ -12,8 +12,8 @@ aliases:
 
 ### Description
 **Summary** The Ancient Survivor
-**Base of Worship** 
-**Appearance, Items and Powers.**
+**Base of Worship** Very few groups can be said to worship the Ancient Survivor. Those who do however are usually tinged with some state of mind of desperation, 
+**Appearance, Items and Powers.** 
 **Relations, History and Forms.** [[Trinity of Samsara and the Veil]]
 
 **Areas of Concern**
