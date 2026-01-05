@@ -26,7 +26,7 @@ aliases:
 **Font** 
 **Sanctify** 
 **Weapons** 
-**Spells** (italics the 3 main ones)
+**Spells
 (1) []()
 (2) []()
 (3) []()

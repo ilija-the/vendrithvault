@@ -1,17 +1,55 @@
 ---
 tags:
   - deities
+  - religion
+  - deities/old
+  - deities/halfling
+  - deities/ur-deity
+aliases:
+  - Truth
 ---
-A non-titanic deity often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]].
+> [!important] WIP!
+> Subject to changes.
+### Description
+**Summary** A slumbering non-titanic ur-beast's curiosity pierces into our waking world, hungry for knowledge, experience, and especially secrets. Who even knows what would happen if it weren't sated, and awoke once more. The Daydreaming Truth is may be an ur-deity, often connected with the planet of [[Yond]]. Identified by the [[3+1 Theorem]] as the mystical fourth element of the [[Cosmology of Vendrith]]. Acknowledged as an acceptable figure of worship by the [[Crusaders]] as part of the [[Truth Concord]], though it is not a faith commonly respected by those who worship titans.
+**Base of Worship** 
+**Appearance, Items and Powers.**
+**Relations, History and Forms.**
 
-Acknowledged as an acceptable figure of worship by the [[Crusaders]] as part of the [[Truth Concord]], though it is not a faith commonly respected by those who worship titans.
+**Areas of Concern**
+**Edicts** 
+**Anathema**
+
+---
+### Mechanical Details
+**Domains**
+**Alternate**
+**Skill** 
+**Attribute** 
+**Font** 
+**Sanctify** 
+**Weapons** 
+**Spells** (italics the 3 main ones)
+(1) []()
+(2) []()
+(3) []()
+(4) []()
+(5) []()
+(6) []()
+(7) []()
+(8) []()
+(9) []()
+
+
+
+
 
 
 **Pantheon** Halfling, Crusader Alliance
 
 ---
 
-A slumbering non-titanic ur-beast's curiosity pierces into our waking world, hungry for knowledge, experience, and especially secrets. Who even knows what would happen if it weren't sated, and awoke once more.
+
 
 ---
 

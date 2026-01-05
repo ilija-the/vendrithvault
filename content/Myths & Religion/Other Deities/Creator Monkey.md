@@ -2,7 +2,8 @@
 tags:
   - deities
   - religion
-  - titans
+  - deities/ur-deity
+  - deities/old
 aliases:
   - Lively Creator
 ---

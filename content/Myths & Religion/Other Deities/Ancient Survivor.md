@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities/titanic
   - deities/old
   - deities
   - religion
-  - titans
 aliases:
 ---
 > [!important] WIP!

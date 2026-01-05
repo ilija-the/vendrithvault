@@ -27,7 +27,7 @@ aliases:
 **Font** Either.
 **Sanctify** Can Holy.
 **Weapons** [Temple Sword](https://2e.aonprd.com/Weapons.aspx?ID=418), Wing.
-**Spells** (italics the 3 main ones)
+**Spells**
 (1) [Gentle Landing](https://2e.aonprd.com/Spells.aspx?ID=1542)
 (2) [Frog Tongue](https://2e.aonprd.com/Spells.aspx?ID=1953)
 (3) [Feet to Fins](https://2e.aonprd.com/Spells.aspx?ID=1525)
