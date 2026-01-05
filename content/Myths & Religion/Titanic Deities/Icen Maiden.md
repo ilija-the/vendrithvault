@@ -21,13 +21,13 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
+**Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Cold](https://2e.aonprd.com/Domains.aspx?ID=103), [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=96), [Undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
+**Alternate** [Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82)
+**Skill** Society.
 **Attribute** Charisma.
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** None allowed (changed)
+**Weapons** [Gauntlet](https://2e.aonprd.com/Weapons.aspx?ID=359)
 **Spells
 (1) []()
 (2) []()

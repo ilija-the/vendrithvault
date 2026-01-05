@@ -26,7 +26,7 @@ aliases:
 **Alternate** [Plague](https://2e.aonprd.com/Domains.aspx?ID=115), [Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), Intrigue (Clerics+).
 **Skill** Deception.
 **Attribute** Charisma.
-**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552) (changed)
 **Sanctify** Can Holy or Unholy.
 **Weapons** [Corset Knife](https://2e.aonprd.com/Weapons.aspx?ID=278), [Coat Pistol](https://2e.aonprd.com/Weapons.aspx?ID=189).
 **Spells**
