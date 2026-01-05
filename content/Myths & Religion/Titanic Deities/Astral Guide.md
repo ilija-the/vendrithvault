@@ -27,7 +27,7 @@ aliases:
 **Alternate** Void, Star.
 **Skill** Survival.
 **Attribute** Wisdom.
-**Font** Healing.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify** Must Holy.
 **Weapons** [Sun Sling](https://2e.aonprd.com/Weapons.aspx?ID=248).
 **Spells**
