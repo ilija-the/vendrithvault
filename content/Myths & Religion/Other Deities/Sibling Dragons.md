@@ -20,19 +20,19 @@ aliases:
 **Appearance, Items and Powers.**
 **Relations, History and Forms.**
 
-**Areas of Concern**
+**Areas of Concern** 
 **Edicts** 
-**Anathema** Think yourself above falling
+**Anathema** Think yourself above falling.
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
+**Domains** [Metal](https://2e.aonprd.com/Domains.aspx?ID=112), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Dragon](https://2e.aonprd.com/Domains.aspx?ID=106), [Moon](https://2e.aonprd.com/Domains.aspx?ID=84).
+**Alternate** [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Healing](https://2e.aonprd.com/Domains.aspx?ID=78).
+**Skill** Nature.
+**Attribute** Wisdom.
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** [Pick](https://2e.aonprd.com/Weapons.aspx?ID=389), [Wrecker](https://2e.aonprd.com/Weapons.aspx?ID=348), Claw
 **Spells
 (1) []()
 (2) []()
