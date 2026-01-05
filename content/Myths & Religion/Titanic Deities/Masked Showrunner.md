@@ -29,11 +29,11 @@ aliases:
 **Sanctify** Can Unholy or Holy.
 **Weapons** Whip, Flute Rocket.
 **Spells**
-(1) [Friendfetch](https://2e.aonprd.com/Spells.aspx?ID=860)
+***(1) [Friendfetch](https://2e.aonprd.com/Spells.aspx?ID=860)***
 (2) [Instant Parade](https://2e.aonprd.com/Spells.aspx?ID=1288)
 (3) [Hypnotize](https://2e.aonprd.com/Spells.aspx?ID=1564)
 (4) [Mirror's Misfortune](https://2e.aonprd.com/Spells.aspx?ID=951)
-(5) [Glimmer of Charm](https://2e.aonprd.com/Spells.aspx?ID=919)
+***(5) [Glimmer of Charm](https://2e.aonprd.com/Spells.aspx?ID=919)***
 (6) [Phantom Orchestra](https://2e.aonprd.com/Spells.aspx?ID=1317)
 (7) [Entrancing Eyes](https://2e.aonprd.com/Spells.aspx?ID=649)
 (8) [Uncontrollable Dance](https://2e.aonprd.com/Spells.aspx?ID=1730)
