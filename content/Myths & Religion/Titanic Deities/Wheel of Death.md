@@ -22,8 +22,8 @@ aliases:
 ### Mechanical Details
 **Domains** 
 **Alternate**
-**Skill** 
-**Attribute** 
+**Skill** Stealth.
+**Attribute** Constitution.
 **Font** 
 **Sanctify** 
 **Weapons** 
