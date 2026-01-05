@@ -22,15 +22,15 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
+**Domains** 
 **Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Skill** Society
+**Attribute** Intelligence or Strength (changed).
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** Must choose holy.
+**Weapons** [Stiletto Pen](https://2e.aonprd.com/Weapons.aspx?ID=137)
 **Spells
-(1) []()
+(1) [Pocket Library]()
 (2) []()
 (3) []()
 (4) []()
