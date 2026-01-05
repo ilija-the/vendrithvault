@@ -21,17 +21,17 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate** 
+**Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Introspection](https://2e.aonprd.com/Domains.aspx?ID=110), [Darkness]([Introspection](https://2e.aonprd.com/Domains.aspx?ID=110))
+**Alternate** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Sorrow](https://2e.aonprd.com/Domains.aspx?ID=117).
 **Skill** Thievery.
 **Attribute** Dexterity.
 **Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Can choose unholy.
 **Weapons** 
 **Spells
-(1) []()
-(2) []()
-(3) []()
+(1) [Disguise Magic](https://2e.aonprd.com/Spells.aspx?ID=1491)
+(2)
+(3) 
 (4) []()
 (5) []()
 (6) []()
