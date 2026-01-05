@@ -23,20 +23,20 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
-**Alternate**
-**Skill** 
-**Attribute** 
-**Font** 
-**Sanctify** 
-**Weapons** 
+**Domains** 
+**Alternate** 
+**Skill** Diplomacy.
+**Attribute** Charisma or Wisdom (changed).
+**Font** [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** Can choose holy or unholy.
+**Weapons** [Dragon-Mouth Pistol](https://2e.aonprd.com/Weapons.aspx?ID=519), [Bladed Scarf](https://2e.aonprd.com/Weapons.aspx?ID=273).
 **Spells
 (1) []()
-(2) []()
+(2) [Humanoid Form]()
 (3) []()
-(4) []()
+(4) [Reflective Scales]()
 (5) []()
-(6) []()
+(6) [Dragon Form]()
 (7) []()
 (8) []()
 (9) []()
