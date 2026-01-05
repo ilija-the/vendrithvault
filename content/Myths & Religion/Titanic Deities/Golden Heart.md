@@ -5,6 +5,7 @@ tags:
   - titans
   - deities/eydwin
 aliases:
+  - The Heart
 ---
 > [!important] WIP!
 > Subject to changes.

@@ -2,6 +2,8 @@
 aliases:
   - Oathbound Firestorm
   - Devil Queen
+  - The Devil Queen
+  - The Firestorm
 tags:
   - deities
   - religion
