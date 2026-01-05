@@ -16,7 +16,7 @@ aliases:
 
 **Areas of Concern**
 **Edicts** 
-**Anathema**
+**Anathema** Worry about your inevitable death
 
 ---
 ### Mechanical Details
@@ -31,9 +31,9 @@ aliases:
 (1) []()
 (2) []()
 (3) []()
-(4) [Visions of Death]()
+(4) [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742)
 (5) []()
-(6) []()
+(6) [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)
 (7) []()
 (8) []()
 (9) []()
