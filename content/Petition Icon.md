@@ -1,0 +1,1 @@
+Done at a shrine of an icon, requests a deity's cleric spell
