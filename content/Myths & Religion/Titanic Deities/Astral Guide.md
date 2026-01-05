@@ -23,7 +23,7 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Travel, Luck, Moon, Cold.
+**Domains** [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Luck]
 **Alternate** Void, Star.
 **Skill** Survival.
 **Attribute** Wisdom.

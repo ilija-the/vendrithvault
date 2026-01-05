@@ -20,11 +20,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** 
-**Alternate** 
+**Domains** [Air](https://2e.aonprd.com/Domains.aspx?ID=65), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Dragon](https://2e.aonprd.com/Domains.aspx?ID=106).
+**Alternate** [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Time](https://2e.aonprd.com/Domains.aspx?ID=121).
 **Skill** Survival.
 **Attribute** Wisdom.
-**Font** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Can Holy.
 **Weapons** 
 **Spells
