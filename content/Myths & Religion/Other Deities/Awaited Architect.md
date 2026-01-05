@@ -12,9 +12,9 @@ aliases:
 > Subject to changes.
 ### Description
 **Summary** Arbiter and creator of time, or another form time takes on, magic. Has yet to exist, yet is watching all. Said to be analytical side of the [[Creator Monkey|Creator Monkey's]] personality.
-**Base of Worship** Elves and 
-**Appearance, Items and Powers.**
-**Relations, History and Forms.**
+**Base of Worship** Elves, librarians and high mages.
+**Appearance, Items and Powers.** Depicted with a unique staff containing both an hourglass and an endless scroll.
+**Relations, History and Forms.** 
 
 **Areas of Concern**
 **Edicts** 
