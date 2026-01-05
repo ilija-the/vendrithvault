@@ -20,13 +20,13 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains**
+**Domains** [Fate](https://2e.aonprd.com/Domains.aspx?ID=75), [Luck](https://2e.aonprd.com/Domains.aspx?ID=81), [Star](https://2e.aonprd.com/Domains.aspx?ID=119), [Toil](https://2e.aonprd.com/Domains.aspx?ID=122)
 **Alternate**
 **Skill** Diplomacy.
 **Attribute** Charisma.
 **Font** 
 **Sanctify** 
-**Weapons** 
+**Weapons** [Starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
 **Spells
 (1) []()
 (2) []()
