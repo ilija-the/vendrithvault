@@ -21,15 +21,15 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Travel, Luck, Moon, Cold
-**Alternate** Void, Star
-**Skill** Survival
-**Attribute** Wisdom
-**Font** Healing
-**Sanctify** Must Holy
-**Weapons** Sun Sling
+**Domains** Travel, Luck, Moon, Cold.
+**Alternate** Void, Star.
+**Skill** Survival.
+**Attribute** Wisdom.
+**Font** Healing.
+**Sanctify** Must Holy.
+**Weapons** Sun Sling.
 **Spells**
-**(1)** [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)
+***(1)** [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)*
 (2) [Albatross Curse](https://2e.aonprd.com/Spells.aspx?ID=1946)
 (3) [Far Sight](https://2e.aonprd.com/Spells.aspx?ID=1101)
 **(4)** [Soft Landing](https://2e.aonprd.com/Spells.aspx?ID=1164)
