@@ -29,12 +29,12 @@ aliases:
 **Sanctify** Must Holy.
 **Weapons** [Whip Claw](https://2e.aonprd.com/Weapons.aspx?ID=482), [Claw](https://2e.aonprd.com/Rules.aspx?ID=2191).
 **Spells**
-(1) [Liberating Command]
-(2) [Blistering Invective]
-(3) [Day's Weight]()
-(4) [Fire Shield]()
+(1) [Liberating Command](https://2e.aonprd.com/Spells.aspx?ID=2354)
+(2) [Blistering Invective](https://2e.aonprd.com/Spells.aspx?ID=1970)
+(3) [Day's Weight](https://2e.aonprd.com/Spells.aspx?ID=891)
+(4) [Fire Shield](https://2e.aonprd.com/Spells.aspx?ID=1529)
 (5) []()
-(6) [Wall of Metal]()
-(7) [Planar Palace]()
-(8) [Boil Blood]()
-(9) [Upheaval]()
+(6) [Wall of Metal](https://2e.aonprd.com/Spells.aspx?ID=1379)
+(7) [Planar Palace](https://2e.aonprd.com/Spells.aspx?ID=1634)
+(8) [Boil Blood](https://2e.aonprd.com/Spells.aspx?ID=874)
+(9) [Upheaval](https://2e.aonprd.com/Spells.aspx?ID=660)
