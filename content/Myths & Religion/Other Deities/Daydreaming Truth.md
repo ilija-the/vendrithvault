@@ -25,17 +25,17 @@ aliases:
 **Domains** Truth, Secrecy, Nightmares, Dreams.
 **Alternate** Knowledge, Delirium, Intrigue (Clerics+).
 **Skill** Occultism.
-**Attribute** Intelligence.
-**Font** 
-**Sanctify** 
-**Weapons** 
-**Spells** (italics the 3 main ones)
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+**Attribute** Wisdom.
+**Font** Harm.
+**Sanctify** None allowed.
+**Weapons** [Bola](https://2e.aonprd.com/Weapons.aspx?ID=433), 
+**Spells**
+(1) [Sleep](https://2e.aonprd.com/Spells.aspx?ID=1675)
+(2) [Spy's Mark](https://2e.aonprd.com/Spells.aspx?ID=1296)
+(3) [Shadow Spy](https://2e.aonprd.com/Spells.aspx?ID=1163)
+(4) [Countless Eyes](https://2e.aonprd.com/Spells.aspx?ID=1983)
+(5) [Mind Probe](https://2e.aonprd.com/Spells.aspx?ID=1601)
+(6) [Scrying](https://2e.aonprd.com/Spells.aspx?ID=1662)
+(7) [Retrocognition](https://2e.aonprd.com/Spells.aspx?ID=1652)
+(8) [Hypnopompic Terrors](https://2e.aonprd.com/Spells.aspx?ID=1090)
+(9) [Unspeakable Shadow](https://2e.aonprd.com/Spells.aspx?ID=1025)
