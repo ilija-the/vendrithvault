@@ -1,3 +1,3 @@
 Ritual.
 
-Necessary to make or
+Necessary to make working ammunition for firearms, or to make ammunition handled by non-believers function again.
