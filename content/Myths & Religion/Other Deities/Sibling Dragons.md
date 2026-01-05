@@ -11,6 +11,7 @@ aliases:
   - Tritas
   - Kiya
   - Nourishing Bulwark
+  - The Bulwark
 ---
 > [!important] WIP!
 > Subject to changes.

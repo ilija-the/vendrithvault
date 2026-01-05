@@ -5,6 +5,7 @@ tags:
   - titans
   - canath
 aliases:
+  - The Guide
 ---
 > [!important] WIP!
 > Subject to changes. 

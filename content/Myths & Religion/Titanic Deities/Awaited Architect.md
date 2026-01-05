@@ -7,6 +7,7 @@ tags:
   - religion
   - titans
 aliases:
+  - The Architect
 ---
 > [!important] WIP!
 > Subject to changes.

@@ -16,7 +16,7 @@ aliases:
 
 **Areas of Concern**
 **Edicts** Take fair and challenging battles
-**Anathema**
+**Anathema** Hide your intentions, take pride in beating a lesser enemy
 
 ---
 ### Mechanical Details
@@ -37,27 +37,3 @@ aliases:
 (7) []()
 (8) []()
 (9) []()
-
-
-
-
-
-
-
-One of the [[Titans]].
-
-**Pantheon** Titanic
-
-**Trinity** Will and Power
-
----
-
-
-
----
-
-**Areas of Concern**
-
-**Edicts** 
-
-**Anathema** Hide your intentions, take pride in beating a lesser enemy

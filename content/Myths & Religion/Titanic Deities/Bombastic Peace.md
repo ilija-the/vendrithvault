@@ -6,6 +6,7 @@ tags:
   - eydwin
   - canath
 aliases:
+  - The Peace
 ---
 > [!important] WIP!
 > Subject to changes. Further info

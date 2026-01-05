@@ -5,6 +5,7 @@ tags:
   - titans
   - deities/ur-deity
 aliases:
+  - The Fleece
 ---
 > [!important] WIP!
 > Subject to changes. This one is especially not done.

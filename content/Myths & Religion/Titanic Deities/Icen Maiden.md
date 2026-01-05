@@ -5,6 +5,7 @@ tags:
   - titans
 aliases:
   - The Maiden
+  - Tyrant of Philosophia
 ---
 > [!important] WIP!
 > Subject to changes.
