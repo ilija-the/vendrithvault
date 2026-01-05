@@ -30,16 +30,16 @@ aliases:
 **Alternate** [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Healing](https://2e.aonprd.com/Domains.aspx?ID=78).
 **Skill** Nature.
 **Attribute** Wisdom.
-**Font** 
-**Sanctify** 
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
+**Sanctify** None allowed.
 **Weapons** [Pick](https://2e.aonprd.com/Weapons.aspx?ID=389), [Wrecker](https://2e.aonprd.com/Weapons.aspx?ID=348), Claw
 **Spells
-(1) []()
-(2) []()
-(3) []()
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(1) [Leaden Steps](https://2e.aonprd.com/Spells.aspx?ID=2005)
+(2) [Pave Ground](https://2e.aonprd.com/Spells.aspx?ID=1338)
+(3) [Earthbind](https://2e.aonprd.com/Spells.aspx?ID=1506)
+(4) [Spike Stones](https://2e.aonprd.com/Spells.aspx?ID=717)
+(5) [Nature's Pathway](https://2e.aonprd.com/Spells.aspx?ID=1613)
+(6) [Rose's Thorns](https://2e.aonprd.com/Spells.aspx?ID=1294)
+(7) [Heaving Earth](https://2e.aonprd.com/Spells.aspx?ID=1335)
+(8) [Ferrous Form](https://2e.aonprd.com/Spells.aspx?ID=1369)
+(9) [Magnetic Dominion](https://2e.aonprd.com/Spells.aspx?ID=1372)
