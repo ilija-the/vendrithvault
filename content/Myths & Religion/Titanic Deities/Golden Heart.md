@@ -32,9 +32,9 @@ aliases:
 (1) [Liberating Command]
 (2) [Blistering Invective]
 (3) [Day's Weight]()
-(4) []()
+(4) [Fire Shield]()
 (5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(6) [Wall of Metal]()
+(7) [Planar Palace]()
+(8) [Boil Blood]()
+(9) [Upheaval]()
