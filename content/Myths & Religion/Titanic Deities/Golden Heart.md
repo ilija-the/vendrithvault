@@ -3,19 +3,20 @@ tags:
   - deities
   - religion
   - titans
+  - deities/eydwin
 aliases:
 ---
 > [!important] WIP!
 > Subject to changes.
 ### Description
-**Summary** The Golden Heart is the patron of benevolence and justice, as well as of all enslaved or otherwise captive people.
+**Summary** The Golden Heart is the patron of benevolence and justice, as well as of all enslaved or otherwise captive people. The myth says that in a golden valley unbothered by the pressures that keep most kingdoms in the dirt, a sensitive servant girl saw the chains all around herself and her equals. Through a cleansing struggle of the slave masters, the Golden Heart and her sisterhood began the quest to create an imperial paradise of kindness. Deeply connected to a slave rebellion in [[Talvas]].
 **Base of Worship** 
 **Appearance, Items and Powers.**
-**Relations, History and Forms.**
+**Relations, History and Forms.** [[Trinity of Duty and Wellbeing]]
 
 **Areas of Concern**
-**Edicts** 
-**Anathema**
+**Edicts** Destroy slavers, take charge and create a free future
+**Anathema** Fail to liberate a slave
 
 ---
 ### Mechanical Details
@@ -26,7 +27,7 @@ aliases:
 **Font** 
 **Sanctify** 
 **Weapons** 
-**Spells** (italics the 3 main ones)
+**Spells**
 (1) []()
 (2) []()
 (3) []()
@@ -36,24 +37,3 @@ aliases:
 (7) []()
 (8) []()
 (9) []()
-
-
-
-One of the [[Titans]], deeply connected to a slave rebellion in [[Talvas]].
-
-
-**Pantheon** Eydwin, Titanic
-
-**Trinity** Duty and Wellbeing
-
----
-
-The myth says that in a golden valley unbothered by the pressures that keep most kingdoms in the dirt, a sensitive servant girl saw the chains all around herself and her equals. Through a cleansing struggle of the slavemasters, the Golden Heart and her sisterhood began the quest to create an imperial paradise of kindness.
-
----
-
-**Areas of Concern**
-
-**Edicts** Destroy slavers, take charge and create a free future
-
-**Anathema** Fail to liberate a slave

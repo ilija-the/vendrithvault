@@ -1,4 +1,44 @@
-#deities #religion 
+---
+tags:
+  - deities
+  - religion
+  - titans
+aliases:
+  - The Maiden
+---
+> [!important] WIP!
+> Subject to changes.
+### Description
+**Summary** The Icen Maiden
+**Base of Worship** 
+**Appearance, Items and Powers.**
+**Relations, History and Forms.**
+
+**Areas of Concern**
+**Edicts** 
+**Anathema**
+
+---
+### Mechanical Details
+**Domains**
+**Alternate**
+**Skill** 
+**Attribute** 
+**Font** 
+**Sanctify** 
+**Weapons** 
+**Spells
+(1) []()
+(2) []()
+(3) []()
+(4) []()
+(5) []()
+(6) []()
+(7) []()
+(8) []()
+(9) []()
+
+
 
 One of the [[Titans]]. Founder of [[Philosophia]], betrayed by the [[Hooded Saviour]]. As she was "killed" by him, she underwent [[Reverence]] against her will.
 
