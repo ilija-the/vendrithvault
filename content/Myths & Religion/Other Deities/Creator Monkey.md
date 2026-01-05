@@ -6,6 +6,7 @@ tags:
   - deities/old
 aliases:
   - Lively Creator
+  - The Monkey
 ---
 > [!important] WIP!
 > Subject to changes. Arcane and Occult themes.

@@ -5,6 +5,8 @@ tags:
   - titans
   - deities/old
 aliases:
+  - Allfather
+  - The First
 ---
 > [!important] WIP!
 > Subject to changes. Divine themes.

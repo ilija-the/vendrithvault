@@ -4,12 +4,14 @@ tags:
   - deities
   - religion
 aliases:
+  - The Survivor
+  - The Needle
 ---
 > [!important] WIP!
 > Subject to change!
 
 ### Description
-**Summary** Lie, hide, adapt, and overcome. Despite the tyranny of terrible circumstances, there are those who cling on to a primal will to survive - even if only to spite those who sit on top. One such will to life is said to have carried on since the first dawn of vendrith, and inspires others in squalid conditions to do the same.
+**Summary** Lie, hide, adapt, and overcome. Despite the tyranny of terrible circumstances, there are those who cling on to a primal will to survive - even if only to spite those who sit on top. One such will to life is said to have carried on since the first dawn of Vendrith, and inspires others in squalid conditions to do the same.
 **Base of Worship** Very few groups can be said to worship the Ancient Survivor. Those who do tend to harbour intense feelings such as fear (of death), paranoia, and contempt. The unveiling of someone as an Ancient Survivor devotee is often a shock, as its most successful ones lead long lives passing themselves off as anything but, sometimes even falsifying their faiths and infiltrating other religious hierarchies.
 **Appearance, Items and Powers.** The Ancient Survivor is only really identified with the image of a threaded needle. Some of its devotees are said to have grown and morphed in a cancerous way, sometimes multiplying their limbs or growing spikes. 
 **Relations, History and Forms.** [[Trinity of Samsara and the Veil]].
@@ -20,11 +22,11 @@ aliases:
 
 ---
 ### Mechanical Details
-**Domains** Soul, Change, Trickery, Abomination.
-**Alternate** Plague, Undeath, Intrigue (Clerics+).
+**Domains** [Soul](https://2e.aonprd.com/Domains.aspx?ID=118), [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Abomination](https://2e.aonprd.com/Domains.aspx?ID=101).
+**Alternate** [Plague](https://2e.aonprd.com/Domains.aspx?ID=115), [Undeath](https://2e.aonprd.com/Domains.aspx?ID=97), Intrigue (Clerics+).
 **Skill** Deception.
 **Attribute** Charisma.
-**Font** Harm or Heal.
+**Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552).
 **Sanctify** Can Holy or Unholy.
 **Weapons** [Corset Knife](https://2e.aonprd.com/Weapons.aspx?ID=278), [Coat Pistol](https://2e.aonprd.com/Weapons.aspx?ID=189).
 **Spells**

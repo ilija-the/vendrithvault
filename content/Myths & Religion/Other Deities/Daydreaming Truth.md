@@ -7,6 +7,7 @@ tags:
   - deities/ur-deity
 aliases:
   - Truth
+  - The Truth
 ---
 > [!important] WIP!
 > Subject to changes.
