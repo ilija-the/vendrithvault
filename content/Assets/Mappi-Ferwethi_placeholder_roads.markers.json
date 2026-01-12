@@ -19,7 +19,27 @@
       "x": 0.7878791310208824,
       "y": 0.3966035625450411,
       "layer": "default",
-      "link": "",
+      "link": "Piketown",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8cc2ir",
+      "x": 0.7278944013472142,
+      "y": 0.41075012514120096,
+      "layer": "default",
+      "link": "Cocatun",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_922tc3",
+      "x": 0.8583820701347188,
+      "y": 0.6290182724204311,
+      "layer": "default",
+      "link": "Vanderkact",
       "iconKey": "pinRed",
       "tooltip": ""
     }
