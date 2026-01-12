@@ -1,1 +1,8 @@
-A [[Leshy]] [[Familiars|familiar]], strangely owned by another Leshy - [[Gourdon]].
+---
+tags:
+  - people
+  - leshy
+  - campaigns/fool-me-once
+  - familiar
+---
+The [[Leshy|leshy]] [[Familiars|familiar]] of [[Gourdon]], once part of the [[Fools of Veridica]].
