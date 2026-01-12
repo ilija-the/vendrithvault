@@ -82,6 +82,16 @@
       "link": "Longddawn",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_91od0k",
+      "x": 0.9509755018941546,
+      "y": 0.5857487172800331,
+      "layer": "default",
+      "link": "Blissfeldt Coast",
+      "iconKey": "pinRed",
+      "tooltip": ""
     }
   ],
   "bases": [
