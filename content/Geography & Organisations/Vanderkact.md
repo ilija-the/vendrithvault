@@ -3,6 +3,4 @@ tags:
   - places/ferweth
   - road-to-longdawn
 ---
-
-
-Vanderkact is a settlement usually found in the northern [[Crimson Desert]], notable for consisting of mobile homes on wheels that allows it to move like a nomadic herd. These mobile homes were invented and maintained by a lineage of amurrun descended from [[Saint Clover]], the setending with [[Father Emeri]].
+Vanderkact is a settlement usually found in the northern [[Crimson Desert]]. It is notable for consisting of small mobile homes on wheels that allows the settlement to move around, like a nomadic herd. These mobile homes were invented and maintained by a lineage of amurrun descended from [[Saint Clover]], the settlement's patron saint, ending with [[Father Emeri]].
