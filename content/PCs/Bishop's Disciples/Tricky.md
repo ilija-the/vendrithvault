@@ -8,9 +8,6 @@ aliases:
 tags:
   - gnome
   - people
-  - sorcerer
   - call-of-the-cardinals
+  - classes/sorcerer
 ---
-
-
-#people 

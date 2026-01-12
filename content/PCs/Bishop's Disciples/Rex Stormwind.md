@@ -9,6 +9,4 @@ tags:
   - dragon
   - classes/bard
 ---
-Some sort of [[Dragonblood]] that was part of [[Bishop's Disciples]]. A former bandmate of [[Cardinal Rackawn]] that helped turn him away from creating terro
-
-[[Bishop's Disciples]], former bandmate of [[Cardinal Rackawn]].
+Some sort of [[Dragonblood]] that was part of [[Bishop's Disciples]]. A former bandmate of [[Cardinal Rackawn]] that helped turn him away from creating terror alongside desecrators.
