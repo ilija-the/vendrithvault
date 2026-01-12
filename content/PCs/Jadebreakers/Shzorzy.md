@@ -8,7 +8,6 @@ aliases:
   - Shorsh
   - Shorshy
 ---
-A kashrishi (unconfirmed) of [[Philosophia]] that is either an intelligent tinkerer or a prisoner misfit, depending on who you hear it from. Known to have been part of the [[Jadebreakers]].
+A kashrishi (unconfirmed) of [[Philosophia]] that is either an intelligent tinkerer or a prisoner misfit, depending on who you hear it from. Known to have been perhaps the most infamous member of  the [[Jadebreakers]]. 
 
-
-An [[Adventurers|adventurer]] that played a part of the [[Jadefall Crisis]] as one of the [[Jadebreakers]]. 
+Shzorzy once stayed on [[Backbreaker Island]], supposedly over causing the riots that ended as the [[Shadeview Massacre]] with his inflammatory writing and/or speech.
