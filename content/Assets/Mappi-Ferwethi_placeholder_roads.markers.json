@@ -1,0 +1,46 @@
+{
+  "image": "Assets/Mappi-Ferwethi_placeholder_roads.png",
+  "size": {
+    "w": 4500,
+    "h": 3000
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_ohx0ls",
+      "x": 0.7878791310208824,
+      "y": 0.3966035625450411,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "Assets/Mappi-Ferwethi_placeholder_roads.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Mappi-Ferwethi_placeholder_roads.png",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
