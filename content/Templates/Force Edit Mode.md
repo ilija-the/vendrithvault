@@ -1,0 +1,6 @@
+```
+---
+obsidianUIMode: source
+obsidianEditingMode: live
+---
+```
