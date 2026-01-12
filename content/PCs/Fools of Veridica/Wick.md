@@ -4,10 +4,7 @@ tags:
   - undead
   - kholo
   - people
-  - fool-me-once
-  - summoner
+  - campaigns/fool-me-once
+  - classes/summoner
 ---
-[[Fools of Veridica]]
-[[Weatherman]]
-
-#people
+An [[animated skeleton]] summoner of the [[Fools of Veridica]], joined by their eidolon companion [[Weatherman]]. Their current whereabouts or status are unknown.
