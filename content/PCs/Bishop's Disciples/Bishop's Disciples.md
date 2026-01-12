@@ -1,6 +1,7 @@
 ---
 tags:
   - call-of-the-cardinals
+  - parties
 ---
 [[Tricky]]
 [[Rex Stormwind|Rex]]

@@ -14,5 +14,3 @@ aliases:
 ---
 [[Newcomers of Friedport]]. 
 [[Bishop's Disciples]]
-
-#people 

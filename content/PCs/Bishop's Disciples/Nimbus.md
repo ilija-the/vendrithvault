@@ -3,9 +3,6 @@ tags:
   - people
   - call-of-the-cardinals
   - kobold
-  - summoner
+  - classes/summoner
 ---
-[[Bishop's Disciples]] 
-[[Cloud Dragon]]
-
-#people
+A kobold that was part of [[Bishop's Disciples]]. Has control of a [[Cloud Dragon|Cloud Dragon Eidolon]].

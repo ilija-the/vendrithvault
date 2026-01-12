@@ -7,8 +7,8 @@ tags:
   - call-of-the-cardinals
   - dragonblood
   - dragon
-  - bard
+  - classes/bard
 ---
-[[Bishop's Disciples]], former bandmate of [[Cardinal Rackawn]].
+Some sort of [[Dragonblood]] that was part of [[Bishop's Disciples]]. A former bandmate of [[Cardinal Rackawn]] that helped turn him away from creating terro
 
-#people
+[[Bishop's Disciples]], former bandmate of [[Cardinal Rackawn]].
