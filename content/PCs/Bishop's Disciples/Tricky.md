@@ -11,3 +11,4 @@ tags:
   - call-of-the-cardinals
   - classes/sorcerer
 ---
+A [[Gnomes|gnome]] sorcerer 

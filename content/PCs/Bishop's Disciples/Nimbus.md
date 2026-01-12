@@ -5,4 +5,4 @@ tags:
   - kobold
   - classes/summoner
 ---
-A kobold that was part of [[Bishop's Disciples]]. Has control of a [[Cloud Dragon|Cloud Dragon Eidolon]].
+A kobold that was part of [[Bishop's Disciples]]. Has control of a [[Nimbus' Cloud Dragon|Cloud Dragon Eidolon]].
