@@ -85,11 +85,21 @@
     },
     {
       "type": "pin",
-      "id": "marker_91od0k",
-      "x": 0.9509755018941546,
-      "y": 0.5857487172800331,
+      "id": "marker_a37p6p",
+      "x": 0.8971350045692379,
+      "y": 0.4735224609865669,
       "layer": "default",
-      "link": "Blissfeldt Coast",
+      "link": "Veridica",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_egv3jh",
+      "x": 0.8741533678297971,
+      "y": 0.43202783909591147,
+      "layer": "default",
+      "link": "Northpoint",
       "iconKey": "pinRed",
       "tooltip": ""
     }
