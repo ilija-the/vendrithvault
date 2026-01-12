@@ -1,6 +1,6 @@
 ---
 tags:
-  - places
-  - road-to-longdawn
+  - places/ferweth
+  - campaigns/road-to-longdawn
 ---
-A small village in the trees of southeastern [[Ferweth]].
+A village in south-eastern [[Ferweth]], unique for being built in the trees giving a level of safety in elevation. Exports the rare cocoa beans which grow around it.
