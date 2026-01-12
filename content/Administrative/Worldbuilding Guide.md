@@ -9,7 +9,7 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 [[Diegetic Books]].
 [[Timekeeping and Navigation.]]
 [[Language Guide.]]
-[[World Map and Scale.]]
+[[World Scale]]
 ### General Themes
 Things we love to see in Vendrith.
 - Drowning, apparently.
