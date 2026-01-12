@@ -1,0 +1,1 @@
+In certain parts of the world [[Saint|Saints]] are worshipped either as deific figures in themselves, or as conduits or icons of deities. Most known for this is the region of [[Ferweth]], which often has different patron saints for each settlement depending on its historical and local monstrous threats, such as [[C]]
