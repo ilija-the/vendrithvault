@@ -42,6 +42,46 @@
       "link": "Vanderkact",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_fu2xy1",
+      "x": 0.6563862507857658,
+      "y": 0.6394057061095899,
+      "layer": "default",
+      "link": "Twinberry",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_uzem2e",
+      "x": 0.44240118867873496,
+      "y": 0.5068214806063323,
+      "layer": "default",
+      "link": "Spireview",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_xknfxy",
+      "x": 0.6547690252010386,
+      "y": 0.3287419194915463,
+      "layer": "default",
+      "link": "Barony of Rabarb",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_itk5v3",
+      "x": 0.40324260760405733,
+      "y": 0.21370229007123503,
+      "layer": "default",
+      "link": "Longddawn",
+      "iconKey": "pinRed",
+      "tooltip": ""
     }
   ],
   "bases": [
