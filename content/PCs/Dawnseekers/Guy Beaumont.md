@@ -5,6 +5,4 @@ tags:
   - alchemist
   - people
 ---
-Son of [[Petunia Beaumont]]. [[Dawnseekers]].
-
-#people 
+A [[Humans|human]] alchemist of [[Rraka]] that participated in the [[Dawnseekers]]. Son of [[Petunia Beaumont]]. 

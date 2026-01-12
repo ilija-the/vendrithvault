@@ -1,4 +1,4 @@
-A group formed in [[Rraka]] to aid the [[Forgotten Dawn Society]] in exploring a tomb uncovered under the marketplace.
+A group formed in [[Rraka]] to aid [[Abmetsar]] (of the [[Forgotten Dawn Society]]) in exploring a tomb uncovered under the marketplace.
 
 PCs:
 [[Isla]]

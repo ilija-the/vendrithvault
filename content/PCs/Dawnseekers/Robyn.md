@@ -5,4 +5,4 @@ tags:
   - classes/kineticist
   - forgotten-dawn
 ---
-A [[Goblins]]
+A [[Goblins|goblin]] kineticist of [[Rraka]] that participated in the [[Dawnseekers]].

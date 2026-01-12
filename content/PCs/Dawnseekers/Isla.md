@@ -5,7 +5,4 @@ tags:
   - inventor
   - forgotten-dawn
 ---
-[[Dawnseekers]]
-
-
-#people
+An [[Amurrun|amurrun]] inventor of [[Rraka]] that participated in the [[Dawnseekers]].
