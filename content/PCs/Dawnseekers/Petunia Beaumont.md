@@ -3,7 +3,8 @@ aliases:
   - Petunia
 tags:
   - people
-  - forgotten-dawn
   - human
+  - campaigns/forgotten-dawn
+  - classes/thaumaturge
 ---
 A [[Humans|human]] thaumaturge of [[Rraka]] that participated in the [[Dawnseekers]]. Mother of [[Guy Beaumont]].

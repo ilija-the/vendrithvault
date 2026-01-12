@@ -8,7 +8,7 @@ aliases:
 tags:
   - gnome
   - people
-  - call-of-the-cardinals
   - classes/sorcerer
+  - campaigns/call-of-the-cardinal
 ---
 A [[Gnomes|gnome]] sorcerer that was part of [[Bishop's Disciples]]. 
