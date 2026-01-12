@@ -2,8 +2,12 @@
 tags:
   - people
   - conrasu
-  - oracle
+  - campaigns/fool-me-once
+  - classes/oracle
 ---
-A [[Conrasu]] [[Adventurers|adventurer]] Really a discarded duplicate body double that endured the [[Magus Assassination Attempt]] against the [[Magus in the High Tower]]. Later went to the [[Crusader Sects]]' town of [[Veridica]]. Current status is unknown.
+
+
+
+A [[Conrasu|conrasu]] oracle of the [[Fools of Veridica]]. Believed to be have once been a body double that endured an [[Magus Assassination Attempt|assassination attempt]] against the [[Magus in the High Tower]].
 
 #people 
