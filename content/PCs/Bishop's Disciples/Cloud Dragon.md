@@ -5,5 +5,3 @@ tags:
   - dragon
 ---
 [[Nimbus]]' [[Eidolon]].
-
-#people 
