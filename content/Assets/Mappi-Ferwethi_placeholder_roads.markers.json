@@ -121,7 +121,9 @@
     "travelDaysEnabled": false,
     "metersPerPixel": 552.0965443441232
   },
-  "pinSizeOverrides": {},
+  "pinSizeOverrides": {
+    "pinRed": 48
+  },
   "panClamp": true,
   "drawLayers": [],
   "drawings": [],
