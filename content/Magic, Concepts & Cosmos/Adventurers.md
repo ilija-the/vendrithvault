@@ -48,7 +48,7 @@ Player Character adventurers:
 [[Kai]]
 [[Minky]]
 [[Sheppie]]
-[[Valentine]]
+[[Valentine Volmari]]
 [[Guy Beaumont]]
 [[Petunia Beaumont]]
 [[Robyn]]
