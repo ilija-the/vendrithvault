@@ -11,4 +11,4 @@ tags:
   - call-of-the-cardinals
   - classes/sorcerer
 ---
-A [[Gnomes|gnome]] sorcerer 
+A [[Gnomes|gnome]] sorcerer that was part of [[Bishop's Disciples]]. 
