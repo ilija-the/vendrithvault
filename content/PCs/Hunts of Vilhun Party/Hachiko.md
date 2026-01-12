@@ -5,6 +5,8 @@ tags:
   - people
   - goblin
   - pc
+  - classes/magus
+  - campaigns/hunts-of-vilhun
 ---
 Full title is Hachiko bin Abusabaku Abarone.
 

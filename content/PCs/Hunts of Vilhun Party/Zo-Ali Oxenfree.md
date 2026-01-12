@@ -3,6 +3,8 @@ tags:
   - people
   - pc
   - automaton
+  - campaigns/hunts-of-vilhun
+  - classes/guardian
 aliases:
   - The Ox
 ---
