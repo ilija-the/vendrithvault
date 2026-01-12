@@ -112,11 +112,14 @@
   "overlays": [],
   "activeBase": "Assets/Mappi-Ferwethi_placeholder_roads.png",
   "measurement": {
-    "displayUnit": "auto-metric",
-    "scales": {},
+    "displayUnit": "mi",
+    "scales": {
+      "Assets/Mappi-Ferwethi_placeholder_roads.png": 552.0965443441232
+    },
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
-    "travelDaysEnabled": false
+    "travelDaysEnabled": false,
+    "metersPerPixel": 552.0965443441232
   },
   "pinSizeOverrides": {},
   "panClamp": true,
