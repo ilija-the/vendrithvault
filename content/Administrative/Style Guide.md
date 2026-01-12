@@ -17,15 +17,15 @@ Tip: Proper quotation marks (") cannot be used in titles, but you can use double
 ### Tags
 Adding proper tags to your article should be top priority, as it is easily forgotten later if not. Always get the most appropriate tag down if possible. The main tags of this wiki as of now are:
 
-#people  #places  #events  #society  #religion #cosmos 
+#people  #places  #events  #society  #religion #cosmos #campaigns #classes 
 
-You are also recommended to do a nested tag if possible - particularly for #places. An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
+You are also recommended to do a nested tag if possible - particularly for #places, #campaigns  and #classes. An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
 
 The format for a nested place tag is then: 
 	``places/``
-	``continental region/`` that being either Iduria, Eydwin or Horiza
 	``region/`` such as Canath, Mogxa or Horizan Peninsula
-	``specific locale/`` such as a tavern, a famous rock or an academy
+	``settlement/`` such as Philoso
+	``specific locale/`` tavern, a famous rock or an academy
 
 Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
 
