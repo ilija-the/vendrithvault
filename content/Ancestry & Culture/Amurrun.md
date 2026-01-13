@@ -8,6 +8,7 @@ aliases:
   - babelists
 ---
 
+
 One of the [[Ancestries of Vendrith]].
 
 Once the middle-class builders of [[Hightower Civilisation|Hightower Civilisations]].
