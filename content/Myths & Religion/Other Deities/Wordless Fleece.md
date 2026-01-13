@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/ur-deity
+  - religion/deities/ur
+  - religion/deities/dragon
 aliases:
   - The Fleece
 ---

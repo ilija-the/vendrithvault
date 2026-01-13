@@ -1,9 +1,8 @@
 ---
 tags:
   - places/canath/vön
+  - campaigns/winter-campaign
 ---
-#winter-campaign #places 
-
 Source of the legend of the [[Vestitur Relics]], which were made when the castle near [[Riverside]] briefly was the capital.
 
 Occasionally exports [[Whitetar]]. Rumoured to be a source of [[Blackice]]. 

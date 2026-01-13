@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/eydwin
+  - religion/deities/eydwin
+  - religion/deities/titans
 aliases:
   - The Heart
 ---
