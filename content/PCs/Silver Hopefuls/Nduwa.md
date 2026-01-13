@@ -1,7 +1,7 @@
 ---
 tags:
   - people/pc
-  - ancestries/rabbitfolk
+  - ancestries/kholo
   - campaigns/eyes-of-ire
-  - classes/kineticist
+  - classes/ranger
 ---
