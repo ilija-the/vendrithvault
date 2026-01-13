@@ -2,7 +2,6 @@
 aliases:
   - Gordon
 tags:
-  - circles
   - wereforged
   - campaigns/circles
   - ancestries/automaton

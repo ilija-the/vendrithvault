@@ -1,8 +1,8 @@
 ---
 tags:
-  - people
-  - aiuvarin
   - campaigns/circles
+  - people/pc
+  - ancestries/aiuvarin
 aliases:
   - Val
 ---
