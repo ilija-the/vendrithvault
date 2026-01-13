@@ -1,9 +1,9 @@
 ---
 tags:
   - eidolon
-  - people
   - primal
   - campaigns/landcrab-plot
+  - people/companion
 ---
 [[Gator Grippli]]
 [[Eidolon]]
