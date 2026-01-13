@@ -9,6 +9,6 @@ tags:
   - ancestries/dhampir
   - undead
 ---
-A fancily dressed shoony rogue that may or may not be a [[Dhampir]]. Acting and speaking rather overconfidently, he's often seen with his paws on the table sipping wine, either talking himself up or hitting on others. 
+A fancily dressed shoony rogue that may or may not be a [[Dhampir]]. Acting and speaking rather overconfidently, he's often seen with his paws on the table sipping wine, either talking himself up or hitting on others. He quite obviously appears to have fallen for the physically imposing but oblivious dragonblood [[Cantro]].
 
-Has travelled [[Ferweth]] on the road to [[Longddawn]] with the [[So-Called Heroes]]. In a (polyamorous) marriage with [[Dominic Volmari]].
+Has travelled [[Ferweth]] on the road to [[Longddawn]] with the [[So-Called Heroes]], and has had to confront his urges to partake in sucking blood and eating raw flesh. In a (polyamorous) marriage with [[Dominic Volmari]].
