@@ -5,7 +5,7 @@ tags:
   - rabbitfolk
   - classes/inventor
 ---
-
+A well-known rabbitfolk inventor, and the adoptive son of the equally famous 
 
 
 
