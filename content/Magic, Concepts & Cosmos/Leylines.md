@@ -2,7 +2,7 @@
 
 [[Magnus Strike]]
 [[Magus in the High Tower]]
-[[Blackout Parade]]
+[[Landcrab Plot]]
 [[Pactlaw]]
 [[Philosophia]]
 [[Leyline Problem]]

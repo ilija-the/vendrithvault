@@ -5,6 +5,6 @@ tags:
   - places/horiza/friedport
 ---
 [[Friedport]]
-[[Blackout Parade]]
+[[Landcrab Plot]]
 
 

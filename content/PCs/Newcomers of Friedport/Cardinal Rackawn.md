@@ -12,6 +12,6 @@ A red strix bard that is as famous for his charisma and performances as he is in
 
 Cardinal, together with desecrators, was involved in the kidnapping of [[Bishop the Peacemaker]], but were stopped just short of blowing up a glacier over Newshore by [[Bishop's Disciples]]. Bishop did however die in the incident, leading Cardinal and Ionelle to be kept in the disciple's custody for a while after. Eventually however, they were both released.
 
-After being released, Cardinal Rackawn found his way to Friedport, where he had not yet made an audience. Here he sought to meet the former disciple [[Louen Leonceur]], before he learned he had recently passed. Perhaps feeling like he owed a debt, Cardinal chose to help the [[Newcomers of Friedport]] that had just lost their teammate. In doing so, he helped bring an end to the [[Blackout Parade|Landcrab Plot]], and also won great fame as a loud and boisterous solo competitor at the [[Summer Games]].
+After being released, Cardinal Rackawn found his way to Friedport, where he had not yet made an audience. Here he sought to meet the former disciple [[Louen Leonceur]], before he learned he had recently passed. Perhaps feeling like he owed a debt, Cardinal chose to help the [[Newcomers of Friedport]] that had just lost their teammate. In doing so, he helped bring an end to the [[Landcrab Plot|Landcrab Plot]], and also won great fame as a loud and boisterous solo competitor at the [[Summer Games]].
 
 Cardinal is nowadays believed to be travelling with [[Gator Grippli]] and [[Princess Ionelle]].
