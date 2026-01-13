@@ -9,7 +9,7 @@ A hobgoblin soldier dedicated to [[Daydreaming Truth|Truth]]. Once a commander i
 
 After fleeing, Bande Aparte wandered vast stretches of Vendrith afterwards looking for purpose. He once partook in a heist in [[Encanath]] for the [[Vestitur Relics]] with [[Goldsheen]], but was betrayed by the supposed buyer of the relics - [[Auldwell Fareawel|Perckle d'Rits]] - at the last hurdle. After reaching [[Philosophia]] he learned of [[Jade the Just|Jade the Just's]] cause and became a convinced agent of him, but after the events of [[Jadefall Crisis|Jadefall]] Bande Aparte once again left disillusioned and without a cause. Eventually reaching [[Singsong]], he managed to get on a convoy headed for [[New World - Horiza|Horiza]]. 
 
-In Horiza he reached [[]]
+In Horiza he became acquainted with Gator Grippli and Ashur Holdok of the [[Newcomers of Friedport]], whom he began working with. Here he would be falsely accused of having smuggled the Vestitur Relics to Friedport, during which the newcomers managed to uncover the respected local tavernkeep AuldwellBande Aparte's contributions played an essential role in uncovering the [[Blackout Parade|Landcrab Plot]]. 
 
 A [[Hobgoblins|hobgoblin]] [[Crusaders|crusader]] [[Adventurers|adventurer]] dedicated to the [[Daydreaming Truth]] that has served both [[Jade the Just]] and [[General Architrave]]. Later played a part in solving the [[Blackout Parade]]. Former mentor of the founding figures of the [[Moonless Night]], including [[Lykas]]. [[Crusader Armies]]
 
