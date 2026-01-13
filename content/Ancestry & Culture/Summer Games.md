@@ -1,5 +1,9 @@
-#events 
-
+---
+tags:
+  - society
+  - campaigns/landcrab-plot
+  - places/horiza/friedport
+---
 [[Friedport]]
 [[Blackout Parade]]
 

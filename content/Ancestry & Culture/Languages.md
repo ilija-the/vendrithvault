@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 Consists of [[Ancestral Languages]] as well as a number of Common Languages.
 
 Regional common languages:
