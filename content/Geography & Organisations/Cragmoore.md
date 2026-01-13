@@ -3,9 +3,7 @@ aliases:
   - Cragmoor
   - Cragrock
 tags:
-  - places
-  - galae
-  - settlement
+  - places/galae
 ---
 Sometimes called the ''eastern capital'' of [[Galae]]. Governed by the [[Magistrate of Cragrock]], known for being tyrannical but effective.
 

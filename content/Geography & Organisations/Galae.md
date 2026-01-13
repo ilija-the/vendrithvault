@@ -3,9 +3,7 @@ aliases:
   - Galaekor
   - Galae
 tags:
-  - places
-  - galae
-  - iduria
+  - places/iduria
 ---
 ### **Overview**
 A historical region that today is quite contested in its extent. It lies in between [[Ferweth]] to the northwest, [[Mogxa]] to the east and [[Encanath]] to the west and south. It also shares a small jungle border with [[Nagonkor]].

@@ -1,6 +1,5 @@
 ---
 tags:
-  - places
-  - galae
+  - places/galae
 ---
 Note: to be named.

@@ -1,7 +1,5 @@
 ---
 tags:
-  - places
-  - galae
-  - nagonkor
-  - iduria
+  - places/nagonkor
+  - places/galae
 ---
