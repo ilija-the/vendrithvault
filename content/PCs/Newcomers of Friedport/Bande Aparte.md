@@ -1,12 +1,13 @@
 ---
 tags:
-  - people
-  - hobgoblin
   - campaigns/landcrab-plot
   - classes/investigator
-  - pc
+  - people/pc
+  - ancestries/hobgoblin
+  - crusaders
+  - sanitationists
 ---
-A hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption, and believed his closest comrade in arms [[Lykas]] had actually been killed for it. 
+A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption, and believed his closest comrade in arms [[Lykas]] had actually been killed for it. 
 
 After fleeing, Bande Aparte wandered vast stretches of Vendrith afterwards looking for purpose. He once partook in a heist in [[Encanath]] for the [[Vestitur Relics]] with [[Goldsheen]], but was betrayed by the supposed buyer of the relics - [[Auldwell Fareawel|Perckle d'Rits]] - at the last hurdle. After reaching [[Philosophia]] he learned of [[Jade the Just|Jade the Just's]] and became a convinced agent of his cause, but after the events of [[Jadefall Crisis|Jadefall]] Bande Aparte once again left disillusioned. Eventually reaching [[Singsong]], he smuggled himself onto a convoy headed for [[New World - Horiza|Horiza]]. Landing in [[Friedport]], Bande Aparte became acquainted with [[Gator Grippli]] and [[Ashur Holdok]], whom he began working with as the [[Newcomers of Friedport]].
 
