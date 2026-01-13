@@ -1,7 +1,7 @@
 ---
 tags:
-  - people
-  - kobold
+  - people/npc
+  - ancestries/kobold
 aliases:
   - Kobomber
 ---

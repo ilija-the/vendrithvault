@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - canath
+  - religion/deities/titans
+  - places/canath
 aliases:
   - The Guide
 ---

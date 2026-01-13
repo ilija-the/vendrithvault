@@ -1,9 +1,9 @@
 ---
 tags:
-  - people
-  - circles
-  - human
-  - necromancer
+  - necromancy
+  - ancestries/human
+  - campaigns/circles
+  - people/npc
 ---
 [[Valeira|Val]]
 [[Jade the Just]]

@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - eydwin
-  - canath
+  - religion/deities/titans
+  - places/eydwin
+  - places/canath
 aliases:
   - The Peace
 ---
