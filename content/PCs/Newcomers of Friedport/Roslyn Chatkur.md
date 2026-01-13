@@ -1,6 +1,5 @@
 ---
 tags:
-  - Amurrun
   - classes/rogue
   - campaigns/landcrab-plot
   - people/pc
