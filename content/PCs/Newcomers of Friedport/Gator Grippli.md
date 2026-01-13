@@ -7,11 +7,11 @@ tags:
   - people/pc
   - ancestries/trip-kee
 ---
-
+A small green trip-kee known for wearing a cowboy hat. As a summoner, he is usually accompanied by his alligator-like eidolon [[Schnappi]].
 
 
 [[Newcomers of Friedport]]
-[[Schappi]]
+[[Schnappi]]
 
 Taken a [[Devil Deal]] with the [[Good Doctor]].
 
