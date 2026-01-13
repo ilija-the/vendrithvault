@@ -2,6 +2,8 @@
 tags:
   - places
   - restricted
+aliases:
+  - Eydwin
 ---
 A name for the lands that begin south of the [[Old World - Iduria]], as split up by the [[Rubyfirth Bay]] and a vague land border south of [[Canath]].
 
