@@ -1,6 +1,8 @@
 ---
 tags:
   - places
+aliases:
+  - Horiza
 ---
 A great mass of land found beyond the [[World Fleece]] to the east of the [[Old World - Iduria]] as part of the [[Discovery of Horiza]].
 
