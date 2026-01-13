@@ -4,6 +4,7 @@ tags:
   - campaigns/welcome-to-friedport
   - rabbitfolk
   - classes/inventor
+  - pc
 ---
 A well-known rabbitfolk inventor, and the adoptive son of the equally famous inventor [[Borgrumm Holdok]]. After he was framed for Borgrumm's murder he fled the city of [[Cragmoore]] with the aid of [[Antoine Dumas]] and [[Sister Amelie Kenton|Amelie Kenton]], eventually safely reaching [[Friedport]]. Here he met [[Bande Aparte]] and [[Gator Grippli]] with whom he formed the [[Newcomers of Friedport]]. Ashur met his end to an agent of the [[Ocean King]] in the city, but was eventually reincarnated with the help of his companions, as well as a returned Amelie Kenton, the Mage Hero [[Zcaldon]] and the mysterious local primal entity the [[Reedmother]]. 
 

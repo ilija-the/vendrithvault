@@ -4,6 +4,7 @@ tags:
   - hobgoblin
   - campaigns/landcrab-plot
   - classes/investigator
+  - pc
 ---
 A hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption, and believed his closest comrade in arms [[Lykas]] had actually been killed for it. 
 

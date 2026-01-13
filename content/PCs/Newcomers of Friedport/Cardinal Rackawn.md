@@ -1,11 +1,14 @@
 ---
 tags:
   - people
-  - call-of-the-cardinals
-  - landcrab-plot
   - strix
   - barbarian
-  - bard
+  - npc
+  - pc
+  - campaigns/call-of-the-cardinal
+  - campaigns/landcrab-plot
+  - classes/bard
+  - classes/barbarian
 ---
 [[Newcomers of Friedport]]
 Defeated by [[Bishop's Disciples]], in particular [[Rex Stormwind|Rex]] and [[Louen Leonceur]].

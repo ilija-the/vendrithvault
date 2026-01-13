@@ -6,5 +6,6 @@ tags:
   - human
   - campaigns/forgotten-dawn
   - classes/thaumaturge
+  - pc
 ---
 A [[Humans|human]] thaumaturge of [[Rraka]] that participated in the [[Dawnseekers]]. Mother of [[Guy Beaumont]].

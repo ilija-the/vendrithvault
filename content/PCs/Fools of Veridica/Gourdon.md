@@ -4,6 +4,7 @@ tags:
   - people
   - campaigns/fool-me-once
   - classes/druid
+  - pc
 ---
 > [!important] Similar names warning!
 > Not to be confused with Gordon of the Jadebreakers, with whom Gourdon has no relation.

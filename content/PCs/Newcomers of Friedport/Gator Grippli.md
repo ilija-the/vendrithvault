@@ -3,9 +3,10 @@ aliases:
   - Gator Trip-Kee
 tags:
   - people
-  - summoner
   - trip-kee
-  - landcrab-plot
+  - pc
+  - classes/summoner
+  - campaigns/landcrab-plot
 ---
 [[Newcomers of Friedport]]
 [[Schappi]]
