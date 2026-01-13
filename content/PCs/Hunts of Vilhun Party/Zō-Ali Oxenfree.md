@@ -1,10 +1,9 @@
 ---
 tags:
-  - people
-  - pc
-  - automaton
   - campaigns/hunts-of-vilhun
   - classes/guardian
+  - people/pc
+  - ancestries/automaton
 aliases:
   - The Ox
 ---

@@ -1,9 +1,8 @@
 ---
 tags:
-  - people
-  - Amurrun
   - classes/inventor
   - campaigns/forgotten-dawn
-  - pc
+  - people/pc
+  - ancestries/amurrun
 ---
 An [[Amurrun|amurrun]] inventor of [[Rraka]] that participated in the [[Dawnseekers]].

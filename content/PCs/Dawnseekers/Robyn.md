@@ -1,9 +1,8 @@
 ---
 tags:
-  - people
-  - goblin
   - classes/kineticist
   - campaigns/forgotten-dawn
-  - pc
+  - people/pc
+  - ancestries/goblin
 ---
 A [[Goblins|goblin]] kineticist of [[Rraka]] that participated in the [[Dawnseekers]].
