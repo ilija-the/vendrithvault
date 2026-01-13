@@ -10,7 +10,7 @@ tags:
 > [!important] Similar names warning!
 > Not to be confused with Gourdon of the Fools of Veridica, with whom Sir Gordon has no relation.
 
-A [[Wereforged|wereforged]] of [[Philosophia]] that 
+A [[Wereforged|wereforged]] of [[Philosophia]] that defected from [[Backbreaker Island]] with the [[Jadebreakers]], becoming a popular icon of resistance against Jade the Just. 
 
 
 A [[Wereforged|wereforged]] [[Adventurers|adventurer]] partially responsible for the [[Jadefall Crisis]]. 

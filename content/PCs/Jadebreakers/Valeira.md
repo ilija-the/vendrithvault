@@ -1,16 +1,9 @@
 ---
 tags:
-  - circles
   - people
   - aiuvarin
-  - pc
+  - campaigns/circles
 aliases:
   - Val
 ---
-An [[Adventurers|adventurer]] of [[Philosophia]] that played a hand in the [[Jadefall Crisis]] as part of the [[Jadebreakers]].
-[[Paeul]]
-
-[[Necromancy]]
-
-
-#people 
+An aiuvarin orphan of [[Philosophia]] that was adopted by the famous [[Necromancy|necromancer]] [[Paeul]], and whom learned from his ways. Known to have been imprisoned on [[Backbreaker Island]], where she co-founded the [[Jadebreakers]].
