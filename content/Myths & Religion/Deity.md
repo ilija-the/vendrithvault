@@ -1,4 +1,7 @@
-#deities 
+---
+tags:
+  - religion
+---
 An extremely powerful creature or force. The most commonly known and worshipped form of deity used to be the [[Titans]]. 
 
 Many religions don't consider their deities to be titans, though the term titan is sometimes applied to them anyways when they appear to be similar.

@@ -1,8 +1,6 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
+  - religion/deities/titans
 aliases:
   - The Wheel
 ---

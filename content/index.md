@@ -15,4 +15,4 @@ Alternatively you can browse the tags at the bottom of this page, or check out t
 > Its a work in progress. This wasn't even written by Ilija >:)
 > <p align="right">— Vauxs</p>
 
-See #places, #people, #deities, #religion , #cosmos, or #events!
+See #places, #people, #religion , #cosmos, or #events!

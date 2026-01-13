@@ -1,8 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
+  - religion/deities/titans
+  - religion/deities/philosophia
 aliases:
   - The Maiden
   - Tyrant of Philosophia

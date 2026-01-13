@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/kholo
+  - religion/deities/kholo
+  - religion/deities/titans
 aliases:
   - The Scheme
 ---

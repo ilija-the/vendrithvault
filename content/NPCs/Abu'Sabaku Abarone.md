@@ -1,7 +1,7 @@
 ---
 tags:
-  - people
-  - goblin
+  - ancestries/goblin
+  - people/pc
 aliases:
   - Father Abarone
 ---
