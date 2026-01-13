@@ -1,8 +1,10 @@
 ---
 aliases:
   - adventurer
+tags:
+  - society
 ---
-#society 
+
 [[Adventurer Crisis]]
 
 Parties
