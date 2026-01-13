@@ -7,13 +7,7 @@ aliases:
   - Krynn Meister
   - Krynn
 tags:
-  - people
-  - religion
-  - landcrab-plot
-  - saint
+  - people/npc
+  - religion/saint
+  - campaigns/landcrab-plot
 ---
-
-
-
-
-#people #religion #deceased
