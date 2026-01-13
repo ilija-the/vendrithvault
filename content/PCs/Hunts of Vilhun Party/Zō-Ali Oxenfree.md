@@ -15,4 +15,4 @@ Full title is Zo-Ali Oxenfree of Abarone. Also known as "The Ox."
 
 Guardian and Charge of [[Hachiko]].
 
-*Shield [[Guardian]] [[Automatons|Automaton]]*.
+*Warrior [[Automatons|Automaton]] Shield [[Guardian]]*.
