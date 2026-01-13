@@ -1,12 +1,11 @@
 ---
 tags:
-  - kitsune
   - classes/cleric
-  - people
   - campaigns/call-of-the-cardinal
   - campaigns/landcrab-plot
   - classes/champion
-  - pc
+  - people/pc
+  - ancestries/kitsune
 aliases:
   - Louen
   - Lu-Wen
