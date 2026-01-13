@@ -1,9 +1,9 @@
 ---
 tags:
-  - people
-  - kashrishi
   - classes/inventor
   - campaigns/circles
+  - people/pc
+  - ancestries/kashrishi
 aliases:
   - Shorsh
   - Shorshy
