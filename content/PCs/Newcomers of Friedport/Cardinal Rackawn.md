@@ -8,7 +8,7 @@ tags:
   - people/pc
   - people/npc
 ---
-
+A famous and infamous strix bard. 
 
 [[Newcomers of Friedport]]
 Defeated by [[Bishop's Disciples]], in particular [[Rex Stormwind|Rex]] and [[Louen Leonceur]].
