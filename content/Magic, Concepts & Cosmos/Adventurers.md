@@ -1,9 +1,12 @@
 ---
 aliases:
   - adventurer
+  - adventurers
 tags:
   - society
 ---
+
+
 
 [[Adventurer Crisis]]
 
