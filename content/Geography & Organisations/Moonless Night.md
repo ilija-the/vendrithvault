@@ -1,2 +1,4 @@
-A secretive group of [[Crusaders]] founded by soldiers inspired by that sought to reveal corruption and mistreatment kept in the shadows. Helped bring [[General Architrave]] and his half-brother [[Hallan Aerf]] to justice, and aided [[Bande Aparte]] .
+A secretive group of [[Crusaders]] dedicated to [[Daydreaming Truth|truth]] that sought to reveal corruption and mistreatment kept in the shadows. Helped bring [[General Architrave]] to justice as his misconduct was revealed and he was hanged on the orders of the [[Iron Lotus]]. [[Lykas]], the group's founder, pushed the Moonless Night to spend much time hunting for signs of life of their former commander, [[Bande Aparte]]. After remotely making contact with someone they believed might be Bande Aparte in [[New World - Horiza|Horiza]] with the aid of an [[Oracle]] and reflecting communicative magic off the surface of [[Yond]], they cooperated to stop 
+
+[[Hallan Aerf]] to justice, and aided [[Bande Aparte]] .
 
