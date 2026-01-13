@@ -4,8 +4,10 @@ tags:
   - lizardfolk
   - dragonblood
   - dragon
-  - barbarian
-  - road-to-longdawn
+  - campaigns/road-to-longdawn
+  - classes/barbarian
+  - ancestries/iruxi
+  - ancestries/dragonblood
 ---
 [[So-Called Heroes]]
 Some sort of connection with [[Dragons]].
