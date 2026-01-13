@@ -1,9 +1,7 @@
 ---
 tags:
-  - people
-  - leshy
   - campaigns/fool-me-once
-  - familiar
-  - pc
+  - ancestries/leshy
+  - people/companion
 ---
 The [[Leshy|leshy]] [[Familiars|familiar]] of [[Gourdon]], once part of the [[Fools of Veridica]].
