@@ -1,15 +1,3 @@
-A group of adventurers originally consisting of [[Ashur Holdok]], [[Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Blackout Parade|Landcrab Plot]] and stop [[Operation Blackout]]. 
+A group of adventurers originally consisting of [[Ashur Holdok]], [[Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Blackout Parade|Landcrab Plot]] and stop [[Operation Blackout]]. Gator, Ashur, Roslyn, Magnus and Cardinal all participated in the [[Summer Games]], which earned them the titles (unofficially, in the case of Cardinal) of [[Herō of Friedport]]. 
 
-
-[[Friedport]]
-[[Herō of Friedport]]
-
-[[Gator Grippli]]
-[[Ashur Holdok]]
-[[Bande Aparte]]
-[[Louen Leonceur]]
-[[Sebastian Faust]]
-[[Cardinal Rackawn]]
-[[Roslyn Chatkur]]
-[[Magnus Strike]]
-[[Suite Feul]]
+After these events Ashur pushed for government reform and settled down making a successful tinkershop in Friedport, whilst the rest would mostly go on their separate ways. Roslyn ended sailing with the [[Queen of Grog]], Magnus working for the [[Magus in the High Tower]], while 
