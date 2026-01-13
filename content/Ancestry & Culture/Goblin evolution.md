@@ -1,3 +1,6 @@
+---
+tags:
+---
 [[Humans]]
 [[Goblinoids]]
 [[Goblins]]

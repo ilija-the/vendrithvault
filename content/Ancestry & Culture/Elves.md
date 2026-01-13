@@ -1,8 +1,8 @@
 ---
 tags:
   - restricted
-  - ancestry
   - society
+  - ancestries
 ---
 
 One of the [[Ancestries of Vendrith]].

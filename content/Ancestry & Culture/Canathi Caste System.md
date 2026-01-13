@@ -1,4 +1,7 @@
-#society 
+---
+tags:
+  - society
+---
 [[Canath]]
 
 [[Canathi Guildwar]]
