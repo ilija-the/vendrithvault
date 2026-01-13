@@ -1,9 +1,9 @@
 ---
 tags:
   - kholo
-  - alchemist
-  - welcome-to-friedport
   - people
+  - campaigns/welcome-to-friedport
+  - classes/alchemist
 ---
 [[Welcoming Party]]
 

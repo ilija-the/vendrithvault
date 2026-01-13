@@ -1,1 +1,5 @@
-#people 
+---
+tags:
+  - people
+  - campaigns/landcrab-plot
+---
