@@ -1,4 +1,14 @@
-#people #landcrab-plot 
+---
+tags:
+  - people/npc
+  - campaigns/call-of-the-cardinal
+  - campaigns/landcrab-plot
+  - ancestries/human
+aliases:
+  - Belladonna
+  - Belle Belladonna
+---
+
 
 A fabled [[Witch]] often spoken in hushed tones about by commonfolk, though known by many influential figures of the last century. She is feared for a number of great exercised of magical power during the last century, though none have happened since the [[Witch Concordat]], which she signed.
 

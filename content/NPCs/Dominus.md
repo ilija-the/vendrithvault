@@ -1,6 +1,7 @@
 ---
 tags:
-  - people
-  - fool-me-once
+  - people/npc
+  - campaigns/fool-me-once
+"":
 ---
 Was a council member of [[Veridica]].
