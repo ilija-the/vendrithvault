@@ -1,7 +1,6 @@
 ---
 tags:
   - campaigns/circles
-  - minotaur
   - people/pc
   - ancestries/minotaur
 ---

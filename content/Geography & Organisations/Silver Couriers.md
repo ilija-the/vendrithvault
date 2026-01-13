@@ -1,7 +1,5 @@
 ---
 tags:
   - society
-  - encanath
-  - canath
-  - vön
+  - places/canath/vön
 ---
