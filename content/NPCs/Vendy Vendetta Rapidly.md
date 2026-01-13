@@ -1,3 +1,7 @@
+---
+tags:
+  - ancestries/human
+---
 #people #call-of-the-cardinals #landcrab-plot 
 
  [[Friedport]]
