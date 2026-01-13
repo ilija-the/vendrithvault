@@ -9,7 +9,8 @@ Consists of:
 
 Has also been accompanied on their journey by:
 Captain Dorothy
-Gnome whose name I for
+Gnome whose name I forget
+The monkey bros?
 
 ###### Alternate names
 The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians.
