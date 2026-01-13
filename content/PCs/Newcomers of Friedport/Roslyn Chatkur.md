@@ -9,6 +9,6 @@ An amurrun doctor graduated from [[Singsong]], whom has always made an effort to
 
 After the deed on the ship, she was hired by the Fat Tiger to hunt for the famously stolen and missing [[Vestitur Relics]], which he believed to be in the area. Outclassing her fellow thieves [[Gozi Windaji]] and [[Vendy Vendetta Rapidly]] also employed by the Tiger to do the same, she initially drew the duo's ire.
 
-On Bigthraun island, Roslyn, Magnus and the newcomers encountered the pirates of the [[Queen of Grog]] as they hunted for the Vestitur Relics. It was here she recovered the Vestitur Triparte Crown. 
+On Bigthraun island, Roslyn, Magnus and the newcomers encountered the pirates of the [[Queen of Grog]] as they hunted for the Vestitur Relics. It was here she recovered the Vestitur Triparte Crown. After Gozi and Vendy later almost robbed the newcomers of the crown, it was revealed the duo was after buying their own freedom from the Fat Tiger's contractual obligations by recovering the relics, which Roslyn conceded helping with. As part of uncovering the remaining [[Blackout Parade|Landcrab Plot]], the Vestitur Tablet was tracked down, though it was unfortunately destroyed. 
 
-After almost being robbed by Gozi and 
+Despite these achievements, as well as winning the [[Summer Games]] and earning the title of [[Herō of Friedport]], Roslyn has largely avoided the public eye. It is believed she now sails with the [[Queen of Grog]], after having earned her respect.
