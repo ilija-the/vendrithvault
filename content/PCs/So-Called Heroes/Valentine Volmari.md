@@ -2,10 +2,11 @@
 aliases:
   - Valentine
 tags:
-  - shoony
-  - people
-  - road-to-longdawn
-  - rogue
-  - dhampir
+  - ancestries/shoony
+  - people/pc
+  - campaigns/road-to-longdawn
+  - classes/rogue
+  - ancestries/dhampir
+  - undead
 ---
-A shoony rogue of Ferweth that may or may not be a [[Dhampir]], thought to have travelled with the [[So-Called Heroes]]. Married to [[Dominic Volmari]].
+A fancy-looking and cocky shoony rogue that may or may not be a [[Dhampir]]. Has travelled [[Ferweth]] on the road to [[Longddawn]] with the [[So-Called Heroes]]. Married to [[Dominic Volmari]].
