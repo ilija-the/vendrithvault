@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/philosophia
-  - deities/dragon
+  - religion/deities/dragon
+  - religion/deities/philosophia
+  - religion/deities/titans
 aliases:
   - The Drake
 ---

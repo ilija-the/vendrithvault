@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/philosophia
-  - deities/human
+  - religion/deities/human
+  - religion/deities/titans
+  - religion/deities/philosophia
 aliases:
   - The Crown
   - Idur

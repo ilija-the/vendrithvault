@@ -1,6 +1,5 @@
 ---
 tags:
-  - deities/vilhun
   - religion/deities/vilhun
   - magic/primal
 aliases:

@@ -3,6 +3,7 @@ tags:
   - deities
   - religion
   - deities/ur-deity
+  - religion/deities/ur
 aliases:
 ---
 > [!important] WIP!

@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/orcish
+  - religion/deities/orc
+  - religion/deities/ur
 aliases:
 ---
 > [!important] WIP!
