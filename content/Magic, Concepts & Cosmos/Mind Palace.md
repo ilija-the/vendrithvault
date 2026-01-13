@@ -2,7 +2,7 @@
 tags:
   - cosmos
   - secret
-  - landcrab-plot
+  - campaigns/landcrab-plot
 ---
 A strange [[Planes of Vendrith|Plane]] that [[Bande Aparte]] reached while [[Lykas]] communicated with him remotely. Appeared as a meteorite (floating rock) in space with the planet of [[Yond]] looming over even larger than it is seen from Materia. Contains a throne like that of Vestitur, which Bande Aparte first woke up chained to.
 

@@ -1,4 +1,10 @@
-#people #landcrab-plot 
+---
+tags:
+  - people/npc
+  - ancestries/human
+  - campaigns/landcrab-plot
+---
+
 
 [[Friedport]]
 [[Veducia]]

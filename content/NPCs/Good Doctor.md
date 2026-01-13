@@ -1,10 +1,9 @@
 ---
 tags:
-  - people
-  - landcrab-plot
-  - call-of-the-cardinals
+  - campaigns/landcrab-plot
+  - campaigns/call-of-the-cardinal
+  - people/npc
 ---
-#people #landcrab-plot 
 
 
 A [[Devil]] of [[Crimson]] that jumps between the bodies of people in situations where they might make a [[Devil Deal]], manifesting as one of the host's eyes. Potentially linked to the [[Sanitorium]].

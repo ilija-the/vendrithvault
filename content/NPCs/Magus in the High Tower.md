@@ -1,5 +1,10 @@
-#people #landcrab-plot #fool-me-once 
-
+---
+tags:
+  - people/npc
+  - ancestries/human
+  - campaigns/fool-me-once
+  - campaigns/landcrab-plot
+---
 A legendary magus that largely acts as a recluse, but occasionally enters the public eye to give grand predictions or warnings. 
 
 He's lived for quite a while, appearing in records going back to before the [[War Over Haeven]]. 
