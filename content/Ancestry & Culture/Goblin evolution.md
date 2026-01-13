@@ -1,5 +1,6 @@
 ---
 tags:
+  - ancestries/goblinoid
 ---
 [[Humans]]
 [[Goblinoids]]

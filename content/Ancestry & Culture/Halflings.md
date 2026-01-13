@@ -1,3 +1,8 @@
+---
+tags:
+  - ancestries
+  - society
+---
 #society 
 One of the [[Ancestries of Vendrith]].
 
