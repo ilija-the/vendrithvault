@@ -3,8 +3,8 @@ aliases:
   - automaton
 tags:
   - construct
-  - ancestry
   - restricted
+  - ancestries
 ---
 Automatons are a mechanical species designed after the [[Elves]]. A lot more crude than their ancient inspirations, they are most commonly found in [[Vilhun]] by nature of being invented there by the [[Steel Lord]].
 

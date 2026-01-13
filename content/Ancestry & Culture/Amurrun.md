@@ -1,6 +1,6 @@
 ---
 tags:
-  - ancestry
+  - ancestries
 aliases:
   - Catfolk
   - catfolk
