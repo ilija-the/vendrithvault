@@ -1,9 +1,11 @@
 ---
 tags:
   - ancestries/human
+  - campaigns/welcome-to-friedport
+  - campaigns/call-of-the-cardinal
+  - campaigns/landcrab-plot
+  - people/npc
 ---
-#people #call-of-the-cardinals #landcrab-plot 
-
  [[Friedport]]
  [[Vestitur Relics]]
  [[The Fat Tiger]]
