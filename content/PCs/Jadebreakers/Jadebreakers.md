@@ -3,7 +3,7 @@ tags:
   - campaigns/circles
   - parties
 ---
-A [[Philosophia|Philosophian]] group that were at the centre of the [[Jadefall Crisis]].
+The Jadebreakers are a [[Philosophia|Philosophian]] group that were at the centre of the [[Jadefall Crisis]].
 
 The group is known to consist of:
 [[Valeira]], an aiuvarin necromancer.

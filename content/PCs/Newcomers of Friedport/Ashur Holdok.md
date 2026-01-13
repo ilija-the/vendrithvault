@@ -1,4 +1,13 @@
-#people 
+---
+tags:
+  - people
+  - campaigns/welcome-to-friedport
+  - rabbitfolk
+  - classes/inventor
+---
+
+
+
 
 [[Friedport]]
 [[Herō of Friedport]]
