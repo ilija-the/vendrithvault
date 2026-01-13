@@ -1,8 +1,7 @@
 ---
 tags:
-  - deities/vilhun
-  - religion
-  - occult
+  - magic/occult
+  - religion/deities/vilhun
 aliases:
   - The Lost Lord
   - Forgotten Lord

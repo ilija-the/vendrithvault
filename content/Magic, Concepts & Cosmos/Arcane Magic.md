@@ -1,4 +1,7 @@
-#magic #arcane
-
+---
+tags:
+  - magic/arcane
+  - cosmos
+---
 [[Wizard]]
 [[Witch]]

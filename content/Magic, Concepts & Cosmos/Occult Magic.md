@@ -1,3 +1,5 @@
-#occult #magic 
-
+---
+tags:
+  - magic/occult
+---
 [[Occultism]]

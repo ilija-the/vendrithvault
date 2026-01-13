@@ -1,8 +1,7 @@
 ---
 tags:
-  - religion
-  - divine
-  - deities/vilhun
+  - religion/deities/vilhun
+  - magic/divine
 aliases:
   - The Free Lord
 ---

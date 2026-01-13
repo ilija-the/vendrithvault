@@ -1,8 +1,7 @@
 ---
 tags:
-  - deities/vilhun
-  - religion
-  - arcane
+  - religion/deities/vilhun
+  - magic/arcane
 aliases:
   - The Steel Lord
 ---

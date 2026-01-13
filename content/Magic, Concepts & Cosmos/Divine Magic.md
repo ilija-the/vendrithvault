@@ -1,2 +1,7 @@
-#divine #magic 
+---
+tags:
+  - magic/divine
+  - cosmos
+  - religion
+---
 
