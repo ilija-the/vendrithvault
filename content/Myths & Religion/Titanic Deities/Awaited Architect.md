@@ -1,11 +1,9 @@
 ---
 tags:
-  - deities/titanic
   - deities/elven
   - deities/old
-  - deities
-  - religion
-  - titans
+  - religion/deities/titans
+  - religion/deities/old
 aliases:
   - The Architect
 ---

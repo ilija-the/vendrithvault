@@ -1,11 +1,9 @@
 ---
 tags:
-  - deities
-  - religion
-  - deities/ur-deity
-  - deities/dragon
-  - titans
-  - deities/dwarven
+  - religion/deities
+  - religion/deities/ur
+  - religion/deities/dwarf
+  - religion/deities/dragon
 aliases:
   - Velf
   - Tritas
