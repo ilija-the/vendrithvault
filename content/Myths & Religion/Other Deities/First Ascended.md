@@ -1,9 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/old
+  - religion/deities/old
+  - religion/deities/titans
+  - ancestries/human
 aliases:
   - Allfather
   - The First

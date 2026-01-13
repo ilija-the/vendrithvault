@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/dragon
-  - deities/old
+  - religion/deities/dragon
+  - religion/deities/old
+  - religion/deities/titans
 aliases:
   - The Pen
 ---

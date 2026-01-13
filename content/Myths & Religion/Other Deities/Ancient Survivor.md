@@ -1,8 +1,6 @@
 ---
 tags:
-  - deities/old
-  - deities
-  - religion
+  - religion/deities/old
 aliases:
   - The Survivor
   - The Needle

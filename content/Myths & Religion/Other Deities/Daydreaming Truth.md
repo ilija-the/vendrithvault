@@ -1,10 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - deities/old
-  - deities/halfling
-  - deities/ur-deity
+  - religion/deities/ur
+  - religion/deities/old
+  - religion/deities/halfling
 aliases:
   - Truth
   - The Truth

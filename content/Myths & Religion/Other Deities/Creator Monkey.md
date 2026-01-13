@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - deities/ur-deity
-  - deities/old
+  - religion/deities/ur
+  - religion/deities/old
 aliases:
   - Lively Creator
   - The Monkey

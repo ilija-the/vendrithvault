@@ -1,9 +1,8 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/old
+  - religion/deities/titans
+  - religion/deities/old
+  - religion/deities/halfling
 aliases:
   - The Shepherd
 ---

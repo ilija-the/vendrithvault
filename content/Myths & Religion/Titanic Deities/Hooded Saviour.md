@@ -1,9 +1,7 @@
 ---
 tags:
-  - deities
-  - religion
-  - titans
-  - deities/old
+  - religion/deities/titans
+  - religion/deities/old
 aliases:
   - The Saviour
 ---
