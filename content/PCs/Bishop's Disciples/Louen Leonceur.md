@@ -6,6 +6,7 @@ tags:
   - campaigns/call-of-the-cardinal
   - campaigns/landcrab-plot
   - classes/champion
+  - pc
 aliases:
   - Louen
   - Lu-Wen

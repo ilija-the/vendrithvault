@@ -10,5 +10,6 @@ tags:
   - people
   - classes/sorcerer
   - campaigns/call-of-the-cardinal
+  - pc
 ---
 A [[Gnomes|gnome]] sorcerer that was part of [[Bishop's Disciples]]. 
