@@ -1,10 +1,8 @@
 ---
 tags:
-  - people
-  - Amurrun
-  - investigator
-  - road-to-longdawn
+  - ancestries/amurrun
+  - classes/investigator
+  - campaigns/road-to-longdawn
+  - people/pc
 ---
-[[So-Called Heroes]]
-
-#people 
+An amurrun investigator attempts to stay on the straight and narrow. Has 
