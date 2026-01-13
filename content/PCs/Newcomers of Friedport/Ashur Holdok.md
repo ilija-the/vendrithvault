@@ -9,4 +9,4 @@ A well-known rabbitfolk inventor, and the adoptive son of the equally famous inv
 
 With the Newcomers, Ashur would eventually go on to save the city from the [[Blackout Parade|Landcrab Plot]]. In the process, he won the [[Summer Games]] and earned the title [[Herō of Friedport]], as well as enough prestige to push for government reform (ending the tripartite system) and to start up a successful tinkershop.
 
-Ashur was gifted a metal jaguar-like construct companion named [[Jacques]] by his father, which he has since maintained, and himself invented his flying metal owl named [[Volaire]].
+Ashur was gifted a metal jaguar-like construct companion named [[Jacques]] by his father, which he has since maintained, and Ashur himself invented his flying metal owl named [[Volaire]].

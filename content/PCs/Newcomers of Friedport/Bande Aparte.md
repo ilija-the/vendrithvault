@@ -11,4 +11,4 @@ After fleeing, Bande Aparte wandered vast stretches of Vendrith afterwards looki
 
 In Friedport, Bande Aparte stood trial over the false allegations of having smuggled the Vestitur Relics to Friedport, during which the newcomers managed to uncover the respected local tavernkeep Auldwell Fareawel as Perckle d'Ritz, a smuggler, and a secret crusader partisan. Eventually having to temporarily fake his own death to save his comrades, Bande Aparte's contributions played an essential role in uncovering and stopping the [[Blackout Parade|Landcrab Plot]], as well as locating the missing Vestitur Relics.
 
-Unbeknownst to Bande Aparte, his trusted comrade Lykas had survived back in the [[Old World - Iduria|old world]], and together with many of Bande Aparte's former soldiers created the secretive [[Moonless Night]] to uncover the corruption and lies across the crusader cause.
+Unbeknownst to Bande Aparte until the end of the plot, his trusted comrade Lykas had survived back in the [[Old World - Iduria|old world]], and together with many of Bande Aparte's former soldiers created the secretive [[Moonless Night]].
