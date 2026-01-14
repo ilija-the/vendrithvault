@@ -1,4 +1,9 @@
-#events
-Also known as Helish Crusades. Historical events in which armies or [[Adventurers]]s from [[Materia]] marched on a plane of Hell, as often occupied by [[Devil]]s or [[Demon]]s.
+---
+tags:
+  - events
+aliases:
+  - Helish Crusade
+---
+Also known as Helish Crusades. Helmarches are attempted incursions by armies or [[Adventurers|adventurers]] from [[Materia]] to attack, purge, destroy or occupy a plane of [[Hel]]. Many times this has involved taking a side in the [[Bloodwar]] by (temporarily or not) allying with [[Devil|]]
 
-Currently, the plane of [[Crimson]] is a plane of hell. Some of the [[Sanitorium]] have pushed for a helmarch on Crimson to aid the [[Demonic Brigade]] in their [[Bloodwar]] against the [[Devil Queen of Crimson]].
+Currently, the plane of [[Crimson]] is a plane of Hel. Some Crusaders have suggested doing a helmarch to help destroy the [[Demonic Brigade]] once and for all.
