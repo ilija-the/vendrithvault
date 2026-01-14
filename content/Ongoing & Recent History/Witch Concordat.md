@@ -1,1 +1,1 @@
-A lesser [[Concordat]] signed by a number of [[Witch|witches]] and the [[Sanitorium]].
+A lesser [[Concordats]] signed by a number of [[Witch|witches]] and the [[Sanitorium]].

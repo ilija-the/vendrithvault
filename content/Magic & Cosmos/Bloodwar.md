@@ -2,6 +2,7 @@
 tags:
   - society
   - cosmos/planes/hel
+  - events
 ---
 A war between [[Demon]]s and [[Devil]]s, usually in a plane of [[Hel]]. 
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - cosmos
+  - magic
 ---
 Related to [[Mythos of Vendrith]]
 

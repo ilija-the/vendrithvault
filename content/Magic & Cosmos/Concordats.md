@@ -4,6 +4,7 @@ tags:
   - cosmos
   - society
   - religion
+  - events
 ---
 A powerful magically binding legal document that establishes rules of the world. The secrets, power and agreement necessary to create a concordat means it happens very rarely. 
 
