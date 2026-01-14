@@ -10,13 +10,4 @@ Since the [[The Great Silence|Great Silence]], some [[Crusader Sects]] following
 
 In more recent history, many researchers claim the Leylines have behaved eratically, shifted courses, and sometimes even appeared and disappeared. This has been dubbed the [[Leyline Problem]]. 
 
-
-
-[[Magnus Strike]]
-[[Magus in the High Tower]]
-[[Landcrab Plot]]
-[[Pactlaw]]
-[[Philosophia]]
-[[Leyline Problem]]
-[[Utopian Theory]]
-[[Great Flow]]
+During the culmination of the [[Landcrab Plot]] it is believed leylines were used to empower the large swathes of golems unleashed on the city of [[Friedport]], as well as on the barrier put around the city by the [[Magus in the High Tower]].
