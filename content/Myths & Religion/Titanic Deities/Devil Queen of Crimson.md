@@ -5,8 +5,8 @@ aliases:
   - The Devil Queen
   - The Firestorm
 tags:
-  - cosmos/crimson
   - religion/deities/titans
+  - cosmos/planes/crimson
 ---
 > [!important] WIP!
 > Subject to changes.
