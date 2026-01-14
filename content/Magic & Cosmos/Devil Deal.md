@@ -1,3 +1,13 @@
+---
+tags:
+  - society
+  - monsters/devils
+  - magic
+---
+
+
+
+
 [[Devil]]
 [[Sanitorium]]
 [[Good Doctor]]
