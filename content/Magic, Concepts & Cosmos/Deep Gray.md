@@ -1,2 +1,0 @@
-#cosmos
-[[Cosmology of Vendrith]]
