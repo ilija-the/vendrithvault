@@ -1,4 +1,7 @@
-#cosmos
+---
+tags:
+  - cosmos/planes
+---
 [[Cosmology of Vendrith]]
 
 Like the [[World Fleece]] is considered the outer "edges" of [[Materia]], so Cloudrealm is sometimes considered the "top" edge of Materia. 

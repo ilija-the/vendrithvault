@@ -1,3 +1,10 @@
+---
+tags:
+  - magic
+  - cosmos
+  - society
+  - religion
+---
 A powerful magically binding legal document that establishes rules of the world. The secrets, power and agreement necessary to create a concordat means it happens very rarely. 
 
 Many details of old concordats have been forgotten, resulting in the need for experimentation and archaeology to rediscover rules, exceptions, clauses and possibilities.
