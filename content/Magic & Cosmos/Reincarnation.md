@@ -1,3 +1,8 @@
+---
+tags:
+  - magic
+  - cosmos
+---
 [[Resurrection]]
 [[Necromancy]]
 [[Occult Magic]]
