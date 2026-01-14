@@ -10,7 +10,7 @@ aliases:
 > [!important] WIP!
 > Subject to changes. Divine themes.
 ### Description
-**Summary** Winged prime of humanity, guardian of the [[Keys of Creation]], and architect of the role of [[Titan|Titanhood]] as told in the [[Mythos of Vendrith]]. A long faded deity, the first ascended creates common ground between those who worship him as a deity, or merely as a great example to all other humanoids.
+**Summary** Winged prime of humanity, guardian of the [[Keys of Creation]], and architect of the role of [[Titan|Titanhood]] as told in the [[Mythos of Vendrith]]. A long faded deity, the first ascended creates common ground between those who worship him as a deity, or merely as a great example to all other humanoids. The First Ascended existed during [[Prehistory]], and thus little is known with absolute certainty. He is likely to have been the first leader of the [[Flock of Man]].
 **Base of Worship** 
 **Appearance, Items and Powers.** Some today, especially certain [[Crusader Sects|sects]], depict the First Ascended as a winged human.
 **Relations, History and Forms.** Ancestor of the [[Icen Maiden]].
