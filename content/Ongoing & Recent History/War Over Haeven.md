@@ -12,4 +12,4 @@ This started the age known as [[The Great Silence]].
 
 This also marked the beginning of the [[Eternal Crusade]], a conflict between [[Crusaders]] and the [[Sanitorium]].
 
-[[Creation of Crimson]]
+[[Crimson#Creation of Crimson.]]

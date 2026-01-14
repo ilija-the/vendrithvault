@@ -10,8 +10,9 @@ tags:
 ---
 > [!important] WIP!
 > Subject to changes.
+
 ### Description
-**Summary** The fiercely loyal lead soldier once served as the Guardian [[Angel]] of [[Haeven]], now turned Queen of [[Devil|Devils]]. During the war over heaven, she turned swathes of Galae into a desert of blood carving out the plane of [[Crimson]], from which she continues the fight with her devil armies and serves as a pseudo-titan.
+**Summary** The fiercely loyal lead soldier once served as the Guardian [[Angel]] of [[Haeven]], now turned Queen of [[Devil|Devils]]. During the war over heaven, she turned swathes of Galae into a desert of blood [[Crimson#Creation of Crimson.|carving out]] the plane of [[Crimson]], from which she continues the fight with her devil armies and serves as a pseudo-titan.
 **Base of Worship** She has the majority of lesser [[Devil|Devils]] at her beck and call. Though she is generally controversial to worship from Materia, she is seen as a steadfast warrior for the Crusader cause by some.
 **Appearance, Items and Powers.** 
 **Relations, History and Forms.** Speculated to one day fit in the Trinity of Duty and Wellbeing, sometimes identified with Wrath and Kindness, together with the [[Golden Heart]] and [[Immortal Memory]]. Little is known about her relation to these two, though she's been compared to the worst brutality of the Golden Heart, and is quite obsessed with [[Firearms]], which are said to have been planted in Materia by the Immortal Memory. Sworn to destroy the [[Demonic Brigade]].
