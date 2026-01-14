@@ -2,4 +2,4 @@
 tags:
   - cosmos/planes
 ---
-[[Cosmology of Vendrith]]
+One of the [[Planes of Vendrith]]. Those who speak of it describe it as a dreamlike area found underground, causing intense feelings of disorientation, a break with logic and experiencing encounters with memories. Some have called it similar to the [[Feydark]] due to its deeply cognitive elements.
