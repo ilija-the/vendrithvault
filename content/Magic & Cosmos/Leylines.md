@@ -6,6 +6,8 @@ Leylines are natural channels through which magical energies of the world tend t
 
 [[Philosophia]] is famously founded on leylines and their use. The [[Pactlaw]] of the city is a sort of set of rules the city's founders engineered the leylines to magically enforce. The megacity is still a centre of interest in and research of leylines.
 
+Since the [[The Great Silence|Great Silence]], some 
+
 In more recent history, many researchers claim the Leylines have behaved eratically, shifted courses, and sometimes even appeared and disappeared. This has been dubbed the [[Leyline Problem]]. 
 
 
