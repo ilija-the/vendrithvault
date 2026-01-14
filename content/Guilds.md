@@ -1,3 +1,7 @@
+---
+tags:
+  - society
+---
 #society 
 [[Guilds of Philosophia]]
 
