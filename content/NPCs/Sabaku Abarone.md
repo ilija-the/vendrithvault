@@ -2,9 +2,8 @@
 aliases:
   - Sabaku
 tags:
-  - goblin
   - ancestries/goblin
-  - people/pc
+  - people/npc
 ---
 First son of [[Abu'Sabaku Abarone]]. Brother to [[Hachiko]] and [[Uraokra]].
 

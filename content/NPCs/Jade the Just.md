@@ -1,5 +1,8 @@
-#people #circles 
-
+---
+tags:
+  - people/npc
+  - campaigns/circles
+---
 [[Sanitorium]]
 [[Philosophers of the Round]]
 [[Philosophia]]

@@ -2,8 +2,8 @@
 aliases:
   - Wraoclaw
 tags:
-  - people
-  - goblin
+  - ancestries/goblin
+  - people/npc
 ---
 Full name is Uraokra bin Abusabaku Abarone, also known as "The Wolf."
 
