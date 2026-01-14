@@ -6,6 +6,6 @@ Perhaps the most infamous soldiers of the anti-titan armies of the War Over Haev
 
 The demonic brigade was forgotten and disowned by many in the successful armies which would become the [[Sanitorium]]. Some more infamous and warlike figures, however, have claimed the Brigade was essential and effective, and that they were to be emulated. Some claim the [[Knights of the Round]] have learned from the Demonic Brigade's tactics.
 
-Certain Crusad
+Some [[Crusaders]] have argued for a making a [[Helmarches|Helmarch]], that is to say an armed march into Crimson (a plane of [[Hel]]), to help eradicate the Demonic Brigade once and for all.
 
 Famously wears the tattered remnant uniforms of the [[Draconic Legions]].
