@@ -1,6 +1,7 @@
 ---
 tags:
   - cosmos
+  - great-flow
 ---
 A theory about the [[Cosmology of Vendrith]]. Suggests that all [[Planes of Vendrith]] exist in a downward spiral, where more essence always has to descend than is possible to ascend. This makes ascension (in the sense of gaining godhood or exploring higher planes) as well as resurrection (coming back from a lower plane) a contentious topic.
 
