@@ -12,6 +12,6 @@ One of the [[Planes of Vendrith]], widely believed to be a plane of [[Hel]].
 
 
 #### Creation of Crimson.
-The [[Devil Queen of Crimson|Guardian Angel]] of [[Haeven]] had been tasked with fighting to stop the anti-deit
+The [[Devil Queen of Crimson|Guardian Angel]] of [[Haeven]] had been tasked with fighting to win the [[War Over Haeven]] for the Titans at any cost. Ever true to her word, even as the Titans seemingly had began to accept defeat and prepared for their exile, she continued to fight for said cause to the fullest extent she could. Her battles in [[Galae]] had led her on a strategic retreat, trying to draw the tired anti-deity troops into the inhospitable desert of northern Galae (now the [[Crimson Desert]]). Here, she is said to have descended upon the worn armies from above, and cleaved the lands in two opening a great wound in the desert which began to eat the armies alive. It glov 
 
 #### Current status.
