@@ -3,10 +3,11 @@ aliases:
   - Planes
   - Plane
   - plane
+  - plane of Vendrith
 tags:
   - cosmos
 ---
-The many planes which make up the entirety of Vendrith. [[Materia]] is the central plane, often considered the "home planet" or the core of what is "Vendrith" itself.
+The many planes which make up the entirety of Vendrith. [[Materia]] is the central plane, often considered the "home plane" or the core of what is "Vendrith" itself.
 
 Other planes are:
 
