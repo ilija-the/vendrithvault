@@ -16,4 +16,4 @@ Few have returned to the crimson scar or mapped it exactly, as the desert's inho
 #### Description of the Plane.
 Those who claim to have gone to, heard of or magically scried the plane largely describe it as such.
 
-At the centre of Crimson is the Halfmoon Isle, upon which most of the City of Crimson (occasionally called Crimsonia) sits. 
+At the centre of Crimson is the Halfmoon Isle, upon which most of the City of Crimson (occasionally called Crimsonia) sits. The isle is roughly shaped like a half-moon, and sits amidst a wide river of red water or blood. It is said one side of the river is largely under devil control, whereas the other is inhabited by surviving and now actually demonic members of the Demonic Brigade. The highest point of the isle and city itself is the Devil Queen's temple, and elevation of a street and thus proximity to the temple largely corresponds with class and importance. The lands themselves are said to be desert-like, the 
