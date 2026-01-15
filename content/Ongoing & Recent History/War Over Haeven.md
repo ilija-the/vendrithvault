@@ -17,7 +17,7 @@ The Titans of Canath have often engaged in holy wars, in which they called upon 
 
 
 #### Origins
-The origins of the War Over Haeven have popularly been
+The origins of the War Over Haeven have popularly been traced to the [[Ascension]] of the [[Triumphant Successor]].
 
 
 #### Shifting Allegiances and Escalation
