@@ -1,4 +1,14 @@
-#events
+---
+tags:
+  - events
+  - events/war
+  - religion
+  - society
+---
+The most defining event of the last 
+
+
+
 
 Directly involved the regions of [[Canath]], [[Galae]], and [[Mogxa]].
 
