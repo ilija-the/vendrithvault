@@ -28,7 +28,7 @@ The Titans of Canath have often engaged in holy wars, in which they called upon 
 
 
 #### Aftermath
-The War Over Haeven had changed life for pretty much all people of Iduria and beyond. In the immediate aftermath, a great series of social unrest and public grief gripped the important religious cities of Canath. As the traditional authorities in guilds and monarchs lost control of their populace, figures from the Titanic Armies filled the void. With shows  
+The War Over Haeven had changed life for pretty much all people of Iduria and beyond. In the immediate aftermath, a great series of social unrest and public grief gripped the important religious cities of Canath. As the traditional authorities in guilds and monarchs lost control of their populace, figures from the Titanic Armies filled the void. Declaring a great crime to have been committed upon the peoples of Canath, prominent figures vowed to one day return the titans and declared the beginning of the [[Eternal Crusade]]. 
 
 As a result, the titans were exiled from [[Materia]] and the bridge to [[Haeven]] shattered. This started the age known as [[The Great Silence]].
 
