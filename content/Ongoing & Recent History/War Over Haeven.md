@@ -5,7 +5,7 @@ tags:
   - religion
   - society
 ---
-The most defining event of the last 
+The War Over Heaven is easily the most defining event of the last century, and served as the starting point of the two broad factions which dominate the geopolitical situation - the [[Crusaders]] and the [[Sani]]
 
 
 
