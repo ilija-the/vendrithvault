@@ -7,6 +7,4 @@ aliases:
   - Sargathian Statues
   - Sargathis Statues
 ---
-
-[[Argathia]]
-[[Theatre]]
+The Argathian Statues were large 
