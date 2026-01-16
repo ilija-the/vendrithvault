@@ -1,3 +1,0 @@
-[[Sargatis]]
-[[Sargathia]]
-[[Theatre]]
