@@ -18,6 +18,7 @@ Parties
 [[Bishop's Disciples]]
 [[So-Called Heroes]]
 [[Dawnseekers]]
+[[Hunts of Vilhun Party]]
 
 
 NPC adventurers:
