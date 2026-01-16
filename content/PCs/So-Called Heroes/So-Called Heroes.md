@@ -13,9 +13,17 @@ Consists of:
 [[Valentine Volmari|Valentine]], an eerie shoony rogue.
 
 Has also been accompanied on their journey by:
-Captain Dorothy
-Gnome whose name I forget
-The monkey bros?
+Captain Doherty (totally spelled Dorothy)
+Kelvin the Gnome Crafter (whose name Ilija forgot)
+
+Other notable characters include, categorized by location:
+- Cocoton
+	- Bobo and Kicky
+	- Malachai
+	- Mayor Bombast (deceased)
+	- The Wyrm Knight
+- Vanderkact
+
 
 ###### Alternate names
 The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians.
