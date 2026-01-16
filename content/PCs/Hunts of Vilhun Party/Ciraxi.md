@@ -10,4 +10,6 @@ tags:
 
 *[[Beastkin]] [[Strix]] Thief/Scout [[Rogue]]*
 
-Their drives are
+Her drives are (loosely):
+- Improving Diplomatic Relations
+- Scouting out the land

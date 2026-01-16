@@ -17,3 +17,7 @@ The eighth daughter of [[Abu'Sabaku Abarone]], sister of [[Sabaku Abarone|Sabaku
 *Wolf-Mounted Charhide [[Goblins|Goblin]] Starlit Span [[Magus]].*
 
 Owns a Wolf animal companion **Yoko**, and a fire familiar **Kawa**.
+
+Her drives are (loosely):
+- Securing land for her brother
+- Proving herself
