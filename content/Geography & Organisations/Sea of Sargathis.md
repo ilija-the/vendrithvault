@@ -5,6 +5,7 @@ tags:
 aliases:
   - Mouth of Mogxa
   - Sargathian Sea
+  - Sargathis
 ---
 Sargathis (meaning Sargathian Sea) is the famously dangerous and often shark-infested waters around the current island chain and peninsula of [[Sargathia]], the southernmost peninsula and island-chain of [[Mogxa]]. The waters of Sargathis have also been called the "Mouth of Mogxa" at times. 
 
