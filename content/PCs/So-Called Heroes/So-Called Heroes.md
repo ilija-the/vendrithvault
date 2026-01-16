@@ -23,6 +23,11 @@ Other notable characters include, categorized by location:
 	- Mayor Bombast (deceased)
 	- The Wyrm Knight
 - Vanderkact
+	- Father Emery
+	- Ironhardt
+- Twinberry
+	- Father Sullivan
+	- Kaya Venstock (pnoll wife)
 
 
 ###### Alternate names
