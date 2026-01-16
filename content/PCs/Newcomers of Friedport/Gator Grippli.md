@@ -17,8 +17,8 @@ Together with the newcomers Gator worked on uncovering the brewing [[Landcrab Pl
 
 Believing Bande Aparte to have been killed and his body stolen, Gator, [[Cardinal Rackawn]] and Ashur sought out and destroyed a Desecrator camp hidden near Friedport to get the corpse back. Here the newcomers put an end to the [[Old Crone]] as well as the lingering spirit of [[Auldwell Fareawel|Auldwell]], but not before almost being killed. In a desperate bid to save his friends, Gator Grippli made a [[Devil Deal]] with the [[Good Doctor]], and managed to turn the tide around. Thanks to this, the Newcomers were able to participate in the [[Summer Games]], win the titles [[Herō of Friedport|Herōes of Friedport]], and put an end to the Landcrab Plot once and for all.
 
-Because of the devil deal Gator had made, Schnappi was threatened by also having its soul claimed by the Good Doctor. Not wanting to let this happen, Gator eventually bid his lifelong companion goodbye and released Schnappi as his eidolon.
-
 Having told lies as part of an infiltration once, Gator was viewed as a rival by [[Mistress Crimtone]] for most of the landcrab plot. Eventually however, Gator would save Crimtone from the captivity of the Fat Tiger, reconcile, and develop a form of relationship.
 
-Gator is nowadays believed to be travelling with [[Cardinal Rackawn]] and [[Princess Ionelle]], as well as the now romantically involved Mistress Crimtone.
+Because of the devil deal Gator had made, Schnappi was threatened by also having its soul claimed by the Good Doctor. Not wanting to let this happen, Gator eventually bid his lifelong companion goodbye and released Schnappi as his eidolon.
+
+Gator is nowadays believed to be travelling with [[Cardinal Rackawn]] and [[Princess Ionelle]] (as fellow victims of devil deals), as well as the potentially romantically involved Mistress Crimtone.
