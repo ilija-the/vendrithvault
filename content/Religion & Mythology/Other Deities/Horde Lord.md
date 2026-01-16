@@ -7,7 +7,7 @@ aliases:
 ---
 ![[The Horde Lord.png|right|200]]
 
-One of the [[Hun Lords]], credited with Vilhi military might on both land and sea.
+One of the [[Hun Lords]], credited with Vili military might on both land and sea.
 
 All dynasties of the Horde Lord are of goblin heritage, and he himself is considered to been a goblin.
 

@@ -7,7 +7,7 @@ aliases:
 ---
 ![[The Free Lord.png|right|200]]
 
-One of the [[Hun Lords]], credited with bringing autonomy to the Vilhi archipelago.
+One of the [[Hun Lords]], credited with bringing autonomy to the Vili archipelago.
 
 Often pictured as a human, or otherwise non-descript humanoid knight.
 

@@ -2,7 +2,7 @@
 tags:
   - places
 aliases:
-  - Vilhi
+  - Vili
 ---
 ![[vilhun.png]]
 
@@ -16,10 +16,10 @@ The primary spellcasting system in the isles is that of [[Essence Casting]].
 
 Primary languages are Draconic and Old Mogxan (Vili).
 
-The wide spanning archipelago also has a history of many natural disasters, now attributed to the [[Disasters of the Silence]] which the Vilhi people hold [[Mogxa]] 
+The wide spanning archipelago also has a history of many natural disasters, now attributed to the [[Disasters of the Silence]] which the Vili people hold the [[Sanitorium]] and by extension [[Mogxa]] in contempt for.
 
 ## Ancestries
-The makeup of the Vilhi society closely resembles that of the Hun Lords, with Kitsune, Automatons, and Dragonblood being notable minorities due to history. There may be a slightly larger amount of Elves than elsewhere on the continent due to proximity to the now-sunken [[Hightower Civilisation|hightowers]].
+The makeup of the Vili society closely resembles that of the Hun Lords, with Kitsune, Automatons, and Dragonblood being notable minorities due to history. There may be a slightly larger amount of Elves than elsewhere on the continent due to proximity to the now-sunken [[Hightower Civilisation|hightowers]].
 
 | Rarity   | Ancestries                                                         |
 | -------- | ------------------------------------------------------------------ |
