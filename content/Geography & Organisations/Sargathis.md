@@ -1,1 +1,1 @@
-The sunken parts of former [[Sargathis]], distinct from the still unsunken [[Sargathia]] as part of the [[Sinking of Sargathia]].
+The sunken parts of former [[Sargathis]], distinct from the still unsunken [[Sargathia]] as part of the [[Sinking of Argathia]].

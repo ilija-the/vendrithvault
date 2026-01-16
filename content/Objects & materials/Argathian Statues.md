@@ -7,6 +7,6 @@ aliases:
   - Sargathian Statues
   - Sargathis Statues
 ---
-[[Sargathis]]
+
 [[Argathia]]
 [[Theatre]]
