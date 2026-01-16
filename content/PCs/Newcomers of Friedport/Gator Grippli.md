@@ -7,7 +7,7 @@ tags:
   - people/pc
   - ancestries/trip-kee
 ---
-A friendly, small and green trip-kee known for wearing a cowboy hat. As a summoner, he is usually accompanied by his alligator-like eidolon [[Schnappi]]. Raised by animals in the [[Veducia|Veducian Wilds]], he bonded with his eidolon to save it after its mother was killed by a trophy hunter (later revealed to be [[Gozi Windaji]] trophy hunting on the commission of [[The Fat Tiger]]).
+A friendly, small and green trip-kee known for wearing a cowboy hat. As a summoner, he is usually accompanied by his alligator-like eidolon [[Schnappi]]. Raised by animals in the [[Veducia|Veducian Wilds]], he bonded with his eidolon to save it after its mother was killed by a trophy hunter (later revealed to be [[Gozi Windaji]] hunting on the commission of [[The Fat Tiger]]).
 
 ![[Gator_and_Schnappi.png]]
 
