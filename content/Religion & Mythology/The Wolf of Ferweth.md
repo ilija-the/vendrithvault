@@ -1,1 +1,1 @@
-A mythological wolf said to have plagued [[Ferweth]] during its earliest years, said to have been defeated by [[Saint Jonathan]].
+Also known as Silver, the Wolf of Ferweth is a mythological wolf said to have plagued [[Ferweth]] during its earliest years. As the story goes, it was defeated by [[Saint Jonathan]].
