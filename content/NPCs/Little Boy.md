@@ -5,4 +5,4 @@ tags:
 aliases:
   - Kobomber
 ---
-?
+A reckless kobold bomber with an oversized, never- matchstick.
