@@ -4,6 +4,7 @@ tags:
   - campaigns/call-of-the-cardinal
 ---
 Bishop's Disciples refers to a group that was at the monastery of [[Bishop the Peacemaker]] in the [[Ivory Crown Plateau]] when he got kidnapped. The Disciples pursued, and revealed the kidnappers to be [[Desecrators]] lead by [[Cardinal Rackawn]]. The Disciples successfully stopped the desecrators from bombing a glacier that may have unleashed a flood upon [[Newshore]], but Bishop lost his life in the process. 
+![[TheDisciples.1.png]]
 
 PCs:
 [[Tricky]]
