@@ -5,7 +5,7 @@ tags:
   - people/pc
   - ancestries/amurrun
 ---
-An amurrun doctor graduated from [[Singsong]], whom has always made an effort to aid people despite what people might think of her roguish ways. While she grew up on the streets of the oft crime-riddled port city, she adapted to the city's ways and also later got accepted into the [[Singsong Medical Academy]].
+An amurrun doctor graduated from [[Singsong]], whom has always made an effort to aid people despite what people might think of her roguish ways. While she grew up on the streets of the oft crime-riddled port city, she adapted to the city's ways and also later got accepted into and graduated from the [[Singsong Medical Academy]].
 
 Roslyn eventually travelled to [[Friedport]] to seek her fortune. On the ships on the way there, she became witness to the attempted robbery of [[The Fat Tiger]] by the [[Queen of Grog]]. Managing to steal the item back, she earned the respect of everyone involved. [[Magnus Strike]], a witness to the events, went on to hire her as a retainer while he was getting accustomed to the relatively lawless city of Friedport. It was here she met and joined the [[Newcomers of Friedport]].
 

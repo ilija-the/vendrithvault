@@ -10,11 +10,14 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 [[Timekeeping and Navigation.]]
 [[Language Guide.]]
 [[World Scale]]
+
 ### General Themes
 Things we love to see in Vendrith.
 - Drowning, apparently.
 - Fall damage, apparently.
 
+### Inspirations
+The Divinity Series.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
