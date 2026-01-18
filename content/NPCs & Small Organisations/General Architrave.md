@@ -4,6 +4,6 @@ tags:
   - campaigns/landcrab-plot
   - crusaders
 ---
-A [[Hobgoblins|hobgoblin]] general of the [[Crusaders]] that was ultimately tried for massive crimes of corruption and sentenced to death by hanging. His crimes coming to light was aided by the [[Moonless Night]].
+A [[Hobgoblins|hobgoblin]] general of the [[Crusaders]] that was ultimately tried for massive crimes of corruption and sentenced to death by hanging. His crimes were secretly brought to light by the [[Moonless Night]].
 
-Before his death the general put together the plans for [[Operation Blackout]], sending his half-brother [[Hallan Aerf]] to oversee the mission's success in his absence.
+Before his death the general put together the plans for [[Operation Blackout]], sending his half-brother [[Hallan Aerf]] to oversee the mission's success in his absence. This plan was ultimately thwarted by [[Bande Aparte]], a former subordinate of his he punished for almost uncovering his corruption. Likewise, the Moonless Night was lead by [[Lykas]], a trusted companion of Bande Aparte that Architrave thought he had had assassinated.
