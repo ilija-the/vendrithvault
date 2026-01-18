@@ -14,9 +14,12 @@ Members:
 [[Wick]]
 [[Weatherman]]
 
-(NPCs)
+The Council
 [[Mask]]
 [[Karnal]]
 [[Dominus]]
 [[Regina]]
+[[Dea]]
+[[Marehus]]
+
 and many others
