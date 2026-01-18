@@ -1,3 +1,10 @@
+---
+tags:
+  - people/npc
+  - sanitationists
+  - ancestries/amurrun
+  - campaigns/fool-me-once
+---
 #people 
 
 An [[Amurrun]] agent of [[Sanitorium]] ideology known for having committed atrocities towards people associated with the [[Crusaders]]. Was an [[adventurer]] that sided with the Sanitorium during the [[Adventurer Crisis]], contributing to its ultimate victory in the standoff.
