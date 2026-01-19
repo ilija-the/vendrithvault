@@ -9,4 +9,4 @@ The Iron Lotus is broadly considered to be the main leader or figurehead of the 
 
 Her origins are not oft discussed, but she is likely formerly from Philosophia. Some say she  left the city as a young lady as a result of the [[Tower Hostage Crisis]].
 
-She signed the [[Truth Concord]], bringing in worshippers of the [[Daydreaming Truth]] under the broad umbrella of the Crusader cause (despite their deity not being a [[Titan]]).
+She signed the [[Truth Concord]], bringing in worshippers of the [[Daydreaming Truth]] under the broad umbrella of the Crusader cause (despite their deity not being a [[Titan Template]]).
