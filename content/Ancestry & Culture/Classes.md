@@ -1,3 +1,6 @@
+---
+aliases:
+---
 PC Classes:
 [[Alchemist]]
 [[Animist]]
