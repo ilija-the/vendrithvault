@@ -25,6 +25,11 @@ A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic sy
 - Take what Spheres of Magic calls casting traditions, which in that context refers to modifications to how the spells are cast in-universe, and try to recreate it in some form (perhaps as class archetypes, archetypes, or as a part of selecting Circles).
 Important to note however that Circles of Magic should take priority, and the additional stuff only be considered if that goes well.
 
-### Spheres
-The
+### (Writing the) Lore
 
+Potentially tie them in with the [[Planes of Vendrith]]?
+Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding.
+
+### (Developing the) Circles
+
+Dilema - I (Ilija) don't love the idea of a Destruction tree
