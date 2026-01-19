@@ -1,6 +1,10 @@
 ---
 tags:
   - magic
+aliases:
+  - Ley Lines
+  - ley lines
+  - leylines
 ---
 Leylines are natural channels through which magical energies of the world tend to travel, akin to how water passes down rivers. Leylines can have a variety of effects, and can be potentially be tapped into to enhance or modify spells or cast otherwise impossibly large rituals. While they are unseeable to the naked eye, they can be discovered through the detection of magic, or if it is a powerful leyline, through observing its effects on the environment. While some claim to have comprehensive maps of the most important leylines, discovering, confirming, mapping and experimenting on leylines remains an active process in many corners of the world. It's a popular truism that Leylines are a microcosm of the flow of essence that characterises the [[Great Flow]].
 
