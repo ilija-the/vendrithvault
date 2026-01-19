@@ -19,11 +19,13 @@ A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic sy
 - How do Magic Traditions (Arcane, Occult, Primal, Divine) factor into this.
 - How do the essences Mind, Matter, Life and Spirit factor into this.
 - How to reliably create Circles and options within them that are balanced with each other, using the balancing tools the system has already given us.
+- What implications the system might have on Kineticists, whom already are pretty similar to how this system may develop.
 
 ##### And finally, some things which would be cool at a certain point if possible:
 - If everything goes well - experiment with such a system outside of just spellcasting (such as doing something like Pathfinder RPGs Spheres of Guile, and making skill feat trees).
 - And with Class Feat trees.
 - Take what Spheres of Magic calls casting traditions, which in that context refers to modifications to how the spells are cast in-universe, and try to recreate it in some form (perhaps as class archetypes, archetypes, or as a part of selecting Circles).
+- - Potentially adapt Kineticists as Circle Spellcasters.
 Important to note however that Circles of Magic should take priority, and the additional stuff only be considered if that goes well.
 
 ### (Writing the) Lore
@@ -47,6 +49,8 @@ Bleed may be relevant for blood magic.
 Void and Vitality are important, likely their own circles. Need to consider the role of Holy and Unholy sanctification.
 
 Spirit damage is also special.
+
+Poison damage merged into a sort of Affliction Magic? Which has one branch for curses and one for disease/poison?
 
 #### Circle of Sound
 Important to [[Bard|Bards]].
