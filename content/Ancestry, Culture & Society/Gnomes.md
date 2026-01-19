@@ -15,5 +15,3 @@ Due to their ephemeral state, vast majority of them wear plenty of clothing and 
 It is however possible for Gnomes to control their form, still appearing as figures of pure shadow but no longer having their bodies escape into the space around them. Explained as "folding in on themselves," gnomes that hone their body can force their ephemeral state to become more solid. One of the giveaways of such form control is a noticeable rim across their bodies, akin to a flat horizon as their form is bent back into their bodies. Particularly boastful gnomes may also wear less and more revealing clothing to signify their control.
 
 Gnomes have a natural inclination towards shadow and dream magic, contributing further to the theory they originate from the [[Feydark]] and/or the [[Deep Gray]].
-
-test
