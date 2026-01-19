@@ -17,6 +17,7 @@ A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic sy
 - What will the Circles be, core (common) and otherwise.
 - How do Classes factor into the selection of/access to Circles.
 - How do Magic Traditions (Arcane, Occult, Primal, Divine) factor into this.
+- How do the essences Mind, Matter, Life and Spirit factor into this.
 - How to reliably create Circles and options within them that are balanced with each other, using the balancing tools the system has already given us.
 
 ##### And finally, some things which would be cool at a certain point if possible:
@@ -28,8 +29,10 @@ Important to note however that Circles of Magic should take priority, and the ad
 ### (Writing the) Lore
 
 Potentially tie them in with the [[Planes of Vendrith]]?
-Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding.
+Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding. Divine, a beautiful religious panting getting gradually expanded.
 
 ### (Developing the) Circles
 
-Dilema - I (Ilija) don't love the idea of a Destruction tree
+Things to consider when making the rules of Circles is what tradition they are (occult, primal, divine, arcane) and how these are supposed to ever only correspond to two essences of magic (mind, matter, spirit and life). The safest option is to make Circles as if they belonged within a tradition, and then allow Classes to access only the Circles to which they'd have as a magic tradition.
+
+Dilema - I (Ilija) don't love the idea of a Destruction tree, but spreading out between every element could also be too much. Simply make an e
