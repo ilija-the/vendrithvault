@@ -11,7 +11,7 @@ aliases:
 Dwarves are a stocky [[Ancestries of Vendrith|people]] of Vendrith that is said to have dug out of the ground one day, and appear like insectoid humanoids whose outer shell is almost like that of stone or metal. Many of their societies remain underground in holds, and spend much of their efforts in working stone, metals and carving glorious holds, statues and inscriptions into the landscape. When dwarves die their bodies harden instead of rotting away, becoming [[Dwarven Statues]] one may encounter in remote spots such as caves, groves and cliffsides.
 
 >![[monstergarden_dwarf.png]]
->A dwarf at rest, possibly a statue. Art is by Monstergarden (@)
+>A dwarf at rest, possibly a statue. Art by Monstergarden (@monlenz).
 
 Dwarves have a religious history worshipping the earth itself, what is now known as the [[Sibling Dragons|Nourishing Bulwark]]. It is said that dwarves were as rivals to the [[Elves]], whom had a radically different conception of beauty. Whereas elves value social complexity and abstract art that exceeds the natural form, dwarves value simplicity and simply carving subtle marks in the already glorious landscape of Vendrith.
 
