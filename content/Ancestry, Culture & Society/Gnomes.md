@@ -19,4 +19,4 @@ It is however possible for Gnomes to control their form, still appearing as figu
 
 Gnomes have a natural inclination towards shadow and dream magic, contributing further to the theory they originate from the [[Feydark]] and/or the [[Deep Gray]].
 
-Many gnomes tell of learning to control their form, or finding the shape in which they prefer to keep it, as an important journey of their lives. Perhaps due to gnomes being identified with fairytales, theatre and other arts - many gnomes take on forms and personalities that are comparable to characters from stories. It is perhaps from here gnomes have a reputation of being eccentric and particular in their ways.
+Many gnomes tell of learning to control their form, or finding the shape in which they prefer to keep it, as an important journey of their lives. Perhaps due to gnomes being identified with fairy tales, theatre and other arts - many gnomes take on forms and personalities that are comparable to characters from stories. It is perhaps from here gnomes have a reputation of being eccentric and particular in their ways.
