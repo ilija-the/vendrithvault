@@ -8,7 +8,9 @@ aliases:
   - gnomes
   - gnome
 ---
-Gnomes are a short [[Ancestries of Vendrith|people]] who often appear in a shadowy form in which you can see their outline, but most of their features except for their eyes and mouth are usually invisible in the darkness. Even their outlines are not truly that firm, and they can be described as vaguely gas-like, often with flowing lighter-than-air hair, or flame-like shapes of shadow exerting from their arms and neck. Push Test
+Gnomes are a [[Ancestries of Vendrith|people]] of short stature, usually known to have dressed up everything except their faces. Underneath the clothes, their bodies appear like a void of shadow, which can visibly excrete from their body like a shadowy gas. As an unusual looking people, many ancestries and cultures have superstitions about gnomes. Gnomes therefore tend to remain either isolated in small groups of gnoems,
+
+Gnomes are a short [[Ancestries of Vendrith|people]] who often appear in a shadowy form in which you can see their outline, but most of their features except for their eyes and mouth are usually invisible in the darkness. Even their outlines are not truly that firm, and they can be described as vaguely gas-like, often with flowing lighter-than-air hair, or flame-like shapes of shadow exerting from their arms and neck.
 
 ![[GnomesExamples.png]]
 *The gnomes [[Zcaldon]] (left) and [[Raskiff]] (right).*
