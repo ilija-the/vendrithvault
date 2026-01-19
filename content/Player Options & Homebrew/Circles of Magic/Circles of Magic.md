@@ -4,10 +4,10 @@ tags:
   - admin/rules
 ---
 > [!important] In development.
-> This is a potential homebrew system that may one day get to see play in Vendrith (or not, you never know how these things will turn out). Contributors are free to edit the article to add ideas or correct 
+> This is a potential homebrew system that may one day get to see play in Vendrith (or not, you never know how these things will turn out). Contributors are free to edit the article to add ideas or correct or clean up things, and anyone interested are free to come with suggestions themselves through the discord!
 
 ### Introduction
-A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic system but suited for Pathfinder 2e, and ideally, also [[Essence Casting|Essence Magic]]. Replaces the way spells are normally selected with more focused categories of spellcasting and related abilities. 
+Circles of Magic is the tentative name for a potential [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic system but suited for Pathfinder 2e, and ideally, also work with [[Essence Casting|Essence Magic]]. It simply put replaces the way spells are normally selected from huge spell lists with more focused categories of spellcasting and related abilities, and may develop into the vibe of "skill trees" for magic using "magic feats."
 
 ##### Intentions:
 - Prevent the selection paralysis of having to learn and look through potentially hundreds of spells.
@@ -59,3 +59,5 @@ Poison damage merged into a sort of Affliction Magic? Which has one branch for c
 #### Circle of Sound
 Important to [[Bard|Bards]].
 Two main branches - physical effects of sound and mental effects of sound.
+
+#### Circle of Afflic
