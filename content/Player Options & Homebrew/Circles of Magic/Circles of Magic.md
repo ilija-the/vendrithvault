@@ -60,4 +60,5 @@ Poison damage merged into a sort of Affliction Magic? Which has one branch for c
 Important to [[Bard|Bards]].
 Two main branches - physical effects of sound and mental effects of sound.
 
-#### Circle of Afflic
+#### Circle of Affliction
+Important to Witches?
