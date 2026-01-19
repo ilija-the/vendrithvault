@@ -1,4 +1,9 @@
+---
+tags:
+  - society
+---
 #society 
-Folksy [[Guilds of Philosophia]]. Often connected to the [[Wheel Societies]] of Mogxa.
+Formally the "Commonwealth of the Folksy [[Guilds of Philosophia]]."
 
-[[Philosophia]]
+Often connected to the [[Wheel Societies]] of Mogxa.
+
