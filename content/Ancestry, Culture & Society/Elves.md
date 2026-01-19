@@ -3,6 +3,12 @@ tags:
   - society
   - ancestries
   - rare
+aliases:
+  - elves
+  - Elf
+  - elf
+  - Effigy Elves
+  - effigy elves
 ---
 
 One of the [[Ancestries of Vendrith]].

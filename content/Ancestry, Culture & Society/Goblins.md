@@ -2,6 +2,11 @@
 tags:
   - society
   - ancestries
+aliases:
+  - Goblin
+  - goblins
+  - goblin
+  - Protean Goblins
 ---
 The majority population of Vendrith.
 

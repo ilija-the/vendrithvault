@@ -3,7 +3,6 @@ tags:
   - ancestries
   - society
 aliases:
-  - Vendrith Gnomes
   - Phantomic Gnomes
   - gnomes
   - gnome
