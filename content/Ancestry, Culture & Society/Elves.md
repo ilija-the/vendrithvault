@@ -10,6 +10,8 @@ aliases:
   - Effigy Elves
   - effigy elves
 ---
+Elves are a mystical and constructed people who were at the centre of the advanced [[High]]
+
 
 One of the [[Ancestries of Vendrith]].
 
