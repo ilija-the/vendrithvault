@@ -4,6 +4,8 @@ aliases:
   - half-orc
   - half-orcen
   - halforcen
+  - half-orcish
+  - halforcish
 tags:
   - ancestries
   - society
