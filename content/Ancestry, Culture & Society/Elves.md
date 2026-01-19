@@ -10,7 +10,9 @@ aliases:
   - Effigy Elves
   - effigy elves
 ---
-Elves are a mystical and constructed people who were at the centre of the advanced [[High]]
+Elves are a mystical and constructed people who were at the centre of the advanced [[Hightower Civilisation]]. They are known to have an otherworldy beauty to them, but also for creeping many other ancestries out with their doll-like features and 
+
+Since, elves have only become rarer in numbers, as the formula for creating new elves appears to be lost (despite countless attempts to recreate it). Not having a known definite lifespan, the elves that still exist likely do so from the hightower days, but all exhibit elements of amnesia - either affecting their earliest memories, or specifically targeting the days of the Hightower Civilisation. 
 
 
 One of the [[Ancestries of Vendrith]].
