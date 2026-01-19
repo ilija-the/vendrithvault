@@ -40,7 +40,10 @@ Things to consider when making the rules of Circles is what tradition they are (
 Dilema - I (Ilija) don't love the idea of a Destruction tree, but spreading out between every element could also be too much. Simply make an Elemental Circle?
 
 Damage types for reference: 
-Obviously the three physicals, bludgeoning, piercing, slashing, don't really have anythin
+Obviously the three physicals, bludgeoning, piercing, slashing; as well as the special precision damage; don't really have anything to do with the magic tree here. They can appear in the trees and magics but don't need their own category I think.
+
+Void and Vitality are important here. Also Holy and Unholy sanctification.
+Spirit damage is special.
 
 #### Circle of Sound
 Important to [[Bard|Bards]].
