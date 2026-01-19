@@ -39,7 +39,8 @@ Things to consider when making the rules of Circles is what tradition they are (
 
 Dilema - I (Ilija) don't love the idea of a Destruction tree, but spreading out between every element could also be too much. Simply make an Elemental Circle?
 
-
+Damage types for reference: 
+Obviously the three physicals, bludgeoning, piercing, slashing, don't really have anythin
 
 #### Circle of Sound
 Important to [[Bard|Bards]].
