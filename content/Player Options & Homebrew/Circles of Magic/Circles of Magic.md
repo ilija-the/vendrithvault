@@ -31,8 +31,16 @@ Important to note however that Circles of Magic should take priority, and the ad
 Potentially tie them in with the [[Planes of Vendrith]]?
 Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding. Divine, a beautiful religious panting getting gradually expanded.
 
+What to call them besides Spheres? Circles of Magic? Trees of Magic? Planes of Magic?
+
 ### (Developing the) Circles
 
 Things to consider when making the rules of Circles is what tradition they are (occult, primal, divine, arcane) and how these are supposed to ever only correspond to two essences of magic (mind, matter, spirit and life). The safest option is to make Circles as if they belonged within a tradition, and then allow Classes to access only the Circles to which they'd have as a magic tradition.
 
-Dilema - I (Ilija) don't love the idea of a Destruction tree, but spreading out between every element could also be too much. Simply make an e
+Dilema - I (Ilija) don't love the idea of a Destruction tree, but spreading out between every element could also be too much. Simply make an Elemental Circle?
+
+
+
+#### Circle of Sound
+Important to [[Bard|Bards]].
+Two main branches - physical effects of sound and mental effects of sound.
