@@ -2,6 +2,9 @@
 tags:
   - ancestries
   - society
+aliases:
+  - shoony
+  - Eerie Shoony
 ---
 One of the [[Ancestries of Vendrith]].
 

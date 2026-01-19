@@ -2,6 +2,12 @@
 tags:
   - society
   - ancestries
+aliases:
+  - orcs
+  - Orc
+  - orc
+  - Lotus Orcs
+  - Lotus-Eaters
 ---
 One of the [[Ancestries of Vendrith]].
 
