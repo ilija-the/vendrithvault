@@ -3,6 +3,9 @@ tags:
   - homebrew
   - admin/rules
 ---
+> [!important] In development.
+> This is a potential homebrew system that may one day get to see play in Vendrith (or not, you never know how these things will turn out). Contributors are free to edit the article to add ideas or correct 
+
 ### Introduction
 A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic system but suited for Pathfinder 2e, and ideally, also [[Essence Casting|Essence Magic]]. Replaces the way spells are normally selected with more focused categories of spellcasting and related abilities. 
 
@@ -25,12 +28,13 @@ A [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic sy
 - If everything goes well - experiment with such a system outside of just spellcasting (such as doing something like Pathfinder RPGs Spheres of Guile, and making skill feat trees).
 - And with Class Feat trees.
 - Take what Spheres of Magic calls casting traditions, which in that context refers to modifications to how the spells are cast in-universe, and try to recreate it in some form (perhaps as class archetypes, archetypes, or as a part of selecting Circles).
-- - Potentially adapt Kineticists as Circle Spellcasters.
+- Potentially adapt Kineticists as Circle Spellcasters.
 Important to note however that Circles of Magic should take priority, and the additional stuff only be considered if that goes well.
 
 ### (Writing the) Lore
 
 Potentially tie them in with the [[Planes of Vendrith]]?
+
 Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding. Divine, a beautiful religious panting getting gradually expanded.
 
 What to call them besides Spheres? Circles of Magic? Trees of Magic? Planes of Magic?
