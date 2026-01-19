@@ -1,7 +1,6 @@
 ---
 tags:
   - places/mogxa/philosophia
-  - places/iduria/mogxa/philosophia
 ---
 
 
