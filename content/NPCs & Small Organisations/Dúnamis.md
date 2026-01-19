@@ -5,4 +5,4 @@ tags:
 aliases:
   - Dunamis
 ---
-A star-spangled gnome mage
+A star-spangled gnome mage.
