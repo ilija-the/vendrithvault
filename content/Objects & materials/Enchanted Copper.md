@@ -1,1 +1,1 @@
-Formerly a common material in [[Encanath]] for its ease of magical enchantment, now largely replaced by [[Enchanted Bronze]]. Still used to make [[Copper Cannons]] however.
+Formerly a common material in [[Encanath]] for its ease of magical enchantment, now largely replaced by [[Enchanted Bronze]]. Still used to make [[Cannons|Copper Cannons]] however.
