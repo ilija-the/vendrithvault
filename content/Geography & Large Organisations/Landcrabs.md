@@ -9,4 +9,9 @@ A term used for the majority population of [[Friedport]], which also exist aroun
 
 
 
-Many Landcrabs are experienced fighters, as the ofte
+Many Landcrabs are experienced fighters, as the often lawless streets of [[Crabraven]] demand. Fighting inbetween tribes, with criminal syndicates, adventurers, or the [[Horizan Guild Association|Government of Friedport]], the Landcrabs take on various combat roles:
+
+Polearm Landcrab
+Sling Landcrab
+Barrel Landcrab
+Patriarch Landcrab
