@@ -4,9 +4,9 @@ tags:
   - campaigns/landcrab-plot
   - places/horiza/friedport
 ---
-The Landcrabs are a relatively recent but unique culture that has developed in the city of [[Friedport]], making up its majority population. The Landcrabs tend to wear colourful clothes that reveal a lot of skin, as well as decorations doubling as makeshift armour of wooden bits and pieces, as well as the ropes and nets of fishermen. They organise into "Tribes" under va
+The Landcrabs are a relatively recent but unique culture that has developed in the city of [[Friedport]], making up its majority population. The Landcrabs tend to wear colourful clothes that reveal a lot of skin, as well as decorations doubling as makeshift armour of wooden bits and pieces, as well as the ropes and nets of fishermen. They organise into "Tribes" under various Patriarchs (called so even if female), and a great many of them work within forestry, woodworking and carpentry.
 
-
+A common 'origin myth' ties the Landcrabs together. The story goes that after the infancy of Friedport began to pass, the city struggled under the immense weight of [[Piracy]] affecting their essential lifelines to Iduria, the surrounding Chocolate Isles, as well as the Horizan mainland. While the [[Horizan Guild Association|Horizan Guild]] couldn't deal with the problem, the Landcrab patriarchs gathered and seemingly sent an offer of surrender to the pirates, offering the city and its riches up in exchange for fo
 
 Many Landcrabs are experienced fighters, as the often lawless streets of [[Crabraven]] demand. Fighting inbetween tribes, with criminal syndicates, adventurers, or the [[Horizan Guild Association|Government of Friedport]], the landcrabs have certain shared abilities. The "Legacy of the Landcrabs" mean most are trained in holding their breath and effectively traversing shallow water and rubble. Their patchwork "Landcrab Armour" also give them varying degrees of resistance to piercing weapons, though this is nullified when they're prone or attacked with any amount of precision. Landcrabs may also have unique equipment and training based on their Landcrab Tribe.
 the Landcrabs take on various combat roles:
