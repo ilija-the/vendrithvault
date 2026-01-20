@@ -16,7 +16,7 @@ The ancestries of Vendrith is a term used for the intelligent and humanoid speci
 
 The traditional [[Mythos of Vendrith]] has it that life on Vendrith was painted in the [[Creator Monkey|Creator Monkey's]] image, and it is thus assumed the first people alive were similar to anthropomorphic monkeys. Possibly supporting this theory is the fact that [[Vanara]], whom claim to be an offshoot that diverged from what would become [[Hobgoblins]], still retain an appearance remarkably similar to what these original people are believed to look like. 
 
-In this tradition, all goblinoids are believed to be direct descendants of the monkey peoples (though the Vanara discredit them for losing their essence). Goblins remain the plurality population of [[World Overview|Vendrith]] by a small margin, only being closely followed by [[Humans]].
+In this tradition, all goblinoids are believed to be direct descendants of the monkey peoples (though the Vanara discredit them for losing their essence). Goblins remain the plurality population of Vendrith by a small margin, only being closely followed by [[Humans]].
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine Magic|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.
 

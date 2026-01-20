@@ -1,8 +1,5 @@
 ---
 aliases:
-  - Vendrith
-  - Summary
-  - Handout
 tags:
   - admin
 color: "#a10000"
