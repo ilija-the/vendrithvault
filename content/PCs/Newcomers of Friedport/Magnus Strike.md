@@ -12,4 +12,3 @@ Magnus eventually travelled to [[Friedport]] to continue his research. On the sh
 After helping fight off strange creatures of light or vitality spawned by Leylines, Magnus joined the [[Newcomers of Friedport]], helped stop the [[Landcrab Plot|Landcrab Plot]], and won the [[Summer Games]], gaining the title of [[Herō of Friedport]]. As part of this he uncovered a leyline map created by the [[Horizan Precursors]].
 
 At the end of these events, he (unwittingly) helped summon the [[Magus in the High Tower]] (and his tower-town) to [[New World - Horiza|Horiza]] using [[Entanglement Stones|secret teleportation techniques]].
-
