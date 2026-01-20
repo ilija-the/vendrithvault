@@ -2,6 +2,7 @@
 tags:
   - people/npc
   - ancestries/kobold
+  - campaigns/hunts-of-vilhun
 aliases:
   - Kobomber
 ---

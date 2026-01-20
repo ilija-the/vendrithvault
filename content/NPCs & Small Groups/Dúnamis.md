@@ -2,6 +2,7 @@
 tags:
   - ancestries/gnome
   - people/npc
+  - campaigns/hunts-of-vilhun
 aliases:
   - Dunamis
 ---
