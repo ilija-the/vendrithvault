@@ -16,6 +16,6 @@ Here are some good articles you may start learning about Vendrith from:
 - [[Mythos of Vendrith]], the broadly accepted story of how the world came to be.
 - [[Campaigns]], the various games that have been or are preparing to be played in Vendrith.
 
-Alternatively you can browse the tags at the bottom of this page, or check out the graph by clicking the button in the top right!
+Alternatively check out the graph by clicking the button in the top right, or you can browse the tags at the bottom of this page!
 
 See #places, #people, #ancestries, #society , #religion , #cosmos, or #events!
