@@ -15,8 +15,11 @@ Leylines are natural channels through which magical energies of the world tend t
 
 Since the [[The Great Silence|Great Silence]], some [[Crusader Sects]] following [[Utopian Theory]] have attempted to understand and use leylines to reach [[Utiopia]], the plane the [[Titans]] are speculated to have gone to.
 
-In more recent history, many researchers claim the Leylines have behaved eratically, shifted courses, and sometimes even appeared and disappeared. This has been dubbed the [[Leyline Problem]]. 
+In more recent history, many researchers claim the Leylines have behaved eratically, shifted courses, and sometimes even appeared and disappeared. This has been dubbed the [[Leyline Problem]].
 
+During his time researching leylines in [[New World - Horiza|Horiza]], [[Magnus Strike]] was assaulted by a set of [[Le]]
+
+[[Magnus Strike]] and the [[Newcomers of Friedport]] discovered a leyline map of [[Friedport]] in a ruin presumably left by [[Horizan Precursors]].
 During the culmination of the [[Landcrab Plot]] it is believed leylines were used to empower the large swathes of golems unleashed on the city of [[Friedport]], as well as on the barrier put around the city by the [[Magus in the High Tower]].
 
 While leylines are not largely present in [[Vilhun]] lore, there appears to be a large quantity of divine leyline roots stemming from the central Flod mountain, where the [[One & Only]] and her [[Hun Lords]] bells reside.
