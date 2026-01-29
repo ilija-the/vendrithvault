@@ -13,3 +13,5 @@ Many details of old concordats have been forgotten, resulting in the need for ex
 The [[Draconic Concordat]] is agreed to be the latest true Concordat, and is the year at which the current time estimation is counted from (ADc - Ad Draconic Concordat.)
 
 Some use a more open definition of concordat, to not leave out the number of smaller but still meaningful magically enforced agreements or systems in the world.
+
+Concordats have often been written on runestones or monoliths, of special materials conductive to magic and created to endure
