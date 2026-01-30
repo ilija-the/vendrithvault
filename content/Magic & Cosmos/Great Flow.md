@@ -2,6 +2,11 @@
 tags:
   - cosmos
   - great-flow
+aliases:
+  - Great Flow Theory
+  - Great Flow Cosmology
+  - great flow theory
+  - great flow cosmology
 ---
 One of the preeminent grand theories attempting to systematise the [[Cosmology of Vendrith]]. The Great Flow theory suggests that all [[Planes of Vendrith]] exist in a downward spiral where all is made in [[Azure]] at the top, and all is destroyed in [[Abbadon]] at the bottom. Importantly, the [[River of Death]] exists below [[Materia]] in this hierarchy, and going even further down is described as the dissolution and 'forgetting' of all life and memory (beyond which nobody is believed to have been [[Resurrection|resurrected]] from). While travel 'up' the planes is possible (such as through resurrection and [[Ascension]]) it is believed that all such acts are naturally balanced out by more essence being sent down. Consequently, in some worldviews resurrection is viewed as stealing away the life and opportunities of others.
 
