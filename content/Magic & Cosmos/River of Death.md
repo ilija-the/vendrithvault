@@ -6,7 +6,7 @@ aliases:
   - Misty River
   - Mistress' River
 ---
-#cosmos
+The plane most souls of [[Ancestries of Vendrith|people]] go to after death. It is has captured popular imagination and has occasionally been visited or divined in relation to [[Necromancy]], 
 
 [[Great Flow]]
 
