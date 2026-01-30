@@ -27,8 +27,14 @@ Some Ferwethi shrines do the opposite, and instead act as a way to show servitud
 #### Mogxan Garden Groves
 .
 
+#### Fenrun Runestones
+.
+
 #### Galaen Cairns
 .
 
 #### Vilhi Guardian Shrines
+.
+
+#### Eydwin Sacred Oases
 .

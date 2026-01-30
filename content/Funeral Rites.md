@@ -14,3 +14,5 @@ In history some [[Halflings]] have had their [[Halfling Markings]] turned into b
 [[Elves]], as a particularly beautiful and rare creation, are often kept by collectors as dolls after their deaths. This can be due to their aesthetics and value, though some also study them in the hopes of uncovering their lost formula. [[Poppets]] are also sometimes kept as keepsakes.
 
 [[Automatons]] have no shared funerary custom, and many are pilfered for parts or research.
+
+[[Far World - Eydwin|Eydwin]] pyramids also exist.
