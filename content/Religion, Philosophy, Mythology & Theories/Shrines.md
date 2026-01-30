@@ -19,7 +19,7 @@ When [[Dwarves]] die, their bodies harden and become like [[Dwarven Statues]], s
 #### Ferwethi Shrines
 Shrines in [[Ferweth]] are commonly dedicated to its saints, whom acted as guardians that defeated or warded off specific [[Monsters of Vendrith|monsters]] of Ferweth. As their stories often involve finding the special [[Thaumaturge|anathema]] (weakness) of a monster, it is common to leave offerings of such symbols, materials or implements at the shrines. To illustrate, a shrine to [[Saint Jonathan]] may well have silver weaponry to fight [[werecreatures]] and vampires with.
 
-Some Ferwethi shrines do the opposite, and instead act as a way to show servitude and provide offerings to appease the monsters that haunt the region. As an example, during grizzly periods of history certain shrines have been used to 
+Some Ferwethi shrines do the opposite, and instead act as a way to show servitude and provide offerings to appease the monsters that haunt the region. As an example, during grizzly periods of history certain shrines have been used to leave offerings of virgins or men to eat to placate flesh-eating monsters.
 
 #### Canathi Wishing Wells
 .
