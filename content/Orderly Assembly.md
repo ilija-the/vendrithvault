@@ -1,0 +1,1 @@
+The Orderly Assembly are one of the [[Formal Guilds]] of [[Philosophia]].
