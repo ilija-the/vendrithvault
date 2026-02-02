@@ -1,4 +1,7 @@
-#places 
+---
+tags:
+  - places
+---
 A gloomy and dangerous region at the northern edge of Iduria, bordering [[Galae]].
 
 Has a rather unique worship of even living [[Saint]]s, done in return for protection against the various monsters and myths of the region.
