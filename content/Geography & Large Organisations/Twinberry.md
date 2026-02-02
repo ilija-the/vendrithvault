@@ -7,6 +7,8 @@ Twinberry is a town that straddles two sides of a ravine marking the edge of [[F
 
 Twinberry has been known to observe superstition, such as using garlic to ward off bloodsucking creatures and showing hospitality to [[Shoony]] to avoid being cursed. The town has experienced various attacks from [[Vampires]], which got worse during [[Blood Rain]].
 
+Nearby the town is a [[]]
+
 Notable figures:
 [[Father Sullivan]], a leader figure and priest of [[Saint Jonathan]].
 [[Kaja Venstock]], owner of the Vennstock Pot tavern.
