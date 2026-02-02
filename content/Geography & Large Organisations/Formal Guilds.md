@@ -12,3 +12,4 @@ Notable Guilds:
 [[Universal Temple]]
 
 Locations:
+[[Tower District]]
