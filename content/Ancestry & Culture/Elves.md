@@ -12,8 +12,8 @@ aliases:
 ---
 Elves are a mystical and constructed people who were at the centre of the advanced [[Hightower Civilisation]]. They are known to have an otherworldly beauty to them, but also for creeping many other ancestries out with their doll-like features. Their emotions, behaviour and once society are known to be aloof and somewhat hard to understand in its complexity.
 
->![[Elf_example.png]]
->Some forms of elves. Art by @TateOfTot, @foresttherotten and @toastitos respectively.
+>![[Elf_example_02.jpg]]
+>Art by @dizzyspellss.bsky.social and character owned by @awkmark
 
 Since the downfall of the Hightowers, elves have only become rarer in numbers. The formula for creating new elves appears to be lost - despite countless attempts to recreate it.
 
