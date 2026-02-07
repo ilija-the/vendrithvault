@@ -37,7 +37,7 @@ It is commonplace to also refer to eras as Ages in reference to historical event
 2. Age of the [[Draconic Concordat]]
 	- Humana Superioritas
 	- Also colloquially —and somewhat derogatorily[^1]— Mogxan Era
-3. [[The Great Silence|Age of Divine Silence]] (current, roughly a century ago)
+3. [[The Great Silence|Age of Divine Silence]] (current, started roughly a century ago)
 	- Accentuated by the [[Disasters of the Silence]]
 
 [^1]: Kinda like the [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age)?
