@@ -1,3 +1,5 @@
+> [!tldr] Summary
+> The Calendar of Vendrith consists of 10 day weeks, 4 week months, and 9 month years. Years are annotated in the advent of the last big [[Concordats|Concordat]]. 
 ## Weeks
 Weeks consist of 10 days.
 1. Maltsday
