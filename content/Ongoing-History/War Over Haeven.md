@@ -29,7 +29,7 @@ The origins of the War Over Haeven have popularly been traced to the [[Ascension
 
 
 #### Antideist Coalition Coalesces
-
+[[Crimson#Creation of Crimson.|Creation of Crimson]].
 
 
 #### Endgame - the March through Mogxa
@@ -42,5 +42,3 @@ The War Over Haeven had changed life for pretty much all people of Iduria and be
 As a result, the titans were exiled from [[Materia]] and the bridge to [[Haeven]] shattered. This started the age known as [[The Great Silence]].
 
 This also marked the beginning of the [[Eternal Crusade]], a conflict between [[Crusaders]] and the [[Sanitorium]].
-
-[[Crimson#Creation of Crimson.|Creation of Crimson]].

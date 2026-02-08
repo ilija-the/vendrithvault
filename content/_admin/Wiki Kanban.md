@@ -7,6 +7,7 @@ kanban-plugin: board
 ## High Priority Lore
 
 - [ ] [[War Over Haeven]]
+- [ ] [[Mythos of Vendrith]]
 - [ ] [[Sanitorium]]
 - [ ] [[Crusaders]]
 - [ ] [[Mogxa]]
