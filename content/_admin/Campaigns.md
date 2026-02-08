@@ -4,7 +4,22 @@ tags:
 ---
 Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes.
 
-Here is an overview of the campaigns that have been ran:
+### Ongoing Campaigns
+Here is an overview of all campaigns currently being ran in Vendrith.
+
+##### Road to Longdawn
+#campaigns/road-to-longdawn 
+
+
+### Planned Campaigns
+Here is an overview of campaigns that are underway to start.
+
+##### Hunts of Vilhun
+#campaigns/hunts-of-vilhun 
+
+
+### Finished Campaigns
+Here is an overview of all campaigns that have been ran in Vendrith, now finished.
 
 ##### Welcome to Friedport
 #campaigns/welcome-to-friedport 
@@ -29,13 +44,10 @@ A non-canon Halloween special oneshot.
 #campaigns/eyes-of-ire 
 
 
-Here are the ongoing campaigns:
-[[Road to Longdawn]]
+### Possible Campaigns
+And here is an overview of various campaign ideas, which may or may not ever be ran. Useful for storing ideas and then floating them by players to begin planning a new game!
 
-Here are the planned campaigns:
-[[Hunts of Vilhun]]
-
-And here are other, possible campaign ideas:
+##### Forgotten Dawn - Megadungeon
 [[Forgotten Dawn - Megadungeon]]
 [[Blood on the Marble Floor]]
 [[Monstrologie 101]]
