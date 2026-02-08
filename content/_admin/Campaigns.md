@@ -19,14 +19,15 @@ Here is an overview of campaigns that are underway to start.
 
 
 ## Finished Campaigns
-Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order
+Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order (by their first session, if there's overlap).
 
 #### Welcome to Friedport
 #campaigns/welcome-to-friedport 
-Welcome to Friedport was the first game ever ran in Vendrith.
+Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with the opening of the later Landcrab Plot campaign, the game saw the [[Welcoming Party]] be recruited into tracking down a thieving pirate and steal back a special piece of cargo from him.  
 
 #### Fool Me Once
 #campaigns/fool-me-once 
+Fool Me Once was a game much like a thriller, focused on hinting at more mysterious worldbuilding concepts. It saw the  [[Crusader Sects|cult]] town of [[Veridica]] 
 
 #### The Landcrab Plot
 #campaigns/landcrab-plot 
