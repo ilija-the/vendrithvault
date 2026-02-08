@@ -5,12 +5,12 @@ aliases:
 tags:
   - society
 ---
-
+Adventurers are a class of person that's unusually competent in any combination of exploration, combat, magic and the like - and uses their abilities either to serve themselves
 
 
 [[Adventurer Crisis]]
 
-Parties
+For player character adventurers, see #campaigns, #people/pc or the adventurer parties listed below:
 [[Jadebreakers]]
 [[Welcoming Party]]
 [[Fools of Veridica]]
@@ -20,42 +20,7 @@ Parties
 [[Dawnseekers]]
 [[Hunts of Vilhun Party]]
 
-
 NPC adventurers:
 [[Bloodpaw Bonepaw]]
 [[Bonepaw Bloodpaw]]
 [[Valfrid Veldaks]]
-
-Player Character adventurers:
-[[Sir Gordon]]
-[[Valeira]]
-[[Beirgit]]
-[[Shzorzy]]
-[[Cardinal Rackawn]]
-[[Gator Grippli]]
-[[Bande Aparte]]
-[[Ergruff Ward]]
-[[Louen Leonceur]]
-[[Ashur Holdok]]
-[[Magnus Strike]]
-[[Roslyn Chatkur]]
-[[Boney]]
-[[Kholek]]
-[[Pike]]
-[[Gen]]
-[[Lieutenant]]
-[[Sebastian Faust]]
-[[Suite Feul]]
-[[Wick]]
-[[Tricky]]
-[[Rex Stormwind]]
-[[Nimbus]]
-[[Cantro]]
-[[Kai]]
-[[Minky]]
-[[Sheppie]]
-[[Valentine Volmari]]
-[[Guy Beaumont]]
-[[Petunia Beaumont]]
-[[Robyn]]
-[[Isla]]
