@@ -13,7 +13,6 @@ kanban-plugin: board
 
 ## Cleanup Needed
 
-- [ ] [[War Over Haeven]]
 
 
 ## Expansion Needed
