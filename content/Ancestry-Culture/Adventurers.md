@@ -5,7 +5,7 @@ aliases:
 tags:
   - society
 ---
-Adventurers are a class of person that's unusually competent in any combination of exploration, combat, magic and the like - and uses their abilities either to serve themselves
+Adventurers are a class of person that's unusually competent in any combination of exploration, combat, magic and the like - and uses their abilities to go on quests. These quests often include slaying [[Monsters of Vendrith|Monsters]] and stopping [[Villains]], but can involve pretty much anything. These quests often have some sort of altruistic motive, though they also usually benefit the adventurers, especially in the collection of loot, rewards and honours. Adventurers that don't ques
 
 
 [[Adventurer Crisis]]
