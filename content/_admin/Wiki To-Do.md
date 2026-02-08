@@ -18,21 +18,18 @@ kanban-plugin: board
 - [ ] [[Far World - Eydwin|Eydwin]]
 
 
-## Cleanup Needed
+## Cleanup & Organisation
 
 - [ ] [[Crimson]]
 - [ ] All the #religion/deities/titans
 - [ ] The #material s probably
 - [ ] #society tag really that useful?
+- [ ] [[Campaign Guide]]
 
 
-## Satisfactory
+## Other To-Do
 
-**Complete**
-- [x] #campaigns tag is useful.
-- [x] #ancestries tags are good.
-- [x] #classes is neat.
-- [x] #people is good I think.
+- [ ] [[Shrines]]
 
 
 
