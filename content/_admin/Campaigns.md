@@ -31,14 +31,14 @@ Fool Me Once was a short game much like a thriller, focused on hinting at more m
 
 #### The Landcrab Plot
 #campaigns/landcrab-plot 
-The Landcrab Plot was a years long campaign. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]]. 
+The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]]. 
 
 #### Call of the Cardinals
 #campaigns/call-of-the-cardinal
-Call of the Cardinals was a short game that in real life happened during the Landcrab Plot, though in-universe took place
+Call of the Cardinals was a short game that in real life happened during the Landcrab Plot, though in-universe took place some years before. It revolved around the kidnapping of [[Bishop the Peacemaker]]. [[Bishop's Disciples]] chased after the kidnappers, uncovering and stopping a [[Desecrators|Desecrator]] bomb plot lead by [[Cardinal Rackawn]]. Bishop, however, lost his life.
 
 #### Red Thread Station
-A non-canon Halloween special oneshot.
+A non-canon Halloween special oneshot. It took place on an eerie abandoned and dark 'space station,' which the small Landcrab Plot party explored whilst avoiding a terrifying creature. 
 
 #### Forgotten Dawn - Underbelly of Rraka
 #campaigns/forgotten-dawn 
