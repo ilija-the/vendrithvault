@@ -26,7 +26,7 @@ Essence Spellcasting merges spell slots and spells known into one value, and get
 Spells are then cast using *[[Essence Casting#Essence|Essence]]* in combat or using *[[Essence Casting#Essence|Incantations]]* out of combat. 
 ### Essence
 *Essence* is a value that denotes the maximum rank of spell you can cast, which increases as you fight over the course of a battle. You start to increase essence by casting a cantrip (or by rolling initiative after 5th level via *Initial Draw* class feature). 
-The amount of *Essence* you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 3`, with a minimum of 1.[^2] Your maximum amount of *Essence* is referred to as your *Essence Pool*, equal to your `Maximum Spell Rank`.
+The amount of *Essence* you gain is called *Essence Draw*, and it is equal to your `Maximum Spell Rank - 2`, with a minimum of 1.[^2] Your maximum amount of *Essence* is referred to as your *Essence Pool*, equal to your `Maximum Spell Rank`.
 
 On your turn, you can then cast any spell up to the rank equal to your *Essence*. If the spell has a casting time of 2 actions or longer, you increase your *Essence* by 1, able to cast a higher rank spell next turn. Otherwise, you suffer an *Essence Leak*, which reduces your *Essence* to 0.
 
@@ -36,10 +36,13 @@ Once you have reached an *Essence* value of 0 after the first *Essence Draw*, wh
 If you do, you can repeat the cycle of casting a cantrip, casting spells up to your maximum, and finishing an essence cycle.
 
 >[!details]- Specific Spellcasters
->Sorcerers, Wizards, and anyone else who gains 4 spell slots gain an extra 5th slot to compensate for every essence caster being able to cast nigh-infinite amount of spells compared to Vancian.
->Psychics have a special mechanic where they after they cast their first spell, they immediately incur an Essence Leak, due to their design as a 2-slot caster. They still often win out by being able to cast more than 2 spells in a day.
->As an extension of the rule that you have as many spells known as you have slots, Animists must choose which spells they prepare from their apparitions every long rest, up to the amount of spell slots they have. Also, they must pick one spell per rank to be a signature spell, not having all of them as signature spells.
->Magus, Summoner, and other Bounded spellcasters act by slightly different rules do their alternative spellcasting progression. They always cycle back to 0 Essence after casting a spell, requiring a cantrip every other turn. With each cycle, they increase the essence draw by 1, up to their maximum, after which they are tapped out and can no longer cast spells. Affording them 3 spells in a span of 6 turns per encounter.
+>**Sorcerers**, **Wizards**, and anyone else **who gains 4 spell slots per rank** gain an extra 5th slot to compensate for every essence caster being able to cast nigh-infinite amount of spells compared to Vancian.
+>
+>**Psychics**, and anyone else **who gains 2 spell slots per rank** have a special mechanic where they after they cast their first spell, they immediately incur an Essence Leak. They still often win out by being able to cast more than 2 spells in a day.
+>
+>As an extension of the rule that you have as many spells known as you have slots, **Animists** must choose which spells they prepare from their apparitions every long rest, up to the amount of spell slots they have. Also, they must pick one spell per rank to be a signature spell, instead of having them all of them as signature spells.
+>
+>**Magus**, **Summoner**, and other Bounded spellcasters act by slightly different rules do their alternative spellcasting progression. They always cycle back to 0 Essence after casting a spell, requiring a cantrip every other turn. With each cycle, they increase the essence draw by 1, up to their maximum, after which they are tapped out and can no longer cast spells. Affording them 2 to 3 spells in a span of 5 turns per encounter in a sequence of Cantrip → Spell → Cantrip → Spell → Terminus of Bounded Might.
 
 #### Strategy
 The gameplan with Essence Spellcasting revolves around 3-4 turn cycles, of gaining your *Essence* via cantrip or *Initial Draw*, and advancing your Essence up to your highest rank. 

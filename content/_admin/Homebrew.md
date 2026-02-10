@@ -7,9 +7,8 @@ aliases:
   - Homebrew
 ---
 [[index|Click here to return to the index.]]
-```
-Note: We use the term homebrew to refer to 'content' such as player options, and houserules to refer to changes to rules.
-```
+> [!note]
+> We use the term homebrew to refer to 'content' such as player options, and houserules to refer to changes to rules.
 
 
 In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
