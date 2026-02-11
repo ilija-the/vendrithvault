@@ -6,4 +6,7 @@ tags:
 aliases:
   - Dunamis
 ---
+
+![[GnomeExample2.png|right|300]]
+
 A star-spangled gnome mage.
