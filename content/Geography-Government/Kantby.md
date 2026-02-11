@@ -10,7 +10,7 @@ However, due to other markets propping up on the shores of Flod in the officiall
 
 After the rebellion, it has become somewhat of an anarchistic commune with an elected governor. With its already built markets, stubborn burghers guilds, and nostalgia value, it has regained its trade hub status as war raged on in the northern parts of the isle and destabilized the very ports that took Kantby's status in the past.
 
-Kantby has a small military presence based solely on voluntary enlistment. With the governors power of the purse however, it also employs plenty of professional mercenaries, including adventurers.
+Kantby has a small military presence based solely on voluntary enlistment. With the governor's power of the purse however, it also employs plenty of professional mercenaries, including adventurers.
 
 The town is protected inland by stone walls built by an unknown sorcerer, along with a system of tidal sluice gates.
 
