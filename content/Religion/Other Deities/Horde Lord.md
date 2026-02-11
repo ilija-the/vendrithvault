@@ -27,12 +27,12 @@ aliases:
 **Domains** confidence, nature, might, zeal
 **Alternate Domains** air, earth, fire, metal, water, wood
 **Cleric Spells**
-(1) []()
-(2) []()
+(1) [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457)
+(2) [create food](https://2e.aonprd.com/Spells.aspx?ID=1475)
 (3) [earthbind](https://2e.aonprd.com/Spells.aspx?ID=1506)
-(4) []()
-(5) []()
-(6) []()
-(7) []()
-(8) []()
-(9) []()
+(4) [elemental gift](https://2e.aonprd.com/Spells.aspx?ID=904)
+(5) [control water](https://2e.aonprd.com/Spells.aspx?ID=1473)
+(6) [elemental confluence](https://2e.aonprd.com/Spells.aspx?ID=903)
+(7) [unfettered pack](https://2e.aonprd.com/Spells.aspx?ID=1733)
+(8) [migration](https://2e.aonprd.com/Spells.aspx?ID=1600)
+(9) [wrathful storm](https://2e.aonprd.com/Spells.aspx?ID=1759)
