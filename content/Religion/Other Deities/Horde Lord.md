@@ -19,6 +19,7 @@ aliases:
 
 ---
 ### Mechanical Details
+
 **Divine Attribute** Constitution or Wisdom 
 **Divine Font** heal
 **Divine Skill** Nature, or Warfare Lore
@@ -26,6 +27,7 @@ aliases:
 **Favored Weapon** bastard sword
 **Domains** confidence, nature, might, zeal
 **Alternate Domains** air, earth, fire, metal, water, wood
+
 **Cleric Spells**
 (1) [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457)
 (2) [create food](https://2e.aonprd.com/Spells.aspx?ID=1475)
