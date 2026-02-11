@@ -12,6 +12,6 @@ After the rebellion, it has become somewhat of an anarchistic commune with an el
 
 With its status as a commune, Kantby has a small military presence based solely on voluntary enlistment. With the governors power of the purse however, it also employs plenty of professional mercenaries, including adventurers.
 
-The town is also protected by stone walls built by an unknown sorcerer.
+The town is protected inland by stone walls built by an unknown sorcerer, along with a system of tidal sluice gates.
 
 Its current governor is [[Sora Lockneed]].
