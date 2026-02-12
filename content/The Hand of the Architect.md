@@ -1,0 +1,1 @@
+The Hand of the Architect is a person rumoured to aid the fabled [[The Architect (Friedport)|Architect]]
