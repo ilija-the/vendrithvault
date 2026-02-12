@@ -8,3 +8,4 @@ aliases:
   - Auldwell
   - Auldwell Fareawell
 ---
+Auldwell Farewel was once a respected merchantman in [[Friedport]], owning multipl
