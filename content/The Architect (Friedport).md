@@ -5,5 +5,7 @@ aliases:
 ---
 The Architect is a rumoured person responsible for much of the architecture in [[Friedport]] whose name was erased from the record. 
 
-> [!important] Important Title
-> Important Text! You can see other types of sections [here](https://help.obsidian.md/callouts#Supported%20types). This can also be made [foldable](https://help.obsidian.md/callouts#Foldable%20callouts).
+> [!important] Secrets ahead!
+> While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Keep this in mind, and make sure to keep your own knowledge and that of your characters separate!
+
+The Architect, a former architect of Friedport, is a [[Crusaders|Crusader]] that once 

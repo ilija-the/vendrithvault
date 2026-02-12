@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Crusaders
+  - Crusader
+  - crusader
 tags:
   - society
 ---
