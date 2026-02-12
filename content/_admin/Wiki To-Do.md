@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] #society tag really that useful?
 - [ ] [[Campaign Guide]]
 - [ ] [[Crusaders]]
+- [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 
 
 ## Unfinished Lists
