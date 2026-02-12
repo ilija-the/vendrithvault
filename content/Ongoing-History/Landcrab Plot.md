@@ -12,4 +12,4 @@ Despite many efforts to uncover and stop the plot, the rebellion started during 
 
 The [[Newcomers of Friedport]], having just won the Summer Games, rapidly returned to the city to try to save it. Most visible of them was [[Cardinal Rackawn]], whom arrived early and made a spectacle of killing the golems. After the source of the golems was located and destroyed, the Newcomers, and especially Cardinal, were celebrated as heroes.
 
-In light of the ruin caused to the city, and the fact that [[Captain Kard]] of the [[Uniforms]] appears to have died during the events, the tripartite government of the city dissolved. [[Harbourmaster Kiam Lockneed|Kiam Lockneed]] fled the city, and a new system was negotiated with the aid of [[Ashur Holdok]], [[Captain Dobi|Dobi]] and [[Redd]]. 
+In light of the ruin caused to the city, and the fact that [[Captain Kard]] of the [[Uniforms]] appears to have died during the events, the tripartite government of the city dissolved. [[Kiam Lockneed|Kiam Lockneed]] fled the city, and a new system was negotiated with the aid of [[Ashur Holdok]], [[Captain Dobi|Dobi]] and [[Redd]]. 
