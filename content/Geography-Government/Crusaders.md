@@ -23,6 +23,9 @@ Some Crusaders around coastlines and islands partake in decentralised [[Piracy]]
 
 Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancy]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
 
+![[DesecratorCrusader.png]]
+*A desecrator crusader, in their makeshift cloth armour. Note their covered faces.* 
+
 Also in the new world were the [[Blackout Crusaders]], the invention of [[General Architrave]]. They were a small but well-organised faction of crusaders that infiltrated the ranks of [[Friedport]] in preparation of a plan to seize the city, but were uncovered, located and destroyed.
 
 > For more about crusaders, see #crusaders and #places/canath
