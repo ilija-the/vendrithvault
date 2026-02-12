@@ -8,7 +8,7 @@ tags:
 ---
 The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in warfare and sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. They are nominally united around the [[Iron Lotus]] commanding them with the aid of the secret [[Home Base]], though some see her as but a figurehead.
 
-![[Crusader_Armiger_Masked_1.1.png | right | 500 ]]
+![[Crusader_Armiger_Masked_1.1.png | center | 600]]
 *An elite Crusader Soldier.*
 
 The Crusaders are famous for their unique access to [[Godpowder]]-powered [[Firearms]], which their fashionable commanders and heavily armoured elite troops prominently carry around.
@@ -22,5 +22,7 @@ A smaller but equally important side of the Crusaders are the [[Crusader Sects|S
 Some Crusaders around coastlines and islands partake in decentralised [[Piracy]]. While various decrees allow Crusaders free reign to pirate Sanitorium ships, these pirates don't necessarily discriminate as they are supposed to. The [[Firearms]] that this new pirate threat wields has become an infamous symbol of their kind. There are rumours of a few crusader pirates gaining access to the rare [[Flying Ships]] of Canath.
 
 Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancy]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
+
+Also in the new world were the [[Blackout Crusaders]], a small but well-organised faction of crusaders that infiltrated the ranks of [[Friedport]] in preparation of a plan to seize the city. 
 
 > For more about crusaders, see #crusaders and #places/canath
