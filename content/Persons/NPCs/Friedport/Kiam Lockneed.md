@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Kiam Lockneed
 tags:
   - people/npc
   - ancestries/dragonblood
