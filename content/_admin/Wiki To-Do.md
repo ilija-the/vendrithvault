@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## High Priority Lore
+## High Priority to Maintain
 
 - [ ] [[War Over Haeven]]
 - [ ] [[Mythos of Vendrith]]
@@ -18,7 +18,7 @@ kanban-plugin: board
 - [ ] [[Far World - Eydwin|Eydwin]]
 
 
-## Feedback & Cleanup Required
+## Cleanup Required
 
 - [ ] [[Crimson]]
 - [ ] All the #religion/deities/titans
