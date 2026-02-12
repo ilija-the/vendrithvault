@@ -6,11 +6,11 @@ tags:
   - ancestries/dragonblood
   - campaigns/landcrab-plot
 ---
-Kiam Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[New World - Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city. Kiam was iconic for suffering an eye condition in which he 
+Kiam Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[New World - Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city. Kiam Lockneed's origins are not well known, though he began to appear in the ranks of the [[Horizan Guild Association]] while stationed in [[Singsong]].
 
+![[Kiam_Lockneed_Portrait.png]]
 
-
-Kiam Lockneed's origins are not well known, though he began to appear in the ranks of the [[Horizan Guild Association]] while stationed in [[Singsong]].
+A big fan of swimming, Kiam was often seen in his swimsuit, with his luxurious fur coat on top if need be. While he ironically suffered from leaky eyes, thiswas
 
 Much suspicion has been cast on Kiam Lockneed, accusing him of smuggling, corruption, and using his ill-gotten-gains and power to serve his ego and comfort. Kiam Lockneed was frequent visitor to [[Auldwell Fareawel]]'s auctionhouse, which would eventually be shut down after its owner's fall from grace. Some speculate Kiam used his station as Harbourmaster to allow the smuggling of items for money and favours, such as stolen famous artefacts obtained by Auldwell.
 
