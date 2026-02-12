@@ -6,7 +6,7 @@ tags:
   - ancestries/dragonblood
   - campaigns/landcrab-plot
 ---
-Kiam Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[New World - Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city after the abdication of [[Captain Dobi]]. 
+Kiam Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[New World - Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city.
 
 Kiam Lockneed's origins are not well known, though he began to appear in the ranks of the [[Horizan Guild Association]] while stationed in [[Singsong]].
 
@@ -16,5 +16,5 @@ As Harbourmaster, Kiam Lockneed founded and lead a personal guard of elite warri
 
 Kiam Lockneed has an interest in fine arts and theatre. After serving as the Harbourmaster Kiam had at one point built upon enough personal wealth to fund the creation of an Operahouse in Portaupearl, to the surprise of many. Perhaps to repair the corrupt reputation he had earned, Kiam Lockneed funded the creation of an orphanage in Friedport, which produced a number of theatre performers. A statue of Kiam Lockneed still stands in this orphanage, though its theatre building burnt down.
 
-Kiam Lockneed briefly became Governor of Friedport in the year 1275 ADc.
+Kiam Lockneed briefly became Governor of Friedport in the year 1275 ADc, after the resignation of [[Captain Dobi]] of the [[Patrollers]] of Friedport. Some speculate she merely preempted an agreement by Kiam and [[Captain Kard]] of the [[Uniforms]] of Friedport to expel her from power. His reign was short and marked by crisis. After giving up on attempts to stop the [[Summer Games]] from taking place, Kiam was nowhere to be found during the disastrous [[Landcrab Plot]]. In its aftermath, he fled the city to avoid the wrath of the city's [[Landcrabs]], and a coalition of [[Ashur Holdok]], [[]] 
 
