@@ -10,4 +10,8 @@ The Architect is a rumoured person responsible for much of the architecture in [
 
 The Architect is a former architect of Friedport, whom never earned an official degree or the respect of her peers or those who could fund her projects, but whom had many creations made by having her twin brother [[The Hand of the Architect]] pose as an architect himself.
 
-The Architect was a [[Crusaders|Crusader]] that once played an important part in the secretive [[Blackout Crusaders]] camp on the island. Having been invited to build a church in the then newly discovered [[Labyrinthia|Labyrinthine]] portal of [[Haven]], the Architect hatched a plan to use it as an invasion point for the [[Crusader Armies]] to seize [[New World - Horiza|Horiza]]. However, the plan rejected by [[Sister Amelie Kenton|Amelie Kenton]], she was kicked out and barred from entry. Trying to 
+The Architect was a [[Crusaders|Crusader]] that once played an important part in the secretive [[Blackout Crusaders]] camp on the island. Having been invited to build a church inside and an invisible stairway to the then newly discovered [[Labyrinthia|Labyrinthine]] portal of [[Haven]], the Architect hatched a plan to use it as an invasion point for the [[Crusader Armies]] to seize [[New World - Horiza|Horiza]]. However, this plan was rejected by [[Sister Amelie Kenton|Amelie Kenton]], and the Architect was kicked out and barred from further entry. 
+
+One day she died at a construction site of hers, possibly due to foul play, but remained as a [[Ghost]] bound to her many sites of architecture. Dead, no longer able to move around freely, and her plan having failed, she 
+
+Still trying to realise the Labyrinthine plan, she looked for people to kill Amelie and take over the sisterhood from the inside so, once inviting [[Bande Aparte]] to do so. 
