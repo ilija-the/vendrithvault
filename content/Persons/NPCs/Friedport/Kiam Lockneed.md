@@ -10,7 +10,7 @@ Kiam Lockneed is an influental [[Dragonblood]] noble that built his wealth and n
 
 ![[Kiam_Lockneed_Portrait.png]]
 
-A big fan of swimming, Kiam was often seen in his swimsuit, with his luxurious fur coat on top if need be. While he ironically suffered from leaky eyes, thiswas
+A big fan of swimming, Kiam was often seen in his swimsuit, with his luxurious fur coat on top if need be. While he iconically suffered from leaky eyes, this wasn't necessarily obvious if he had been swimming.
 
 Much suspicion has been cast on Kiam Lockneed, accusing him of smuggling, corruption, and using his ill-gotten-gains and power to serve his ego and comfort. Kiam Lockneed was frequent visitor to [[Auldwell Fareawel]]'s auctionhouse, which would eventually be shut down after its owner's fall from grace. Some speculate Kiam used his station as Harbourmaster to allow the smuggling of items for money and favours, such as stolen famous artefacts obtained by Auldwell.
 
