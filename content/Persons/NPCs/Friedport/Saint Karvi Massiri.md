@@ -16,7 +16,7 @@ tags:
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now revered an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture.
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture as a spiritual leader.
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
 
