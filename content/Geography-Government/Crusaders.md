@@ -11,6 +11,6 @@ The most important faction is the [[Crusader Armies]] located around [[Canath]] 
 
 Many crusaders around coastlines and islands partake in decentralised [[Piracy]]. The [[Firearms]] that this new pirate threat wields has become an infamous symbol of their kind. There are rumours of a few crusader pirates gaining access to the rare [[Flying Ships]] of Canath.
 
-Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. 
+Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like pirates and bandits than holy warriors.
 
 For more about crusaders, see #crusaders and #places/canath
