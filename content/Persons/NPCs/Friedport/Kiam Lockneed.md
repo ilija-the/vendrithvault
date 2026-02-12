@@ -16,5 +16,5 @@ As Harbourmaster, Kiam Lockneed founded and lead a personal guard of elite warri
 
 Kiam Lockneed has an interest in fine arts and theatre. After serving as the Harbourmaster Kiam had at one point built upon enough personal wealth to fund the creation of an Operahouse in Portaupearl, to the surprise of many. Perhaps to repair the corrupt reputation he had earned, Kiam Lockneed funded the creation of an orphanage in Friedport, which produced a number of theatre performers. A statue of Kiam Lockneed still stands in this orphanage, though its theatre building burnt down.
 
-Kiam Lockneed briefly became Governor of Friedport in the year 
+Kiam Lockneed briefly became Governor of Friedport in the year 1275 ADc.
 
