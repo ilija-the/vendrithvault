@@ -20,7 +20,7 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
 
-Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, however, was [[Ragnil Veldaks]], whom sunk her teeth into the Viceroy's neck while he loomed over Karvi, killing him in a widely celebrated act of defiance.
+Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
 
 The late teen spent some years being raised at the [[Theatre Orphanage]] before he was kicked out, where he gained an affinity for 
 
