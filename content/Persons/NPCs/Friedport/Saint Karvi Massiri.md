@@ -14,11 +14,11 @@ tags:
   - secrets
 ---
 > [!important] History rewriting-shenanigans.
-> At the end of the Landcrab Plot campaign, a phenomenon potentially related to the Daydreaming Truth occurred in which most of the city of Friedport remembered the details of Karvi Massiri's influence in the city differently from the [[Newcomers of Friedport|Newcomers]] that stopped it. In short: the newcomers remembered him for having lead the [[Landcrab Plot]], taken over command of the local [[Desecrators]], and murdering dozens towards his end of an independent Friedport where lies could no longer be told. Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell over the city. This version of Karvi styled himself as "The Scurvymaster." What follows in this article is the version of events that most citizens remember, however. 
+> At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri's seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]].
-
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now being an icon in [[Friedport]]. Wh
 
  >[!important] Secrets ahead! - the true story of Karvi.
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
+In short: the newcomers remembered him for having lead the [[Landcrab Plot]], taken over command of the local [[Desecrators]], and murdering dozens towards his end of an independent Friedport where lies could no longer be told. Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell over the city. This version of Karvi styled himself as "The Scurvymaster." What follows in this article is the version of events that most citizens remember, however.
