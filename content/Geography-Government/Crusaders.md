@@ -8,7 +8,7 @@ tags:
 ---
 The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in warfare and sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. They are nominally united around the [[Iron Lotus]] commanding them from the secret [[Home Base]], though some see her as but a figurehead.
 
-![[Crusader_Armiger_Masked_1.1.png]]
+![[Crusader_Armiger_Masked_1.1.png | center | 800 ]]
 *An elite Crusader Soldier.*
 
 The Crusaders are famous for their unique access to [[Godpowder]]-powered [[Firearms]], which their fashionable commanders and heavily armoured elite troops prominently carry around.
