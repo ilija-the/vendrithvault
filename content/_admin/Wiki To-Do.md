@@ -18,24 +18,29 @@ kanban-plugin: board
 - [ ] [[Far World - Eydwin|Eydwin]]
 
 
-## Cleanup & Organisation
+## Feedback & Cleanup Required
 
 - [ ] [[Crimson]]
 - [ ] All the #religion/deities/titans
 - [ ] The #material s probably
 - [ ] #society tag really that useful?
 - [ ] [[Campaign Guide]]
+- [ ] [[Crusaders]]
 
 
-## Other To-Do
+## Unfinished Lists
 
 - [ ] [[Shrines]]
+
+
+## Empty Articles
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

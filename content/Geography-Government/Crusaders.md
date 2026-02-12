@@ -3,7 +3,9 @@ aliases:
 tags:
   - society
 ---
-The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in various armed conflicts and acts of sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. 
+The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in warfare and sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. 
+
+``insert picture``
 
 The Crusaders are famous for their unique access to [[Godpowder]]-powered [[Firearms]], which their fashionable commanders and heavily armoured elite troops prominently carry around.
 
@@ -15,4 +17,4 @@ Many crusaders around coastlines and islands partake in decentralised [[Piracy]]
 
 Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancy]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
 
-For more about crusaders, see #crusaders and #places/canath
+> For more about crusaders, see #crusaders and #places/canath
