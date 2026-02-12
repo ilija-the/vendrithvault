@@ -9,8 +9,8 @@ The Crusaders are famous for their unique access to [[Godpowder]]-powered [[Fire
 
 The most important faction is the [[Crusader Armies]] located around [[Canath]] and parts of [[Galae]]. The different Crusader Armies have different names, coats of arms and leaders. Recently, the armies all at least symbolically pledge allegiance to the [[Iron Lotus]]. While these armies don't directly control territory, they set up camp around the various realms and demand food, supplies and sometimes - conscripts. While few have rejected the armies' demands outright, this has caused tension and has seen small scale conflict and sabotage occur (see [[Camp Conflict]]).
 
-Many crusaders around coastlines and islands partake in decentralised [[Piracy]]. The [[Firearms]] that this new pirate threat wields has become an infamous symbol of their kind. There are rumours of a few crusader pirates gaining access to the rare [[Flying Ships]] of Canath.
+Many crusaders around coastlines and islands partake in decentralised [[Piracy]]. While various decrees allow Crusaders free reign to pirate Sanitorium ships, these pirates don't necessarily discriminate as they are supposed to. The [[Firearms]] that this new pirate threat wields has become an infamous symbol of their kind. There are rumours of a few crusader pirates gaining access to the rare [[Flying Ships]] of Canath.
 
-Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like pirates and bandits than holy warriors.
+Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancy]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
 
 For more about crusaders, see #crusaders and #places/canath
