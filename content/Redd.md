@@ -1,10 +1,7 @@
 ---
-aliases:
-  - Garlos
 tags:
   - people/npc
   - campaigns/landcrab-plot
-  - ancestries/elf
   - places/horiza/friedport
+  - ancestries/dragonblood
 ---
-

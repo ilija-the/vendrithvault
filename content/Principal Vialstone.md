@@ -1,10 +1,9 @@
 ---
 aliases:
-  - Garlos
+  - Vialstone
 tags:
   - people/npc
+  - ancestries/dwarf
   - campaigns/landcrab-plot
-  - ancestries/elf
   - places/horiza/friedport
 ---
-
