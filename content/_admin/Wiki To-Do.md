@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] #society tag really that useful?
 - [ ] [[Crusaders]]
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
+- [ ] [[Saint Karvi Massiri]], probably cut down on some of the details.
 
 
 ## Writing To-Do
