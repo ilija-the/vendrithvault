@@ -84,7 +84,7 @@ Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every
 
 Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he was never found again. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city, now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
 
-![[Karvi_Krynn_Meister.png]]
+![[Karvi_Krynn_Meister 1.png]]
 *Karvi towards soon before the Summer Games.*
 
 
