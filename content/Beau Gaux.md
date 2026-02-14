@@ -4,5 +4,9 @@ tags:
   - campaigns/landcrab-plot
   - places/horiza/friedport
   - ancestries/hobgoblin
+Status: Alive
+Birth: 1236 ADc
 ---
-Beau Gaux is a grizzled clown that acted alongside [[Bugs|Bugs the Clown]] 
+Beau Gaux is a grizzled clown that acted alongside [[Bugs|Bugs the Clown]] at a circus act in [[Friedport]]. This circus was taken over by [[Gator Grippli]], but it was left to Beau as Gator and Bugs left to travel.
+
+Beau and Bugs served as witnesses in the trial against [[Bande Aparte]].
