@@ -57,12 +57,11 @@ On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy
 
 Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [[Theatre Orphanage]] on the orders of [[Kiam Lockneed]]. Here, he would befriend [[The Prince]], [[Su Na]] and [[Etcetera]], as well as gain an affinity for theatrics. Having began to learn [[Arcane Magic|Arcane Spellcasting]] at last, with the help of Hallan, Massiri got his teeth replaced with ones containing arcane glyphs functioning like that of a spellbook. As the orphanage kicked him out as a late teen, Karvi had regained his health and confidence.
 
-Becoming more and more engrained in Landcrab culture, Karvi Massiri eventually participated in the trials set out by the Landcrab Patriarchs in order to 
-
-Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
-
 ![[Scurvymaster_Young_Arrival.png | 600]]
-*Karvi Massiri, having just arrived in Friedport.*
+
+*Karvi Massiri, now in Friedport.*
+
+Becoming more and more engrained in Landcrab culture, Karvi Massiri eventually participated in the trials set out by the Landcrab Patriarchs in order to prepare candidates for [[Summer Games]]. Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
 
 The late teen spent some years being raised at the [[Theatre Orphanage]] before he was kicked out, where he gained an affinity for theatre. Here he also befriended [[The Prince]], [[Su Na]] and [[Etcetera]]; the former of which would also become an important figure to the Landcrabs.
 
