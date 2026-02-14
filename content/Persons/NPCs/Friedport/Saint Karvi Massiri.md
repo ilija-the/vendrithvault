@@ -22,8 +22,9 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 ![[KarviAtRest.png]]
 
+
 ### Early Life
-``Content Warning: Abuse.``
+``Content Warning: Physical, familial abuse.``
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
 
@@ -31,7 +32,9 @@ The Massiri family is most known for Karvi's grandfather, whom was a popularly b
 
 ![[SM_Childhood_Nostalgia.png]]
 
-While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much an academic prodigy. His mother, valuing social intellect and intrigue, attempted to have him raised into a sly socialite capable of furthering their goals without physical strength. As she was not much for showing care or teaching herself, she hired a ruthless kholo teacher towards this end. This teacher recognised Karvi's great intellectual talent, but pushed him to his absolute limit to make as much use of it as possible. The perceptive Karvi, having uncovered signs of an affair between his father and the teacher, was once again the target of abuse trying to keep him quiet. The teacher, from a traditional tribal culture, covered this up by pretending she was merely beating Karvi's left-handedness out of him.
+While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much an academic prodigy. His mother, valuing social intellect and intrigue, attempted to have him raised into a sly socialite capable of furthering their goals without physical strength. As she was not much for showing care or teaching herself, she hired a ruthless kholo teacher towards this end. This teacher recognised Karvi's great intellectual talent, but pushed him to his absolute limit. The perceptive Karvi, having uncovered signs of an affair between his father and the teacher, was once again the target of abuse trying to keep him quiet. The teacher, from a traditional tribal culture, covered this up by pretending she was merely beating Karvi's left-handedness out of him.
+
+Karvi's sister and their pet cat were the few bright spots of his life. She was care
 
 
 ### Late childhood, becoming a Landcrab
