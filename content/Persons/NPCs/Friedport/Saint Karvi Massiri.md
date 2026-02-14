@@ -47,8 +47,9 @@ Karvi's name would not reappear in the records, but he would end up adopted by p
 
 Surrounded by intellectuals and well-travelled folks, Karvi began to make connections and friendships with a handful of people well above his age. Discussing a variety of topics about the arcane, leylines, and the great silence, Karvi was very eager to talk at length about anything. This included the lives of his beloved adoptive parents, whom were quite heavily involved in [[Sanitorium]] affairs in the background. Little did Karvi know that someone he had spoken to at length was a [[Crusaders|Crusader]] spy, utilising the information gained to do further espionage, and, sabotage Sanitorium operations.
 
-When this was eventually revealed after a massacre of sanitationists (also in which high-profile sanitationist agent [[Chaucer]] was captured by Crusaders), an uproar spread across the city. Karvi, put on blast as a spy, saboteur and traitor, was expelled from his academy before finishing his thesis. While the Meisters managed to save Karvi from being capture
+When this was eventually revealed after a massacre of sanitationists (also in which high-profile sanitationist agent [[Chaucer]] was captured by Crusaders) in what would be known as the [[Espionage Crisis]], an uproar spread across the city. Karvi, put on blast as a spy, saboteur and traitor, was expelled from his academy before finishing his thesis. His name was also connected to that of the Massiris. While the Meisters managed to save Karvi from being imprisoned and prosecuted, they were forced to bid him a final farewell as they sent him into hiding on, on his own, with little but the clothes on him.
 
+Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed 
 
 ### Late childhood, becoming a Landcrab
 
