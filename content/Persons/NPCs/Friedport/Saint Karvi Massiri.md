@@ -30,7 +30,7 @@ The Massiri family is most known for Karvi's grandfather, whom was a popularly b
 
 ![[SM_Childhood_Nostalgia.png]]
 
-While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much
+While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much an academic prodigy. His mother, from a dynasty valuing social intellect and intrigue, attempted to have him raised into an eloquent and sly socialite capable of furthering her dynasty's and the Massiri family's goals without physical strength. As she was not much for showing care or teaching the young herself, she hired a ruthless teacher towards this end. This teacher recognised 
 
 
 ### Late childhood, becoming a Landcrab
