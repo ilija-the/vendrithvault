@@ -6,6 +6,7 @@ tags:
   - campaigns/landcrab-plot
   - ancestries/minotaur
   - secrets
+  - places/horiza/friedport
 ---
 Develyn Barbie is a former competitive brawler and sex worker in [[Friedport]], now retired to work a farm she bought with her savings.
 
