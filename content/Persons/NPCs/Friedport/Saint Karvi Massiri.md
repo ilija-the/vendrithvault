@@ -21,14 +21,15 @@ Status: Missing
 Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture as a spiritual leader running the [[Driftwood Church]].
 
 
-*Karvi Massiri, Father of the Driftwood Church. Note his traditional rural Singsong clothing.*
-
 
 ### Early Life
 
-Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. The Massiri family is most known for Karvi's grandfather - the famous [[Knight of Massiri]], a famous [[Knights of the Round]] praised as a hero. Karvi's grandfather was never much involved in his life, as he was usually too busy to ever visit for long. Karvi's father, son of the famous Knight, had a condition which caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, however, this pressure turned into denial and abuse.
+Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
+
+The Massiri family is most known for Karvi's grandfather, whom was a popularly beloved [[Knights of the Round|Knight of the Round]]. Karvi's grandfather was never much involved in his life, as he was usually too busy to ever visit for long. Karvi's father, son of the famous Knight, had a condition which caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, however, this pressure turned into denial and abuse.
 
 ![[SM_Childhood_Nostalgia.png]]
+While Karvi was incapable of 
 
 
 ### Late childhood, becoming a Landcrab
@@ -45,7 +46,7 @@ The late teen spent some years being raised at the [[Theatre Orphanage]] before 
 Textext
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
-
+*Karvi Massiri, Father of the Driftwood Church. Note his traditional rural Singsong clothing.*
 
  >[!important] Secrets ahead! - the true story of Karvi.
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
