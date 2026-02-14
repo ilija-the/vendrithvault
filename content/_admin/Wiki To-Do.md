@@ -33,6 +33,7 @@ kanban-plugin: board
 
 - [ ] [[Shrines]]
 - [ ] [[Campaign Guide]]
+- [ ] [[Mistress Crimtone]]
 
 
 

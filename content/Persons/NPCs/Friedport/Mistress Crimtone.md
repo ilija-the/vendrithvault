@@ -5,6 +5,9 @@ tags:
   - ancestries/kholo
   - monsters/undead/ghoul
   - secrets
+Status: Undead
+Birth: 1242 ADc
+pronouns: She/Her
 ---
 Mistress Crimtone is a [[Kholo]] who's past begins in mystery, as she awakened with amnesia in a port town in [[Mogxa]]. Apparently, she must've died, because as she regained her wits and began to try to live again she discovered that she had become an [[Undead]] [[Ghoul]]. An intimidating and yet charismatic figure, she turned out a natural at attracting members to the cults and gangs of her choice. In [[Crabraven]], [[Friedport]], she organised her gang behind a circus act she ran with her whip.
 
