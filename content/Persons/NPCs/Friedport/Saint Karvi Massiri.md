@@ -18,7 +18,7 @@ Status: Missing
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual leader running the [[Driftwood Church]].
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual and community leader.
 
 ![[KarviAtRest.png]]
 
@@ -68,10 +68,12 @@ Following this incident, Karvi became personally acquainted with Ragnil Veldaks,
 
 ### Spiritual and community leader
 
-Textext
+Having earned the trust of many Landcrabs, Karvi would go on to take a community leader role, and even delve into being a spiritual leader. While titan-worship was taboo in the city, he formed a sort of religion-philosophy based around secular and saintly principles - much like that of early Landcrab religion centred on the [[Shrine to New Horizons]]. Seeking further freedom to express their developing traditions, however, Karvi headed a project to build a secret church underneath the wooden favellas of the city - the [[Driftwood Church]].
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
 *Karvi Massiri, Father of the Driftwood Church. Note his traditional rural Singsong clothing.*
+
+As father of the Driftwood Church, Karvi began to push more
 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
