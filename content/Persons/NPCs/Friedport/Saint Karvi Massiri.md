@@ -55,7 +55,9 @@ Karvi, now 15, made his way to a port town full of refugees he could hide amongs
 
 On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy. As he was found out stealing oranges from the ship supplies by the [[Iron Brothers]], he was beaten into an inch of his life, losing most of his teeth.
 
-Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [[Theatre Orphanage]] on the orders of [[Kiam Lockneed]]. Here, he would
+Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [[Theatre Orphanage]] on the orders of [[Kiam Lockneed]]. Here, he would befriend [[The Prince]], [[Su Na]] and [[Etcetera]], as well as gain an affinity for theatrics. Having began to learn [[Arcane Magic|Arcane Spellcasting]] at last, with the help of Hallan, Massiri got his teeth replaced with ones containing arcane glyphs functioning like that of a spellbook. As the orphanage kicked him out as a late teen, Karvi had regained his health and confidence.
+
+Becoming more and more engrained in Landcrab culture, Karvi Massiri eventually participated in the trials set out by the Landcrab Patriarchs in order to 
 
 Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
 
