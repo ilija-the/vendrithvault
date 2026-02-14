@@ -73,7 +73,9 @@ Having earned the trust of many Landcrabs, Karvi would go on to take a community
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
 *Karvi Massiri, Father of the Driftwood Church. Note his traditional rural Singsong clothing.*
 
-As father of the Driftwood Church, Karvi began to push more
+As father of the Driftwood Church, Karvi began to push more and more towards ideas of Landcrab rebellion and radical reforms to unseat what he perceived as the lies and hypocrisy of the [[Horizan Guild Association|Horizan Guild]] running the city.  
+
+Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every example of the titular phenomenon he experienced. Using this book, he categorised and taught about the alluring nature of not being sincere to one's thoughts and principles, and warned against losing one's truth. Some few instead saw this as a petty project, listing personal slights and designating people to be exiled from the movement or targeted once the Landcrabs took over.
 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
