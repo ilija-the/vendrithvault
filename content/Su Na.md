@@ -12,7 +12,7 @@ Su Na is a water-[[Druid]] and [[Monk]] from [[Friedport]], and a close friend a
 
 ![[Su_Na_the_third_1.2.png]]
 
-Su Na grew up at the [[Theatre Orphanage]] together with The Prince and [[Etcetera]], and later, [[Saint Karvi Massiri|Karvi Massiri]]. Su Na was particularly close to Etctera, and was deeply affected when she disappeared. Afterwards he grew increasingly suspicious of Karvi, and ever-more loyal to The Prince, helping boost his confidence and guide him on a path to popularity amongst the [[Landcrabs]] of the city. This would eventually result in their shared dominion over [[Waterlogg Street]].
+Su Na grew up at the [[Theatre Orphanage]] together with The Prince and [[Etcetera]], and later, [[Saint Karvi Massiri|Karvi Massiri]]. Su Na was particularly close to Etctera, and was deeply affected when she disappeared. Afterwards he grew increasingly suspicious of Karvi, and ever-more loyal to The Prince, helping boost his confidence and guide him on a path to popularity amongst the [[Landcrabs]] of the city. This would eventually result in their shared dominion over [[Waterlogg Street]]. This street would be characterised by Su Na's cleanliness, and the variety of water [[Elementals]] Su Na summoned there.
 
 Su Na also established a small nature lodge in the hills over Friedport, near a graveyard overlooking the city from afar. Here him, his friends, and certain children he tutored could enjoy the fresh air of nature and interactions with animals. Su Na has proven quite attached to the natural world, and defends trying to limit the expansion of cities like Friedport to save and harmonise with as much nature as possible.
 
