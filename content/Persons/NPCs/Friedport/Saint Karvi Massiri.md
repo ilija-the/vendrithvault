@@ -34,7 +34,8 @@ The Massiri family is most known for Karvi's grandfather, whom was a popularly b
 
 While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much an academic prodigy. His mother, valuing social intellect and intrigue, attempted to have him raised into a sly socialite capable of furthering their goals without physical strength. As she was not much for showing care or teaching herself, she hired a ruthless kholo teacher towards this end. This teacher recognised Karvi's great intellectual talent, but pushed him to his absolute limit. The perceptive Karvi, having uncovered signs of an affair between his father and the teacher, was once again the target of abuse trying to keep him quiet. The teacher, from a traditional tribal culture, covered this up by pretending she was merely beating Karvi's left-handedness out of him.
 
-Karvi's sister and their pet cat were the few bright spots of his life. She was care
+Karvi's sister and their pet cat were the few bright spots of his life. She was carefree and freer from family pressure than Karvi. While she became quite protective over him, she still did not openly defy their parents - instead getting up to games away from the household's prying eyes. She greatly adored 
+
 
 
 ### Late childhood, becoming a Landcrab
