@@ -3,6 +3,7 @@ tags:
   - people/npc
   - ancestries/human
   - secrets
+  - crusaders
 ---
 The Hand of the Architect is a person rumoured to aid the fabled [[The Architect (Friedport)|Architect]] of Friedport.
 

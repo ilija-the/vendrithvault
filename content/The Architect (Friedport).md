@@ -7,6 +7,7 @@ tags:
   - people/npc
   - ancestries/human
   - monsters/ghost
+  - crusaders
 pronouns: She/Her
 ---
 The Architect is a rumoured person responsible for much of the architecture in [[Friedport]] but whom was never credited.
