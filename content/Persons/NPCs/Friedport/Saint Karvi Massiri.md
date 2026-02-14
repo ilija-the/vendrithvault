@@ -38,9 +38,13 @@ Karvi's sister and their pet cat were the few bright spots of his life. She was 
 
 One day, the knight returned home in a casket, dead. The family, distraught enough their main source of income, prestige and purpose had passed without a ready successor, missed Karvi's sister disappearing from the grounds after this news spread. After eventually beginning a search, based on a last encounter with Karvi, it was believed she went to disappear forever. The young Karvi had lost his bright spot, and knew his life would only become more of a hell from now on.
 
-In an incident that would sink the Massiri family name into shame and obscurity forever, Karvi reached his breaking point. Utilising his prodigal intellect and a tome on the origins of flesh golems in the family study, Karvi broke into the morgue, and, in a matter of speaking - revived his knightly grandfather. Karvi also cut off his left arm and his right leg - possibly to help in the ne
+In an incident that would sink the Massiri family name into shame and obscurity forever, Karvi reached his breaking point. Utilising his prodigal intellect and a tome on the origins of flesh golems in the family study, Karvi broke into the morgue, and, in a matter of speaking - revived his knightly grandfather as a golem or undead creature. Karvi had also cut off his own left arm and right leg. It was to this gruesome image that his family found him and freaked out. Who was responsible for what followed next is uncertain, but all in the Massiri family except Karvi would end up dead, and the manor in flames.
+
 
 ### Middle childhood - adoption and travel
+
+Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]]. T
+
 
 ### Late childhood, becoming a Landcrab
 
