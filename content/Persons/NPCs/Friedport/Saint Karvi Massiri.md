@@ -77,6 +77,10 @@ As father of the Driftwood Church, Karvi began to push more and more towards ide
 
 Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every example of the titular phenomenon he experienced. Using this book, he categorised and taught about the alluring nature of not being sincere to one's thoughts and principles, and warned against losing one's truth. Some few instead saw this as a petty project, listing personal slights and designating people to be exiled from the movement or targeted once the Landcrabs took over.
 
+### The Landcrab Plot and Death
+
+Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he disappeared and is believed to have lost his life.
+
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
