@@ -93,7 +93,7 @@ Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[
 
 ### Other Side of the Story - the Scurvymaster
 
-[In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told. 
+In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told.
 
 ![[Karvi_Bridge_WITH_SPHERE_1.0.png]]
 
