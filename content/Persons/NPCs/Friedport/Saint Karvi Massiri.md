@@ -12,6 +12,8 @@ tags:
   - campaigns/landcrab-plot
   - ancestries/minotaur
   - secrets
+Birth: 1233 ADc
+Status: Missing
 ---
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
@@ -24,7 +26,7 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 ### Early Life
 
-Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. The Massiri family is most known for Karvi's grandfather - known as the [[Knight of Massiri]], a famous [[Knights of the Round]] praised as a hero of the lands.
+Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. The Massiri family is most known for Karvi's grandfather - the famous [[Knight of Massiri]], a famous [[Knights of the Round]] praised as a hero. 
 
 ![[Scurvymaster_Young_Arrival.png | 600]]
 *Karvi Massiri, having just arrived in Friedport.*
