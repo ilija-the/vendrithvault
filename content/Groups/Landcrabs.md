@@ -3,6 +3,9 @@ tags:
   - society
   - campaigns/landcrab-plot
   - places/horiza/friedport
+aliases:
+  - Landcrab
+  - landcrab
 ---
 The Landcrabs are a relatively recent but unique culture that has developed in the city of [[Friedport]], making up its majority population. The Landcrabs tend to wear colourful clothes that reveal a lot of skin, as well as decorations doubling as makeshift armour of wooden bits and pieces, as well as the ropes and nets of fishermen. They organise into "Tribes" under various Patriarchs (called so even if female), and a great many of them work within forestry, woodworking and carpentry.
 
