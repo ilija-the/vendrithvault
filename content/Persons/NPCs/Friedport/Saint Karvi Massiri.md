@@ -24,7 +24,7 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 ### Early Life
 
-Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, 
+Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. The Massiri family is most known for Karvi's grandfather - known as the [[Knight of Massiri]], a famous [[Knights of the Round]] praised as a hero of the lands.
 
 ![[Scurvymaster_Young_Arrival.png | 600]]
 *Karvi Massiri, having just arrived in Friedport.*
