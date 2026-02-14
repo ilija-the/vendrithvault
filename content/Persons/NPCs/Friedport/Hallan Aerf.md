@@ -5,6 +5,7 @@ tags:
   - crusaders
   - ancestries/human
 Birth: 1226 ADc
+pronouns: He/Him
 ---
 The secret half-brother of [[General Architrave]] as well as a famous doctor that graduated from [[Singsong]]. Went to [[Friedport]] in order to oversee the success of [[Operation Blackout]].
 
