@@ -18,7 +18,7 @@ Status: Missing
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture as a spiritual leader running the [[Driftwood Church]].
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual leader running the [[Driftwood Church]].
 
 ![[KarviAtRest.png]]
 
@@ -26,10 +26,11 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
 
-The Massiri family is most known for Karvi's grandfather, whom was a popularly beloved [[Knights of the Round|Knight of the Round]]. With such responsibilities however he rarely visited the Massiri household, and remained mostly an aspirational symbol. Karvi's father, son of the famous Knight, had a condition which amongst other things caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, including potentially having a stunted growth as a whole, this pressure turned into denial and abuse.
+The Massiri family is most known for Karvi's grandfather, whom was a popularly beloved [[Knights of the Round|Knight of the Round]]. With such responsibilities however he rarely visited the Massiri household, and remained mostly an aspirational symbol. Karvi's father, son of the famous Knight, had a condition which amongst other things caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, including potentially having a stunted growth as a whole, this pressure turned into denial and abuse. Karvi was not allowed to show any signs of this condition nor tell anyone else.
 
 ![[SM_Childhood_Nostalgia.png]]
-While Karvi was incapable of achieving the physical heroics of his grandfather, little attention was paid to the fact that he was very much a prodigy of the academic.
+
+While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much
 
 
 ### Late childhood, becoming a Landcrab
