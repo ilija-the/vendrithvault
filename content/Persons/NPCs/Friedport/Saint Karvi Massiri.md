@@ -81,7 +81,7 @@ Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every
 
 ### The Landcrab Plot and Death
 
-Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he disappeared. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
+Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he was never found again. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city, now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
 
 
  >[!important] Secrets ahead!
@@ -90,4 +90,6 @@ Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[
 
 ### Other Side of the Story - the Scurvymaster
 
-In short: the newcomers remembered him for having lead the [[Landcrab Plot]], taken over command of the local [[Desecrators]], and murdering dozens towards his end of an independent Friedport where lies could no longer be told. Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell over the city. This version of Karvi styled himself as "The Scurvymaster."
+In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told. The first victim was [[Carlos Valenci]], found killed in the Portaupearl Crypts. Another victim which did not die was [[Develyn Barbie]], which he had scoped out as having a suitable arm replacement, which he stole with the help of Doctor Hallan.
+
+Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell over the city. This version of Karvi styled himself as "The Scurvymaster."
