@@ -7,6 +7,7 @@ tags:
 aliases:
   - Captain Kard
 Status: Dead
+Birth: 1211 ADc
 ---
 General Kard was a [[G'Mayun]] soldier turned general, whom eventually commanded [[The Starfish]] of [[Friedport]], and for a long time served as its governor. Having many injuries suffered from earlier wars, he spent many meticulous hours patching up and polishing his near-shattered beak.
 
