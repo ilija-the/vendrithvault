@@ -4,6 +4,8 @@ tags:
   - campaigns/landcrab-plot
   - ancestries/halfling
   - peacemakers
+aliases:
+  - Halvinos
 ---
 The Gallant Sir Halvinos was a rare [[Halflings|halfling]] to have achieved a level of fame and respect by a large population, which he did through his humanitarian efforts as a [[Peacemakers|Peacemaker]]. He is known to have helped many affected by war and devastation in [[Galae]], before helping them resettle elsewhere. He was particularly important in helping many [[Kholo]] reach [[New World - Horiza|Horiza]] - and more specifically, [[Friedport]] - which is also where Halvinos would finally settle down at only a slightly early retirement age. He passed away in the city of Friedport, leaving behind a mansion overseeing [[Windfall]] in the [[Phyrraumids]].
 
