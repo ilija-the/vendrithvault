@@ -63,7 +63,8 @@ Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [
 
 Becoming more and more engrained in Landcrab culture, at 25 years old Karvi Massiri participated in the trials set out by the Landcrab Patriarchs in order to prepare candidates for [[Summer Games]]. After completing them, in what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]], but can now be found in [[Waterlogg Street]].
 
-Following this incident, Karvi had earned the respect of many Landcrabs. He also became personally acquainted with Ragnil Veldaks, and would frequently visit her manor. Some believed they were romantically involved during
+Following this incident, Karvi became personally acquainted with Ragnil Veldaks, and would frequently visit her manor. Some say it is as if he was adopted under the Veldaks family banner, whereas others believed they were romantically involved during this period.
+
 
 ### Spiritual and community leader
 
@@ -72,7 +73,7 @@ Textext
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
 *Karvi Massiri, Father of the Driftwood Church. Note his traditional rural Singsong clothing.*
 
- >[!important] Secrets ahead! - the true story of Karvi.
+ >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
 ### Other Side of the Story - the Scurvymaster
