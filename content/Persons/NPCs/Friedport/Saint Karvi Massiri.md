@@ -83,6 +83,9 @@ Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every
 
 Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he was never found again. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city, now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
 
+![[Karvi_Krynn_Meister.png]]
+*Karvi towards soon before the Summer Games.*
+
 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
@@ -90,8 +93,13 @@ Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[
 
 ### Other Side of the Story - the Scurvymaster
 
-In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told. 
+[In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told. 
+
+![[Karvi_Bridge_WITH_SPHERE_1.0.png]]
 
 The first victim was [[Carlos Valenci]], found killed in the Portaupearl Crypts. Another victim which did not die was [[Develyn Barbie]], which he had scoped out as having a suitable arm replacement, which he stole with the help of Doctor Hallan. He was acquainted with [[Sister Amelie Kenton]], which he manipulated and pressured into helping him towards his greater plans. Half a dozen people were killed by him in the [[Haven#Haven Massacre|Haven Massacre]], including [[Sister Innocent]], which he lured away to a murder location under the disguise of being [[Brother Archangel]]. Lastly, he also killed a worker named Spit Furst at [[O' Captain]]'s mansion.
 
-Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself to a [[Labyrinthia|Labyrinthine]] plane.
+Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself using [[Entanglement Stones]] to a [[Labyrinthia|Labyrinthine]] plane.
+
+![[KarvisLastSmile.png]]
+*The Scurvymaster, admitting defeat before exiling himself.*
