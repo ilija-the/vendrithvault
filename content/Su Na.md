@@ -12,7 +12,7 @@ Su Na is a water-[[Druid]] and [[Monk]] from [[Friedport]], and a close friend a
 
 ![[Su_Na_the_third_1.2.png]]
 
-Su Na grew up at the [[Theatre Orphanage]] together with The Prince and [[Etcetera]], and later, [[Saint Karvi Massiri|Karvi Massiri]]. Su Na was particularly close to Etctera, and was deeply affected when she disappeared. In response he becasuspicious of Karvi, and became ever-loyal to The Prince, helping boost his confidence and guide him on a path to popularity amongst the [[Landcrabs]] of the city. This would eventually result in their shared dominion over the Landcrabs of [[Waterlogg Street]].
+Su Na grew up at the [[Theatre Orphanage]] together with The Prince and [[Etcetera]], and later, [[Saint Karvi Massiri|Karvi Massiri]]. Su Na was particularly close to Etctera, and was deeply affected when she disappeared. Afterwards he grew increasingly suspicious of Karvi, and ever-more loyal to The Prince, helping boost his confidence and guide him on a path to popularity amongst the [[Landcrabs]] of the city. This would eventually result in their shared dominion over [[Waterlogg Street]].
 
 Su Na also established a small nature lodge in the hills over Friedport, near a graveyard overlooking the city from afar. Here him, his friends, and certain children he tutored could enjoy the fresh air of nature and interactions with animals. Su Na has proven quite attached to the natural world, and defends trying to limit the expansion of cities like Friedport to save and harmonise with as much nature as possible.
 
@@ -24,4 +24,4 @@ Su Na was important to bringing to light the idea that The Prince was a bastard 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
-During their late teens, Su Na believed 
+During their late teens, Su Na began to notice signs of and believe that Etcetera was not a human, but an [[Aquatic]] [[Shapeshifter]], possibly one sent by the [[Ocean King]]. After confronting her on the issue, she denied serving anyone but herself. Not long after, she disappeared for good
