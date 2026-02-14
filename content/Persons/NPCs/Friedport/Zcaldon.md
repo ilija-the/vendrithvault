@@ -1,3 +1,7 @@
+---
+tags:
+  - people/npc
+---
 #people 
 
 [[Maca Katja]]
