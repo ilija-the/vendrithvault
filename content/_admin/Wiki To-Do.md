@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## High Priority to Maintain
+## Important Articles
 
 - [ ] [[War Over Haeven]]
 - [ ] [[Mythos of Vendrith]]
@@ -18,30 +18,26 @@ kanban-plugin: board
 - [ ] [[Far World - Eydwin|Eydwin]]
 
 
-## Cleanup Required
+## Fixes and cleanup
 
 - [ ] [[Crimson]]
 - [ ] All the #religion/deities/titans
 - [ ] The #material s probably
 - [ ] #society tag really that useful?
-- [ ] [[Campaign Guide]]
 - [ ] [[Crusaders]]
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 
 
-## Unfinished Lists
+## Writing To-Do
 
 - [ ] [[Shrines]]
-
-
-## Empty Articles
-
+- [ ] [[Campaign Guide]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
