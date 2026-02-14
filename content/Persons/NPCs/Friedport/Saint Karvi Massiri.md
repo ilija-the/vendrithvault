@@ -16,14 +16,14 @@ tags:
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture as a spiritual leader.
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity in [[Friedport]]. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in Friedport as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture as a spiritual leader running the [[Driftwood Church]].
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
-
+*Karvi Massiri, as a spiritual leader running the Driftwood Church. Note his traditional rural Singsong clothing.*
 
 Early Life
 
-
+![[Scurvymaster_Young_Arrival.png | 600]]
 
 Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
 
