@@ -49,9 +49,13 @@ Surrounded by intellectuals and well-travelled folks, Karvi began to make connec
 
 When this was eventually revealed after a massacre of sanitationists (also in which high-profile sanitationist agent [[Chaucer]] was captured by Crusaders) in what would be known as the [[Espionage Crisis]], an uproar spread across the city. Karvi, put on blast as a spy, saboteur and traitor, was expelled from his academy before finishing his thesis. His name was also connected to that of the Massiris. While the Meisters managed to save Karvi from being imprisoned and prosecuted, they were forced to bid him a final farewell as they sent him into hiding on, on his own, with little but the clothes on him.
 
-Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed 
+Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed by the young prodigy, became acquainted with the teen and invited him on a special voyage across the seas to [[New World - Horiza|Horiza]]. With nowhere else to go without being recognised, he accepted.
 
 ### Late childhood, becoming a Landcrab
+
+On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy. As he was found out stealing oranges from the ship supplies by the [[Iron Brothers]], he was beaten into an inch of his life, losing most of his teeth.
+
+Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [[Theatre Orphanage]] on the orders of [[Kiam Lockneed]]. Here, he would
 
 Massiri gained the trust of the city's Landcrabs after beating a set of trials set out by the Landcrab Patriarchs. In what would be remembered as the [[Viceroy Incident]], Massiri was publicly physically beaten by the indignant [[Horizan Guild Association|HGA]] Viceroy that looked down upon and thought he had outlawed such customs. Coming to his defence, [[Ragnil Veldaks]] sunk her teeth into the Viceroy's neck while he loomed over the fallen over Karvi, killing him in a widely celebrated act of defiance. A statue in remembrance of this incident once briefly sat in [[Portaupearl]].
 
