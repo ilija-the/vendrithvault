@@ -51,6 +51,7 @@ When this was eventually revealed after a massacre of sanitationists (also in wh
 
 Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed by the young prodigy, became acquainted with the teen and invited him on a special voyage across the seas to [[New World - Horiza|Horiza]]. With nowhere else to go without being recognised, he accepted.
 
+
 ### Late childhood, becoming a Landcrab
 
 On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy. As he was found out stealing oranges from the ship supplies by the [[Iron Brothers]], he was beaten into an inch of his life, losing most of his teeth.
@@ -77,12 +78,15 @@ As father of the Driftwood Church, Karvi began to push more and more towards ide
 
 Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every example of the titular phenomenon he experienced. Using this book, he categorised and taught about the alluring nature of not being sincere to one's thoughts and principles, and warned against losing one's truth. Some few instead saw this as a petty project, listing personal slights and designating people to be exiled from the movement or targeted once the Landcrabs took over.
 
+
 ### The Landcrab Plot and Death
 
-Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he disappeared and is believed to have lost his life.
+Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he disappeared. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
+
 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
+
 
 ### Other Side of the Story - the Scurvymaster
 
