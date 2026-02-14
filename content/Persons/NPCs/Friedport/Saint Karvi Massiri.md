@@ -23,23 +23,24 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 ![[KarviAtRest.png]]
 
 
-### Early Life
+### Early Life - Massiri Mansion
 ``Content Warning: Physical, familial abuse, presumed suicide.``
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
 
 The Massiri family is most known for Karvi's grandfather, whom was a popularly beloved [[Knights of the Round|Knight of the Round]]. With such responsibilities however he rarely visited the Massiri household, and remained mostly an aspirational symbol. Karvi's father, son of the famous Knight, had a condition which amongst other things caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, including potentially having a stunted growth as a whole, this pressure turned into denial and abuse. Karvi was scolded for showing signs of having the condition around anyone.
 
-![[SM_Childhood_Nostalgia.png]]
-
 While Karvi was incapable of achieving the physical heroics of his grandfather, he was very much an academic prodigy. His mother, valuing social intellect and intrigue, attempted to have him raised into a sly socialite capable of furthering their goals without physical strength. As she was not much for showing care or teaching herself, she hired a ruthless kholo teacher towards this end. This teacher recognised Karvi's great intellectual talent, but pushed him to his absolute limit. The perceptive Karvi, having uncovered signs of an affair between his father and the teacher, was once again the target of abuse trying to keep him quiet. The teacher, from a traditional tribal culture, covered this up by pretending she was merely beating Karvi's left-handedness out of him.
+
+![[SM_Childhood_Nostalgia.png]]
 
 Karvi's sister and their pet cat were the few bright spots of his life. She was carefree and freer from family pressure than Karvi. While she became quite protective over him, she still did not openly defy their parents - instead getting up to games away from the household's prying eyes. She greatly adored Karvi's grandfather, and would idolise him as the two played pretend heroes and villains.
 
-One day, the knight returned home in a casket, dead. The family, distraught enough their main source of income, prestige and purpose had passed without a ready successor, missed Karvi's sister disappearing from the grounds after this news spread. After eventually beginning a search, based on a last encounter with Karvi, it was believed she went to disappear forever.
+One day, the knight returned home in a casket, dead. The family, distraught enough their main source of income, prestige and purpose had passed without a ready successor, missed Karvi's sister disappearing from the grounds after this news spread. After eventually beginning a search, based on a last encounter with Karvi, it was believed she went to disappear forever. The young Karvi had lost his bright spot, and knew his life would only become more of a hell from now on.
 
-The young Karvi, 
+In an incident 
 
+### Middle childhood - adoption and travel
 
 ### Late childhood, becoming a Landcrab
 
