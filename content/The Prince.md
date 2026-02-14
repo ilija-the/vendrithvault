@@ -11,3 +11,4 @@ The Prince is a [[Landcrabs|Landcrab]] of [[Friedport]] with a love for theatre.
 ![[Prince_and_Su_Na.png]]
 *The Prince (left) and his trusted aide Su Na (right).*
 
+The Prince owns the fire [[Elementals|elemental]] [[fire]]
