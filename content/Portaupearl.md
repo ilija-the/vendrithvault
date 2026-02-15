@@ -5,11 +5,18 @@ tags:
 ---
 Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[New World - Horiza|Horiza]] - but it has since stopped being used and maintained. 
 
-Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the pr
+Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Old World - Iduria]] (see [[World Fleece]]).
+
+
+### Market Quarters
+
+A series of streets and an abandoned drydock has become a market hub, mostly for foodstuffs. Some amount of [[Underworld|illegal]] trading happens here, with certain goods smuggled inside other items.
+
 
 ### Crimsonred Plaza
 
 An important centre of Portaupearl is the Crimsonred Plaza, which many believe was nicknamed so for the fountain spouting red wine at its centre. However, this wine function was only established after people kept adding red dyes and blood oranges to it, in memory of the [[Viceroy Incident]] and in protest of the HGA. The red wine, expensive and distasteful as it is, was switched to to make this imperceptible. It originates from a room in the [[Portaupearl Crypts]] and is pumped (and supposedly cleaned) with the help of [[Arcane Magic]].
+
 
 ### Friedport Floods
 
