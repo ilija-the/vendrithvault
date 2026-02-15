@@ -9,7 +9,9 @@ kanban-plugin: board
 - [ ] [[War Over Haeven]]
 - [ ] [[Mythos of Vendrith]]
 - [ ] [[Sanitorium]]
+- [ ] [[Philosophers of the Round]] and [[Knights of the Round]]
 - [ ] [[Crusaders]]
+- [ ] [[Crusader Armies]] and [[Crusader Sects]]
 - [ ] [[Mogxa]]
 - [ ] [[Philosophia]]
 - [ ] [[Singsong]]
@@ -40,6 +42,12 @@ kanban-plugin: board
 - [ ] [[Argathia]], [[Sea of Sargathis|Sargathis]], [[Sargathia]], [[Sinking of Argathia|Sinking of Argathis]] needs change. Way too difficult to separate all the different names.
 	
 	Merge into Argathia for land and civilization, and Sargathis for sea? The undersea ruins can be Sargathis Ruins.
+- [ ] [[Languages]] combined into an overview page, not separate pages for individual languages.
+	
+	ANCESTRAL languages can be part of an ancestry's page, though should also be linked to in languages page.
+	
+	Common languages need to exist in languages page, and be referenced in geography and government pages (Eg. Mogxa - Idurian is the spoken court and trade language of Mogxa).
+- [ ] Folder structure can always do with some changes. I think the top structure is fine right now, but should reduce the amount of sub-folders. Search, tags and linking is more important than subfolders.
 
 
 ## Writing To-Do
@@ -65,10 +73,14 @@ kanban-plugin: board
 - [ ] [[Aquatic]] civilization and [[Ocean King]].
 
 
+## Other To-Do
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
