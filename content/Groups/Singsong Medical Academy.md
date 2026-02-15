@@ -8,5 +8,5 @@ A medical academy in the eastern [[Mogxa|Mogxan]] port city of [[Singsong]]. Con
 The academies' doctors and trainees were essential to helping the wounded during the [[Singsong Port Fire]], which earned it the trust of much of the citizenry. Despite this, the Academy is struggling for resources.
 
 Notable graduates include:
-[[Hallan Aerf]]
+[[Doctor Hallan Aerf]]
 [[Roslyn Chatkur]]
