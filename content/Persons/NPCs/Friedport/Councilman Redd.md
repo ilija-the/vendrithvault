@@ -4,6 +4,7 @@ tags:
   - campaigns/landcrab-plot
   - places/horiza/friedport
   - ancestries/dragonblood
+  - society/hga
 aliases:
   - Redd
 pronouns: He/Him

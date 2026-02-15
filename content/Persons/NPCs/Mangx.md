@@ -4,6 +4,7 @@ tags:
   - ancestries/human
   - places/horiza
   - campaigns/landcrab-plot
+  - society/hga
 Status: Alive
 pronouns: He/They
 ---

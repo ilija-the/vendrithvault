@@ -4,6 +4,7 @@ aliases:
 tags:
   - people/npc
   - ancestries/rabbitfolk
+  - society/hga
 pronouns: She/They
 Status: Alive
 ---

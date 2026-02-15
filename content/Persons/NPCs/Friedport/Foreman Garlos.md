@@ -6,6 +6,7 @@ tags:
   - campaigns/landcrab-plot
   - ancestries/elf
   - places/horiza/friedport
+  - society/hga
 Status: Alive
 pronouns: He/Him
 ---

@@ -4,6 +4,7 @@ tags:
   - people/npc
   - ancestries/dragonblood
   - campaigns/landcrab-plot
+  - society/hga
 Status: Alive
 Birth: 1188 ADc
 pronouns: He/Him
