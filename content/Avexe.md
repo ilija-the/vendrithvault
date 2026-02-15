@@ -7,6 +7,6 @@ tags:
   - society/landcrabs
 Status: Alive
 ---
-Avexe is a [[Friedport|Friedporter]] [[Landcrabs|Landcrab]] that participated in the [[Summer Games]]. He is agile and precise, and at one point obtained a magical talking sword.
+Avexe is a [[Friedport|Friedporter]] [[Landcrabs|Landcrab]] that participated in the [[Summer Games]], together with his best friend [[Yarvis]] and their bosses [[The Prince]] and [[Su Na]]. Avexe is precise, and at one point obtained an agile and magical talking sword.
 
 ![[Games_Avexe_1.png]]
