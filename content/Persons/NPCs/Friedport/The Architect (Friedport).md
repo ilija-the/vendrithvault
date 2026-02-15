@@ -9,6 +9,7 @@ tags:
   - monsters/ghost
   - crusaders
 pronouns: She/Her
+Status: Undead
 ---
 The Architect is a rumoured person responsible for much of the architecture in [[Friedport]] but whom was not credited.
 

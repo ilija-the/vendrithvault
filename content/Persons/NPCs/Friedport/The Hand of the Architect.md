@@ -3,7 +3,9 @@ tags:
   - people/npc
   - ancestries/human
   - secrets
-  - crusaders
+  - society/crusaders/blackout
+Status: Likely alive
+pronouns: He/Him
 ---
 The Hand of the Architect is a person rumoured to aid the fabled [[The Architect (Friedport)|Architect]] of Friedport.
 
