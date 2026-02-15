@@ -6,6 +6,8 @@ tags:
 aliases:
   - Friedporter
 ---
+### Overview
+
 Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has long been one of the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an important harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues traversing the [[World Fleece]] than elsewhere.
 
 >![[Friedport1.3.combined.png]]
@@ -20,3 +22,17 @@ Friedport has recently undergone the [[Landcrab Plot]], in which a series of con
 Famous figures include the [[Valfrid Veldaks]], the famous "Hero of Friedport," and his wife [[Ragnil Veldaks]]. In his honour, the [[Summer Games]] are meant to be held semi-regularly, with those who win it declared [[Herō of Friedport|Herōes of Friedport]]. The [[Adventurers|adventurers]] [[Zcaldon]], [[Varvevan]], [[Xvavos]] and [[Maca Katja]] were for some time considered unofficial heroes of Friedport.
 
 Another famous figure is the late [[Saint Karvi Massiri]], considered the first [[Saint]] of Friedport.
+
+### Places in Friedport
+
+#### [[Crabraven]]
+
+##### [[Waterlogg Street]]
+
+##### Philosophian Party Streets
+
+#### [[Amberhole]]
+
+#### [[Phyrraumid]]
+
+#### [[Portaupearl]]
