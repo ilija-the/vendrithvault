@@ -15,4 +15,4 @@ The Lord is a mysterious [[Underworld]] sentient and talking [[Slime|Slime]], li
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
-The Lord is the one whom hired the [[Welcoming Party]] to pursue and recover the [[Mysterious Iron Crate]] that had been stolen b
+The Lord is the one whom hired the [[Welcoming Party]] to pursue and recover the [[Mysterious Iron Crate]] that had been stolen by [[Nazaar Eviljaw]] and was about to be bought by [[Odd]] and [[Chimney]] working on behalf of [[Vendy Vendetta Rapidly]].

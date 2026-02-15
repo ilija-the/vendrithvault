@@ -49,6 +49,7 @@ kanban-plugin: board
 - [ ] etc, rest of the skills.
 - [ ] [[Underworld]]
 - [ ] take inspiration from other Lores.
+- [ ] Fill out [[The Prince]] like [[Su Na]].
 
 
 
