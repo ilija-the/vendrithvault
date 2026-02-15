@@ -6,17 +6,22 @@ kanban-plugin: board
 
 ## Important Articles
 
-- [ ] [[New World - Horiza|Horiza]]
 - [ ] [[War Over Haeven]]
 - [ ] [[Mythos of Vendrith]]
 - [ ] [[Sanitorium]]
 - [ ] [[Crusaders]]
 - [ ] [[Mogxa]]
+- [ ] [[Philosophia]]
+- [ ] [[Singsong]]
 - [ ] [[Canath]]
+- [ ] [[Encanath]] and [[Brincanath]]
 - [ ] [[Galae]]
 - [ ] [[Ferweth]]
 - [ ] [[Vilhun]]
 - [ ] [[Far World - Eydwin|Eydwin]]
+- [ ] [[Talvas]]
+- [ ] [[New World - Horiza|Horiza]]
+- [ ] [[Friedport]]
 
 
 ## Fixes and cleanup
@@ -32,6 +37,9 @@ kanban-plugin: board
 - [ ] Also fold [[Engineering]] and [[Tinkering]] into [[Crafting]] tbh.
 - [ ] [[Princes]] into [[Feudalism]]
 - [ ] Perhaps do a [[Government]] instead? Then headers for feudalism, kings, princes, duchies, empires, governors, etc.
+- [ ] [[Argathia]], [[Sea of Sargathis|Sargathis]], [[Sargathia]], [[Sinking of Argathia|Sinking of Argathis]] needs change. Way too difficult to separate all the different names.
+	
+	Merge into Argathia for land and civilization, and Sargathis for sea? The undersea ruins can be Sargathis Ruins.
 
 
 ## Writing To-Do
@@ -54,6 +62,7 @@ kanban-plugin: board
 - [ ] Add alchemy to [[Crafting]]?
 - [ ] And Runes. Write about the Rune Presses of the [[Horizan Precursors]]
 - [ ] Other [[Planes of Vendrith|Planes]] than just Crimson.
+- [ ] [[Aquatic]] civilization and [[Ocean King]].
 
 
 
