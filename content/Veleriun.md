@@ -6,3 +6,6 @@ tags:
   - places/horiza/friedport
   - society/landcrabs/quietgraves
 ---
+Text
+
+![[Veleriun.png | center | 800]]

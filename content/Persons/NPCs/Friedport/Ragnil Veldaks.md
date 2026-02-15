@@ -11,11 +11,15 @@ Status: Dead
 Birth: 1210 ADc
 pronouns: She/Her
 ---
-Ragnil Veldaks is a [[Kholo]] matriarch from a once-influental dynasty, that attempted to establish a glorious house through her union with [[Valfrid Veldaks]] (whom took her last name). Unfortunately for her, the two of them never managed to produce a child. Perhaps much to her annoyance, [[The Prince]] claims to be the bastard child produced by an affair Valfrid had.
+Ragnil Veldaks is a [[Kholo]] matriarch from a once-influental dynasty, that attempted to establish a glorious house through her union with [[Valfrid Veldaks]] (whom took her last name). Unfortunately for her, the two of them never managed to produce a child. She died after quietly suffering from an illness for years.
+
+![[Ragnil_Veldaks.png | center | 800]]
 
 Even after her husband, the [[Herō of Friedport]], died, Ragnil maintained much sway over the city. She was sometimes called the "Shadow Over Friedport," in reference to her ability to influence the city's affairs from the shadows of her manor.
 
 Ragnil's manor in the countryside of [[Everdry Isle]] had a Cloud [[Dragons|Dragon]] (see [[Veldaks Dragon]]) protecting it, the result of a previous adventure of Valfrid's.
+
+Perhaps much to her annoyance, [[The Prince]] claims to be the bastard child produced by an affair Valfrid had.
 
 
  >[!important] Secrets ahead!
