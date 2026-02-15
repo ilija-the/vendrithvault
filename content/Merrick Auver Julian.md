@@ -6,3 +6,5 @@ tags:
   - ancestries/human
 ---
 ![[Merrick_Lastsummer.png]]
+
+![[Clover.cutout.png | center]]

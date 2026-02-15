@@ -10,3 +10,5 @@ pronouns: She/Her
 [[Desmet Gaius]]
 
 ![[Krescha_the_Landcrab.png]]
+
+![[Krescha2.png]]

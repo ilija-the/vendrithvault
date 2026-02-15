@@ -7,3 +7,5 @@ tags:
 ---
 [[Chimney]] 
 [[Vendy Vendetta Rapidly]]
+
+![[OddChimmy.cutout.png]]

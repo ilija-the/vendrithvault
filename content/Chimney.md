@@ -7,3 +7,5 @@ tags:
 ---
 [[Odd]]
 [[Vendy Vendetta Rapidly]]
+
+![[OddChimmy.cutout.png]]
