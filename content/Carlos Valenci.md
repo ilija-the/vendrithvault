@@ -5,6 +5,8 @@ tags:
   - places/horiza/friedport
   - ancestries/human
   - secrets
+Status: Dead
+pronouns: He/Him
 ---
 Carlos Valenci was a secular priest who played an important role in early history of [[Friedport]], and would later become a hated individual forced to live in hiding until his death. 
 
