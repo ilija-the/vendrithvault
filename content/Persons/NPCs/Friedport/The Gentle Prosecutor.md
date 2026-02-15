@@ -3,7 +3,6 @@ tags:
   - secrets
   - people/npc
   - campaigns/landcrab-plot
-  - sanitationists
   - ancestries/human
   - society/sanitationist
 Status: Missing

@@ -47,6 +47,8 @@ kanban-plugin: board
 - [ ] [[Deception]]
 - [ ] [[Medicine]]
 - [ ] etc, rest of the skills.
+- [ ] [[Underworld]]
+- [ ] take inspiration from other Lores.
 
 
 
