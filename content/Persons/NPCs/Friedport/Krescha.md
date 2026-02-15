@@ -7,7 +7,8 @@ Status: Alive
 Birth: 1255 ADc
 pronouns: She/Her
 ---
-[[Desmet Gaius]]
+Krescha is a [[Goblins|Goblin]] from [[Philosophia]] that es
+
 
 ![[Krescha_the_Landcrab.png]]
 
