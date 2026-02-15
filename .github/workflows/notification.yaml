@@ -48,23 +48,22 @@ jobs:
         if: steps.changes.outputs.has_changes == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FILE_LIST: ${{ steps.changes.outputs.file_list }}
+          FIRST_HASH: ${{ steps.changes.outputs.first_hash }}
+          LAST_HASH: ${{ steps.changes.outputs.last_hash }}
+          REPO: ${{ github.repository }}
         run: |
-          # Convert file list to markdown list with - prefix
-          MARKDOWN_LIST=$(echo "${{ steps.changes.outputs.file_list }}" | sed 's/^- //; s/^/- /')
+          # Build message in a temp file
+          {
+            echo "📖 **Wiki Updates**"
+            echo ""
+            echo "$FILE_LIST" | sed 's/^/- /'
+            echo ""
+            echo "[View changes](https://github.com/$REPO/compare/$FIRST_HASH..$LAST_HASH)"
+          } > /tmp/message.txt
 
-          jq -n \
-            --arg files "$MARKDOWN_LIST" \
-            '{
-              "username": "Wiki Changelog",
-              "embeds": [{
-                "title": "📖 Wiki Updates",
-                "description": "\($files)",
-                "color": 5793266,
-                "footer": {
-                  "text": "Wiki Changelog • 24h Summary"
-                }
-              }]
-            }' | curl -s -X POST \
+          jq -n --rawfile msg /tmp/message.txt '{"username": "Wiki Changelog", "content": $msg}' | \
+            curl -s -X POST \
               -H "Content-Type: application/json" \
               -d @- \
               "$DISCORD_WEBHOOK_URL"
