@@ -25,9 +25,10 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 
 ### Places in Friedport
 
-#### [[Crabraven]]
+#### Crabraven
 
-##### [[Waterlogg Street]]
+##### Waterlogg Street
+Waterlogg Street is a set of streets in the [[Crabraven]] district of [[Friedport]]. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a small grassy knoll at the centre of the street.
 
 ##### Philosophian Party Streets
 
