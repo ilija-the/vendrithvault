@@ -77,6 +77,14 @@ kanban-plugin: board
 
 - [ ] The Sanitationist on the front page of the [[index]] should get some independent art, possibly be turned into a specific NPC.
 - [ ] Same with the crusader.
+- [ ] Cultural topics to include in ancestries and geography:
+	Language
+	Organisation
+	Clothing
+	Diet
+	Entertainment
+	Luxuries
+	Religion & Customs
 
 
 
