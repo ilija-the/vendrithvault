@@ -3,7 +3,9 @@ tags:
   - places/horiza/friedport
   - society/hga
 ---
-Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there.
+Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[New World - Horiza|Horiza]] - but it has since stopped being used and maintained. 
+
+Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the pr
 
 ### Crimsonred Plaza
 
@@ -11,4 +13,4 @@ An important centre of Portaupearl is the Crimsonred Plaza, which many believe w
 
 ### Friedport Floods
 
-Not long after the [[Landcrab Plot]] and [[Friedport Reforms]], long periods of harsh weather ensued and multiple violent floods damaged the city. Portaupearl, the harbour district, took the brunt of this damage. Apparently built on unstable grounds, much of the district and its buildings fell into the sea. Assessing the damage and 
+Not long after the [[Landcrab Plot]] and [[Friedport Reforms]], long periods of harsh weather ensued and multiple violent floods damaged the city. Portaupearl, the harbour district, took the brunt of this damage. Apparently built on unstable grounds, much of the district and its buildings fell into the sea. The damage and its consequences are still being assessed.
