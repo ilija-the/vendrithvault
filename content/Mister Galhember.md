@@ -1,1 +1,0 @@
-![[Mister_Galhember_the_Petmaster.png | center | 800]]
