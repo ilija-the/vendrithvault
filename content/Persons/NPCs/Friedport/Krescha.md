@@ -8,3 +8,5 @@ Birth: 1255 ADc
 pronouns: She/Her
 ---
 [[Desmet Gaius]]
+
+![[Krescha_the_Landcrab.png]]

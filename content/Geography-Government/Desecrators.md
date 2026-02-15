@@ -3,3 +3,5 @@ A rather poor and unorganised yet dedicated and extreme faction of [[Crusaders]]
 ![[DesecratorCrusader.png]]
 
 Worked with the [[Blackout Crusaders]] towards the [[Landcrab Plot]].
+
+![[New_Desecrator_Alt.png]]
