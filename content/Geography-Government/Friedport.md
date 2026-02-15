@@ -3,6 +3,8 @@ tags:
   - places/horiza
   - campaigns/welcome-to-friedport
   - campaigns/landcrab-plot
+aliases:
+  - Friedporter
 ---
 Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has long been one of the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an important harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues traversing the [[World Fleece]] than elsewhere.
 

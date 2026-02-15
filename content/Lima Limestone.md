@@ -7,4 +7,4 @@ tags:
 ---
 [[Nazaar Eviljaw]]
 
-![[6.png | center | 800]]
+![[LimaLimestone.png| center | 800]]
