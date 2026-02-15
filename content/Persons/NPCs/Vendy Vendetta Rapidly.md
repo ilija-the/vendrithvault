@@ -11,3 +11,5 @@ tags:
  [[The Fat Tiger]]
  [[Philosophia]]
  [[Gozi Windaji]]
+
+![[Vendy_Lastsummer.png]]

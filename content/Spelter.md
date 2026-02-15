@@ -1,0 +1,1 @@
+![[Spelter_the_Ambitious_Youngun.png | center | 800]]
