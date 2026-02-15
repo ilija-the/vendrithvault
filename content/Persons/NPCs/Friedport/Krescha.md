@@ -12,6 +12,7 @@ Krescha is a [[Goblins|Goblin]] from [[Philosophia]] that escaped the city and t
 She has one at least one occasion partaken in [[Survival|fishing]], as she tried out Gaius' fishing rod he got from his father. 
 
 ![[Krescha_the_Landcrab.png]]
-*Krescha a*
+*Krescha at the Crabraven party street. She is dressed much like a local Landcrab.*
 
 ![[Krescha2.png]]
+*Krescha in her off-time, enjoying painting the landscape of the city from a vantage point.*
