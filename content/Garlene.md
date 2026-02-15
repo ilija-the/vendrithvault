@@ -6,6 +6,7 @@ tags:
   - society/landcrabs
   - ancestries/medusa
 Birth: 1217 ADc
+pronouns: She/Her/It
 ---
 Garlene is the [[Medusa|Medusan]] leader of the [[Quietgraves|Quietgrave]] [[Landcrabs]]. As a [[Monsters of Vendrith|monster]] that is feared by most, her leadership has kept the Quietgraves from being bothered by others - as is their goal.
 
