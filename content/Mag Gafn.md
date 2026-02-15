@@ -1,0 +1,1 @@
+![[Mag_Gafnen_the_Magnificent.png | center | 800]]
