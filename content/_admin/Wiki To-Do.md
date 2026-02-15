@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Crusaders]]
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 - [ ] [[Saint Karvi Massiri]], probably cut down on some of the details.
+- [ ] Also fold [[Engineering]] and [[Tinkering]] into [[Crafting]] tbh.
 
 
 ## Writing To-Do
@@ -36,6 +37,14 @@ kanban-plugin: board
 - [ ] [[Campaign Guide]]
 - [ ] [[Mistress Crimtone]]
 - [ ] Rest of NPCs from #campaigns/landcrab-plot
+- [ ] [[Feudalism]]
+- [ ] [[Empires]]
+- [ ] [[Crafting]]
+- [ ] [[Athletics]]
+- [ ] [[Performance]]
+- [ ] [[Deception]]
+- [ ] [[Medicine]]
+- [ ] etc, rest of the skills.
 
 
 
