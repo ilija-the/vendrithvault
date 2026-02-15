@@ -4,6 +4,8 @@ tags:
   - ancestries/gnome
   - campaigns/landcrab-plot
   - magic/occult
+aliases:
+  - ZCLDN
 ---
 Zcaldon is a gnome spellcaster which together with [[Varvevan]] and [[Xvavos]] formed a band of heroes beloved for helping those in need in [[New World - Horiza|Horiza]], and specifically, [[Friedport]]. 
 

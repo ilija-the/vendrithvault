@@ -6,7 +6,7 @@ aliases:
 tags:
   - society
 ---
-The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in warfare and sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. They are nominally united around the [[Iron Lotus]] commanding them with the aid of the secret [[Home Base]], though some see her as but a figurehead.
+The "Crusaders" are the holy warriors and their supporters that seek to bring back the [[Titans]] and end the [[The Great Silence|Great Silence]]. To do so, they have engaged in warfare and sabotage against the their mortal enemy, the [[Sanitorium]], as part of the [[Eternal Crusade]]. The Crusaders are one of if not the the largest and most important cultural, magical and military forces in Vendrith this age. They are nominally united around the [[Iron Lotus]] commanding them with the aid of the secret [[Home Base]], though some see her as but a figurehead.
 
 ![[Crusader_Armiger_Masked_1.1.png | center | 600]]
 *An elite Crusader Soldier.*
