@@ -12,6 +12,8 @@ aliases:
 ---
 Elves are a mystical and constructed people who were at the centre of the advanced [[Hightower Civilisation]]. They are known to have an otherworldly beauty to them, but also for creeping many other ancestries out with their doll-like features. Their emotions, behaviour and once society are known to be aloof and somewhat hard to understand in its complexity.
 
+Elves traditionally partake in the use of pronouns and gender roles that most other ancestries and cultures engage in.
+
 >![[Elf_example_02.jpg]]
 >Art by @dizzyspellss.bsky.social and character owned by @awkmark
 
