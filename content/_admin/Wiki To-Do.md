@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Important Articles
 
+- [ ] [[New World - Horiza|Horiza]]
 - [ ] [[War Over Haeven]]
 - [ ] [[Mythos of Vendrith]]
 - [ ] [[Sanitorium]]
@@ -31,9 +32,10 @@ kanban-plugin: board
 
 ## Writing To-Do
 
-- [ ] [[Shrines]]
+- [ ] At least write stubs for all the [[Shrines]] categories.
 - [ ] [[Campaign Guide]]
 - [ ] [[Mistress Crimtone]]
+- [ ] Rest of NPCs from #campaigns/landcrab-plot
 
 
 
