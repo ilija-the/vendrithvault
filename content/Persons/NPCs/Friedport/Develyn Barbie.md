@@ -9,6 +9,7 @@ tags:
   - places/horiza/friedport
 Birth: 1249 ADc
 Status: Alive
+pronouns: She/Her
 ---
 Develyn Barbie is a former competitive brawler and sex worker in [[Friedport]], now retired to work a farm she bought with her savings.
 
