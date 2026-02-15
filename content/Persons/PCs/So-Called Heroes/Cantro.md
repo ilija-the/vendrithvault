@@ -13,4 +13,6 @@ Cantro has travelled [[Ferweth]] on the road to [[Longddawn]] with the [[So-Call
 
 Having begun using a fishing spear as a weapon, he transitioned to using a bastard sword given by [[Captain Doherty]]. He doesn't seem to be afraid of getting his claws dirty however, especially in the heat of battle.
 
-cantro is really freaking cool
+> [!quote]
+> cantro is really freaking cool
+><p align="right"> — Lucipurr</p>
