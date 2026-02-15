@@ -35,9 +35,11 @@ jobs:
 
           # Get list of changed files (just names, one per line)
           FILE_LIST=$(git diff --name-only "$FIRST_HASH^" "$LAST_HASH")
+          TOTAL_FILES=$(echo "$FILE_LIST" | wc -l)
 
           echo "has_changes=true" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+          echo "total_files=$TOTAL_FILES" >> $GITHUB_OUTPUT
           echo "first_hash=$(echo "$FIRST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
           echo "last_hash=$(echo "$LAST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
           echo "file_list<<EOF" >> $GITHUB_OUTPUT
@@ -52,12 +54,38 @@ jobs:
           FIRST_HASH: ${{ steps.changes.outputs.first_hash }}
           LAST_HASH: ${{ steps.changes.outputs.last_hash }}
           REPO: ${{ github.repository }}
+          TOTAL_FILES: ${{ steps.changes.outputs.total_files }}
         run: |
+          # Build file list with truncation (leave ~200 chars for header/footer)
+          MAX_CHARS=1800
+
+          # Start building the list
+          TRUNCATED_LIST=""
+          CHAR_COUNT=0
+          SHOWN_FILES=0
+
+          while IFS= read -r file; do
+            LINE="- $file"
+            LINE_LEN=${#LINE}
+
+            if [ $((CHAR_COUNT + LINE_LEN + 1)) -gt $MAX_CHARS ]; then
+              break
+            fi
+
+            TRUNCATED_LIST="$TRUNCATED_LIST$LINE"$'\n'
+            CHAR_COUNT=$((CHAR_COUNT + LINE_LEN + 1))
+            SHOWN_FILES=$((SHOWN_FILES + 1))
+          done <<< "$FILE_LIST"
+
           # Build message in a temp file
           {
             echo "📖 **Wiki Updates**"
             echo ""
-            echo "$FILE_LIST" | sed 's/^/- /'
+            echo -n "$TRUNCATED_LIST"
+            if [ "$SHOWN_FILES" -lt "$TOTAL_FILES" ]; then
+              REMAINING=$((TOTAL_FILES - SHOWN_FILES))
+              echo "... and $REMAINING more files"
+            fi
             echo ""
             echo "[View changes](https://github.com/$REPO/compare/$FIRST_HASH..$LAST_HASH)"
           } > /tmp/message.txt
