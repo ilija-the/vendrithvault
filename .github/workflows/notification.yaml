@@ -3,16 +3,14 @@ name: Wiki Changelog to Discord
 
 on:
   schedule:
-    # Runs every 24 hours at 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Manual trigger for testing
+  workflow_dispatch:
 
 jobs:
   notify-changes:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      actions: read
 
     steps:
       - name: Checkout repository
@@ -23,37 +21,26 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          # Get timestamp from 24 hours ago
           SINCE=$(date -d "24 hours ago" --iso-8601=seconds)
-
-          # Count commits in the period
           COMMIT_COUNT=$(git log --oneline --since="$SINCE" | wc -l)
 
-          # Exit early if no changes
           if [ "$COMMIT_COUNT" -eq 0 ]; then
-            echo "No changes in the last 24 hours. Skipping notification."
+            echo "No changes in the last 24 hours."
             echo "has_changes=false" >> $GITHUB_OUTPUT
             exit 0
           fi
 
           echo "has_changes=true" >> $GITHUB_OUTPUT
 
-          # Get first and last commit hashes for compare URL
           FIRST_HASH=$(git log --reverse --format="%H" --since="$SINCE" | head -1)
           LAST_HASH=$(git log --format="%H" --since="$SINCE" | head -1)
 
-          # Short hashes for display
-          FIRST_SHORT=$(echo "$FIRST_HASH" | cut -c1-7)
-          LAST_SHORT=$(echo "$LAST_HASH" | cut -c1-7)
+          # Write file stats to temp file for safe JSON encoding
+          git diff --stat "$FIRST_HASH^" "$LAST_HASH" > /tmp/changed_files.txt
 
-          # Get changed files with stats
-          CHANGED_FILES=$(git diff --stat "$FIRST_HASH^" "$LAST_HASH")
-          CHANGED_FILES_ESCAPED=$(echo "$CHANGED_FILES" | jq -Rs .)
-
-          echo "changed_files=$CHANGED_FILES_ESCAPED" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
-          echo "first_hash=$FIRST_SHORT" >> $GITHUB_OUTPUT
-          echo "last_hash=$LAST_SHORT" >> $GITHUB_OUTPUT
+          echo "first_hash=$(echo "$FIRST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
+          echo "last_hash=$(echo "$LAST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
 
       - name: Send Discord notification
         if: steps.changes.outputs.has_changes == 'true'
@@ -61,45 +48,45 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           REPO_NAME: ${{ github.repository }}
           COMMIT_COUNT: ${{ steps.changes.outputs.commit_count }}
-          CHANGED_FILES: ${{ steps.changes.outputs.changed_files }}
           FIRST_HASH: ${{ steps.changes.outputs.first_hash }}
           LAST_HASH: ${{ steps.changes.outputs.last_hash }}
         run: |
-          # Build compare URL
+          # Build JSON payload properly using jq
+          CHANGED_FILES=$(jq -Rs . /tmp/changed_files.txt)
           COMPARE_URL="https://github.com/$REPO_NAME/compare/$FIRST_HASH..$LAST_HASH"
 
-          PAYLOAD=$(cat <<EOF
-          {
-            "username": "Wiki Changelog",
-            "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-            "embeds": [
-              {
-                "title": "📖 Wiki Updates",
-                "description": "**Repository:** $REPO_NAME\n**Commits:** $COMMIT_COUNT",
-                "color": 5793266,
-                "fields": [
+          jq -n \
+            --arg repo "$REPO_NAME" \
+            --argjson commits "$COMMIT_COUNT" \
+            --arg changed_files "$CHANGED_FILES" \
+            --arg compare_url "$COMPARE_URL" \
+            --arg first "$FIRST_HASH" \
+            --arg last "$LAST_HASH" \
+            '{
+              username: "Wiki Changelog",
+              avatar_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+              embeds: [{
+                title: "📖 Wiki Updates",
+                description: "**Repository:** \($repo)\n**Commits:** \($commits)",
+                color: 5793266,
+                fields: [
                   {
-                    "name": "📊 File Changes",
-                    "value": $CHANGED_FILES,
-                    "inline": false
+                    name: "📊 File Changes",
+                    value: $changed_files,
+                    inline: false
                   },
                   {
-                    "name": "🔗 View Changes",
-                    "value": "[Compare: \`$FIRST_HASH..$LAST_HASH\`]($COMPARE_URL)",
-                    "inline": false
+                    name: "🔗 View Changes",
+                    value: "[Compare: `\($first)..\($last)`](\($compare_url))",
+                    inline: false
                   }
                 ],
-                "footer": {
-                  "text": "Wiki Changelog • 24h Summary"
+                footer: {
+                  text: "Wiki Changelog • 24h Summary"
                 },
-                "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-              }
-            ]
-          }
-          EOF
-          )
-
-          curl -s -X POST \
-            -H "Content-Type: application/json" \
-            -d "$PAYLOAD" \
-            "$DISCORD_WEBHOOK_URL"
+                timestamp: (now | strftime("%Y-%m-%dT%H:%M:%SZ"))
+              }]
+            }' | curl -s -X POST \
+              -H "Content-Type: application/json" \
+              -d @- \
+              "$DISCORD_WEBHOOK_URL"
