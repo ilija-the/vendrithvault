@@ -75,6 +75,8 @@ kanban-plugin: board
 
 ## Other To-Do
 
+- [ ] The Sanitationist on the front page of the [[index]] should get some independent art, possibly be turned into a specific NPC.
+- [ ] Same with the crusader.
 
 
 
