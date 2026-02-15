@@ -49,16 +49,16 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # Convert file list to bullet points
-          BULLETS=$(echo "${{ steps.changes.outputs.file_list }}" | sed 's/^/• /' | jq -Rs .)
+          # Convert file list to markdown list with - prefix
+          MARKDOWN_LIST=$(echo "${{ steps.changes.outputs.file_list }}" | sed 's/^- //; s/^/- /')
 
           jq -n \
-            --arg bullets "$BULLETS" \
+            --arg files "$MARKDOWN_LIST" \
             '{
               "username": "Wiki Changelog",
               "embeds": [{
                 "title": "📖 Wiki Updates",
-                "description": "\($bullets)",
+                "description": "\($files)",
                 "color": 5793266,
                 "footer": {
                   "text": "Wiki Changelog • 24h Summary"
