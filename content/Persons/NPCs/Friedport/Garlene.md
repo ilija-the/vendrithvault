@@ -3,8 +3,9 @@ tags:
   - people/npc
   - campaigns/landcrab-plot
   - places/horiza/friedport
-  - society/landcrabs
   - ancestries/medusa
+  - society/landcrabs/quietgraves
+  - society/landcrabs/patriarchs
 Birth: 1217 ADc
 pronouns: She/Her/It
 ---

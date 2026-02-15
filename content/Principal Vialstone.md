@@ -7,3 +7,5 @@ tags:
   - campaigns/landcrab-plot
   - places/horiza/friedport
 ---
+Vialstone is the Principal of 
+![[Vialstone.cutout.png]]

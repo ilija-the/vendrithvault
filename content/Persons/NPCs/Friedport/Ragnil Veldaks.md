@@ -8,6 +8,7 @@ tags:
   - ancestries/kholo
   - campaigns/landcrab-plot
   - secrets
+  - society/landcrabs/patriarchs
 Status: Dead
 Birth: 1210 ADc
 pronouns: She/Her

@@ -7,6 +7,7 @@ tags:
   - ancestries/minotaur
   - secrets
   - places/horiza/friedport
+  - society/landcrabs/patriarchs
 Birth: 1249 ADc
 Status: Alive
 pronouns: She/Her
