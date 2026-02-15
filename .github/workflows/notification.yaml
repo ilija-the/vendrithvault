@@ -33,20 +33,38 @@ jobs:
           FIRST_HASH=$(git log --reverse --format="%H" --since="$SINCE" | head -1)
           LAST_HASH=$(git log --format="%H" --since="$SINCE" | head -1)
 
+          # Get list of changed files (just names, one per line)
+          FILE_LIST=$(git diff --name-only "$FIRST_HASH^" "$LAST_HASH")
+
           echo "has_changes=true" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
           echo "first_hash=$(echo "$FIRST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
           echo "last_hash=$(echo "$LAST_HASH" | cut -c1-7)" >> $GITHUB_OUTPUT
+          echo "file_list<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILE_LIST" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Send Discord notification
         if: steps.changes.outputs.has_changes == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          curl -s -X POST \
-            -H "Content-Type: application/json" \
-            -d '{
+          # Convert file list to bullet points
+          BULLETS=$(echo "${{ steps.changes.outputs.file_list }}" | sed 's/^/• /' | jq -Rs .)
+
+          jq -n \
+            --arg bullets "$BULLETS" \
+            '{
               "username": "Wiki Changelog",
-              "content": "📖 Wiki updated! View changes: https://github.com/${{ github.repository }}/compare/${{ steps.changes.outputs.first_hash }}..${{ steps.changes.outputs.last_hash }}"
-            }' \
-            "$DISCORD_WEBHOOK_URL"
+              "embeds": [{
+                "title": "📖 Wiki Updates",
+                "description": "\($bullets)",
+                "color": 5793266,
+                "footer": {
+                  "text": "Wiki Changelog • 24h Summary"
+                }
+              }]
+            }' | curl -s -X POST \
+              -H "Content-Type: application/json" \
+              -d @- \
+              "$DISCORD_WEBHOOK_URL"
