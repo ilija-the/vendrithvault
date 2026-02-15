@@ -29,6 +29,8 @@ kanban-plugin: board
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 - [ ] [[Saint Karvi Massiri]], probably cut down on some of the details.
 - [ ] Also fold [[Engineering]] and [[Tinkering]] into [[Crafting]] tbh.
+- [ ] [[Princes]] into [[Feudalism]]
+- [ ] Perhaps do a [[Government]] instead? Then headers for feudalism, kings, princes, duchies, empires, governors, etc.
 
 
 ## Writing To-Do
