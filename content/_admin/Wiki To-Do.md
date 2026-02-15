@@ -22,7 +22,6 @@ kanban-plugin: board
 ## Fixes and cleanup
 
 - [ ] [[Crimson]]
-- [ ] All the #religion/deities/titans
 - [ ] The #material s probably
 - [ ] #society tag really that useful?
 - [ ] [[Crusaders]]
