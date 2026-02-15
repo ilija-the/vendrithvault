@@ -50,6 +50,8 @@ kanban-plugin: board
 - [ ] [[Underworld]]
 - [ ] take inspiration from other Lores.
 - [ ] Fill out [[The Prince]] like [[Su Na]].
+- [ ] Add alchemy to [[Crafting]]?
+- [ ] And Runes. Write about the Rune Presses of the [[Horizan Precursors]]
 
 
 
