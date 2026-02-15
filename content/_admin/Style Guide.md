@@ -11,6 +11,8 @@ Make sure to add aliases to your pages. If you're writing about a location, try 
 Tip: Proper quotation marks (") cannot be used in titles, but you can use double apostrophes ('').
 
 >[!tip]- Keybindings
+>Use <code>Ctrl + O</code> to search for files.
+>Use <code>Ctrl + P</code> to do various commands, like quickly opening settings or making a new note.
 >Use <code>Ctrl + ;</code> to add aliases and tags to the document.
 >Tags can also be inputted into text itself, but that is best used as a reference to the tag itself as opposed to tagging the document it is contained in.
 
