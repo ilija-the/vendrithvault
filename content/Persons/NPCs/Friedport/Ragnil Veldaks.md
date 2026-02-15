@@ -15,7 +15,8 @@ Ragnil Veldaks is a [[Kholo]] matriarch from a once-influental dynasty, that att
 
 Even after her husband, the [[Herō of Friedport]], died, Ragnil maintained much sway over the city. She was sometimes called the "Shadow Over Friedport," in reference to her ability to influence the city's affairs from the shadows of her manor.
 
-Ragnil's manor in the countryside of [[Everdry Isle]] had a Cloud [[Dragons|Dragon]] protecting it, the result of a previous adventure of Valfrid's.
+Ragnil's manor in the countryside of [[Everdry Isle]] had a Cloud [[Dragons|Dragon]] (see [[Veldaks Dragon]]) protecting it, the result of a previous adventure of Valfrid's.
+
 
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!

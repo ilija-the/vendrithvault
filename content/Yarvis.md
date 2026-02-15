@@ -6,3 +6,4 @@ tags:
   - ancestries/human
   - monsters/giants
 ---
+![[Games_Yarvis_1.png]]
