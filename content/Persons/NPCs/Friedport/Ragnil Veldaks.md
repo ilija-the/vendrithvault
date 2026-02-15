@@ -2,6 +2,7 @@
 aliases:
   - Shadow over Friedport
   - Shadow of Friedport
+  - Ragnil Heartstone Veldaks
 tags:
   - people/npc
   - ancestries/kholo
@@ -11,7 +12,7 @@ Status: Dead
 Birth: 1210 ADc
 pronouns: She/Her
 ---
-Ragnil Veldaks is a [[Kholo]] matriarch from a once-influental dynasty, that attempted to establish a glorious house through her union with [[Valfrid Veldaks]] (whom took her last name). Unfortunately for her, the two of them never managed to produce a child. She died after quietly suffering from an illness for years.
+Ragnil Heartstone Veldaks is a [[Kholo]] matriarch from a once-influental dynasty, that attempted to establish a glorious house through her union with [[Valfrid Veldaks]] (whom took her last name). Unfortunately for her, the two of them never managed to produce a child. She died after quietly suffering from an illness for years.
 
 ![[Ragnil_Veldaks 1.png| center | 800]]
 
