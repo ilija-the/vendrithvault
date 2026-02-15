@@ -7,7 +7,7 @@ tags:
 ---
 Mori, also known as "Big Man Mori," is a former executioner in [[Friedport]]. Since retiring from said job, he picked up cooking and started an exclusive restaurant in the city. This restaurant is built over a cold cave, which he utilises as cold storage for certain ingredients.
 
-Mori employed [[Kanon]] and a gnome waiter at this restaurant.
+Mori employed [[Kanon]] and a gnome as waiters and kitchen aides at this restaurant.
 
 ![[Big_Man_Mori.png | center | 800]]
 
