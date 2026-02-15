@@ -4,6 +4,7 @@ tags:
   - ancestries/goblin
   - campaigns/circles
   - campaigns/landcrab-plot
+  - society/bmdfireworks
 Status: Alive
 Birth: 1238 ADc
 pronouns: He/Him
