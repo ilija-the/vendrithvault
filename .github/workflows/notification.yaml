@@ -33,9 +33,16 @@ jobs:
           FIRST_HASH=$(git log --reverse --format="%H" --since="$SINCE" | head -1)
           LAST_HASH=$(git log --format="%H" --since="$SINCE" | head -1)
 
-          # Get list of changed files (just names, one per line)
-          FILE_LIST=$(git diff --name-only "$FIRST_HASH^" "$LAST_HASH")
+          # Get list of changed files, excluding deletions (--diff-filter=d)
+          FILE_LIST=$(git diff --name-only --diff-filter=d "$FIRST_HASH^" "$LAST_HASH")
           TOTAL_FILES=$(echo "$FILE_LIST" | wc -l)
+
+          # Skip if no non-deleted files
+          if [ -z "$FILE_LIST" ]; then
+            echo "No changes (only deletions) in the last 24 hours."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
 
           echo "has_changes=true" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
