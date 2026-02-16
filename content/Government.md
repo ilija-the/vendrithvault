@@ -13,5 +13,6 @@ The roots of man lie in tribal and nomadic rule, which can still be found in man
 Tribal rule has largely made way for feudal rule. In it, the traditions and power relations of the tribal days have become more complex and stratified. With social class determining one's place in society, feudalism is quite similar to [[Caste Systems]].
 
 ### City states and guilds
+Cities often require their own 
 
 ### Empires
