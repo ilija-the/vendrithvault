@@ -36,7 +36,7 @@ Waterlogg Street is a set of intersecting streets in the [[Crabraven]] district 
 ![[Philosophian_Party_BIG.png]]
 
 ##### Shrine to New Horizons
-![[KingsthroneSummergamesSplash_1.png]]
+![[KingsthroneSummergamesSplash_1 1.png]]
 
 #### Amberhole
 

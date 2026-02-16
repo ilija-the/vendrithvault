@@ -13,6 +13,7 @@ aliases:
   - corruption
   - assassins
   - kidnapping
+  - The Underworld
 ---
 [Official rules page on lores.](https://2e.aonprd.com/Skills.aspx?ID=41)
 
