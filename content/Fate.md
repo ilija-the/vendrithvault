@@ -17,7 +17,7 @@ Note that divination as a term itself also applies to magical observation that m
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Writing/2026.2.16 - 14.44pm.writing"
+	"filepath": "_admin/Ink/Writing/2026.2.16 - 14.44pm.writing"
 }
 ```
 *An amurrun priest offers to read your fortunes.*
