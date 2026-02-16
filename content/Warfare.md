@@ -1,0 +1,1 @@
+Warfare is an open armed conflict, often between two well-organised groups or states unified behind their own leaders. It has taken place all over the world and all throughout history, and much has developed out of it such as the organisation of levies, taxation to fund wars, blacksmithing, leatherworking and fletcher
