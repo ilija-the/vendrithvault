@@ -16,5 +16,3 @@ Alchemical crafting revolves around the use of various elements, often fluids, s
 Artifice, or [Magical Crafting](https://2e.aonprd.com/Feats.aspx?ID=5178), refers to types of crafting that incorporate magic. Due to their similar nature following rules, equations and systems, artifice often specifically makes use of [[Arcane Magic]]. 
 
 #### Engineering
-
-#### 
