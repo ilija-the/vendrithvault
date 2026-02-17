@@ -6,7 +6,7 @@ Mogxa is a densely populated subcontinent and has historically been home to vari
 
 To the north lies the island region of [[Vilhun]], which has inherited a variety of Mogxan culture and has taken in much of its former [[Dragons]], but which is largely shut off to the rest of the world. To the southest lies the [[Lorgun]] islands, which are rarely visited but rely on Mogxa for trade and connectivity to the rest of the world.
 
-Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haeven]] by taking over the Kobold Throne. The 
+Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haeven]] by taking over the Kobold Throne. The Fenruni coast on its northeastern edge, the Ruby Peninsula to the west and the Galaen border contains many smaller states which serve as [[Tributaries]].
 
 
 ```handdrawn-ink
