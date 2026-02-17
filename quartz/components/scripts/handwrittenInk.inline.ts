@@ -3,6 +3,8 @@
  * Renders tldraw data from obsidian_ink plugin as SVG
  */
 
+import config from "../../../quartz.config"
+
 interface TldrawPoint {
   x: number
   y: number
@@ -263,7 +265,7 @@ async function renderHandwrittenInk(
     // The filepath is relative to the content directory
     const url = `/${slugifiedPath}`
 
-    const response = await fetch(url)
+    const response = await fetch(config.configuration.baseUrl + url)
     if (!response.ok) {
       throw new Error(`Failed to fetch ${url}: ${response.status}`)
     }
