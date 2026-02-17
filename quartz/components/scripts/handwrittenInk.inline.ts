@@ -3,8 +3,6 @@
  * Renders tldraw data from obsidian_ink plugin as SVG
  */
 
-import config from "../../../quartz.config"
-
 interface TldrawPoint {
   x: number
   y: number
@@ -102,6 +100,25 @@ const colorMap: Record<string, string> = {
   orange: "#e8590c",
   yellow: "#f59f00",
   purple: "#7950f2",
+}
+
+/**
+ * Get the base path from the current window location
+ * For GitHub Pages (username.github.io), this extracts the repo name from the path
+ * For other hosts, returns empty string (root path)
+ */
+function getBasePath(): string {
+  const { hostname, pathname } = window.location
+  // Check if this is a GitHub Pages site
+  if (hostname.endsWith(".github.io")) {
+    // Extract the first folder from the pathname (the repo name)
+    const match = pathname.match(/^\/([^/]+)/)
+    if (match) {
+      return "/" + match[1]
+    }
+  }
+  // For non-GitHub Pages or if no path segment found, use root
+  return ""
 }
 
 /**
@@ -263,9 +280,10 @@ async function renderHandwrittenInk(
 
     // Construct the URL to the .writing file
     // The filepath is relative to the content directory
-    const url = `/${slugifiedPath}`
+    const basePath = getBasePath()
+    const url = basePath ? `${basePath}/${slugifiedPath}` : `/${slugifiedPath}`
 
-    const response = await fetch(config.configuration.baseUrl + url)
+    const response = await fetch(url)
     if (!response.ok) {
       throw new Error(`Failed to fetch ${url}: ${response.status}`)
     }
