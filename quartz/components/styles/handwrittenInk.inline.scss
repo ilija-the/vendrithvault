@@ -1,0 +1,43 @@
+.handwritten-ink-container {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  background: var(--highlight);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+}
+
+.handwritten-ink-svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.handwritten-ink-error {
+  color: var(--secondary);
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+}
+
+// Dark mode adjustments
+[data-theme="dark"] {
+  .handwritten-ink-container {
+    background: var(--lightgray);
+  }
+}
+
+// Ensure the code block is hidden when rendered
+code.handwritten-ink {
+  display: none;
+}
+
+// Container for the rendered ink in articles
+article .handwritten-ink-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
