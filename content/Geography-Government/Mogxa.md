@@ -10,7 +10,7 @@ Mogxa is the home of the [[Sanitorium]], the state formed after the [[War Over H
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "_adminInk/Drawing/2026.2.17 - 22.35pm.drawing",
+	"filepath": "_adminInk/Drawing/2026.2.17 - 22.36pm.drawing",
 	"width": 500,
 	"aspectRatio": 1
 }
