@@ -79,6 +79,8 @@ interface WritingFile {
 interface InkEmbedData {
   versionAtEmbed: string
   filepath: string
+  width?: number
+  aspectRatio?: number
 }
 
 // Size mapping for stroke widths
@@ -187,7 +189,11 @@ function segmentsToPathData(segments: TldrawSegment[]): string {
 /**
  * Create SVG element from tldraw data
  */
-function createSvgFromTldraw(tldrawData: WritingFile): SVGSVGElement | null {
+function createSvgFromTldraw(
+  tldrawData: WritingFile,
+  explicitWidth?: number,
+  aspectRatio?: number,
+): SVGSVGElement | null {
   const store = tldrawData.tldraw.document.store
 
   // Find all draw shapes
@@ -230,16 +236,28 @@ function createSvgFromTldraw(tldrawData: WritingFile): SVGSVGElement | null {
   maxX += padding
   maxY += padding
 
-  const width = maxX - minX
-  const height = maxY - minY
+  const calculatedWidth = maxX - minX
+  const calculatedHeight = maxY - minY
 
   // Create SVG
   const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
-  svg.setAttribute("viewBox", `${minX} ${minY} ${width} ${height}`)
+  svg.setAttribute("viewBox", `${minX} ${minY} ${calculatedWidth} ${calculatedHeight}`)
   svg.setAttribute("width", "100%")
   svg.setAttribute("height", "auto")
   svg.setAttribute("class", "handwritten-ink-svg")
-  svg.style.maxHeight = "500px"
+
+  // Apply explicit dimensions if provided (for handdrawn-ink)
+  if (explicitWidth) {
+    svg.style.maxWidth = `${explicitWidth}px`
+  }
+  if (aspectRatio) {
+    // Use aspect ratio to set a max-height that maintains proportions
+    const calculatedAspectRatio = calculatedWidth / calculatedHeight
+    // If aspectRatio is provided, use it to calculate height based on width
+    svg.style.aspectRatio = String(aspectRatio)
+  } else {
+    svg.style.maxHeight = "500px"
+  }
 
   // Create paths for each draw shape
   for (const shape of drawShapes) {
@@ -268,17 +286,19 @@ function createSvgFromTldraw(tldrawData: WritingFile): SVGSVGElement | null {
 }
 
 /**
- * Fetch and render a .writing file
+ * Fetch and render a .writing or .drawing file
  */
 async function renderHandwrittenInk(
   container: HTMLElement,
   filepath: string,
+  width?: number,
+  aspectRatio?: number,
 ): Promise<void> {
   try {
     // Slugify the filepath to match how Quartz copies assets
     const slugifiedPath = slugifyFilepath(filepath)
 
-    // Construct the URL to the .writing file
+    // Construct the URL to the .writing/.drawing file
     // The filepath is relative to the content directory
     const basePath = getBasePath()
     const url = basePath ? `${basePath}/${slugifiedPath}` : `/${slugifiedPath}`
@@ -289,7 +309,7 @@ async function renderHandwrittenInk(
     }
 
     const tldrawData: WritingFile = await response.json()
-    const svg = createSvgFromTldraw(tldrawData)
+    const svg = createSvgFromTldraw(tldrawData, width, aspectRatio)
 
     if (svg) {
       container.innerHTML = ""
@@ -305,7 +325,8 @@ async function renderHandwrittenInk(
 
 // Initialize on page load
 document.addEventListener("nav", async () => {
-  const inkBlocks = document.querySelectorAll("code.handwritten-ink") as NodeListOf<HTMLElement>
+  // Support both handwritten-ink and handdrawn-ink code blocks
+  const inkBlocks = document.querySelectorAll("code.handwritten-ink, code.handdrawn-ink") as NodeListOf<HTMLElement>
 
   if (inkBlocks.length === 0) return
 
@@ -317,9 +338,13 @@ document.addEventListener("nav", async () => {
       const inkData: InkEmbedData = JSON.parse(inkDataStr)
       if (!inkData.filepath) continue
 
+      // Determine container class based on code block type
+      const isHanddrawn = block.classList.contains("handdrawn-ink")
+      const containerClass = isHanddrawn ? "handdrawn-ink-container" : "handwritten-ink-container"
+
       // Create a container for the SVG
       const container = document.createElement("div")
-      container.className = "handwritten-ink-container"
+      container.className = containerClass
       container.setAttribute("data-filepath", inkData.filepath)
 
       // Replace the code block with the container
@@ -330,7 +355,7 @@ document.addEventListener("nav", async () => {
       }
 
       // Render the ink
-      await renderHandwrittenInk(container, inkData.filepath)
+      await renderHandwrittenInk(container, inkData.filepath, inkData.width, inkData.aspectRatio)
     } catch (error) {
       console.error("Error parsing ink data:", error)
     }

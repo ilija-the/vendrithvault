@@ -16,6 +16,9 @@ const defaultOptions: Options = {
   enabled: true,
 }
 
+// Supported ink code block languages
+const INK_LANGUAGES = ["handwritten-ink", "handdrawn-ink"]
+
 export const HandwrittenInk: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
   const options = { ...defaultOptions, ...opts }
 
@@ -26,11 +29,11 @@ export const HandwrittenInk: QuartzTransformerPlugin<Partial<Options>> = (opts) 
         () => {
           return (tree: Root, file) => {
             visit(tree, "code", (node: Code) => {
-              if (node.lang === "handwritten-ink") {
+              if (node.lang && INK_LANGUAGES.includes(node.lang)) {
                 file.data.hasHandwrittenInk = true
                 node.data = {
                   hProperties: {
-                    className: ["handwritten-ink"],
+                    className: [node.lang],
                     "data-ink-data": node.value,
                   },
                 }

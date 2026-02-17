@@ -1,4 +1,5 @@
-.handwritten-ink-container {
+.handwritten-ink-container,
+.handdrawn-ink-container {
   margin: 1rem 0;
   padding: 1rem;
   border-radius: 8px;
@@ -25,19 +26,31 @@
 
 // Dark mode adjustments
 [data-theme="dark"] {
-  .handwritten-ink-container {
+  .handwritten-ink-container,
+  .handdrawn-ink-container {
     background: var(--lightgray);
   }
 }
 
 // Ensure the code block is hidden when rendered
-code.handwritten-ink {
+code.handwritten-ink,
+code.handdrawn-ink {
   display: none;
 }
 
 // Container for the rendered ink in articles
-article .handwritten-ink-container {
+article .handwritten-ink-container,
+article .handdrawn-ink-container {
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
+}
+
+// Handdrawn ink specific styles (larger drawings)
+.handdrawn-ink-container {
+  min-height: 200px;
+}
+
+.handdrawn-ink-container .handwritten-ink-svg {
+  max-height: none;
 }
