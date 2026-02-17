@@ -14,7 +14,7 @@ The Sanitorium (officially the Principalities of Mogxa) is a term encompassing b
 	"filepath": "_admin/Ink/Writing/2026.2.17 - 22.04pm.writing"
 }
 ```
-
+*A kobold sanitationist leads a meeting of the round.*
 
 This state was founded on the grounds of the recently collapsed [[Kobold Throne|Kobold Empire]], and therefore also takes much of its traditions from the [[Draconic Empire]] that preceded the kobolds and the [[Draconic Tribes]] that play an important role in Mogxa. The government was formed by its founding purpose as an anti-deist faction, and has had the worship of [[Titans]] and most types of [[Icon|Icons]] outlawed throughout its history.
 
