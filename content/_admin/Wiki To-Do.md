@@ -86,6 +86,7 @@ kanban-plugin: board
 	Entertainment
 	Luxuries
 	Religion & Customs
+- [ ] I think [[Feydark]] and plane of [[Deep Gray|(Deep) Grey]] may just get merged.
 
 
 
