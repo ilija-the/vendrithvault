@@ -12,7 +12,7 @@ tags:
   - campaigns/landcrab-plot
   - ancestries/minotaur
   - secrets
-  - crusaders
+  - society/crusaders/blackout
 Birth: 1233 ADc
 Status: Missing
 ---
