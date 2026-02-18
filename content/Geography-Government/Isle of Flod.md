@@ -14,7 +14,7 @@ The mountain is also home to many [[Leylines|leylines]] stemming from the [[Shri
 
 ![[landscape-TORII GATE.png|banner]]
 
-The Lizard Magiocracy occupies the north of the island. While not directing much trade, they are able to control smaller isles and have them act as observatories for any oncoming ships, or sometimes [[Disasters of the Silence]]. It is also the only part of the island where far, far away, the [[World Fleece]] can be seen.
+The Lizard Magiocracy occupies the north of the island. While not directing much trade, they are able to control smaller isles and have them act as [[Lighthouses from Hell|observatories]] for any oncoming ships, or sometimes [[Disasters of the Silence]]. It is also the only part of the island where far, far away, the [[World Fleece]] can be seen.
 ## East
 
 ![[landscape-COAST TOWN.png|banner]]
