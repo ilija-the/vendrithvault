@@ -87,6 +87,7 @@ kanban-plugin: board
 	Luxuries
 	Religion & Customs
 - [ ] I think [[Feydark]] and plane of [[Deep Gray|(Deep) Grey]] may just get merged.
+- [ ] and [[Rustyard]] is a part of [[Deep Gray]]?
 
 
 
