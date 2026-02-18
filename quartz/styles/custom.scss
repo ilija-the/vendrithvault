@@ -473,13 +473,23 @@ img:is([alt~=lp], [alt~=live-preview]):is([alt*=left], [alt*=locl]),
 }
 
 /*Banners*/
-img[alt*=banner]:not([width]),
-.image-embed[alt*=banner]:not([width]) img {
+img[alt*=banner],
+.image-embed[alt*=banner] img {
 	display: block;
 	object-fit: cover;
 	width: 100%;
 	margin-bottom: 0px;
 	clear: both;
+}
+
+img[alt*=b-bottom],
+.image-embed[alt*=b-bottom] img {
+	object-position: bottom;
+}
+
+img[alt*=b-top],
+.image-embed[alt*=b-top] img {
+	object-position: top;
 }
 
 img[alt~=banner],

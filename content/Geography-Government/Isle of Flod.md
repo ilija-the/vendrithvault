@@ -24,7 +24,7 @@ The alpine-steppe east of the island faces the governing island of Vilhun, not f
 The terrain away from the shore becomes increasingly elevated and empty with long stretches between villages, with the only two directions being [[#South]] or [[#North]], with the [[#Center]] leading directly to the mountain and a long, long hike upwards.
 ## South
 
-![[landscape-FOREST temple.png|banner]]
+![[landscape-FOREST temple.png|banner b-bottom]]
 
 The Goblin Horde is mostly located to the south of the island, exerting large naval presence around the sea towards [[Mogxa|Mogxan]] continent. As such, it has a large control over ships in the area, either privateering or taxing merchants to fund its centralization efforts. With the [[Impassable Forest]] to its [[#West]] side, the Goblin Horde's only reasonable option for expansion is to the [[#East|Eastern]] parts of the island.
 ## West
