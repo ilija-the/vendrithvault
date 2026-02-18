@@ -18,4 +18,4 @@ Here are some good articles you may start learning about Vendrith from:
 
 Alternatively check out the graph by clicking the button in the top right, or you can browse the tags at the top and bottom of this page!
 
-See #campaigns, #places, #people, #ancestries, #society , #religion , #cosmos, #crusaders, #sanitationists or #events!
+See #campaigns, #places, #people, #ancestries, #society , #religion , #cosmos, #society/crusaders , #society/sanitationist , #society/hga or #events!

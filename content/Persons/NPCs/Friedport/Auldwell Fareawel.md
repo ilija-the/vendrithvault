@@ -3,7 +3,7 @@ tags:
   - people
   - campaigns/landcrab-plot
   - secrets
-  - society/crusaders
+  - society/crusaders/blackout
 aliases:
   - Perckle d'Rits
   - Auldwell

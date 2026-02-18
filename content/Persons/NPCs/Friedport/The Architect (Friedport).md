@@ -7,7 +7,7 @@ tags:
   - people/npc
   - ancestries/human
   - monsters/ghost
-  - crusaders
+  - society/crusaders/blackout
 pronouns: She/Her
 Status: Undead
 ---
