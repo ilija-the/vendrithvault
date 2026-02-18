@@ -1,9 +1,9 @@
 ---
 tags:
   - people
-  - crusaders
   - campaigns/landcrab-plot
   - secrets
+  - society/crusaders
 aliases:
   - Perckle d'Rits
   - Auldwell

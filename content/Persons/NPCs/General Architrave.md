@@ -2,7 +2,7 @@
 tags:
   - people/npc
   - campaigns/landcrab-plot
-  - crusaders
+  - society/crusaders
 ---
 A [[Hobgoblins|hobgoblin]] general of the [[Crusaders]] that was ultimately tried for massive crimes of corruption and sentenced to death by hanging. His crimes were secretly brought to light by the [[Moonless Night]].
 

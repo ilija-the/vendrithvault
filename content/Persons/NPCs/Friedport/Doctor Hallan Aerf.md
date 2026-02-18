@@ -2,8 +2,8 @@
 tags:
   - people/npc
   - campaigns/landcrab-plot
-  - crusaders
   - ancestries/human
+  - society/crusaders
 Birth: 1226 ADc
 pronouns: He/Him
 aliases:

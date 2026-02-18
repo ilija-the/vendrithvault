@@ -4,8 +4,8 @@ tags:
   - classes/investigator
   - people/pc
   - ancestries/hobgoblin
-  - crusaders
-  - sanitationists
+  - society/crusaders
+  - society/sanitationist
 ---
 A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption. Believed his closest comrade in arms [[Lykas]] had actually been killed for it, and the rest of his men in danger, Bande Aparte deserted.
 

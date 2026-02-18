@@ -6,7 +6,7 @@ tags:
   - people/pc
   - classes/magus
   - classes/gunslinger
-  - crusaders
+  - society/crusaders
 ---
 Ergruff Ward is a [[Kitsune]] found half-feral in the woods and raised by [[Chatwood]], whom would go on to become a crusader. Somewhat overweight and with white fur, Ward is usually dressed or armoured lightly, preferring not to cover himself up or weigh himself down too much. Despite his hampered intelligence, Ward has proven his physical prowess and aim. He is believed to revere the [[Triumphant Successor]] for his physical prowess and sense of just battle.
 

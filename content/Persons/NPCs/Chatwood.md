@@ -3,7 +3,7 @@ tags:
   - people/npc
   - campaigns/fool-me-once
   - ancestries/human
-  - crusaders
+  - society/crusaders
 ---
 A [[Crusaders|crusader]] that moves around a lot, and is believed to play the role of some sort of coordinator, administrator or messenger between various Crusader factions. Chatwood's name has come up in various mentions of [[Home Base]], a near-mythically secretive camp of the Crusader leadership under the [[Iron Lotus]].
 

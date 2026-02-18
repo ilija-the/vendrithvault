@@ -1,8 +1,9 @@
 ---
 tags:
   - people/npc
-  - crusaders
   - religion
+  - society/crusaders
+  - religion/saint
 ---
 
 The Iron Lotus is broadly considered to be the main leader or figurehead of the [[Crusaders]]. As a living [[Saint]] she is famously very stoic and speaks with great authority, and is considered to have a calming presence on those around her. Some of the predominant interpretations of the [[New Creed]] consider the Iron Lotus both a child and mother of destiny, claiming she will usher in the end of the [[The Great Silence|Great Silence]]. 
