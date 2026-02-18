@@ -36,5 +36,8 @@ Some Ferwethi shrines do the opposite, and instead act as a way to show servitud
 #### Vilhi Guardian Shrines
 .
 
+#### Vilhi Bell Towers
+.
+
 #### Eydwin Hidden Oases
 .
