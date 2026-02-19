@@ -69,7 +69,7 @@ kanban-plugin: board
 - [ ] take inspiration from other Lores.
 - [ ] Fill out [[The Prince]] like [[Su Na]].
 - [x] Add alchemy to [[Crafting]]?
-- [ ] And Runes. Write about the Rune Presses of the [[Horizan Precursors]]
+- [x] And Runes. Write about the Rune Presses of the [[Horizan Precursors]]
 - [ ] Other [[Planes of Vendrith|Planes]] than just Crimson.
 - [ ] [[Aquatic]] civilization and [[Ocean King]].
 
