@@ -65,7 +65,7 @@ kanban-plugin: board
 - [ ] [[Deception]]
 - [ ] [[Medicine]]
 - [ ] etc, rest of the skills.
-- [ ] [[Underworld]]
+- [x] [[Underworld]]
 - [ ] take inspiration from other Lores.
 - [ ] Fill out [[The Prince]] like [[Su Na]].
 - [ ] Add alchemy to [[Crafting]]?
@@ -94,6 +94,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true}
 ```
 %%
