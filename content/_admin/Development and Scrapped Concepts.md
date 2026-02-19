@@ -21,4 +21,12 @@ Leads up to #campaigns/welcome-to-friedport and the [[Welcoming Party]].
 ![[4121273872563.png]]
 
 ### Later Landcrab Plot Era - World Expansion
-![[GIF 02-06-2024 22-27-29.gif]]![[VeridicanHill1.png]]![[MerryClove1.png]]![[Drayvanshouse1sub1.png]]
+![[GIF 02-06-2024 22-27-29.gif]]![[VeridicanHill1.png]]
+![[VeridicanPark.jpg]]
+Later became...
+![[Paradox_Area_Centre_1.0.png]]
+
+![[VeridicanDungeon.jpg]]
+Later became...
+![[Paradox_Tower1.png]]
+![[MerryClove1.png]]![[Drayvanshouse1sub1.png]]
