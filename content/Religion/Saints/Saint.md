@@ -9,6 +9,4 @@ Recently, saints that aren't associated with titans have been allowed as 'secula
 
 In [[Ferweth]] there is a tradition of worshipping Saints already when they're alive, instead of waiting for a 'confirmed' beatification. 
 
-[[Saint Karvi Massiri]]
-[[Saint Ima]]
-[[Saint Clover]]
+For a list of saints, see #religion/saint 
