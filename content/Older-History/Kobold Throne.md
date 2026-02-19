@@ -11,4 +11,4 @@ The Kobolds once tried to invade and subjugate [[Philosophia]], ending in a humi
 
 The Kobold Throne's rule was interrupted by [[Resting Crown|God-King Idur]] conquest of the realm. However, having maintained most of the bureaucracy, the Kobolds merely took charge again once Idur decided to vanish.
 
-The late kobold throne was especially weak, and became increasingly unpopular even amongst its base as it had to keep putting down peasant revolts. It was in this state it met and failed to fend off the invading anti-titanic army of the [[War]]
+The late kobold throne was especially weak, and became increasingly unpopular even amongst its base as it had to keep putting down peasant revolts. It was in this state it met and failed to fend off the invading anti-titanic army of the [[War Over Haeven]]. Not long after this, the invading army destroyed the [[Rainbow Bridge]] hidden in its territory, and, being stationed around Philosophia, decided to take over the Kobold Throne and establish the [[Sanitorium]].
