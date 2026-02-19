@@ -1,4 +1,9 @@
-#society 
+---
+tags:
+  - society
+  - places/mogxa
+---
+
 
 The weak remains of the [[Draconic Empire]] of [[Mogxa]] after the [[Draconic Concordat]] dissolved the empire and prevented dragons from reproducing.
 
