@@ -12,4 +12,5 @@ tags:
  [[Philosophia]]
  [[Gozi Windaji]]
 
+![[Vendy.chibi.png]]
 ![[Vendy_Lastsummer.png]]
