@@ -10,7 +10,7 @@ tags:
   - culture/trades
 ---
 
-Fate is a possible cosmic force with many different interpretations, usually stating that to some extent or other the future is either predetermined or coalesces around certain (types of) outcomes. Fate is most commonly appropriated by fortune-tellers, a trade in which mystics, [[Oracle|oracles]] or other [[Occult|occult]] or [[Divine Magic|divine]] users attempt to divine fate.
+Fate is a possible cosmic force with many different interpretations, usually stating that to some extent or other the future is either predetermined or coalesces around certain (types of) outcomes. Fate is most commonly appropriated by fortune-tellers, a trade in which mystics, [[Oracle|oracles]] or other [[Occult|occult]] or [[Divine|divine]] users attempt to divine fate.
 
 Note that divination as a term itself also applies to magical observation that merely transcends space, and not necessarily across time or relating to fate.
 
