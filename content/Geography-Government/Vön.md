@@ -10,6 +10,8 @@ tags:
 ---
 A cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[Flock of Man]], but has since remained an unpopulated periphery. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
 
+![[Mappae-Von1.png]]
+
 Vön is home to the [[Kingdom of Vestitur]], most famous for the myth of the [[Vestitur Relics]]. That Kingdom's once-capital of [[Riverside]] commonly marks the border of Vön and the rest of Encanath. Vön was also once known for training the [[Silver Couriers]] as the only runners capable of safely using the [[Silver Pass]], though they have long since began to fade into obscurity. The [[Town of Ire]] today houses their last headquarters.
 
 The Vöni are known to export warm winter clothes, but also certain materials such as [[Whitetar]]. Obscure sources point to Vön as the once source of [[Blackice]].
