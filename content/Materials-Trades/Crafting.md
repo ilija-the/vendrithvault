@@ -15,5 +15,8 @@ Alchemical crafting revolves around the use of various elements, often fluids, s
 #### Artifice
 Artifice, or [Magical Crafting](https://2e.aonprd.com/Feats.aspx?ID=5178), refers to types of crafting that incorporate magic. Due to their similar nature following rules, equations and systems, artifice often specifically makes use of [[Arcane Magic]]. 
 
+#### Runes
+Rune-crafting is a type of Artifice that utilises [[Runic Magic]] to empower objects, usually weapons and armour. In [[Iduria]] it has traditionally been based on [[Fenruni]], [[Skald]] and [[Dwarves|dwarven]] traditions. Upon the discovery of [[New World - Horiza|Horiza]] and the [[Horizan Precursors]] ruins, a number of uses of runic magic were also found. These usually came with Rune Presses, engineering marbels that  
+
 #### Engineering
 Engineering is crafting specifically focused on the making of machines and large structures.
