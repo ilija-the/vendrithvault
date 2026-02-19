@@ -29,4 +29,6 @@ Other very infamous Crusaders are the [[Desecrators]] of the [[New World - Horiz
 
 Also in the new world were the [[Blackout Crusaders]], the invention of [[General Architrave]]. They were a small but well-organised faction of crusaders that infiltrated the ranks of [[Friedport]] in preparation of a plan to seize the city, but were uncovered, located and destroyed.
 
+Some Crusaders symbolise their humility and gentleness by avoiding covering up their feet, often wearing traditional leather sandals even in suboptimal climates for it.
+
 > For more about crusaders, see #society/crusaders , #places/canath and #places/galae 
