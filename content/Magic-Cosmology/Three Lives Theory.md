@@ -1,1 +1,1 @@
-[[Occultism]] 
+[[Occult]]

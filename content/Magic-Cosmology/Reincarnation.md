@@ -5,7 +5,7 @@ tags:
 ---
 [[Resurrection]]
 [[Necromancy]]
-[[Occult Magic]]
+[[Occult]]
 [[Primal Magic]]
 [[Seeing Societies]]
 [[Three Lives Theory]]

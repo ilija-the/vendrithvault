@@ -1,5 +1,5 @@
 ---
 tags:
   - magic/occult
+aliases:
 ---
-[[Occultism]]
