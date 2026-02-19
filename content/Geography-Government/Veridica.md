@@ -20,6 +20,14 @@ Members:
 [[Wick]]
 [[Weatherman]]
 
+NPCs:
+Shoony blood hound backsmith
+Murderous but lovely baker lady
+Wheelchairbound old cult veteran
+Charismatic protege of Lieutenants divinations
+Triplets that are psychically linked to eachother
+Tattooed orcish jail guard
+
 The Council
 [[Mask]]
 [[Karnal]]
