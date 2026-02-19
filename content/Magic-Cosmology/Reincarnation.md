@@ -6,6 +6,6 @@ tags:
 [[Resurrection]]
 [[Necromancy]]
 [[Occult]]
-[[Primal Magic]]
+[[Primal]]
 [[Seeing Societies]]
 [[Three Lives Theory]]

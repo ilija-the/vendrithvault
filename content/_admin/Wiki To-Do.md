@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] [[Feudalism]]
 - [ ] [[Empires]]
 - [ ] [[Crafting]]
-- [ ] [[Athletics]]
+- [ ] [[Athleticism]]
 - [ ] [[Performance]]
 - [ ] [[Deception]]
 - [ ] [[Medicine]]

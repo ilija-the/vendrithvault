@@ -13,7 +13,7 @@ aliases:
 
 **Base of Worship** Goblins, military leaders, aspiring mercenaries and adventurers.
 
-**Appearance, Items and Powers** Always wearing his signature helmet, the goblin commander is most often seen standing decisively with a hand ready on his sword. His helmet and armor said to be of pure [[Primal Magic]], allowing him to see truths left in plain sight. He is also said to have been able to command animals and heal compatriots.
+**Appearance, Items and Powers** Always wearing his signature helmet, the goblin commander is most often seen standing decisively with a hand ready on his sword. His helmet and armor said to be of pure [[Primal]], allowing him to see truths left in plain sight. He is also said to have been able to command animals and heal compatriots.
 
 **Relations, History and Forms** Out of the siblings, his most common epithets are **powerful** and **wise**. 
 
