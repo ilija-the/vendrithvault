@@ -3,3 +3,4 @@ tags:
   - culture/trades
   - skills
 ---
+Medicine and treatment encompasses a wide variety of methods and traditions for ensuring the longevity, health and emergency repairs to humanoid (and even animal) bodies. While the complete functions and makeup of the body has remained a mystery throughout much of history, scholars have in recent times began to study it more closely.
