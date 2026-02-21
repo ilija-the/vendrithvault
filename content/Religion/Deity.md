@@ -18,8 +18,9 @@ Other more controversial ones are the [[Daydreaming Truth]], and the Wordless Fl
 
 ### Ur-Gods
 
-### Spiritual Deities
+### Nature Deities
+
+### The Shape of Worship - Icons
 
 ### Ascended Deities
-
-### Revered Deities
+[[Mantle]]
