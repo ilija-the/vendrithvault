@@ -4,6 +4,7 @@ tags:
   - rules
 aliases:
   - Essence Magic
+  - Essence Spellcaster
 ---
 Essence Magic is the primary passed on magic system of [[Vilhun]], but its users can be found all across Vendrith. It relies on drawing raw essences from the casters surroundings to then concentrate into magical abilities, as opposed to colloquially named "slot"-based spellcasting, where the essences are stored ahead of time and released in high-power bursts over the day. 
 
