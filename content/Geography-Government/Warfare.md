@@ -1,3 +1,9 @@
 Warfare is an open armed conflict, often between two well-organised groups or states unified behind their own leaders. It has taken place all over the world and all throughout history. 
 
-Many different fields and concepts have developed out of warfare - such as the organisation of levies, taxation to fund wars, blacksmithing, equestrianism, leatherworking and fletching to make weapons and armour, as well as various martial arts and traditions for using various weapons, tactics for on-the-ground battles, and strategy for planning wars and power plays as a whole. Many fields of magic also owe much to warfare.
+Many different fields and concepts have developed out of warfare - such as the organisation of levies, taxation to fund wars, blacksmithing, [[Nature#Animal Husbandry|equestrianism]], leatherworking and fletching to make weapons and armour, as well as various martial arts and traditions for using various weapons, tactics for on-the-ground battles, and strategy for planning wars and power plays as a whole. Many fields of magic also owe much to warfare.
+
+### Weapons
+
+### Command
+
+### Scouting
