@@ -9,3 +9,9 @@ Performance is a type of [[Charisma|Charismatic Art]] that has a distinct tradit
 Pre writing wars.
 
 Post writing wars.
+
+### Theatre
+
+### Jesters & Circuses
+
+### Gladitorial
