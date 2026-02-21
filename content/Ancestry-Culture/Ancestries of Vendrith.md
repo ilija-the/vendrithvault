@@ -5,6 +5,8 @@ aliases:
   - ancestries
   - ancestry
   - people
+  - Humanoid
+  - humanoid
 ---
 > [!important] Important!
 > Multiple of the ancestries of Vendrith may seem quite different (at least in appearance) to their traditional fantasy namesakes. This is particularly true of Elves, Halflings, Dwarves, Gnomes and Orcs; though even Amurrun (catfolk) and Shoony have particular twists. All of them however are meant to still be reminiscent of their originals, merely with a twist.
