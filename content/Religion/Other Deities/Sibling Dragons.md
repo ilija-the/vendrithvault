@@ -10,6 +10,8 @@ aliases:
   - Kiya
   - Nourishing Bulwark
   - The Bulwark
+  - Gaia
+  - Vaia
 ---
 > [!important] WIP!
 > Subject to changes.

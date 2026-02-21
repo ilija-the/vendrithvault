@@ -21,3 +21,5 @@ Other more controversial ones are the [[Daydreaming Truth]], and the Wordless Fl
 ### Spiritual Deities
 
 ### Ascended Deities
+
+### Revered Deities
