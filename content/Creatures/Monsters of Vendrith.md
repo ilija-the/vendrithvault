@@ -13,7 +13,7 @@ Usually distinguished from the [[Ancestries of Vendrith]] based on the lack of l
 [[Fey]]
 
 
-[[Fiend]]
+[[Fiends]]
 [[Devil]]
 [[Demon]]
 [[Daemon]]
