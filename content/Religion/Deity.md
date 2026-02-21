@@ -13,3 +13,11 @@ Some deities are decisively too mystical, mythological or powerful to be conside
 Some Gods are the figures of the [[Mythos of Vendrith]]. 
 
 Other more controversial ones are the [[Daydreaming Truth]], and the Wordless Fleece (a personification of the World Fleece).
+
+### Originator Gods
+
+### Ur-Gods
+
+### Spiritual Deities
+
+### Ascended Deities
