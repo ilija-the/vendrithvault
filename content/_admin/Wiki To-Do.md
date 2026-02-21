@@ -49,6 +49,7 @@ kanban-plugin: board
 	Common languages need to exist in languages page, and be referenced in geography and government pages (Eg. Mogxa - Idurian is the spoken court and trade language of Mogxa).
 - [ ] Folder structure can always do with some changes. I think the top structure is fine right now, but should reduce the amount of sub-folders. Search, tags and linking is more important than subfolders.
 - [ ] Unsure if the districts of [[Friedport]] need their own articles, let alone single streets like [[Waterlogg Street]]. Perhaps just do proper headings in the [[Friedport]] article itself?
+- [ ] Separate page for the statblock for deities, and introduce the fact that a deity can have separate appearances, icons, that may have slightly different statblocks.
 
 
 ## Writing To-Do
