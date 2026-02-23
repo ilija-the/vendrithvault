@@ -18,5 +18,22 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 }
 ```
 
+### Regions
+#### Western Grainbasket
+
+
+#### Centre
+
+
+#### Kobold East
+
+
+#### Argathian South
+
+
+#### Rainy North
+
+
+
 
 > See #places/mogxa 

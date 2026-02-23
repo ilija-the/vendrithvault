@@ -65,8 +65,8 @@
     {
       "type": "pin",
       "id": "marker_pfwp9e",
-      "x": 0.6670481898811488,
-      "y": 0.24520106791410984,
+      "x": 0.6520930552849374,
+      "y": 0.23763677139368625,
       "layer": "default",
       "link": "Imperial Bay",
       "iconKey": "pinBlue",
@@ -440,6 +440,46 @@
       "layer": "default",
       "link": "Kathayle",
       "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_atcuim",
+      "x": 0.4526477336789255,
+      "y": 0.10212727182853448,
+      "layer": "default",
+      "link": "Challenge Isles",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_0u7vll",
+      "x": 0.6127330598285199,
+      "y": 0.1778134895349637,
+      "layer": "default",
+      "link": "Kantby",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_4688np",
+      "x": 0.48281728592567985,
+      "y": 0.2893890362970565,
+      "layer": "default",
+      "link": "Blissfeldt Coast",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_by2cch",
+      "x": 0.409142513103486,
+      "y": 0.21029371606613198,
+      "layer": "default",
+      "link": "Condinuum Coast",
+      "iconKey": "pinBlue",
       "tooltip": ""
     }
   ],
