@@ -19,9 +19,15 @@ Tip: Proper quotation marks (") cannot be used in titles, but you can use double
 ### Tags
 Adding proper tags to your article should be top priority, as it is easily forgotten later if not. Always get the most appropriate tag down if possible. The main tags of this wiki as of now are:
 
-#people  #places  #events  #society  #religion #cosmos #campaigns #classes 
+#people  #places  #events  #society  #religion #cosmos #campaigns
 
-You are also recommended to do a nested tag if possible - particularly for #places, #campaigns  and #classes. An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
+You are also recommended to do a nested tags if possible. Here are some examples of nested tags an article might have:
+
+#people/npc 
+#campaigns/landcrab-plot 
+#places/horiza/friedport 
+
+An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
 
 The format for a nested place tag is then: 
 	``places/``
