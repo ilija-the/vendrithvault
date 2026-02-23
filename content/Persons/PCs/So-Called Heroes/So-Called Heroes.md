@@ -13,21 +13,21 @@ Consists of:
 [[Valentine Volmari|Valentine]], an eerie shoony rogue.
 
 Has also been accompanied on their journey by:
-Captain Doherty (totally spelled Dorothy)
-Kelvin the Gnome Crafter (whose name Ilija forgot)
+[[Captain Doherty]] (totally spelled Dorothy)
+[[Kelvin]] the Gnome Crafter (whose name Ilija forgot)
 
 Other notable characters include, categorized by location:
 - Cocoton
-	- Bobo and Kicky
-	- Malachai
-	- Mayor Bombast (deceased)
-	- The Wyrm Knight
+	- [[Bobo and Kicky]]
+	- [[Malachai]]
+	- [[Mayor Bombast]] (deceased)
+	- [[The Wyrm Knight]]
 - Vanderkact
-	- Father Emery
-	- Ironhardt
+	- [[Father Emery]]
+	- [[Ironhardt]]
 - Twinberry
-	- Father Sullivan
-	- Kaya Venstock (pnoll wife)
+	- [[Father Sullivan]]
+	- [[Kaya Venstock]] (pnoll wife)
 
 
 ###### Alternate names

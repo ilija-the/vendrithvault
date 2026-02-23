@@ -11,5 +11,5 @@ Nearby the town is a [[Shrines|Shrine]] to [[Saint Jonathan]] at a depleted silv
 
 Notable figures:
 [[Father Sullivan]], a leader figure and priest. His teachings are that of Saint Jonathan.
-Lucas, Sullivan's son killed by [[Valentine Volmari|Valentine]].
-[[Kaja Venstock]], owner of the Vennstock Pot tavern.
+[[Beast King Luca|Lucas]], Sullivan's son killed by [[Valentine Volmari|Valentine]].
+[[Kaya Venstock]], owner of the Vennstock Pot tavern.
