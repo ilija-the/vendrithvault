@@ -15,3 +15,5 @@ resizeHandle: native
 render: dom
 id: map-mlzokyu8
 ```
+
+Galae is a region now with unbridled wilds. It is home to many [[Halfling Ruins]].
