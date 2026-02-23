@@ -5,14 +5,10 @@ tags:
 Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes. Vendrith GMs should check out the [[Campaign Guide]].
 
 ## Ongoing Campaigns
-Here is an overview of all campaigns currently being ran in Vendrith.
+Here is an overview of all campaigns currently being ran in Vendrith or which are planned to be ran soon.
 
 #### Road to Longdawn
 #campaigns/road-to-longdawn 
-
-
-## Planned Campaigns
-Here is an overview of campaigns that are underway to start.
 
 #### Hunts of Vilhun
 #campaigns/hunts-of-vilhun 
