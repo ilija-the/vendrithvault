@@ -33,7 +33,7 @@ Places are especially useful nested, but could get excessive. Therefore, make su
 
 The format for a nested place tag is: 
 	``places/``
-	``region/`` such as Mogxa, Canath and Horiza.
+	``region/`` such as Mogxa, Canath and Horiza. Plac
 	``nearest settlement/`` such as Singsong or Friedport. Towns & cities preferred over villages.
 	**OR**
 	``natural area name/`` such as the Ivory Plateau, the Scar of Galae, the Red Desert, etc.

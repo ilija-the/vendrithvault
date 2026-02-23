@@ -18,7 +18,7 @@
       "x": 0.5454910545884152,
       "y": 0.5846340776866816,
       "layer": "default",
-      "link": "The Grand Gate",
+      "link": "Grand Gate",
       "iconKey": "pinRed",
       "tooltip": ""
     },
@@ -50,6 +50,26 @@
       "layer": "default",
       "link": "Zardoba",
       "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pesjjj",
+      "x": 0.5346789457991209,
+      "y": 0.46848399861514706,
+      "layer": "default",
+      "link": "The Scar",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_yjhd3q",
+      "x": 0.3268476582816836,
+      "y": 0.3030145197640568,
+      "layer": "default",
+      "link": "Crimson Desert",
+      "iconKey": "pinBlue",
       "tooltip": ""
     }
   ],
