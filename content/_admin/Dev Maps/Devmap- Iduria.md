@@ -19,3 +19,5 @@ id: map-mlzof7l4
 ```
 
 Beware.
+
+![[Iduria]]
