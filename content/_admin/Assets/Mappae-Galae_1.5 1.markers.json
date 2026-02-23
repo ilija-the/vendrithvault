@@ -191,6 +191,56 @@
       "link": "Enui",
       "iconKey": "pinBlue",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_df1twm",
+      "x": 0.2595511104382389,
+      "y": 0.5874349493509923,
+      "layer": "default",
+      "link": "Path of Gold",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tlb555",
+      "x": 0.26844937129386326,
+      "y": 0.4401273723419285,
+      "layer": "default",
+      "link": "Bronze Canal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_1c267k",
+      "x": 0.46669025256575386,
+      "y": 0.33156683794041547,
+      "layer": "default",
+      "link": "Littlehorne",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ijyaoh",
+      "x": 0.16311521271296112,
+      "y": 0.10660314600614702,
+      "layer": "default",
+      "link": "Twinberry",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_7xp8s2",
+      "x": 0.27070163907967987,
+      "y": 0.09047815569879608,
+      "layer": "default",
+      "link": "Vanderkact",
+      "iconKey": "pinRed",
+      "tooltip": ""
     }
   ],
   "bases": [
