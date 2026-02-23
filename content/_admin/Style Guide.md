@@ -25,10 +25,9 @@ You are also recommended to do a nested tag if possible - particularly for #plac
 
 The format for a nested place tag is then: 
 	``places/``
-	``continental region`` ONLY needed for Horiza. The Old World does not need it.
-	``region/`` such as Mogxa, Galae, Ferweth.
-	``settlement/`` such as Philosophia, or Cocatun
-	``specific locale/`` such as a tavern, a famous rock, or an academy
+	``region/`` such as Mogxa, Galae or Horiza. Currently we only tag Canath, not Encanath or Brincanath.
+	``nearest settlement/`` such as Singsong or Friedport. Towns & cities preferred over villages.
+	``specific locale/`` such as a street, a tavern, a famous rock, or an academy. You rarely need to tag this last part, since this is likely what the article is about.
 
 Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
 
