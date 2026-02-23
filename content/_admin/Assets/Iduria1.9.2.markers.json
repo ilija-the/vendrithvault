@@ -1,0 +1,85 @@
+{
+  "size": {
+    "w": 8024,
+    "h": 5288
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_kh3ity",
+      "x": 0.6485840063802447,
+      "y": 0.6326703033638746,
+      "layer": "default",
+      "link": "Philosophia",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_nezc3t",
+      "x": 0.7644395169038233,
+      "y": 0.7296765846382953,
+      "layer": "default",
+      "link": "Singsong",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_k1t0x3",
+      "x": 0.6720899781754586,
+      "y": 0.6170312958751726,
+      "layer": "default",
+      "link": "Mogxa",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_di3k8i",
+      "x": 0.83039365745784,
+      "y": 0.5712917003297822,
+      "layer": "default",
+      "link": "Fenrunr",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_050iec",
+      "x": 0.5626639262588584,
+      "y": 0.5664249127533697,
+      "layer": "default",
+      "link": "Zardoba",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "_admin/Assets/Iduria1.9.2.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_admin/Assets/Iduria1.9.2.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
