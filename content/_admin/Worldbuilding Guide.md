@@ -18,6 +18,9 @@ Things we love to see in Vendrith.
 
 ### Inspirations
 The Divinity Series.
+Pokemon series for region designs.
+Ace Attorney and Columbo.
+
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
