@@ -71,6 +71,126 @@
       "link": "Crimson Desert",
       "iconKey": "pinBlue",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_vofhms",
+      "x": 0.09948256167545856,
+      "y": 0.5732962488459056,
+      "layer": "default",
+      "link": "Kallea",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kb3wic",
+      "x": 0.3132599336799584,
+      "y": 0.4641577944497988,
+      "layer": "default",
+      "link": "Babael",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_f5dh0c",
+      "x": 0.30513805869414784,
+      "y": 0.6905306271082167,
+      "layer": "default",
+      "link": "Silver Pass",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_n66eh3",
+      "x": 0.22875031734310947,
+      "y": 0.6849500972156375,
+      "layer": "default",
+      "link": "Riverside",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ghg7mb",
+      "x": 0.2772344917279319,
+      "y": 0.7710212311864536,
+      "layer": "default",
+      "link": "Vön",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_4jivvx",
+      "x": 0.3651401753280078,
+      "y": 0.8935556175480918,
+      "layer": "default",
+      "link": "Nagonkor",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_wptis3",
+      "x": 0.42376615647876065,
+      "y": 0.7810687299054686,
+      "layer": "default",
+      "link": "Regal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tydubt",
+      "x": 0.37386717060715857,
+      "y": 0.743319410851755,
+      "layer": "default",
+      "link": "Regal Path",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_u43rb6",
+      "x": 0.5157000439793988,
+      "y": 0.7537202952316562,
+      "layer": "default",
+      "link": "The Rend",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bi7fh8",
+      "x": 0.5465011895637729,
+      "y": 0.21745056429683388,
+      "layer": "default",
+      "link": "Blissfeldt Coast",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_0jwray",
+      "x": 0.6799788991043424,
+      "y": 0.18561959618644056,
+      "layer": "default",
+      "link": "Eleina",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8h69d9",
+      "x": 0.8838226836999131,
+      "y": 0.35696279087571803,
+      "layer": "default",
+      "link": "Enui",
+      "iconKey": "pinBlue",
+      "tooltip": ""
     }
   ],
   "bases": [

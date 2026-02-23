@@ -1,4 +1,4 @@
-This
+This map might be a little less detailed.
 
 ```zoommap
 imageBases:
@@ -17,3 +17,5 @@ resizeHandle: native
 render: dom
 id: map-mlzof7l4
 ```
+
+Beware.
