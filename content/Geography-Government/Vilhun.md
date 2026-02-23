@@ -2,6 +2,7 @@
 tags:
   - places
 aliases:
+  - Vilhi
   - Vili
 ---
 ![[vilhun.png]]
