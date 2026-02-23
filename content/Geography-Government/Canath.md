@@ -3,4 +3,4 @@ tags:
   - places
 ---
 
-A wide region often split into a western [[Brincanath]] and an eastern [[Encanath]]. 
+A wide region often split into the outer western [[Brincanath]] and the inner [[Encanath]]. Much of Canath exists around the inner [[Sea of ]]
