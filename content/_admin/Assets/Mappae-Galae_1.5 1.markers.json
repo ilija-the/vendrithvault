@@ -65,8 +65,8 @@
     {
       "type": "pin",
       "id": "marker_yjhd3q",
-      "x": 0.3268476582816836,
-      "y": 0.3030145197640568,
+      "x": 0.3168340545064372,
+      "y": 0.28112190304904394,
       "layer": "default",
       "link": "Crimson Desert",
       "iconKey": "pinBlue",
@@ -235,8 +235,8 @@
     {
       "type": "pin",
       "id": "marker_7xp8s2",
-      "x": 0.27070163907967987,
-      "y": 0.09047815569879608,
+      "x": 0.27953717182254434,
+      "y": 0.100429345114711,
       "layer": "default",
       "link": "Vanderkact",
       "iconKey": "pinRed",
