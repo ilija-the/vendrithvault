@@ -131,6 +131,16 @@
       "link": "Longdawn",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_owk6sy",
+      "x": 0.672,
+      "y": 0.8718854166666666,
+      "layer": "default",
+      "link": "Celestaria",
+      "iconKey": "pinBlue",
+      "tooltip": ""
     }
   ],
   "bases": [

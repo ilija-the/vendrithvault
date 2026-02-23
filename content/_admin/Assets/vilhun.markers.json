@@ -1,0 +1,55 @@
+{
+  "size": {
+    "w": 1650,
+    "h": 1191
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_kpfd4a",
+      "x": 0.48298790425056076,
+      "y": 0.4663686375486604,
+      "layer": "default",
+      "link": "Isle of Flod",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_9134ef",
+      "x": 0.5327271071961779,
+      "y": 0.5053988138407758,
+      "layer": "default",
+      "link": "Kantby",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "_admin/Assets/vilhun.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_admin/Assets/vilhun.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
