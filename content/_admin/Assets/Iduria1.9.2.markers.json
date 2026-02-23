@@ -69,7 +69,7 @@
       "y": 0.24520106791410984,
       "layer": "default",
       "link": "Imperial Bay",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": ""
     },
     {
@@ -80,6 +80,16 @@
       "layer": "default",
       "link": "Isle of Flod",
       "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_joy9e1",
+      "x": 0.6672371816896923,
+      "y": 0.3858903670960823,
+      "layer": "default",
+      "link": "Enui",
+      "iconKey": "pinBlue",
       "tooltip": ""
     }
   ],
