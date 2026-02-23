@@ -24,12 +24,14 @@ Adding proper tags to your article should be top priority, as it is easily forgo
 You are also recommended to do a nested tags if possible. Here are some examples of nested tags an article might have:
 
 #people/npc 
-#campaigns/landcrab-plot 
-#places/horiza/friedport 
+#ancestries/goblin 
+#society/bmdfireworks 
+#campaigns/circles 
+#places/mogxa/philosophia 
 
-An example would be ``places/iduria/mogxa/philosophia`` for a location inside Philosophia. Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag.
+Places are especially useful nested, but could get excessive. Therefore, make sure you 1) Do not tag a place's own name if it has a tag, so if the example was the article of [[Philosophia]] itself, cut out the /philosophia at the end of this places tag. And 2) follow the format below-
 
-The format for a nested place tag is then: 
+The format for a nested place tag is: 
 	``places/``
 	``region/`` such as Mogxa, Canath and Horiza.
 	``nearest settlement/`` such as Singsong or Friedport. Towns & cities preferred over villages.
@@ -42,8 +44,7 @@ For planes other than that of [[Materia]], use the cosmos tag with a similar for
 	``cosmos/``
 	``plane/``
 	``region/`` if applicable, usually a part of a plane with its own characteristic elements
-	``settlement/`` if applicable, as rare as extraplanar settlements are
-	``specific locale/`` 
+	``settlement or area/`` only if applicable, as rare as extraplanar settlements are
 
 Articles related to the happenings in campaign should be tagged with its campaign name, such as ``landcrab-plot`` or ``road-to-longdawn``. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
 
