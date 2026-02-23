@@ -44,7 +44,7 @@ In an incident that would sink the Massiri family name into shame and obscurity 
 
 ### Middle childhood - adoption and espionage
 
-Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]] - the Meisters. These two, much kinder than any family Karvi had experienced, wanted to give him a new start and a chance to grow up and develop his talents at a reasonable pace. Here, Karvi took on the new name Krynn Meister, and enrolled in the [[Academie Peripherie Philosophia]]. Karvi began writing his thesis about [[Leylines]] at the mere age of 14.
+Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]] - the Meisters. These two, much kinder than any family Karvi had experienced, wanted to give him a new start and a chance to grow up and develop his talents at a reasonable pace. Here, Karvi took on the new name Krynn Meister, and enrolled in the [[Academie Peripherie Philosophia]]. Karvi began writing his thesis about [[Leylines]] and [[Entanglement Stones]] at the mere age of 14.
 
 Surrounded by intellectuals and well-travelled folks, Karvi began to make connections and friendships with a handful of people well above his age. Discussing a variety of topics about the arcane, leylines, and the great silence, Karvi was very eager to talk at length about anything. This included the lives of his beloved adoptive parents, whom were quite heavily involved in [[Sanitorium]] affairs in the background. Little did Karvi know that someone he had spoken to at length was a [[Crusaders|Crusader]] spy, utilising the information gained to do further espionage, and, sabotage Sanitorium operations.
 
