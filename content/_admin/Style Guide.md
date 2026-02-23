@@ -25,8 +25,8 @@ You are also recommended to do a nested tag if possible - particularly for #plac
 
 The format for a nested place tag is then: 
 	``places/``
-	``continental region`` such as Iduria, Horiza or Eydwin
-	``region/`` such as Canath, Mogxa or Horizan Peninsula
+	``continental region`` ONLY needed for Horiza. The Old World does not need it.
+	``region/`` such as Mogxa, Galae, Ferweth.
 	``settlement/`` such as Philosophia, or Cocatun
 	``specific locale/`` such as a tavern, a famous rock, or an academy
 
