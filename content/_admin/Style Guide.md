@@ -25,9 +25,10 @@ You are also recommended to do a nested tag if possible - particularly for #plac
 
 The format for a nested place tag is then: 
 	``places/``
-	``region/`` such as Mogxa, Galae or Horiza. Currently we only tag Canath, not Encanath or Brincanath.
+	``region/`` such as Mogxa, Canath and Horiza.
 	``nearest settlement/`` such as Singsong or Friedport. Towns & cities preferred over villages.
-	``specific locale/`` such as a street, a tavern, a famous rock, or an academy. You rarely need to tag this last part, since this is likely what the article is about.
+	**OR**
+	``natural area name/`` such as the Ivory Plateau, the Scar of Galae, the Red Desert, etc.
 
 Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
 
@@ -38,7 +39,7 @@ For planes other than that of [[Materia]], use the cosmos tag with a similar for
 	``settlement/`` if applicable, as rare as extraplanar settlements are
 	``specific locale/`` 
 
-Articles highly related to a campaign should be tagged with its campaign name, such as ``landcrab-plot`` or ``road-to-longdawn``. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
+Articles related to the happenings in campaign should be tagged with its campaign name, such as ``landcrab-plot`` or ``road-to-longdawn``. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
 
 ### What to article? what to link?
 There are no right answers, but here's some precedent you can draw from. Obviously everything from the tags is good to make articles on - places, people and events in particular. You'll still have to use judgement as to when to bother including something, as not every single shop or named NPC is always interesting or relevant enough to bother including (Friedport would be one third of this wiki if it included all its NPCs). 
