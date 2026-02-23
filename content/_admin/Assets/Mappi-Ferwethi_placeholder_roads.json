@@ -141,6 +141,16 @@
       "link": "Celestaria",
       "iconKey": "pinBlue",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_n6uf3z",
+      "x": 0.8515555555555555,
+      "y": 0.05721875,
+      "layer": "default",
+      "link": "Challenge Isles",
+      "iconKey": "pinBlue",
+      "tooltip": ""
     }
   ],
   "bases": [

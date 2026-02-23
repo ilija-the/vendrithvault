@@ -11,7 +11,48 @@
       "locked": false
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_qtwvjj",
+      "x": 0.5454910545884152,
+      "y": 0.5846340776866816,
+      "layer": "default",
+      "link": "The Grand Gate",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ic5j2o",
+      "x": 0.6048279397211132,
+      "y": 0.3573160737121832,
+      "layer": "default",
+      "link": "Cragmoore",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_uirn5a",
+      "x": 0.8191414014670415,
+      "y": 0.87708035648173,
+      "layer": "default",
+      "link": "Philosophia",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_m421mb",
+      "x": 0.6162630428495431,
+      "y": 0.7613224541214774,
+      "layer": "default",
+      "link": "Zardoba",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
   "bases": [
     {
       "path": "_admin/Assets/Mappae-Galae_1.5 1.png"

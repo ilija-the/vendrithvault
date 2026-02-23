@@ -31,6 +31,26 @@
       "link": "Kantby",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_fkv5cp",
+      "x": 0.641292145328313,
+      "y": 0.6246776426389197,
+      "layer": "default",
+      "link": "Imperial Bay",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_vi4he8",
+      "x": 0.18287089304221538,
+      "y": 0.37133005781972966,
+      "layer": "default",
+      "link": "Challenge Isles",
+      "iconKey": "pinBlue",
+      "tooltip": ""
     }
   ],
   "bases": [
