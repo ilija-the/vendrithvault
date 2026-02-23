@@ -13,4 +13,4 @@ A fancily dressed shoony rogue that may or may not be a [[Dhampir]]. Acting and 
 
 ![[Valentine_ref_crop.png]]
 
-Has travelled [[Ferweth]] on the road to [[Longddawn]] with the [[So-Called Heroes]], and has had to confront his urges to partake in sucking blood and eating raw flesh. In a (polyamorous) marriage with [[Dominic Volmari]].
+Has travelled [[Ferweth]] on the road to [[Longdawn]] with the [[So-Called Heroes]], and has had to confront his urges to partake in sucking blood and eating raw flesh. In a (polyamorous) marriage with [[Dominic Volmari]].
