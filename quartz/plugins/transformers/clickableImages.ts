@@ -15,7 +15,7 @@ export const ClickableImages: QuartzTransformerPlugin = () => {
                 // Get the current img src which should already be resolved
                 const originalSrc = node.properties?.src
                 const originalAlt = node.properties?.alt || ""
-                
+
                 if (!originalSrc) return
 
                 // Add lightbox classes and data attributes to the img
@@ -51,7 +51,7 @@ export const ClickableImages: QuartzTransformerPlugin = () => {
             content: `
 /* Lightbox Image Styles */
 .lightbox-wrapper {
-  display: inline-block;
+  /* display: inline-block; */
   cursor: pointer;
   transition: transform 0.2s ease;
   margin: 0;
@@ -172,15 +172,15 @@ body.lightbox-open {
                 // Create modal elements
                 const modal = document.createElement('div');
                 modal.className = 'lightbox-modal';
-                
+
                 const closeBtn = document.createElement('button');
                 closeBtn.className = 'lightbox-close';
                 closeBtn.innerHTML = '×';
                 closeBtn.setAttribute('aria-label', 'Close lightbox');
-                
+
                 const img = document.createElement('img');
                 img.style.display = 'none';
-                
+
                 modal.appendChild(closeBtn);
                 modal.appendChild(img);
                 document.body.appendChild(modal);                // Function to open lightbox
@@ -190,26 +190,26 @@ body.lightbox-open {
                   img.style.display = 'block';
                   modal.classList.add('active');
                   document.body.classList.add('lightbox-open');
-                  
+
                   // Preload the image and set appropriate size
                   const preloadImg = new Image();
                   preloadImg.onload = () => {
                     img.src = imageSrc;
-                    
+
                     // Get original image size on page
                     const originalRect = originalImg ? originalImg.getBoundingClientRect() : null;
                     const originalDisplayWidth = originalRect ? originalRect.width : 0;
                     const originalDisplayHeight = originalRect ? originalRect.height : 0;
-                    
+
                     // Smart scaling based on image size
                     const viewportWidth = window.innerWidth;
                     const viewportHeight = window.innerHeight;
                     const imageWidth = preloadImg.naturalWidth;
                     const imageHeight = preloadImg.naturalHeight;
-                    
+
                     // Calculate appropriate display size
                     let targetWidth, targetHeight;
-                    
+
                     // Ensure lightbox image is at least 1.5x the size it appears on page
                     const minDisplayWidth = Math.max(
                       originalDisplayWidth * 1.5,
@@ -219,16 +219,16 @@ body.lightbox-open {
                       originalDisplayHeight * 1.5,
                       Math.min(400, viewportHeight * 0.7)
                     );
-                    
+
                     // Calculate scale to meet minimum size requirements
                     const scaleForWidth = minDisplayWidth / imageWidth;
                     const scaleForHeight = minDisplayHeight / imageHeight;
                     const minScale = Math.max(scaleForWidth, scaleForHeight, 1); // At least 1x (never smaller than original)
-                    
+
                     // Limit maximum scale to prevent pixelation
                     const maxScale = Math.min(3, viewportWidth * 0.9 / imageWidth, viewportHeight * 0.9 / imageHeight);
                     const finalScale = Math.min(minScale, maxScale);
-                    
+
                     targetWidth = Math.min(imageWidth * finalScale, viewportWidth * 0.9);
                     targetHeight = Math.min(imageHeight * finalScale, viewportHeight * 0.9);
                       img.style.width = targetWidth + 'px';
@@ -249,7 +249,7 @@ body.lightbox-open {
 
                 // Event listeners
                 closeBtn.addEventListener('click', closeLightbox);
-                
+
                 modal.addEventListener('click', (e) => {
                   if (e.target === modal) {
                     closeLightbox();
@@ -288,7 +288,7 @@ body.lightbox-open {
 
               // Initialize on page load and navigation
               document.addEventListener('nav', initLightbox);
-              
+
               // Initialize immediately if DOM is already ready
               if (document.readyState === 'loading') {
                 document.addEventListener('DOMContentLoaded', initLightbox);
