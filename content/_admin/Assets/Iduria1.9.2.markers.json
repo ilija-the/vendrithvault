@@ -25,8 +25,8 @@
     {
       "type": "pin",
       "id": "marker_nezc3t",
-      "x": 0.7644395169038233,
-      "y": 0.7296765846382953,
+      "x": 0.7638970714008568,
+      "y": 0.7287162947047785,
       "layer": "default",
       "link": "Singsong",
       "iconKey": "pinRed",
@@ -45,8 +45,8 @@
     {
       "type": "pin",
       "id": "marker_di3k8i",
-      "x": 0.83039365745784,
-      "y": 0.5712917003297822,
+      "x": 0.8258617984892912,
+      "y": 0.5374815870945555,
       "layer": "default",
       "link": "Fenrunr",
       "iconKey": "pinBlue",
@@ -55,8 +55,8 @@
     {
       "type": "pin",
       "id": "marker_050iec",
-      "x": 0.5626639262588584,
-      "y": 0.5664249127533697,
+      "x": 0.5634947670697591,
+      "y": 0.5594909742763148,
       "layer": "default",
       "link": "Zardoba",
       "iconKey": "pinRed",
@@ -165,8 +165,8 @@
     {
       "type": "pin",
       "id": "marker_r6gwwl",
-      "x": 0.4692762703674504,
-      "y": 0.5958685580108043,
+      "x": 0.4684454295565498,
+      "y": 0.5838917551868004,
       "layer": "default",
       "link": "Regal",
       "iconKey": "pinBlue",
@@ -309,6 +309,136 @@
       "y": 0.23551264737459596,
       "layer": "default",
       "link": "Piketown",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_92ai8u",
+      "x": 0.400632615276338,
+      "y": 0.24441795121958385,
+      "layer": "default",
+      "link": "Northpoint",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tupy3r",
+      "x": 0.4076560143505594,
+      "y": 0.2639185260206332,
+      "layer": "default",
+      "link": "Veridica",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_9z2z3j",
+      "x": 0.4108489722684574,
+      "y": 0.3640620678549951,
+      "layer": "default",
+      "link": "Crimson Desert",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_stk86z",
+      "x": 0.44212710894519236,
+      "y": 0.5698438565064141,
+      "layer": "default",
+      "link": "Regal Path",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ldgk60",
+      "x": 0.4088230940690641,
+      "y": 0.5594138998641649,
+      "layer": "default",
+      "link": "Silver Pass",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_mf3nut",
+      "x": 0.37139435436437757,
+      "y": 0.4964463170807068,
+      "layer": "default",
+      "link": "Path of Gold",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_579tz8",
+      "x": 0.3787173686544249,
+      "y": 0.5030311623391075,
+      "layer": "default",
+      "link": "Bronze Canal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_2h4w7n",
+      "x": 0.32323714558353717,
+      "y": 0.9155234986837593,
+      "layer": "default",
+      "link": "Rraka",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bq9t3a",
+      "x": 0.46194082559515376,
+      "y": 0.868787423053717,
+      "layer": "default",
+      "link": "Veducia",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_257uxv",
+      "x": 0.3343884281558185,
+      "y": 0.7428924275060255,
+      "layer": "default",
+      "link": "Rubyfirth Bay",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_fcqy5v",
+      "x": 0.5619328679196337,
+      "y": 0.8196258651948054,
+      "layer": "default",
+      "link": "Sea of Sargathis",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bupn1w",
+      "x": 0.7172214440222691,
+      "y": 0.7203835717220755,
+      "layer": "default",
+      "link": "Dreyus",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_f96j8h",
+      "x": 0.631695869721222,
+      "y": 0.6983517769616759,
+      "layer": "default",
+      "link": "Kathayle",
       "iconKey": "pinRed",
       "tooltip": ""
     }
