@@ -1,0 +1,34 @@
+{
+  "size": {
+    "w": 2551,
+    "h": 1510
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "_admin/Assets/Mappae-Galae_1.5 1.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_admin/Assets/Mappae-Galae_1.5 1.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

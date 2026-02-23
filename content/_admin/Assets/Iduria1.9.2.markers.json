@@ -61,6 +61,26 @@
       "link": "Zardoba",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pfwp9e",
+      "x": 0.6670481898811488,
+      "y": 0.24520106791410984,
+      "layer": "default",
+      "link": "Imperial Bay",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_c63ela",
+      "x": 0.5926014335698181,
+      "y": 0.1638970198412882,
+      "layer": "default",
+      "link": "Isle of Flod",
+      "iconKey": "pinRed",
+      "tooltip": ""
     }
   ],
   "bases": [
