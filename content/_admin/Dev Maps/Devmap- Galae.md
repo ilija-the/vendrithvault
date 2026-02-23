@@ -1,3 +1,9 @@
+---
+tags:
+  - admin
+---
+[[Galae]] is a region now with unbridled wilds. It is home to many [[Halfling Ruins]].
+
 ```zoommap
 imageBases:
   - path: _admin/Assets/Mappae-Galae_1.5 1.png
@@ -16,6 +22,5 @@ render: dom
 id: map-mlzokyu8
 ```
 
-[[Galae]] is a region now with unbridled wilds. It is home to many [[Halfling Ruins]].
 
 ![[Galae]]
