@@ -195,8 +195,8 @@
     {
       "type": "pin",
       "id": "marker_df1twm",
-      "x": 0.2595511104382389,
-      "y": 0.5874349493509923,
+      "x": 0.23902611576633104,
+      "y": 0.5279563598126207,
       "layer": "default",
       "link": "Path of Gold",
       "iconKey": "pinRed",
@@ -205,8 +205,8 @@
     {
       "type": "pin",
       "id": "marker_tlb555",
-      "x": 0.26844937129386326,
-      "y": 0.4401273723419285,
+      "x": 0.24234172015365155,
+      "y": 0.5758969793678903,
       "layer": "default",
       "link": "Bronze Canal",
       "iconKey": "pinRed",
