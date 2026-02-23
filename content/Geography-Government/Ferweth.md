@@ -12,6 +12,7 @@ Has a rather unique worship of even living [[Saint]]s, done in return for protec
 [[Cocatun]]
 [[Vanderkact]]
 [[Twinberry]]
+[[Homrodeus]]
 [[Longdawn]]
 [[Veridica]]
 [[Northpoint]]
