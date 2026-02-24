@@ -251,6 +251,16 @@
       "link": "Celestaria",
       "iconKey": "pinBlue",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_d01kh7",
+      "x": 0.07306590257879657,
+      "y": 0.43887744252737243,
+      "layer": "default",
+      "link": "Eyne",
+      "iconKey": "pinRed",
+      "tooltip": ""
     }
   ],
   "bases": [
