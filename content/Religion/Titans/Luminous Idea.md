@@ -11,7 +11,7 @@ aliases:
 **Summary** Said to be the inheritor of the Lively Creator's creativity, the Luminous Idea tinkers away in its workshop thinking up ideas only conceivable by a divine mind. Occassionaly, some of these ideas happen to go missing and slip out of the workshop. The idea has split themselves into many entities to work at all their projects at once.
 **Base of Worship** Craftsmen
 **Appearance, Items and Powers.**
-**Relations, History and Forms.** [[Trinity of Invention and Consequence]].
+**Relations, History and Forms.** [[Trinity of Invention and Consequence]]. "Rival" of the [[Steel Lord]].
 
 **Areas of Concern** Invention
 **Edicts** Follow your ideas through, work tirelessly
