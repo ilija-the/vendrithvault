@@ -8,6 +8,8 @@ The Hun Lords are considered to be immortal emissaries and viceroys of the [[One
 
 It is a common mistake for outsiders to identify the Hun Lords as titans. Locally, the Hun Lords are never meant to be considered equals to the One & Only, which causes problems when the titan label is applied to both her and the lords. 
 
+Due to a few mythos of living [[Hun Lords]] either being or using the three [[Moons of Vendrith]], some characterization of the [[Sibling Dragons]] bleeds over to the lords.
+
 The Hun Lords are as follows:
 
 | Hun Lord       |   Role   |    Tarot     | Ancestry   |
