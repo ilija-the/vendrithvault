@@ -54,7 +54,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      LineAgePre(),
+      // LineAgePre(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
@@ -69,18 +69,18 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      LineAgeMid(),
+      // LineAgeMid(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.HandwrittenInk(),
-      LineAgePost({
-        maxAgeDays: 365,
-        freshColor: { r: 34, g: 197, b: 94 },
-        oldColor: { r: 156, g: 163, b: 175 },
-        darkModeFreshColor: { r: 34, g: 197, b: 94 },
-        darkModeOldColor: { r: 100, g: 116, b: 139 },
-      }),
+      // LineAgePost({
+      //   maxAgeDays: 365,
+      //   freshColor: { r: 34, g: 197, b: 94 },
+      //   oldColor: { r: 156, g: 163, b: 175 },
+      //   darkModeFreshColor: { r: 34, g: 197, b: 94 },
+      //   darkModeOldColor: { r: 100, g: 116, b: 139 },
+      // }),
       Plugin.ClickableImages(),
     ],
     filters: [Plugin.RemoveDrafts()],
