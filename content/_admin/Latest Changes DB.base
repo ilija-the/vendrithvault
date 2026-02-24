@@ -9,3 +9,7 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: tags
+        direction: DESC
