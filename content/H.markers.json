@@ -11,7 +11,58 @@
       "locked": false
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_en6yza",
+      "x": 0.48554849776931397,
+      "y": 0.3015130362332503,
+      "layer": "default",
+      "link": "Friedport",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_sfls6n",
+      "x": 0.4535248000554733,
+      "y": 0.2920886447138618,
+      "layer": "default",
+      "link": "Chocolate Isles",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_5isiiy",
+      "x": 0.4946363038772958,
+      "y": 0.3784789003082568,
+      "layer": "default",
+      "link": "Bay of Biscuits",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_koa3qp",
+      "x": 0.576786806753237,
+      "y": 0.45311312160306805,
+      "layer": "default",
+      "link": "Newshore",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_at3yd7",
+      "x": 0.3999141895752432,
+      "y": 0.5280503694719851,
+      "layer": "default",
+      "link": "Adamsworth",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
   "bases": [
     {
       "path": "_admin/Assets/Horizan_Open_World.1.1 1.png"

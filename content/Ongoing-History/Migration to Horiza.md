@@ -10,3 +10,5 @@ tags:
 
 
 ### Second Wave of Migration
+
+These peoples ended up developing the [[Harza Pidgin]] common language.
