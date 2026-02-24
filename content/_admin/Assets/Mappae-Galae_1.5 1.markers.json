@@ -241,6 +241,16 @@
       "link": "Vanderkact",
       "iconKey": "pinRed",
       "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pah32f",
+      "x": 0.07091690544412609,
+      "y": 0.3502699588701873,
+      "layer": "default",
+      "link": "Celestaria",
+      "iconKey": "pinBlue",
+      "tooltip": ""
     }
   ],
   "bases": [
