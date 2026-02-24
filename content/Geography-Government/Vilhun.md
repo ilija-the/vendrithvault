@@ -24,7 +24,7 @@ The makeup of the Vili society closely resembles that of the Hun Lords, with Kit
 
 | Rarity   | Ancestries                                                         |
 | -------- | ------------------------------------------------------------------ |
-| Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]]                |
+| Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]]                     |
 | Uncommon | [[Kitsune]], [[Automatons]], [[Dragonblood]], remaining ancestries |
 | Rare     | [[Elves]]                                                          |
 
