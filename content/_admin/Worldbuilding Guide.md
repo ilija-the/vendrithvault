@@ -42,6 +42,7 @@ These are topics with specific visions/rules that need to be kept in mind.
 12. **[[Hightower Civilisation|Downfall of the Hightowers]].** It's not an unknowable topic, but nobody has an exact thesis on why their downfall happened.
 13. **[[Automatons]].** Are still rare, and different from maker to maker, region to region.
 14. [[New World - Horiza|Horiza]] as a whole. Gonna stay Ilija's domain, I think.
+15. [[Flying Ships]] are rare, cumbersome, costly and fragile. Read the page and consider which situations they can make sense in.
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
