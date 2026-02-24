@@ -13,8 +13,9 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 
 ### General Themes
 Things we love to see in Vendrith.
-- Drowning, apparently.
-- Fall damage, apparently.
+- Drowning and fall damage, apparently.
+- Unironically, dangerous environments are great!
+- 
 
 ### Inspirations
 The Divinity Series.
