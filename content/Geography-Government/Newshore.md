@@ -10,4 +10,4 @@ Overlooking the city is the mountains and glacier of the [[Ivory Crown Plateau|I
 Newshore does have somewhat of a rivalry with Adamsworth, but is amenable to Friedport due to its importance as a hub connecting to the old world.
 
 ### Persons of Note
-[[]]
+[[Cardinal Rackawn]] comes from Newshore, where he played at the [[Underworld|underground]] [[Performance|music]] scene with his bandmate [[Rex Stormwind]]. Here Cardinal met a number of [[Desecrators]], as well as the disgraced foreign [[Princess Ionelle]].
