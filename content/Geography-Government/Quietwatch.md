@@ -1,2 +1,5 @@
-#places 
-[[Horizan Peninsula]].
+---
+tags:
+  - places
+---
+[[New World - Horiza|Horiza]]
