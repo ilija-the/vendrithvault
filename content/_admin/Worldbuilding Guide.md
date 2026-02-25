@@ -15,7 +15,8 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 Things we love to see in Vendrith.
 - Drowning and fall damage, apparently.
 - Unironically, dangerous environments are great!
-- 
+- Terrain that matters in a fight.
+- Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
 
 ### Inspirations
 The Divinity Series.
