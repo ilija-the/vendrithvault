@@ -13,7 +13,7 @@ Road to Longdawn follows a set of travellers all trying to reach the titular Lon
 
 #### Hunts of Vilhun
 #campaigns/hunts-of-vilhun 
-
+A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain. 
 
 ## Finished Campaigns
 Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order (by their first session, if there's overlap).
@@ -39,6 +39,7 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 
 #### Forgotten Dawn - Underbelly of Rraka
 #campaigns/forgotten-dawn 
+A collection of random adventurers are pul
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
