@@ -4,8 +4,8 @@ tags:
 ---
 Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes. Vendrith GMs should check out the [[Campaign Guide]].
 
-## Ongoing Campaigns
-Here is an overview of all campaigns currently being ran in Vendrith or which are planned to be ran soon.
+### Ongoing Campaigns
+Here is an overview of all campaigns currently being ran in Vendrith, or which are planned to be ran very soon.
 
 #### Road to Longdawn
 #campaigns/road-to-longdawn 
@@ -15,7 +15,9 @@ Road to Longdawn follows a set of travellers all trying to reach the titular Lon
 #campaigns/hunts-of-vilhun 
 A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain. 
 
-## Finished Campaigns
+---
+
+### Finished Campaigns
 Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order (by their first session, if there's overlap).
 
 #### Welcome to Friedport
@@ -45,8 +47,9 @@ A collection of random adventurers are pulled in to explore a dungeon recently d
 #campaigns/eyes-of-ire 
 A hopeful few gather together for a quest to safely escort the Shaman of Ire's granddaughter, a fair maiden, back to their isolated wintery town.
 
+---
 
-## Possible Campaigns
+### Possible Campaigns
 And here is an overview of various campaign ideas, which may or may not ever be ran. Useful for storing ideas and then floating them by players to begin planning a new game!
 
 #### Forgotten Dawn - Megadungeon
