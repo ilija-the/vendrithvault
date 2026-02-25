@@ -31,6 +31,10 @@ Ace Attorney and Columbo.
 Final Fantasy for some creature designs.
 JRPGs in general for much of the vibes.
 Fullmetal Alchemist.
+Terraria, actually. Calamity mod included.
+a little bit of Age of Wonders 4.
+Elder Scrolls lore, certainly.
+The Witcher.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
