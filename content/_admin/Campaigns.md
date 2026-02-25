@@ -62,10 +62,12 @@ A monster-hunting campaign set in Horiza that encompasses travel, possible suppl
 A sister-campaign to Monstrologie 101, that as part of the original concept was meant to be concurrent with it but follow a separate party. The concepts are largely similar, though here the monsters hunted include a variety of devils, demons, undead and other spirits capable of posession or merely being fiendish themselves. The quest-giver is a high Magus instead, and the defeated creatures yield souls used for a similar crafting system using souls instead.
 
 #### Circles - re-traced
-
+A redo of the original Circles campaign that started Ilija's GM career, but redone in Philosophia. Takes the concepts, characters and storybeats of the original but refines them down into a shorter, more exciting, more thematic campaign that largely redoes the story but with enough flair and small twists it feels like something new.
 
 #### Circles - Tales from Exile
+A follow-up campaign about the Circles party, but following only one at a time as after the events of Circles/Circles re-traced the party got separated and exiled. Each tale from exile is set in a different corner of the world, and brings with it a new party of adventurers that joins forces with whichever Circles member got sent there, covering various plots.
 
 #### Roundtable Goosechase
+Originally intended to be a concurrent sister-campaign/alternative option to the Landcrab Plot, which was meant to sail around the Chocolat
 
 #### Purple Night Blue Dawn
