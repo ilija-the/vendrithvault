@@ -19,13 +19,14 @@ Things we love to see in Vendrith.
 - Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
 - The Sanitorium and the Crusaders worming their way into every conflict in some way.
 - Old wounds affecting the present and future.
-- Fun seasonal ()
+- Fun seasonal (and even non-canon) oneshots!
 
 ### Inspirations
-The Divinity Series.
+Divinity Original Sin 2 and Baldur's Gate 3.
 Pokemon series for region designs.
 Ace Attorney and Columbo.
-
+Final Fantasy for some creature designs.
+JRPGs in general for much of the vibes.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
