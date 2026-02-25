@@ -5,6 +5,7 @@ tags:
 aliases:
   - Lively Creator
   - The Monkey
+  - The Painter
 ---
 > [!important] WIP!
 > Subject to changes. Arcane and Occult themes.
