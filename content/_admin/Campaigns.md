@@ -53,11 +53,13 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 #campaigns/winter-campaign 
 
 #### Blood on the Marble Floor
-A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat 
+A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower.
 
 #### Monstrologie 101
+A monster-hunting campaign set in Horiza that encompasses travel, possible supply and item maintenance mechanics, as well as crafting ones own gear and potions out of the monsters slain. A witch serves as the party's guide and introduction to hunting monsters for parts, and the party is likely full of outcasts from society.
 
 #### Damonologie 101
+A sister-campaign to Monstrologie 101, that as part of the original concept was meant to be concurrent with it but follow a separate party. The concepts are largely similar, though here the monsters hunted include a variety of devils, demons, undead and other spirits capable of posession or merely being fiendish themselves. The quest-giver is a high Magus instead, and the defeated creatures yield souls used for a similar crafting system using souls instead.
 
 #### Circles - re-traced
 
