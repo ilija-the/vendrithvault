@@ -5,7 +5,7 @@ tags:
 Here's a dictionary of words you can use in your texts and campaigns to make it feel more old-timey and fantastical - feel free to add or suggest any. If you're looking for a dictionary of words specific to Vendrith, then buddy, the whole wiki is one.
 
 #### Criminals
-Scoundrel, blackguard, cutpurse
+A scoundrel, a blackguard, a cutpurse
 
 #### Raiders
 Marauder
@@ -13,4 +13,5 @@ Marauder
 #### Armies
 Host
 
-### His
+#### History
+Yore (the past), the lore, the tradition ("the tradition states"),

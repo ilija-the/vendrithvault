@@ -22,6 +22,7 @@ Things we love to see in Vendrith.
 - Fun seasonal (and even non-canon) oneshots!
 - Fun inter-party dynamics, relations, relationships, rivalries, etc.
 - Broadly happy endings, really. At least for longer games it is what feels best.
+- Concepts from fantasy and the pathfinder world/rules, but with a twist.
 
 ### Inspirations
 Divinity Original Sin 2 and Baldur's Gate 3.
