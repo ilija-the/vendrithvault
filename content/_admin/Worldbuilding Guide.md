@@ -30,6 +30,7 @@ Pokemon series for region designs.
 Ace Attorney and Columbo.
 Final Fantasy for some creature designs.
 JRPGs in general for much of the vibes.
+Fullmetal Alchemist.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
