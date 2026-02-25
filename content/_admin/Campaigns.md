@@ -39,10 +39,11 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 
 #### Forgotten Dawn - Underbelly of Rraka
 #campaigns/forgotten-dawn 
-A collection of random adventurers are pul
+A collection of random adventurers are pulled in to explore a dungeon recently discovered under the marketplace of the Talvan city of Rraka, together with Abmetzar, a dwarf from the Forgotten Dawn Society.
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
+A hopeful few gather together for a quest to safely escort the Shaman of Ire's granddaughter, a fair maiden, back to their isolated wintery town.
 
 
 ## Possible Campaigns
@@ -50,9 +51,11 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 
 #### Forgotten Dawn - Megadungeon
 #campaigns/forgotten-dawn 
+A potential continuation-light of the Forgotten Dawn Rraka oneshot, exploring what might well be a megadungeon under Rraka. Can take an episodic oneshot format, to fill in weeks where game is impossible.
 
 #### Winter Campaign
 #campaigns/winter-campaign 
+A potential campaign that takes place in Vön, like Eyes of Ire.
 
 #### Blood on the Marble Floor
 A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower.
