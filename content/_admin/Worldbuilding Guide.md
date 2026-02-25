@@ -17,6 +17,9 @@ Things we love to see in Vendrith.
 - Unironically, dangerous environments are great!
 - Terrain that matters in a fight.
 - Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
+- The Sanitorium and the Crusaders worming their way into every conflict in some way.
+- Old wounds affecting the present and future.
+- Fun seasonal ()
 
 ### Inspirations
 The Divinity Series.
@@ -45,6 +48,7 @@ These are topics with specific visions/rules that need to be kept in mind.
 13. **[[Automatons]].** Are still rare, and different from maker to maker, region to region.
 14. [[New World - Horiza|Horiza]] as a whole. Gonna stay Ilija's domain, I think.
 15. [[Flying Ships]] are rare, cumbersome, costly and fragile. Read the page and consider which situations they can make sense in.
+16. Socialist/democratic revolutions. Please remember this is set in the equivalent of (late) feudal times.
 
 ### Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
