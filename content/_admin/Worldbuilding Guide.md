@@ -20,6 +20,8 @@ Things we love to see in Vendrith.
 - The Sanitorium and the Crusaders worming their way into every conflict in some way.
 - Old wounds affecting the present and future.
 - Fun seasonal (and even non-canon) oneshots!
+- Fun inter-party dynamics, relations, relationships, rivalries, etc.
+- Broadly happy endings, really. At least for longer games it is what feels best.
 
 ### Inspirations
 Divinity Original Sin 2 and Baldur's Gate 3.
