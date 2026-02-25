@@ -46,20 +46,24 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 ## Possible Campaigns
 And here is an overview of various campaign ideas, which may or may not ever be ran. Useful for storing ideas and then floating them by players to begin planning a new game!
 
-##### Forgotten Dawn - Megadungeon
+#### Forgotten Dawn - Megadungeon
 #campaigns/forgotten-dawn 
 
-##### Winter Campaign
+#### Winter Campaign
 #campaigns/winter-campaign 
 
-##### Blood on the Marble Floor
+#### Blood on the Marble Floor
+A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat 
 
-##### Monstrologie 101/Damonologie 101
+#### Monstrologie 101
 
-##### Circles - re-traced
+#### Damonologie 101
 
-##### Circles - Tales from Exile
+#### Circles - re-traced
 
-##### Roundtable Goosechase
 
-##### Purple Night Blue Dawn
+#### Circles - Tales from Exile
+
+#### Roundtable Goosechase
+
+#### Purple Night Blue Dawn
