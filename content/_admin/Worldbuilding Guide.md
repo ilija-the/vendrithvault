@@ -25,16 +25,20 @@ Things we love to see in Vendrith.
 - Concepts from fantasy and the pathfinder world/rules, but with a twist.
 
 ### Inspirations
+Real life, shockingly.
 Divinity Original Sin 2 and Baldur's Gate 3.
 Pokemon series for region designs.
-Ace Attorney and Columbo.
-Final Fantasy for some creature designs.
+Ace Attorney, and Columbo.
+Attorney of the Arcane
+Final Fantasy for creature designs.
 JRPGs in general for much of the vibes.
 Fullmetal Alchemist.
-Terraria, actually. Calamity mod included.
+Terraria, actually. Especially for biomes and bosses.
+Calamity mod included for the above.
 a little bit of Age of Wonders 4.
 Elder Scrolls lore, certainly.
 The Witcher.
+A Short Hike, Paradise Marsh.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
