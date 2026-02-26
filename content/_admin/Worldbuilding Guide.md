@@ -39,6 +39,9 @@ a little bit of Age of Wonders 4.
 Elder Scrolls lore, certainly.
 The Witcher.
 A Short Hike, Paradise Marsh.
+Monster Hunter!! Lovely aesthetics
+FTL, for potential travel system homebrew.
+Chrono Trigger!!!
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
