@@ -45,6 +45,9 @@ Chrono Trigger!!!
 Hyper Light Drifter.
 Monsters Ate my Birthday Cake (musical tone).
 Sly Cooper and Hitman games for stealthy stuff.
+Deus Ex series for urban design.
+Disco Elysium.
+My Hero Academia, I watched it for 10 years of my life.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
