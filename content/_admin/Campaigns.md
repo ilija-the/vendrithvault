@@ -52,9 +52,11 @@ A hopeful few gather together for a quest to safely escort the Shaman of Ire's g
 ### Possible Campaigns
 And here is an overview of various campaign ideas, which may or may not ever be ran. Useful for storing ideas and then floating them by players to begin planning a new game!
 
-#### Winters of Vön - A World Out of Tim
+#### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign 
-The Resting Curse lies across the land, and has as of late made life unbearable in the near endless winters of Vön. Home to an ancient culture drawing its traditions from the Flock of Man, sacred waters that quench countless realms, a whole Crusader Army, and the way to the Silver Pass and Regal Pass - much lies in the balance for this quiet and oft forgotten province.
+The Resting Curse lies across the land, and has as of late made life unbearable in the near endless winters of Vön. Home to an ancient culture drawing its traditions from the Flock of Man, sacred waters that quench countless realms, a whole Crusader Army, and the way to the Silver Pass and Regal Pass - much hangs in the balance over this quiet and oft forgotten province.
+
+A campaign that takes a more traditional approach, as a sparsely settled land with harsh terrains to travel through and plenty of opportunities for bandits, wildlife, lost maidens, and such. It will attempt to explore the history of this province, and by extension, the world, without being as linear as previous campaigns, leaving more up to player choice and nonlinear exploration.
 
 #### Forgotten Dawn - Megadungeon
 #campaigns/forgotten-dawn 
