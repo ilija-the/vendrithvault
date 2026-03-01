@@ -4,7 +4,7 @@ tags:
 ---
 Welcome to the Vendrith wiki! This is a fantasy setting mainly authored by Ilija, with [[Vilhun|Vauxs]] and [[Ferweth|Lucky]] each having co-authored a region of their own. Much has also been created directly or indirectly by our lovely players. Many thanks to everyone involved 💛 
 
-If you are a contributor, or just curious, you are encouraged to check out the [[Worldbuilding Guide]], [[Campaign Guide]], [[Houserules]] and wiki [[Style Guide]].
+If you are a contributor, or just curious, you are encouraged to check out the [[Campaigns]], [[Campaign Guide]], [[Houserules]], [[Worldbuilding Guide]] and wiki [[Style Guide]].
 
 ![[VendrithSplashSun_wip.png]]
 

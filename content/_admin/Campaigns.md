@@ -52,13 +52,13 @@ A hopeful few gather together for a quest to safely escort the Shaman of Ire's g
 ### Possible Campaigns
 And here is an overview of various campaign ideas, which may or may not ever be ran. Useful for storing ideas and then floating them by players to begin planning a new game!
 
+#### Winter Campaign
+#campaigns/winter-campaign 
+The Resting Curse lies over Vön, and has as of late made life unbearable. Home to sacred waters, the Silve
+
 #### Forgotten Dawn - Megadungeon
 #campaigns/forgotten-dawn 
 A potential continuation-light of the Forgotten Dawn Rraka oneshot, exploring what might well be a megadungeon under Rraka. Can take an episodic oneshot format, to fill in weeks where game is impossible.
-
-#### Winter Campaign
-#campaigns/winter-campaign 
-A potential campaign that takes place in Vön, like Eyes of Ire.
 
 #### Blood on the Marble Floor
 A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower.
