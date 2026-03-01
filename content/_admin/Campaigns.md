@@ -63,7 +63,7 @@ A campaign that takes a more traditional approach, as a sparsely settled land wi
 A potential continuation-light of the Forgotten Dawn Rraka oneshot, exploring what might well be a megadungeon under Rraka. Can take an episodic oneshot format, to fill in weeks where game is impossible.
 
 #### Blood on the Marble Floor
-A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower.
+A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower, but likely to be set in some atmosphering coastal Canathi city at night.
 
 #### Monstrologie 101
 A monster-hunting campaign set in Horiza that encompasses travel, possible supply and item maintenance mechanics, as well as crafting ones own gear and potions out of the monsters slain. A witch serves as the party's guide and introduction to hunting monsters for parts, and the party is likely full of outcasts from society.
@@ -81,4 +81,6 @@ A follow-up campaign about the Circles party, but following only one at a time a
 Originally intended to be a concurrent sister-campaign/alternative option to the Landcrab Plot, which was meant to sail around the Chocolate Isles hunting for treasure and pirates. A Roundtable Goosechase campaign today can basically be any campaign about a hunt for some macguffin that involves the party having a ship and needing to travel around the world to find clues leading to it.
 
 #### Purple Night Blue Dawn
-An old concept for an anime-style high school campaign, with possible inspiration from Strixhaven and Strength of Thousands. Combines slice of life studying with shounen-like competition, though is broadly speaking less deadly as it follows students. The school is a school of dramaturgy and dramaturgical magic, and is training a generation of magical performers in order to revive a shared cultural tradition between two powers that just recently made an uneasy peace. Becoming the next generation of these performers is therefore a matter of keeping the peace. Original intent was for it to follow two separate fields of view, with the second being another party (same players) that acted as agents doing spy missions to foil attempts to restart the war.
+An old concept for an anime-style high school campaign, with possible inspiration from Strixhaven and Strength of Thousands. Combines slice of life studying with shounen-like competition, though is broadly speaking less deadly as it follows students. The school is a school of dramaturgy and dramaturgical magic, and is training a generation of magical performers in order to revive a shared cultural tradition between two powers that just recently made an uneasy peace. Becoming the next generation of these performers is therefore a matter of keeping the peace. 
+
+Original intent was for it to follow two separate fields of view, with the second being another party (same players) that acted as agents doing spy missions to foil attempts to restart the war.
