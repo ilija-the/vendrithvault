@@ -26,7 +26,7 @@ aliases:
 **Attribute** Charisma.
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554) or [Harming](https://2e.aonprd.com/Spells.aspx?ID=1552) (changed)
 **Sanctify** Can Holy or Unholy.
-**Weapons** [Corset Knife](https://2e.aonprd.com/Weapons.aspx?ID=278), [Coat Pistol](https://2e.aonprd.com/Weapons.aspx?ID=189).
+**Weapons** [Corset Knife](https://2e.aonprd.com/Weapons.aspx?ID=278)(can be stylised as a needle), [Coat Pistol](https://2e.aonprd.com/Weapons.aspx?ID=189).
 **Spells** 
 (1) [Endure](https://2e.aonprd.com/Spells.aspx?ID=2348)
 (2) [Erase Trail](https://2e.aonprd.com/Spells.aspx?ID=1117)
