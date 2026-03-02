@@ -9,9 +9,9 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 ### Possible Houserules
 [[Essence Casting|Essence Magic]]
 Stamina.
-Support Moves - call in special actions from allies you've 
+Support Moves - call in special actions in boss fights from allies you've prepared.
 [[Crews]] - smaller than a troop, a crew is four enemies working together as one.
-Friedport Aid.
+Friedport Aid - DC is 20, but tiers are different.
 Boss Actions.
 Formulas.
 Plentiful Deities.
