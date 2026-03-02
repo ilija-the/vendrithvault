@@ -9,8 +9,8 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 ### Possible Houserules
 [[Essence Casting|Essence Magic]]
 Stamina.
-Support Moves.
-Coordinated Crews.
+Support Moves - call in special actions from allies you've 
+[[Crews]] - smaller than a troop, a crew is four enemies working together as one.
 Friedport Aid.
 Boss Actions.
 Formulas.
