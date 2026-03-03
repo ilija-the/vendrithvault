@@ -16,3 +16,5 @@ Host
 #### History
 Yore (the past), the lore, the tradition ("the tradition states"),
 
+#### Ethnic Group
+Tribe, Clan, 
