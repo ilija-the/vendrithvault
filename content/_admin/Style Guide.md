@@ -45,8 +45,7 @@ Note that many regions are at times divided into sub-regions, but for simplicity
 For planes other than that of [[Materia]], use the cosmos tag with a similar format:
 	``cosmos/``
 	``plane/`` such as Labyrinthia, the Dreamyard or Deep Grey.
-	``region/`` or ``settlement`` if applicable, usually a part of a plane with its own characteristic elements
-	``settlement/`` only if applicable, as rare as extraplanar settlements are
+	``region/`` or ``settlement`` if applicable.
 
 Articles related to the happenings in campaign should be tagged with its campaign name, such as ``landcrab-plot`` or ``road-to-longdawn``. This can include PCs, NPCs, events, settlements, specific locales, macguffins, and much more. Usually not applicable for really broad concepts, such as just "cosmology" or "goblins." 
 
