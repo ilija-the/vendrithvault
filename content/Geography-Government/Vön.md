@@ -21,4 +21,4 @@ Due to their low population, the few [[Crusader Armies]] that are stationed here
 #### **Language**
 Vön's population is largely raised speaking an accent of the [[Encanuri]] language, though statesmen, merchants and adventurers are usually taught the proper [[Idurian]] as well.
 
-The name Vön is thought to mean "rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanath, meaning something like "can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from.
+The name Vön is either thoguht"rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanath, meaning something like "can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from.
