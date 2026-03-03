@@ -52,6 +52,8 @@ My Hero Academia, I watched it for 10 years of my life.
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
+Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra care )
+
 ### Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
 
@@ -81,5 +83,3 @@ Some topics are entirely reserved for Ilija to deal with, often those relating t
 4. A plane that is like the Aether from the famous minecraft mod.
 
 This is an inexhaustive list. Use your brain, and consult with Ilija if you have doubts.
-
-
