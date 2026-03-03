@@ -11,18 +11,20 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 [[Language Guide.]]
 [[World Scale]]
 
-### General Themes
+### Narrative and Content Themes
 Things we love to see in Vendrith.
+- Old wounds affecting the present and future.
+- The Sanitorium and the Crusaders worming their way into every conflict in some way.
+- Fun inter-party dynamics, relations, relationships, rivalries, etc.
+- Broadly happy endings, really. At least for longer games it is what feels best.
+- Concepts from fantasy and the pathfinder world/rules, but with a twist.
+
+### Meta/Gameplay Themes
 - Drowning and fall damage, apparently.
 - Unironically, dangerous environments are great!
 - Terrain that matters in a fight.
 - Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
-- The Sanitorium and the Crusaders worming their way into every conflict in some way.
-- Old wounds affecting the present and future.
 - Fun seasonal (and even non-canon) oneshots!
-- Fun inter-party dynamics, relations, relationships, rivalries, etc.
-- Broadly happy endings, really. At least for longer games it is what feels best.
-- Concepts from fantasy and the pathfinder world/rules, but with a twist.
 
 ### Inspirations
 Real life, shockingly.
@@ -52,7 +54,16 @@ My Hero Academia, I watched it for 10 years of my life.
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
-Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra care )
+Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra carefully) before running a campaign, or a session with a new gruesome topic.
+
+### Against historical anachronisms
+
+
+#### Easy mistakes to make.
+
+
+#### Thinking like a premodern person.
+
 
 ### Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
