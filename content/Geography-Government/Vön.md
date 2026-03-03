@@ -8,7 +8,7 @@ tags:
   - campaigns/eyes-of-ire
   - campaigns/winter-campaign
 ---
-A cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[Flock of Man]], but has since remained an unpopulated periphery. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
+A cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[Flock of Man]], but has since remained an unpopulated periphery and even experienced multiple population declines. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
 
 ![[Mappae-Von1.png]]
 
@@ -21,4 +21,4 @@ Due to their low population, the few [[Crusader Armies]] that are stationed here
 #### **Language**
 Vön's population is largely raised speaking an accent of the [[Encanuri]] language, though statesmen, merchants and adventurers are usually taught the proper [[Idurian]] as well.
 
-The name Vön is either thoguht"rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanath, meaning something like "can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from.
+The name Vön is thought to mean "rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanat, which could mean something like can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from. Another theory says Vön means "what we're used to," and Vöncanath essentially means "comfortable home."
