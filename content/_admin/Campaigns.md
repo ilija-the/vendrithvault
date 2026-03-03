@@ -8,8 +8,6 @@ Campaigns are the many stories of games that have taken place in Vendrith. Some 
 Here's some tips and ideas.
 
 
----
-
 ## List of Campaigns
 
 ### Ongoing Campaigns
