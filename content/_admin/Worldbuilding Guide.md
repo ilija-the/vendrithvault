@@ -7,23 +7,24 @@ tags:
 ### Detailed Guides
 Some topics have their own pages that serve as a more detailed out-of-character overview for contributors and curious players. These include:
 [[Diegetic Books]].
-[[Timekeeping and Navigation.]]
+[[Calendar of Vendrith]].
 [[Language Guide.]]
 [[World Scale]]
 
 ### Narrative and Content Themes
 Things we love to see in Vendrith.
 - Old wounds affecting the present and future.
-- The Sanitorium and the Crusaders worming their way into every conflict in some way.
+- The Sanitorium and the Crusaders worming their way into most conflict in some way or other.
 - Fun inter-party dynamics, relations, relationships, rivalries, etc.
 - Broadly happy endings, really. At least for longer games it is what feels best.
-- Concepts from fantasy and the pathfinder world/rules, but with a twist.
+- Addendum: the world doesn't need to be saved, but temporary respite and meaningfully saving some amount of lives and inspiring others through it is great.
 
 ### Meta/Gameplay Themes
 - Drowning and fall damage, apparently.
 - Unironically, dangerous environments are great!
 - Terrain that matters in a fight.
 - Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
+- Concepts from fantasy and the pathfinder world/rules, but with a twist.
 - Fun seasonal (and even non-canon) oneshots!
 
 ### Inspirations
@@ -56,8 +57,8 @@ Topics which are allowed but usually need to be done in a sensitive way, includi
 
 Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra carefully) before running a campaign, or a session with a new gruesome topic.
 
-### Against historical anachronisms
-
+### Historical anachronisms
+Lasagna.
 
 #### Easy mistakes to make.
 
@@ -94,3 +95,21 @@ Some topics are entirely reserved for Ilija to deal with, often those relating t
 4. A plane that is like the Aether from the famous minecraft mod.
 
 This is an inexhaustive list. Use your brain, and consult with Ilija if you have doubts.
+
+### Fantasy Thesaurus
+Here's a dictionary of words you can use in your texts and campaigns to make it feel more old-timey and fantastical - feel free to add or suggest any. If you're looking for a dictionary of words specific to Vendrith, then buddy, the whole wiki is one.
+
+#### Criminals
+A scoundrel, a blackguard, a cutpurse
+
+#### Raiders
+Marauder
+
+#### Armies
+Host
+
+#### History
+Yore (the past), the lore, the tradition ("the tradition states"),
+
+#### Ethnic Group
+Tribe, Clan, 
