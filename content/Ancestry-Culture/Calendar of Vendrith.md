@@ -1,5 +1,5 @@
 > [!tldr] Summary
-> The Calendar of Vendrith consists of 10 day weeks, 4 week months, and 9 month years. Years are annotated in the advent of the last big [[Concordats|Concordat]]. 
+> The Sanitorium Calendar of Vendrith consists of 10 day weeks, 4 week months, and 9 month years. Years are annotated in the advent of the [[Draconic Concordat]] (ADc).
 ## Weeks
 Weeks consist of 10 days.
 1. Maltsday
@@ -23,9 +23,9 @@ They consist of four, 10 day weeks.
 4. Dippy (Spring)
 5. Flowery (Summer)
 6. Showery (Summer)
-7. Hoppy (Fall)
-8. Croppy (Fall)
-9. [[Yearsend]] (Wet Season)
+7. Hoppy (Autumn)
+8. Croppy (Autumn)
+9. [[Yearsend]] (Cosmic Season)
 
 ## Years
 Years are usually counted starting from the latest big [[Concordats]].
