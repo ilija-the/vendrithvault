@@ -24,6 +24,7 @@ kanban-plugin: board
 - [ ] [[Talvas]]
 - [ ] [[New World - Horiza|Horiza]]
 - [ ] [[Friedport]]
+- [ ] 
 
 
 ## Fixes and cleanup
