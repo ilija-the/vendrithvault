@@ -43,3 +43,8 @@ It is commonplace to also refer to eras as Ages in reference to historical event
 	- Accentuated by the [[Disasters of the Silence]]
 
 [^1]: Kinda like the [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age)?
+
+## Celebrations
+Many different cultures enjoy different celebrations at different times.
+
+- Landcrab Day, celebrated Showery 29th in [[Friedport]] (starting 1276 ADc). A celebration in Friedport, in honour of the new heroes whom stuck with the city through its darkest hour and signalled the beginning of change for the Landcrabs.
