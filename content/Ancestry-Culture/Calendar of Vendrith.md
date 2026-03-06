@@ -47,4 +47,7 @@ It is commonplace to also refer to eras as Ages in reference to historical event
 ## Celebrations
 Many different cultures enjoy different celebrations at different times.
 
-- Landcrab Day, celebrated Showery 29th in [[Friedport]] (starting 1276 ADc). A celebration in Friedport, in honour of the new heroes whom stuck with the city through its darkest hour and signalled the beginning of change for the Landcrabs.
+- Landcrab Day, celebrated Showery 29th in [[Friedport]] (starting 1276 ADc). A festival in honour of the new heroes whom stuck with the city through its darkest hour and signalled the beginning of change for the Landcrabs.
+- Great Feastsday. Celebrated for a number of days throughout the Idurian world, usually in the month of Showery.
+- Flowering Ceremony. Celebrated in Friedport to initiate spring.
+- Shower Dances. Practised in Friedport to call forth the summer rains.
