@@ -48,6 +48,9 @@ It is commonplace to also refer to eras as Ages in reference to historical event
 Many different cultures enjoy different celebrations at different times.
 
 - Landcrab Day, celebrated Showery 29th in [[Friedport]] (starting 1276 ADc). A festival in honour of the new heroes whom stuck with the city through its darkest hour and signalled the beginning of change for the Landcrabs.
-- Great Feastsday. Celebrated for a number of days throughout the Idurian world, usually in the month of Showery.
-- Flowering Ceremony. Celebrated in Friedport to initiate spring.
-- Shower Dances. Practised in Friedport to call forth the summer rains.
+- Great Feastsday. Celebrated for a number of days throughout the Idurian world, usually in the month of Showery, usually starting on a Feastday.
+- Flowering Ceremony. Celebrated by Kholo to initiate spring, whom brought it to Friedport.
+- Shower Dances. Practised by Kholo to call forth the summer rains, whom brought it to Friedport.
+- Lefmoot. Annual gathering born from counting the survivors and casualties after a Tidestorm.
+- Harvest Marathon. Celebrated in some places to motivate everyone to help harvest the last crops in time, most people working together to try to beat the speed of a group of marathon-runners.
+- Whithunt. An annual ritualistic hunt for meat in some colder areas.
