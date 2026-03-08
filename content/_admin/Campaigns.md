@@ -28,6 +28,9 @@ A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and
 ### Finished Campaigns
 Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order (by their first session, if there's overlap).
 
+#### Circles
+#campaigns/circles 
+
 #### Welcome to Friedport
 #campaigns/welcome-to-friedport 
 Setting: Friedport, 5th of Whippy 1274 ADc.
@@ -58,7 +61,7 @@ A collection of random adventurers are pulled in to explore a dungeon recently d
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
-Setting: Vön, 
+Setting: Vön, 1263 ADc.
 A hopeful few gather together for a quest to safely escort the Shaman of Ire's granddaughter, a fair maiden, back to their isolated wintery town.
 
 ---
