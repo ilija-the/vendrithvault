@@ -30,6 +30,9 @@ They consist of four, 10 day weeks.
 ## Years
 Years are usually counted starting from the latest big [[Concordats]].
 They consist of nine, 40 day months, to a total of 360 days.
+
+## Eras
+
 ## Ages
 It is commonplace to also refer to eras as Ages in reference to historical events that define a given time's problems or in contrast to other ages where something changed going onward.
 ### Ages in Chronological Order
@@ -39,7 +42,7 @@ It is commonplace to also refer to eras as Ages in reference to historical event
 2. Age of the [[Draconic Concordat]]
 	- Humana Superioritas
 	- Also colloquially —and somewhat derogatorily[^1]— Mogxan Era
-3. [[The Great Silence|Age of Divine Silence]] (current, started roughly a century ago)
+3. [[The Great Silence|Age of Divine Silence]]? (current, started roughly a century ago)
 	- Accentuated by the [[Disasters of the Silence]]
 
 [^1]: Kinda like the [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age)?
