@@ -4,7 +4,7 @@ tags:
 ---
 Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes. Based on the experience of the campaigns so far, we will also start with a Campaign Guide.
 
-### Campaign Guide
+## Campaign Guide
 Here's some tips and ideas.
 
 
@@ -89,12 +89,15 @@ A potential continuation-light of the Forgotten Dawn Rraka oneshot, exploring wh
 A sly-cooper esque heist oneshot of some sort. Goal is a museum or private collection, in a city at night. Party should be squishy, not suited for prolonged combat but full of tools. Originally intended to be set in a Galaen hightower, but likely to be set in some atmosphering coastal Canathi city at night.
 
 #### Monstrologie 101
+#campaigns/monstrologie
 A monster-hunting campaign set in Horiza that encompasses travel, possible supply and item maintenance mechanics, as well as crafting ones own gear and potions out of the monsters slain. A witch serves as the party's guide and introduction to hunting monsters for parts, and the party is likely full of outcasts from society.
 
 #### Damonologie 101
+#campaigns/damonologie
 A sister-campaign to Monstrologie 101, that as part of the original concept was meant to be concurrent with it but follow a separate party. The concepts are largely similar, though here the monsters hunted include a variety of devils, demons, undead and other spirits capable of possession or merely being fiendish themselves. The quest-giver is a high Magus instead, and the defeated creatures yield souls used for a similar crafting system using souls instead.
 
 #### Circles - re-traced
+#campaigns/circles-retraced 
 A redo of the original Circles campaign that started Ilija's GM career, but redone in Philosophia. Takes the concepts, characters and story-beats of the original but refines them down into a shorter, more exciting, more thematic campaign that largely redoes the story but with enough flair and small twists it feels like something new.
 
 #### Circles - Tales from Exile
