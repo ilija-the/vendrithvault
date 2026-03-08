@@ -21,6 +21,7 @@ Road to Longdawn follows a set of travellers all trying to reach the titular Lon
 
 #### Hunts of Vilhun
 #campaigns/hunts-of-vilhun 
+Setting: Flod, around 1272 ADc?
 A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain. 
 
 ---
@@ -75,6 +76,7 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 
 #### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign 
+Setting: Vön, 1267 ADc.
 The Resting Curse lies across the land, and has as of late made life unbearable in the near endless winters of Vön. Home to an ancient culture drawing its traditions from the Flock of Man, sacred waters that quench countless realms, a whole Crusader Army, and the way to the Silver Pass and Regal Pass - much hangs in the balance over this quiet and oft forgotten province.
 
 A campaign that takes a more traditional approach, as a sparsely settled land with harsh terrains to travel through and plenty of opportunities for bandits, wildlife, lost maidens, and such. It will attempt to explore the history of this province, and by extension, the world, without being as linear as previous campaigns, leaving more up to player choice and nonlinear exploration.
