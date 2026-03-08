@@ -1,6 +1,8 @@
 ---
 tags:
   - places/iduria/mogxa
+aliases:
+  - Mogxan
 ---
 Mogxa is a densely populated subcontinent and has historically been home to various centralised empires - the [[Draconic Empire]], the [[Kobold Throne]], and now currently, the [[Sanitorium]]. The Mogxan region borders [[Galae]] (with which it has a blurry border) to the northwest, the [[Rubyfirth Bay]] and [[Sea of Sargathis|Mouth of Mogxa]] to its west and south. 
 
