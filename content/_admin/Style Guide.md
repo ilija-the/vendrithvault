@@ -62,7 +62,12 @@ The folder structure is imperfect but also should not be necessary to find files
 ``Creatures``
 ``Geography-Government``
 ``Groups``
-``Magic-Cosmolog
+``Magic-Cosmology``
+``Materials-Trades``
+``Older-History``
+``Ongoing-History``
+``Persons``
+``Religion``
 
 > [!Secret Notes]
 If you make a folder called "Secrets" amongst the other folders, it and its contents will not be synched to the published wiki for all to see. You can do so to keep your spoilerific and highly WIP stuff you don't feel like sharing yet.
