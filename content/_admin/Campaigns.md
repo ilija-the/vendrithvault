@@ -35,7 +35,7 @@ Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with th
 
 #### Fool Me Once
 #campaigns/fool-me-once 
-Setting: Condinuum coast, tidestorm 1272 ADc.
+Setting: Condinuum Coast, Tidestorm 1272 ADc.
 Fool Me Once was a short game much like a thriller, focused on hinting at more mysterious worldbuilding concepts. During it, the [[Fools of Veridica]] saw the disastrous collapse of their [[Crusader Sects|cult]] town of [[Veridica]], with few making it out of the event alive. 
 
 #### The Landcrab Plot
