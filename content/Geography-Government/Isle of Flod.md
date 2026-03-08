@@ -4,7 +4,7 @@ aliases:
 tags:
   - places/vilhun
 ---
-[insert map of Flod here]
+![[MappaFlodi_1.0.png]]
 
 The Isle of Flod is the primary location of the [[Hunts of Vilhun Party|Hunts of Vilhun campaign]]. In an increasing amount of conflict, the central island of the nation has erupted into war between its two main factions, [[The Goblin Horde]] and The Lizardfolk Magiocracy. Vast lands have also fallen by the wayside, no longer connected to any owner as its viceroys and barons fled or mysteriously died.
 
