@@ -53,10 +53,12 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 
 #### Forgotten Dawn - Underbelly of Rraka
 #campaigns/forgotten-dawn 
+Setting: Rraka, 1274 ADc.
 A collection of random adventurers are pulled in to explore a dungeon recently discovered under the marketplace of the Talvan city of Rraka, together with Abmetzar, a dwarf from the Forgotten Dawn Society.
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
+Setting: Vön, 
 A hopeful few gather together for a quest to safely escort the Shaman of Ire's granddaughter, a fair maiden, back to their isolated wintery town.
 
 ---
