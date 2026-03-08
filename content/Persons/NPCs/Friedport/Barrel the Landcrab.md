@@ -12,3 +12,7 @@ pronouns: He/Him
 
 ![[Barrel_Landcrab_1.2.png]]
 *Barrel the landcrab. He looks quite similar, perhaps even identical in appearance, to most other barrel landcrabs.*
+
+> Well, uh... My wife is a woman!
+
+-Barrel, realising he supports the cause of women.
