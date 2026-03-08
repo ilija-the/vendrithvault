@@ -15,8 +15,8 @@ Here is an overview of all campaigns currently being ran in Vendrith, or which a
 
 #### Road to Longdawn
 #campaigns/road-to-longdawn 
+Setting: Ferweth, around 1272 ADc.
 Road to Longdawn follows a set of travellers all trying to reach the titular Longdawn, capital of the eerie and cursed lands of Ferweth. On their way they face a multitude of mythological and horrifying creatures as well as tragic tales and dramatic intrigue.
-
 
 
 #### Hunts of Vilhun
@@ -30,6 +30,7 @@ Here is an overview of all campaigns that have been ran in Vendrith, now finishe
 
 #### Welcome to Friedport
 #campaigns/welcome-to-friedport 
+Setting: Friedport, 5th of Whippy 1274 ADc.
 Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with the opening of the later Landcrab Plot campaign, the short game saw the [[Welcoming Party]] be recruited into tracking down a thieving pirate and steal back a special piece of cargo from him.  
 
 #### Fool Me Once
