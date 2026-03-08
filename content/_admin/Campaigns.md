@@ -2,11 +2,7 @@
 tags:
   - admin
 ---
-Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes. Based on the experience of the campaigns so far, we will also start with a Campaign Guide.
-
-## Campaign Guide
-Here's some tips and ideas.
-
+Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes.
 
 ## List of Campaigns
 
