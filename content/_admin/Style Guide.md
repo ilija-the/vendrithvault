@@ -54,6 +54,9 @@ There are no right answers, but here's some precedent you can draw from. Obvious
 
 When it comes to PCs, I recommend making an article for their party and link everyone to that - instead of always linking everyone to eachother (subject to change, but this is what we're doing for now). You can still link PCs and PCs, and PCs and NPCs that have particular connections of course, such as being in relationships, being related, or having played important parts in each other's stories **separate** from their actions as a party.
 
+### Files
+The folder structure is imperfect but also not to
+
 ### Description
 Adding meat to the bone of your article is an art, not a science. How you structure your article should be based on needs - short articles for example do not need summaries or separate headings. However, here are some nice guidelines of some things you may include, in an order that may be best to follow.
 
