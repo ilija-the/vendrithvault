@@ -101,6 +101,7 @@ A sister-campaign to Monstrologie 101, that as part of the original concept was 
 A redo of the original Circles campaign that started Ilija's GM career, but redone in Philosophia. Takes the concepts, characters and story-beats of the original but refines them down into a shorter, more exciting, more thematic campaign that largely redoes the story but with enough flair and small twists it feels like something new.
 
 #### Circles - Tales from Exile
+#campaigns/circles-tfe
 A follow-up campaign about the Circles party, but following only one at a time as after the events of Circles/Circles re-traced the party got separated and exiled. Each tale from exile is set in a different corner of the world, and brings with it a new party of adventurers that joins forces with whichever Circles member got sent there, covering various plots.
 
 #### Roundtable Goosechase
