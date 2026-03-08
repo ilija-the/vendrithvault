@@ -54,6 +54,24 @@ There are no right answers, but here's some precedent you can draw from. Obvious
 
 When it comes to PCs, I recommend making an article for their party and link everyone to that - instead of always linking everyone to eachother (subject to change, but this is what we're doing for now). You can still link PCs and PCs, and PCs and NPCs that have particular connections of course, such as being in relationships, being related, or having played important parts in each other's stories **separate** from their actions as a party.
 
+### Files
+The folder structure is imperfect but also should not be necessary to find files thanks to tagging, searching, and such. Still, try to use the folders somewhat appropriately. Here's some guidelines for them:
+
+``_admin``
+``Ancestry-Culture``
+``Creatures``
+``Geography-Government``
+``Groups``
+``Magic-Cosmology``
+``Materials-Trades``
+``Older-History``
+``Ongoing-History``
+``Persons``
+``Religion``
+
+> [!Secret Notes]
+If you make a folder called "Secrets" amongst the other folders, it and its contents will not be synched to the published wiki for all to see. You can do so to keep your spoilerific and highly WIP stuff you don't feel like sharing yet.
+
 ### Description
 Adding meat to the bone of your article is an art, not a science. How you structure your article should be based on needs - short articles for example do not need summaries or separate headings. However, here are some nice guidelines of some things you may include, in an order that may be best to follow.
 
