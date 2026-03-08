@@ -30,6 +30,10 @@ Here is an overview of all campaigns that have been ran in Vendrith, now finishe
 
 #### Circles
 #campaigns/circles 
+Note: The world of Vendrith did not exist when this game was ran, nor was it set in Vendrith at the time. It has later been retconned into existing in Vendrith however, with some accompanying changes of names, places, and a possible re-do of the campaign (see Circles re-traced).
+
+Setting: Philosophia, 1-30th of Freezy 1271 ADc.
+A group of Philosophians jailed for suspiciously small causes escape and uncover the corruption
 
 #### Welcome to Friedport
 #campaigns/welcome-to-friedport 
