@@ -105,6 +105,7 @@ A redo of the original Circles campaign that started Ilija's GM career, but redo
 A follow-up campaign about the Circles party, but following only one at a time as after the events of Circles/Circles re-traced the party got separated and exiled. Each tale from exile is set in a different corner of the world, and brings with it a new party of adventurers that joins forces with whichever Circles member got sent there, covering various plots.
 
 #### Roundtable Goosechase
+Setting: world, sometime after 1275 ADc.
 Originally intended to be a concurrent sister-campaign/alternative option to the Landcrab Plot, which was meant to sail around the Chocolate Isles hunting for treasure and pirates. A Roundtable Goosechase campaign today can basically be any campaign about a hunt for some macguffin that involves the party having a ship and needing to travel around the world to find clues leading to it.
 
 #### Purple Night Blue Dawn
