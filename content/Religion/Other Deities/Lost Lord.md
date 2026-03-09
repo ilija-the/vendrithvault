@@ -2,6 +2,7 @@
 tags:
   - magic/occult
   - religion/deities/vilhun
+  - religion/saint
 aliases:
   - The Lost Lord
   - Forgotten Lord
@@ -17,3 +18,5 @@ Patron saint of Vili [[Gnomes]].
 Considered to be the **sly** and **far-sighted** of the siblings. Ever so ironic, given their death.
 
 Has been forgotten to time, and thus is not particularly thought of as anything but insignificant.
+
+Has associations with the [[Daydreaming Truth]].

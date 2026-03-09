@@ -2,6 +2,7 @@
 tags:
   - religion/deities/vilhun
   - magic/primal
+  - religion/saint
 aliases:
   - The Horde Lord
 ---
