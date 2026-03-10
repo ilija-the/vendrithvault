@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sora bint Kenzō Lockneed
+  - Governor of Kantby
 tags:
   - people/npc
   - places/vilhun
