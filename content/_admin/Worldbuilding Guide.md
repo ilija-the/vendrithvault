@@ -17,6 +17,7 @@ Things we love to see in Vendrith.
 - The Sanitorium and the Crusaders worming their way into most conflict in some way or other.
 - Fun inter-party dynamics, relations, relationships, rivalries, etc.
 - Broadly happy endings, really. At least for longer games it is what feels best.
+- Endings about the necessity of letting go, of the old, of all that can't last forever.
 - Addendum: the world doesn't need to be saved, but temporary respite and meaningfully saving some amount of lives and inspiring others through it is great.
 
 ### Meta/Gameplay Themes
@@ -28,29 +29,29 @@ Things we love to see in Vendrith.
 - Fun seasonal (and even non-canon) oneshots!
 
 ### Inspirations
-Real life, shockingly.
-Divinity Original Sin 2 and Baldur's Gate 3.
-Pokemon series for region designs.
-Ace Attorney, and Columbo.
-Attorney of the Arcane
-Final Fantasy for creature designs.
-JRPGs in general for much of the vibes.
-Fullmetal Alchemist.
-Terraria, actually. Especially for biomes and bosses.
-Calamity mod included for the above.
-a little bit of Age of Wonders 4.
-Elder Scrolls lore, certainly.
-The Witcher.
-A Short Hike, Paradise Marsh.
-Monster Hunter!! Lovely aesthetics
-FTL, for potential travel system homebrew.
-Chrono Trigger!!!
-Hyper Light Drifter.
-Monsters Ate my Birthday Cake (musical tone).
-Sly Cooper and Hitman games for stealthy stuff.
-Deus Ex series for urban design.
-Disco Elysium.
-My Hero Academia, I watched it for 10 years of my life.
+- Real life, shockingly.
+- Divinity Original Sin 2 and Baldur's Gate 3.
+- Pokemon series for region designs.
+- Ace Attorney, and Columbo.
+- Attorney of the Arcane
+- Final Fantasy for creature designs.
+- JRPGs in general for much of the vibes.
+- Fullmetal Alchemist.
+- Terraria, actually. Especially for biomes and bosses.
+- Calamity mod included for the above.
+- a little bit of Age of Wonders 4.
+- Elder Scrolls lore, certainly.
+- The Witcher.
+- A Short Hike, Paradise Marsh.
+- Monster Hunter!! Lovely aesthetics
+- FTL, for potential travel system homebrew.
+- Chrono Trigger!!!
+- Hyper Light Drifter.
+- Monsters Ate my Birthday Cake (musical tone).
+- Sly Cooper and Hitman games for stealthy stuff.
+- Deus Ex series for urban design.
+- Disco Elysium.
+- My Hero Academia, I watched it for 10 years of my life.
 
 ### Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
