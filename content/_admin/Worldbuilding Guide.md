@@ -40,11 +40,8 @@ Things we love to see in Vendrith.
 - Elder Scrolls lore, certainly.
 - The Witcher.
 - Monster Hunter!! Lovely aesthetics
-- FTL, for potential travel system homebrew.
 - Chrono Trigger!!!
-
-
-- Sly Cooper and Hitman games for stealthy stuff.
+- Hyper Light Drifter.
 - Disco Elysium.
 #### Lesser
 - My Hero Academia, I watched it for 10 years of my life.
@@ -52,9 +49,10 @@ Things we love to see in Vendrith.
 - Pokemon series for region designs.
 - Final Fantasy for creature designs.
 - a little bit of Age of Wonders 4.
--  Deus Ex series for urban design.
+- Deus Ex series for urban design.
+- Sly Cooper and Hitman games for stealthy stuff.
 - Monsters Ate my Birthday Cake (musical tone).
-- - Hyper Light Drifter.
+- FTL, for potential travel system homebrew.
 ## Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
