@@ -26,25 +26,28 @@ Things we love to see in Vendrith.
 - Terrain that matters in a fight.
 - Setting up enemies and their abilities, weaknesses, strengths that can be used against them on later occasions.
 - Concepts from fantasy and the pathfinder world/rules, but with a twist.
+- Ability to only have partial success, or, to fail and survive still.
+- For the above, ability to flee from losing battles.
+- NPCs and communities you've aided helping the party back in times of need.
 - Fun seasonal (and even non-canon) oneshots!
 
 ## Inspirations
 #### Greater
-- Real life, shockingly.
+- High Rollers and Critical Role.
 - Divinity Original Sin 2 and Baldur's Gate 3.
 - Ace Attorney, Columbo, Attorney of the Arcane.
 - JRPGs in general for much of the vibes.
-- Fullmetal Alchemist.
-- Terraria, actually. Especially for biomes and bosses.
+- Terraria. Especially for biomes and bosses.
 - Calamity mod included for the above.
 - Elder Scrolls lore, certainly.
-- The Witcher.
-- Monster Hunter!! Lovely aesthetics
+- Monster Hunter!! Lovely aesthetics and vibe.
 - Chrono Trigger!!!
 - Hyper Light Drifter.
 - Disco Elysium.
+-  Fullmetal Alchemist.
 #### Lesser
 - My Hero Academia, I watched it for 10 years of my life.
+- The Witcher.
 - A Short Hike, Paradise Marsh.
 - Pokemon series for region designs.
 - Final Fantasy for creature designs.
