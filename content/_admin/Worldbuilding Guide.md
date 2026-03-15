@@ -57,6 +57,7 @@ Things we love to see in Vendrith.
 - Sly Cooper and Hitman games for stealthy stuff.
 - Monsters Ate my Birthday Cake (musical tone).
 - FTL, for potential travel system homebrew.
+- Night in the Woods.
 ## Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
