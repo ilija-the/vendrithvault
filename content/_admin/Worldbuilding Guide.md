@@ -63,7 +63,9 @@ Nationalism is not a thing.
 Modern nation-states are not a thing.
 Human rights or expectations of welfare or healthcare from states are not a thing.
 Modern business organisation is not a thing.
-
+Modern army organisation is not a thing.
+Mass consumer markets are not a thing.
+Atheism in our sense 
 #### Easy mistakes to make.
 
 
