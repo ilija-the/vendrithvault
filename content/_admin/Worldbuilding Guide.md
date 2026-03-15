@@ -35,7 +35,7 @@ Things we love to see in Vendrith.
 #### Greater
 - High Rollers and Critical Role.
 - Divinity Original Sin 2 and Baldur's Gate 3.
-- Ace Attorney, Columbo, Attorney of the Arcane.
+- Ace Attorney, Columbo, Professor Layton & Attorney of the Arcane.
 - JRPGs in general for much of the vibes.
 - Terraria. Especially for biomes and bosses.
 - Calamity mod included for the above.
