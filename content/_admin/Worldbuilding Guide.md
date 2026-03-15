@@ -11,7 +11,7 @@ Some topics have their own pages that serve as a more detailed out-of-character 
 [[Language Guide.]]
 [[World Scale]]
 
-### Narrative and Content Themes
+## Narrative and Content Themes
 Things we love to see in Vendrith.
 - Old wounds affecting the present and future.
 - The Sanitorium and the Crusaders worming their way into most conflict in some way or other.
@@ -20,7 +20,7 @@ Things we love to see in Vendrith.
 - Endings about the necessity of letting go, of the old, of all that can't last forever.
 - Addendum: the world doesn't need to be saved, but temporary respite and meaningfully saving some amount of lives and inspiring others through it is great.
 
-### Meta/Gameplay Themes
+## Meta/Gameplay Themes
 - Drowning and fall damage, apparently.
 - Unironically, dangerous environments are great!
 - Terrain that matters in a fight.
@@ -28,7 +28,7 @@ Things we love to see in Vendrith.
 - Concepts from fantasy and the pathfinder world/rules, but with a twist.
 - Fun seasonal (and even non-canon) oneshots!
 
-### Inspirations
+## Inspirations
 - Real life, shockingly.
 - Divinity Original Sin 2 and Baldur's Gate 3.
 - Pokemon series for region designs.
@@ -53,13 +53,16 @@ Things we love to see in Vendrith.
 - Disco Elysium.
 - My Hero Academia, I watched it for 10 years of my life.
 
-### Cautionary topics
+## Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
 Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra carefully) before running a campaign, or a session with a new gruesome topic.
 
-### Historical anachronisms
-Lasagna.
+## Historical anachronisms
+Nationalism is not a thing.
+Modern nation-states are not a thing.
+Human rights or expectations of welfare or healthcare from states are not a thing.
+Modern business organisation is not a thing.
 
 #### Easy mistakes to make.
 
@@ -67,7 +70,7 @@ Lasagna.
 #### Thinking like a premodern person.
 
 
-### Restricted topics
+## Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
 
 1. **Underdark-style realm.** You are free to make specific underground areas, but avoid making sweeping implications for the underground of the world. There is no confirmed equivalent of an underdark in the current worldbuilding of Vendrith.
@@ -87,7 +90,7 @@ These are topics with specific visions/rules that need to be kept in mind.
 15. [[Flying Ships]] are rare, cumbersome, costly and fragile. Read the page and consider which situations they can make sense in.
 16. Socialist/democratic revolutions. Please remember this is set in the equivalent of (late) feudal times.
 
-### Reserved/banned topics
+## Reserved/banned topics
 Some topics are entirely reserved for Ilija to deal with, often those relating to major and potentially world-shaking plot-points. These include but are not limited to:
 
 1. Any possible return of the Titans.
@@ -97,23 +100,18 @@ Some topics are entirely reserved for Ilija to deal with, often those relating t
 
 This is an inexhaustive list. Use your brain, and consult with Ilija if you have doubts.
 
-### Fantasy Thesaurus
+## Fantasy Thesaurus
 Here's a dictionary of words you can use in your texts and campaigns to make it feel more old-timey and fantastical - feel free to add or suggest any. If you're looking for a dictionary of words specific to Vendrith, then buddy, the whole wiki is one.
 
-#### Criminals
+##### Criminals
 A scoundrel, a blackguard, a cutpurse
-
-#### Raiders
+##### Raiders
 Marauder
-
-#### Armies
+##### Armies
 Host
-
-#### History
+##### History
 Yore (the past), the lore, the tradition ("the tradition states"),
-
-#### Ethnic Group
+##### Ethnic Group
 Tribe, Clan, 
-
-#### Country/Nation
+##### Country/Nation
 Realm, land, province
