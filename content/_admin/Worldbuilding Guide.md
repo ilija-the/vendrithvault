@@ -106,8 +106,7 @@ Some topics are entirely reserved for Ilija to deal with, often those relating t
 This is an inexhaustive list. Use your brain, and consult with Ilija if you have doubts.
 
 ## Fantasy Thesaurus
-Here's a dictionary of words you can use in your texts and campaigns to make it feel more old-timey and fantastical - feel free to add or suggest any. If you're looking for a dictionary of words specific to Vendrith, then buddy, the whole wiki is one.
-
+Here's a dictionary of words you can use in your texts and campaigns to make it feel more old-timey and fantastical - feel free to add any suggestions yourself, or add a header for one you'd like suggestions for.
 ##### Criminals
 A scoundrel, a blackguard, a cutpurse
 ##### Raiders
