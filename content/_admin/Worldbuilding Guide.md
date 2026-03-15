@@ -65,7 +65,7 @@ Human rights or expectations of welfare or healthcare from states are not a thin
 Modern business organisation is not a thing.
 Modern army organisation is not a thing.
 Mass consumer markets are not a thing.
-Atheism in our sense 
+Atheism in our world and time's sense is not a thing.
 #### Easy mistakes to make.
 
 
