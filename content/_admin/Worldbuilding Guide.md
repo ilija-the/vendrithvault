@@ -29,30 +29,32 @@ Things we love to see in Vendrith.
 - Fun seasonal (and even non-canon) oneshots!
 
 ## Inspirations
+#### Greater
 - Real life, shockingly.
 - Divinity Original Sin 2 and Baldur's Gate 3.
-- Pokemon series for region designs.
-- Ace Attorney, and Columbo.
-- Attorney of the Arcane
-- Final Fantasy for creature designs.
+- Ace Attorney, Columbo, Attorney of the Arcane.
 - JRPGs in general for much of the vibes.
 - Fullmetal Alchemist.
 - Terraria, actually. Especially for biomes and bosses.
 - Calamity mod included for the above.
-- a little bit of Age of Wonders 4.
 - Elder Scrolls lore, certainly.
 - The Witcher.
-- A Short Hike, Paradise Marsh.
 - Monster Hunter!! Lovely aesthetics
 - FTL, for potential travel system homebrew.
 - Chrono Trigger!!!
-- Hyper Light Drifter.
-- Monsters Ate my Birthday Cake (musical tone).
-- Sly Cooper and Hitman games for stealthy stuff.
-- Deus Ex series for urban design.
-- Disco Elysium.
-- My Hero Academia, I watched it for 10 years of my life.
 
+
+- Sly Cooper and Hitman games for stealthy stuff.
+- Disco Elysium.
+#### Lesser
+- My Hero Academia, I watched it for 10 years of my life.
+- A Short Hike, Paradise Marsh.
+- Pokemon series for region designs.
+- Final Fantasy for creature designs.
+- a little bit of Age of Wonders 4.
+-  Deus Ex series for urban design.
+- Monsters Ate my Birthday Cake (musical tone).
+- - Hyper Light Drifter.
 ## Cautionary topics
 Topics which are allowed but usually need to be done in a sensitive way, including checking for player's lines and veils and potentially using content warnings for your sessions or articles.
 
