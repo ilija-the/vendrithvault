@@ -44,7 +44,8 @@ Things we love to see in Vendrith.
 - Chrono Trigger!!!
 - Hyper Light Drifter.
 - Disco Elysium.
--  Fullmetal Alchemist.
+- Fullmetal Alchemist.
+- JJBA. Villains and character design.
 #### Lesser
 - My Hero Academia, I watched it for 10 years of my life.
 - The Witcher.
