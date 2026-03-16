@@ -17,7 +17,7 @@ The primary spellcasting system in the isles is that of [[Essence Casting]].
 
 Primary languages are Draconic and Old Mogxan (Vili).
 
-The nation is ruled by [[The Vilhi Sultanate]].
+The nation is ruled by [[The Vilhi Sultanate]], though currently it is facing a [[Rosbit Period|succession crisis]]. 
 
 The wide spanning archipelago has a history of many natural disasters, now attributed to the [[Disasters of the Silence]] which the Vili people hold the [[Sanitorium]] and by extension [[Mogxa]] in contempt for. As such, [[Crusaders]] often find many new recruits from Vilhun to then send down down south.
 
