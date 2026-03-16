@@ -2,4 +2,4 @@
 tags:
   - places/vilhun/flod
 ---
-Informal names for Lizard Magiocracy observatories found on the [[Isle of Flod]].
+Informal names for [[Hagane Clan|Hagane Clan's]] observatories found on the [[Isle of Flod]].

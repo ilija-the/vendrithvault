@@ -11,13 +11,13 @@ Here is an overview of all campaigns currently being ran in Vendrith, or which a
 
 #### Road to Longdawn
 #campaigns/road-to-longdawn 
-Setting: Ferweth, around 1272 ADc.
+**Setting:** [[Ferweth]], around 1272 ADc.
 Road to Longdawn follows a set of travellers all trying to reach the titular Longdawn, capital of the eerie and cursed lands of Ferweth. On their way they face a multitude of mythological and horrifying creatures as well as tragic tales and dramatic intrigue.
 
 
 #### Hunts of Vilhun
 #campaigns/hunts-of-vilhun 
-Setting: Flod, around 1272 ADc?
+**Setting:** [[Isle of Flod|Flod]], around 1262 ADc.
 A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain. 
 
 ---
@@ -27,29 +27,30 @@ Here is an overview of all campaigns that have been ran in Vendrith, now finishe
 
 #### Circles
 #campaigns/circles 
-Setting: Philosophia, 1-30th of Freezy 1271 ADc.
+**Setting:** Philosophia, 1-30th of Freezy 1271 ADc.
 A group of Philosophians jailed for suspiciously small causes escape and uncover the corruption of the Sanitationist whom ordered mass arrests. The party endures gang war and leads a rebellion against Jade the Just, and liberates the city from his insidious prisoner plot in the process.
 
-Note: The world of Vendrith did not exist when the original Circles was ran. It has later been retconned into existing in Vendrith however, with the required changes. If the Circles re-traced campaign happens, an attempt to redo the spirit of the campaign in an improved format and now formally set in Vendrith, it will overwrite the old lore (which for now is being kept strategically vague).
+> [!note]- Note: Campaign Inconsistency
+> The world of Vendrith did not exist when the original Circles was ran. It has later been retconned into existing in Vendrith however, with the required changes. If the Circles re-traced campaign happens, an attempt to redo the spirit of the campaign in an improved format and now formally set in Vendrith, it will overwrite the old lore (which for now is being kept strategically vague).
 
 #### Welcome to Friedport
 #campaigns/welcome-to-friedport 
-Setting: Friedport, 5th of Whippy 1274 ADc.
+**Setting:** [[Friedport]], 5th of Whippy 1274 ADc.
 Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with the opening of the later Landcrab Plot campaign, the short game saw the [[Welcoming Party]] be recruited into tracking down a thieving pirate and steal back a special piece of cargo from him.  
 
 #### Fool Me Once
 #campaigns/fool-me-once 
-Setting: Condinuum Coast, Tidestorm 1272 ADc.
+**Setting:** [[Condinuum Coast]], Tidestorm 1272 ADc.
 Fool Me Once was a short game much like a thriller, focused on hinting at more mysterious worldbuilding concepts. During it, the [[Fools of Veridica]] saw the disastrous collapse of their [[Crusader Sects|cult]] town of [[Veridica]], with few making it out of the event alive. 
 
 #### The Landcrab Plot
 #campaigns/landcrab-plot 
-Setting: The Chocolate Isles, spring of 1274 to summer 1275 ADc.
+**Setting:** [[Chocolate Isles]], spring of 1274 to summer 1275 ADc.
 The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]]. 
 
 #### Call of the Cardinals
 #campaigns/call-of-the-cardinal
-Setting: Ivory Crown, 2nd tenday of Whippy 1273 ADc.
+**Setting:** [[Ivory Crown]], 2nd tenday of Whippy 1273 ADc.
 Call of the Cardinals was a short game that in real life happened during the Landcrab Plot, though in-universe took place some years before. It revolved around the kidnapping of [[Bishop the Peacemaker]]. [[Bishop's Disciples]] chased after the kidnappers, uncovering and stopping a [[Desecrators|Desecrator]] bomb plot lead by [[Cardinal Rackawn]]. Bishop, however, lost his life.
 
 #### Red Thread Station
@@ -57,12 +58,12 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 
 #### Forgotten Dawn - Underbelly of Rraka
 #campaigns/forgotten-dawn 
-Setting: Rraka, 1274 ADc.
+**Setting:** [[Rraka]], 1274 ADc.
 A collection of random adventurers are pulled in to explore a dungeon recently discovered under the marketplace of the Talvan city of Rraka, together with Abmetzar, a dwarf from the Forgotten Dawn Society.
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
-Setting: Vön, 1266 ADc.
+**Setting:** [[Vön]], 1266 ADc.
 A hopeful few gather together for a quest to safely escort the Shaman of Ire's granddaughter, a fair maiden, back to their isolated wintery town.
 
 ---
@@ -72,7 +73,7 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 
 #### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign 
-Setting: Vön, 1267 ADc.
+**Setting:** [[Vön]], 1267 ADc.
 The Resting Curse lies across the land, and has as of late made life unbearable in the near endless winters of Vön. Home to an ancient culture drawing its traditions from the Flock of Man, sacred waters that quench countless realms, a whole Crusader Army, and the way to the Silver Pass and Regal Pass - much hangs in the balance over this quiet and oft forgotten province.
 
 A campaign that takes a more traditional approach, as a sparsely settled land with harsh terrains to travel through and plenty of opportunities for bandits, wildlife, lost maidens, and such. It will attempt to explore the history of this province, and by extension, the world, without being as linear as previous campaigns, leaving more up to player choice and nonlinear exploration.
