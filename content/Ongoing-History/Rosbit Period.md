@@ -11,6 +11,6 @@ The clash has since then caused a governmental paralysis and with no leverage fr
 
 <u>*The only thing both will agree on now is that whoever will win the war over [[Isle of Flod|Flod]], will win the divine right over [[Vilhun]].*</u>
 
-The second in command of the previous Sultan has since become regent of Vilhun. Unfortunately, that second-in-command is a sovereign [[Dragons|dragon]]. This has inherently attracted unwanted attention from the rest of the world towards Vilhun, especially [[Mogxa]] who deeply remember the age of the [[Draconic Empire]].
+The second in command of the previous Sultan has since become regent of Vilhun. Unfortunately, that second-in-command is a sovereign [[Dragons|dragon]]. While they have been fiercely royal to the sultan, this has inherently attracted unwanted attention from the rest of the world towards Vilhun. [[Mogxa]] especially, who deeply remember the age of the [[Draconic Empire]].
 
 With the war (and the election process itself) having divine connotations, it has also attracted attention of the [[Crusaders]] and by extension, the [[Sanitorium]].
