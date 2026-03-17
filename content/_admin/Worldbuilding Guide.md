@@ -67,9 +67,11 @@ Torture, chattel slavery, severe harm to children and especially sexual violence
 ## Historical anachronisms
 In the end, this is a game, and the point is that we have fun. But as a setting Vendrith is more enjoyable and interesting if we can leave certain modern anachronisms at the door, and try to enrich ourselves in what the world would really be like - drawing much on our own world's premodern times, feudal and classical.
 #### Some things to leave at the door
-There's a lot of things we take for granted in the modern world, but which really doesn't exist in a fantasy world such as Vendrith.
+There's a lot of things we take for granted in the modern world, but which really doesn't exist in a fantasy world such as Vendrith. Let's start with an important one.
 
-People do not identify with a 'nation.' Many feel loyalty to the rulers who promise to protect them, and can of course engage easier with those who speak a shared language, but there is no such thing as being born into a grand community such as a nation. One's ties to the local village, sharing specific traditions, language and religion, being of the same class and the lineage of one's parents is much more important than which 'borders' one were born into.
+People do not identify with a 'nation.' 
+
+Many feel loyalty to the rulers who promise to protect them, and can of course engage easier with those who speak a shared language, but one is not automatically born into such a grand community as a nation. One's ties to the local village, sharing specific traditions, language and religion, being of the same class and the lineage of one's parents is much more important than which 'borders' one were born into.
 
 Similarly, you must rethink your assumption of 'citizenship' and borders.
 
