@@ -72,10 +72,10 @@ Modern business organisation is not a thing.
 Modern army organisation is not a thing.
 Mass consumer markets are not a thing.
 Atheism in our world and time's sense is not a thing.
-#### Easy mistakes to make.
 
-
-#### Thinking like a premodern person.
+Not everyone has money.
+Few are educated. Not all speak the language of merchants and politics.
+Many stay at home or near home most their lives.
 
 
 ## Restricted topics
