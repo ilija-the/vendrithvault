@@ -69,7 +69,7 @@ Nationalism is not a thing.
 Modern nation-states are not a thing.
 Human rights or expectations of welfare or healthcare from states are not a thing.
 Modern business organisation is not a thing.
-Modern army organisation is not a thing.
+Modern army structure and planning is not a thing.
 Mass consumer markets are not a thing.
 Atheism in our world and time's sense is not a thing.
 
@@ -77,6 +77,7 @@ Not everyone has money.
 Few are educated. Not all speak the language of merchants and politics.
 Many stay at home or near home most their lives.
 
+Most people feel an attachment to their families, their village, and probably some sort of religious community and the monarch nominally dedicated to protect them. 
 
 ## Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
