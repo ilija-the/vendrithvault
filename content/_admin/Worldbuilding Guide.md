@@ -69,10 +69,10 @@ In the end, this is a game, and the point is that we have fun. But as a setting 
 #### Some things to leave at the door
 There's a lot of things we take for granted in the modern world, but which really doesn't exist in a fantasy world such as Vendrith.
 
-People do not identify with a 'nation.' Many feel loyalty to the ruler
+People do not identify with a 'nation.' Many feel loyalty to the rulers who promise to protect them, and can of course engage easier with those who speak a shared language, but there is no such thing as being born into a grand community such as a nation. One's ties to the local village, sharing specific traditions, language and religion, being of the same class and the lineage of one's parents is much more important than which 'borders' one were born into.
 
-Nationalism is not a thing.
-Modern nation-states are not a thing.
+Similarly, you must rethink your assumption of 'citizenship' and borders.
+
 Human rights or expectations of welfare or healthcare from states are not a thing.
 Modern business organisation is not a thing.
 Modern army structure and planning is not a thing.
