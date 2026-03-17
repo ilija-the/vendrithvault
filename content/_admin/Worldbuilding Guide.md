@@ -65,6 +65,8 @@ Topics which are allowed but usually need to be done in a sensitive way, includi
 Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra carefully) before running a campaign, or a session with a new gruesome topic.
 
 ## Historical anachronisms
+
+
 Nationalism is not a thing.
 Modern nation-states are not a thing.
 Human rights or expectations of welfare or healthcare from states are not a thing.
@@ -77,6 +79,7 @@ Not everyone has money.
 Few are educated. Not all speak the language of merchants and politics.
 Many stay at home or near home most their lives.
 
+The average person is either a farmer or a labourer. Some become merchants or adventurers, and get to earn money and travel the world. Some become clergy, mages or scholars, one of the few who get to be educated and spend their lives learning. Many abled men (and some women) have served as conscripted s
 
 
 ## Restricted topics
