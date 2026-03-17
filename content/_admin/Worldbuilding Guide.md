@@ -66,7 +66,7 @@ Torture, chattel slavery, severe harm to children and especially sexual violence
 
 ## Historical anachronisms
 
-
+#### 
 Nationalism is not a thing.
 Modern nation-states are not a thing.
 Human rights or expectations of welfare or healthcare from states are not a thing.
@@ -78,9 +78,20 @@ Atheism in our world and time's sense is not a thing.
 Not everyone has money.
 Few are educated. Not all speak the language of merchants and politics.
 Many stay at home or near home most their lives.
-
+#### Lives of Vendrith
 The average person is either a farmer or a labourer. Some become merchants or adventurers, and get to earn money and travel the world. Some become clergy, mages or scholars, one of the few who get to be educated and spend their lives learning. Many abled men (and some women) have served as conscripted soldiers, levies, at some point in their lives. A very few of these prove themselves and are allowed into retinues or private armies as professional solders, perhaps rising to become royal guardsmen or mercenary captains. Those with family origins in royalty or other important families are nobles are on top of the world, and are the most frequent buyers of the services of adventurers.
 
+Farmers and labourers.
+
+Levies and soldiers.
+
+Merchants.
+
+Adventurers.
+
+Clergy, mages and scholars.
+
+Nobles and royalty.
 
 ## Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
