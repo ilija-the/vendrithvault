@@ -65,8 +65,9 @@ Topics which are allowed but usually need to be done in a sensitive way, includi
 Torture, chattel slavery, severe harm to children and especially sexual violence need to be handled thoughtfully. Remember to check for your players' lines and veils (aka sensitive topics, that need to be excluded entirely or handled extra carefully) before running a campaign, or a session with a new gruesome topic.
 
 ## Historical anachronisms
+In the end, this is a game, and the point is that we have fun. But as a setting Vendrith is more enjoyable and interesting if we can leave certain modern anachronisms at the door, and try to enrich ourselves in what the world would really be like - drawing much on our own world's premodern times, feudal and classical.
 
-#### 
+#### What to leave at the door
 Nationalism is not a thing.
 Modern nation-states are not a thing.
 Human rights or expectations of welfare or healthcare from states are not a thing.
@@ -92,6 +93,9 @@ Adventurers.
 Clergy, mages and scholars.
 
 Nobles and royalty.
+
+#### Pushing the envelope
+When one does end up pushing beyond the standard feudal experience, there are certain precautions and aesthetics one can adopt to make it more fitting still.
 
 ## Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
