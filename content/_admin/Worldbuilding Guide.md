@@ -77,7 +77,7 @@ Not everyone has money.
 Few are educated. Not all speak the language of merchants and politics.
 Many stay at home or near home most their lives.
 
-Most people feel an attachment to their families, their village, and probably some sort of religious community and the monarch nominally dedicated to protect them. 
+
 
 ## Restricted topics
 These are topics with specific visions/rules that need to be kept in mind.
