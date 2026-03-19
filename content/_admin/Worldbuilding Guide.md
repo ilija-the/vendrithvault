@@ -19,6 +19,7 @@ Things we love to see in Vendrith.
 - Broadly happy endings, really. At least for longer games it is what feels best.
 - Endings about the necessity of letting go, of the old, of all that can't last forever.
 - Addendum: the world doesn't need to be saved, but temporary respite and meaningfully saving some amount of lives and inspiring others through it is great.
+- Small steps to make the world a little less cruel.
 
 ## Meta/Gameplay Themes
 - Drowning and fall damage, apparently.
