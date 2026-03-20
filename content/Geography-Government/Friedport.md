@@ -12,6 +12,7 @@ Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], 
 
 >![[Friedport1.3.combined.png]]
 >The city of Friedport at night, as seen from a flying position in the waters to its north. 
+> 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA)
 
 Friedport sits on an island in the [[Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
 
