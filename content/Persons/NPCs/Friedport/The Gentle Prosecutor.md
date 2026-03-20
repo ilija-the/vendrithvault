@@ -6,6 +6,8 @@ tags:
   - ancestries/human
   - society/sanitationist
 Status: Missing
+aliases:
+  - Gentle Prosecutor
 ---
 The Gentle Prosecutor was a [[Sanitorium|Sanitationist]] prosecutor and envoy to the city of [[Friedport]]. His job was to maintain relations between the [[Horizan Guild Association]] in Horiza and the Sanitorium, but also given the authority to prosecute crimes, he effectively was a tool keeping HGA in line. As a young, accomplished and handsome man, he was known to enjoy parties and charming people in his spare time.
 
@@ -13,7 +15,7 @@ The Gentle Prosecutor was a [[Sanitorium|Sanitationist]] prosecutor and envoy to
 
 He tried [[Bande Aparte]] for the grand theft of and smuggling of the [[Vestitur Relics]] under judge [[Titanaurk Kaesalver]], opposing the defence council consisting of [[Gator Grippli]], [[Ashur Holdok]] and [[Louen Leonceur]]. During the trial, [[Auldwell Fareawel]] was revealed as a [[Crusaders|Crusader]] agent, and the trial site was bombed in an attempt to free him and escape. The Gentle Prosecutor was pronounced to have died, his body taken by the river after said explosion.
 
-> Theme Tune: https://youtu.be/79nwdK8xpks
+> 🎵 [Theme of Gentle Prosecution](https://youtu.be/79nwdK8xpks)
 
 ---
 

@@ -19,4 +19,4 @@ He once had an affair with [[Ragnil Veldaks]] in youth, which he has never since
 ![[OCaptainBasement.png| center | 800]]
 *O' Captain's enormous under-manor archive basement.*
 
-> Theme tune: https://youtu.be/Ho8gjXr2Me4
+> 🎵 [Theme of the Hopeless Old Man](https://youtu.be/Ho8gjXr2Me4)

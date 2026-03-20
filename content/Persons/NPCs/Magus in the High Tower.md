@@ -15,4 +15,4 @@ He was the target of an attempted [[Magus Assassination Attempt|assassination]] 
 
 Has supported certain gifted students at the [[Academie Peripherie Philosophia]], such as [[Magnus Strike]]. 
 
-> 🎵 [Theme of ](https://youtu.be/f3F_xd5R_4I)
+> 🎵 [Theme of the Wise Man](https://youtu.be/f3F_xd5R_4I)
