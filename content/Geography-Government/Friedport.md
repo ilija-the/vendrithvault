@@ -12,7 +12,7 @@ Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], 
 
 >![[Friedport1.3.combined.png]]
 >The city of Friedport at night, as seen from a flying position in the waters to its north. 
-> 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA)
+>  🎵[Theme of Sunny Friedport](https://youtu.be/4HUGKVWPFuM) 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA)
 
 Friedport sits on an island in the [[Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
 
@@ -30,6 +30,7 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 
 ##### Waterlogg Street
 ![[WaterloggPerspective12351252.png]]
+> 🎵 [Theme of the Water Druid's Clean Streets](https://youtu.be/rO-nAmL3Xko)
 
 Waterlogg Street is a set of intersecting streets in the [[Crabraven]] district of [[Friedport]]. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
 
