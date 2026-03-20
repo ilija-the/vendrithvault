@@ -7,10 +7,10 @@ aliases:
   - Friedporter
 ---
 ### Overview
-Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has long been one of the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an important harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues traversing the [[World Fleece]] than elsewhere.
+Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has until recently been perhaps the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an essential harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues sending magic across the [[World Fleece]] than elsewhere.
 
 >![[Friedport1.3.combined.png]]
->The city of Friedport at night, as seen from a flying position in the waters to its north. 
+>The city of Friedport at night, as seen from flight over the bay to its north. 
 >  🎵[Theme of Sunny Friedport](https://youtu.be/4HUGKVWPFuM) 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA) 🎵 [Theme of a Friedport Tavern](https://youtu.be/16vLKl4_bNo)
 
 Friedport sits on an island in the [[Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
@@ -33,10 +33,10 @@ Portaupearl makes up a part of Friedport that was founded on the ruins of [[Hori
 ### Crabraven
 Crabraven is the largest district of the city, and makes up the landscape of landcrabs the city is so well known for. It is largely constructed out of wood, features heavy landcrab motifs such as colourful plank decorations and ropes and fishing nets crossed in the shapes of X. Houses are small and rickety and often built on top of eachother, so to reach higher levels of homes in these favellas one must often climb and use elevated rooftop streets and their plank-based skybridges.
 ##### Waterlogg Street
+Waterlogg Street is a set of intersecting streets in Crabraven. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
+
 ![[WaterloggPerspective12351252.png]]
 > 🎵 [Theme of the Water Druid's Clean Streets](https://youtu.be/rO-nAmL3Xko)
-
-Waterlogg Street is a set of intersecting streets in Crabraven. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
 
 ##### Philosophian Party Streets
 The Philosophian Party Streets of Crabraven are intentionally mimicking the nightlife and entertainment districts of Philosophia, and are full of games, gambling, drinking, debauchery, competitions, art, circuses and prostitution.
