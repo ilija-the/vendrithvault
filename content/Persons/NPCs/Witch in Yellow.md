@@ -18,4 +18,4 @@ Acquainted with the [[Magus in the High Tower]] and an old friend of [[Bishop th
  
 Has met [[Cardinal Rackawn]], [[Tricky]], [[Rex Stormwind]], [[Nimbus]], [[Gator Grippli]], [[Louen Leonceur]] and [[Ashur Holdok]].
 
-> [Theme of Outcasts](https://youtu.be/Qo7wBm0W7fg) [Theme of Restraint](https://youtu.be/FRZ9cUEF0NE) [Theme of Magic Unleashed](https://youtu.be/0yqm7vrCp-g)
+>🎵 [Theme of Outcasts](https://youtu.be/Qo7wBm0W7fg) 🎵 [Theme of Restraint](https://youtu.be/FRZ9cUEF0NE)🎵 [Theme of Magic Unleashed](https://youtu.be/0yqm7vrCp-g)
