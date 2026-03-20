@@ -22,3 +22,5 @@ Having told lies as part of an infiltration once, Gator was viewed as a rival by
 Because of the devil deal Gator had made, Schnappi was threatened by also having its soul claimed by the Good Doctor. Not wanting to let this happen, Gator eventually bid his lifelong companion goodbye and released Schnappi as his eidolon.
 
 Gator is nowadays believed to be travelling with [[Cardinal Rackawn]] and [[Princess Ionelle]] (as fellow victims of devil deals), as well as the potentially romantically involved Mistress Crimtone.
+
+> 🎵 [Theme of the Lone Cowboy](https://youtu.be/pznMi0VqOBY)
