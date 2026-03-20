@@ -4,7 +4,8 @@ tags:
 ---
 Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes.
 
-## List of Campaigns
+# List of Campaigns
+> 🎵[Theme of Preparing for a new C]
 
 ### Ongoing Campaigns
 Here is an overview of all campaigns currently being ran in Vendrith, or which are planned to be ran very soon.

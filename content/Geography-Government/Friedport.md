@@ -36,7 +36,7 @@ Crabraven is the largest district of the city, and makes up the landscape of lan
 Waterlogg Street is a set of intersecting streets in Crabraven. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
 
 ![[WaterloggPerspective12351252.png]]
-> 🎵 [Theme of the Water Druid's Clean Streets](https://youtu.be/rO-nAmL3Xko)
+> 🎵 [Theme of the Clean Streets](https://youtu.be/rO-nAmL3Xko) 🎵 [Theme of Subterranean Acidic Pool](https://youtu.be/Eo_09MsIVno)
 
 ##### Philosophian Party Streets
 The Philosophian Party Streets of Crabraven are intentionally mimicking the nightlife and entertainment districts of Philosophia, and are full of games, gambling, drinking, debauchery, competitions, art, circuses and prostitution.
