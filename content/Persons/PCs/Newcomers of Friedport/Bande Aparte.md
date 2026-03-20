@@ -15,4 +15,4 @@ Landing in [[Friedport]], Bande Aparte became acquainted with [[Gator Grippli]] 
 
 Unbeknownst to Bande Aparte until the end of the plot, his trusted comrade Lykas had survived back in the [[Old World - Iduria|old world]], and together with many of Bande Aparte's former soldiers created the secretive [[Moonless Night]]. Inspired by their former leader, the Moonless Night worked to uncover corruption and conspiracy. Their most important achievement was getting General Architrave sentenced to death for his crimes.
 
->🎵 [Theme of Second Revival](https://youtu.be/Lnw3J9XNLLQ) 🎵 [Theme of Mind Palace](https://youtu.be/54moBCJSfXg)
+>🎵 [Theme of Second Revival](https://youtu.be/Lnw3J9XNLLQ) 🎵 [Theme of Mind Palace](https://youtu.be/54moBCJSfXg) 🎵 [Theme of Comrades in Truth](https://youtu.be/XIfRGhD-9QY)
