@@ -1,1 +1,1 @@
-> 🎵 [Theme of XXX](link)
+> 🎵 [Theme of XXX]()
