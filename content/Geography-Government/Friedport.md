@@ -25,13 +25,13 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 
 ### Places in Friedport
 
-#### Crabraven
+### Crabraven
 Crabraven is the largest district of the city, and makes up the landscape of landcrabs the city is so well known for. It is largely constructed out of wood, features heavy landcrab motifs such as colourful plank decorations and ropes and fishing nets crossed in the shapes of X. Houses are small and rickety and often built on top of eachother, so to reach higher levels of homes in these favellas one must often climb and use elevated rooftop streets and their plank-based skybridges.
 ##### Waterlogg Street
 ![[WaterloggPerspective12351252.png]]
 > 🎵 [Theme of the Water Druid's Clean Streets](https://youtu.be/rO-nAmL3Xko)
 
-Waterlogg Street is a set of intersecting streets in the [[Crabraven]] district of [[Friedport]]. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
+Waterlogg Street is a set of intersecting streets in Crabraven. It is largely occupied by the supporters of [[The Prince]], a leader-figure claiming descent from [[Valfrid Veldaks]], the late [[Herō of Friedport]]. It is also maintained by his close aide, [[Su Na]], which uses water magic and water [[Elementals]] to keep the streets sparkling clean. The Prince has a theatre upon a grassy knoll at the centre of the street.
 
 ##### Philosophian Party Streets
 The Philosophian Party Streets of Crabraven are intentionally mimicking the nightlife and entertainment districts of Philosophia, and are full of games, gambling, drinking, debauchery, competitions, art, circuses and prostitution.
@@ -39,12 +39,14 @@ The Philosophian Party Streets of Crabraven are intentionally mimicking the nigh
 ![[Philosophian_Party_BIG.png]]
 
 ##### Shrine to New Horizons
-The Shrine to New Horizons, also known as the Kingsthrone Arena, is a sort of secular temple built to honour the unique legacy of the city and unite its people. While worship of Titans is taboo in 
+The Shrine to New Horizons, also known as the Kingsthrone Arena, is a sort of secular temple built to honour the unique legacy of the city and unite its people. While worship of Titans is taboo in Friedport, people may freely use the place to seek guidance from its keepers (basically its priests) and to pray quietly. It is the place in which the Summer Games are began and presented from.
+
 ![[KingsthroneSummergamesSplash_1 1.png]]
 
-#### Amberhole
+### Amberhole
+Amberhole is an area of intense labour, mostly related to its mining and quarry business, at the eastern edge of Friedport. It is named after the titular Amberhole, a quarry with roots in the early days of Friedport. It is home to 
 
-#### Phyrraumid
+### Phyrraumid
 ##### [[Windfall|Windfall Commune]]
 
 ##### The Starfish
