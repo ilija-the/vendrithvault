@@ -44,11 +44,13 @@ The Shrine to New Horizons, also known as the Kingsthrone Arena, is a sort of se
 ![[KingsthroneSummergamesSplash_1 1.png]]
 
 ### Amberhole
-Amberhole is an area of intense labour, mostly related to its mining and quarry business, at the eastern edge of Friedport. It is named after the titular Amberhole, a quarry with roots in the early days of Friedport. It is home to 
+Amberhole is an area of intense labour, mostly related to its mining and quarry business, at the eastern edge of Friedport. It is named after the titular Amberhole, a quarry with roots in the early days of Friedport. It is home to a [[Crafting|Rune Press]].
 
 ### Phyrraumid
+Phyrraumid is a mixed agricultural and housing district on the western edge of Friedport, and is largely settled by farmers, the affluent and retired soldiers from the Starfish.
 ##### [[Windfall|Windfall Commune]]
-
+Windfall is a communal farm in the middle of Phyrraumid.
 ##### The Starfish
+The cheekily named Starfish fortress is a state-of-the-art fortification built on top of Horizan Precursor ruins, once housing the largest army in Horiza. However, due to a calming of tensions between the Horizan settlements and a shift of importance over to the mainland, the Starfish has since been overtaken by [[F]]
 
 #### [[Portaupearl]]
