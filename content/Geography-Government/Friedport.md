@@ -7,7 +7,6 @@ aliases:
   - Friedporter
 ---
 ### Overview
-
 Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has long been one of the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an important harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues traversing the [[World Fleece]] than elsewhere.
 
 >![[Friedport1.3.combined.png]]
@@ -27,7 +26,7 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 ### Places in Friedport
 
 #### Crabraven
-
+Crabraven is the largest district of the city, and makes up the landscape of landcrabs the city is so well known for. It is largely constructed out of wood, features heavy landcrab motifs such as colourful plank decorations and ropes and fishing nets crossed in the shapes of X. Houses are small and rickety and often built on top of eachother, so to reach higher levels of homes in these favellas one must often climb and use el
 ##### Waterlogg Street
 ![[WaterloggPerspective12351252.png]]
 > 🎵 [Theme of the Water Druid's Clean Streets](https://youtu.be/rO-nAmL3Xko)
