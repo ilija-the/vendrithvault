@@ -11,7 +11,7 @@ Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], 
 
 >![[Friedport1.3.combined.png]]
 >The city of Friedport at night, as seen from a flying position in the waters to its north. 
->  🎵[Theme of Sunny Friedport](https://youtu.be/4HUGKVWPFuM) 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA)
+>  🎵[Theme of Sunny Friedport](https://youtu.be/4HUGKVWPFuM) 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA) 🎵 [Theme of a Friedport Tavern](https://youtu.be/16vLKl4_bNo)
 
 Friedport sits on an island in the [[Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
 
@@ -23,7 +23,12 @@ Famous figures include the [[Valfrid Veldaks]], the famous "Hero of Friedport," 
 
 Another famous figure is the late [[Saint Karvi Massiri]], considered the first [[Saint]] of Friedport.
 
-### Places in Friedport
+# Places in Friedport
+
+### [[Portaupearl]]
+Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[New World - Horiza|Horiza]] - but it has since stopped being used and maintained. 
+
+Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Old World - Iduria]] (see [[World Fleece]]).
 
 ### Crabraven
 Crabraven is the largest district of the city, and makes up the landscape of landcrabs the city is so well known for. It is largely constructed out of wood, features heavy landcrab motifs such as colourful plank decorations and ropes and fishing nets crossed in the shapes of X. Houses are small and rickety and often built on top of eachother, so to reach higher levels of homes in these favellas one must often climb and use elevated rooftop streets and their plank-based skybridges.
@@ -51,6 +56,4 @@ Phyrraumid is a mixed agricultural and housing district on the western edge of F
 ##### [[Windfall|Windfall Commune]]
 Windfall is a communal farm in the middle of Phyrraumid.
 ##### The Starfish
-The cheekily named Starfish fortress is a state-of-the-art fortification built on top of Horizan Precursor ruins, once housing the largest army in Horiza. However, due to a calming of tensions between the Horizan settlements and a shift of importance over to the mainland, the Starfish has since been overtaken by [[F]]
-
-#### [[Portaupearl]]
+The cheekily named Starfish fortress is a state-of-the-art fortification built on top of Horizan Precursor ruins, once housing the largest army in Horiza. However, due to a calming of tensions between the Horizan settlements and a shift of importance over to the mainland, the Starfish has since been overtaken by [[Fort Shingle]] in importance. It was the site of the outflood of [[Golem|Golems]] during the climax of the [[Landcrab Plot]].
