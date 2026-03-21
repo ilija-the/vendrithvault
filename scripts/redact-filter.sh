@@ -1,3 +1,3 @@
 #!/bin/bash
-# Removes lines marked with <!-- REDACT --> from .md files
-sed '/<!-- REDACT -->/,/<!-- \/REDACT -->/d'
+# Removes ||spoilers|| from .md files in .gitattributes
+sed -E 's/\|\|[^|]*\|\|/<!-- REDACTED -->/g'
