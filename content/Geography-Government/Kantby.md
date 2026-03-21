@@ -2,7 +2,7 @@
 tags:
   - places/vilhun
 ---
-The "free" city of Kantby resides on the far eastern shore of the [[Flod]] isle. 
+The "free" city of Kantby resides on the far eastern shore of the [[Isle of Flod|Flod]] isle. 
 
 Initially a small but mighty trading hub due to being the first and only one on the isle for a decade, the port had a great deal of growth that made it into a unofficially recognized city of Flod.
 
