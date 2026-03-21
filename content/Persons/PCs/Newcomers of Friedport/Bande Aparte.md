@@ -7,7 +7,7 @@ tags:
   - society/crusaders
   - society/sanitationist
 ---
-A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption. Believed his closest comrade in arms [[Lykas]] had actually been killed for it, and the rest of his men in danger, Bande Aparte deserted.
+|A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], he was nearly killed after getting too close to the truth of the General's corruption. Believed his closest comrade in arms [[Lykas]] had actually been killed for it, and the rest of his men in danger, Bande Aparte deserted.
 
 ![[Greatreturn1.png]]After fleeing, Bande Aparte wandered vast stretches of Vendrith afterwards looking for purpose. In [[Encanath]] he attempted a heist for the [[Vestitur Relics]] with co-conspirator [[Goldsheen]], but was betrayed by the supposed buyer of the relics - [[Auldwell Fareawel|Perckle d'Rits]] - at the last hurdle. The Vestitur Relics went missing after this, though Bande Aparte kept tabs on the few dark tracks he could to where they may have gone. After reaching [[Philosophia]] he learned of [[Jade the Just|Jade the Just]] and briefly became a convinced agent of his cause. However, after the events of [[Jadefall Crisis|Jadefall]] his inspiration had been taken down and Bande Aparte once again left disillusioned. Eventually reaching [[Singsong]], he smuggled himself onto a convoy headed for [[New World - Horiza|Horiza]]. 
 
