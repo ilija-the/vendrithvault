@@ -71,5 +71,6 @@
   "panClamp": true,
   "drawLayers": [],
   "drawings": [],
-  "textLayers": []
+  "textLayers": [],
+  "secondScreen": {}
 }
