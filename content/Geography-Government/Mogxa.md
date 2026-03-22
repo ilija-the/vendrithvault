@@ -20,7 +20,9 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 }
 ```
 
-### Regions
+## Geography
+Mogxa is a large and therefore varied region, but has some commonalities. The terrain is characterised by stark differences in elevation, with frequent cliffs and canyons, sometimes combined with heavy vegetation and bodies of water that make traversal outside of the common roads difficult. The central jungle of Mogxa contains some of if not the highest mountains on Vendrith.
+
 #### Western Grainbasket
 
 
