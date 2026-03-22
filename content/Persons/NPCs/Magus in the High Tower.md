@@ -5,7 +5,7 @@ tags:
   - campaigns/fool-me-once
   - campaigns/landcrab-plot
 ---
-A legendary magus that largely acts as a recluse, but occasionally enters the public eye to give grand predictions or warnings. 
+A legendary magus that largely acts as a recluse, but occasionally enters the public eye to give grand predictions or warnings. While he is direct, harsh, and perhaps offends the sensibilities of many he criticises, you still get the sense he'd never lie to you.
 
 ![[Magus_in_the_High_Castle 1.png]]
 

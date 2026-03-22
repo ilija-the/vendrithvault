@@ -10,7 +10,7 @@ aliases:
 ---
 
 
-A fabled [[Witch]] often spoken in hushed tones about by commonfolk, though known by many influential figures of the last century. She is feared for a number of great exercised of magical power during the last century, though none have happened since the [[Witch Concordat]], which she signed.
+A fabled [[Witch]] often spoken in hushed tones about by commonfolk, though known by many influential figures of the last century. She is feared for a number of great exercised of magical power during the last century, though none have happened since the [[Witch Concordat]], which she signed. While it's hard not to feel warm and comfortable in her presence, there's still an air of something more behind her words.
 
 ![[Belle.cutout.png| center | 800]]
 
