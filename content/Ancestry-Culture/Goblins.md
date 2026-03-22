@@ -8,8 +8,9 @@ aliases:
   - goblin
   - Protean Goblins
 ---
-The majority population of Vendrith.
+Goblins make up one of th.
+
+Goblinoids are found in many appearances, as they are born into various forms imitating certain animals (though many goblinoid characteristics remain stable). These are both based off the area a goblin is born and raised in (called Protean Evolution), though perhaps more importantly also which year they are born. Goblin culture and the civilizations in which they have played a large role, such as Mogxa, have taken to naming these years after their respective most common goblin form - such as the Year of the Dog, Year of the Tadpole, Year of the Rat, and so forth. 
 
 [[Goblin evolution]]
 [[Ancestries of Vendrith]]
-[[Protean Evolution]]
