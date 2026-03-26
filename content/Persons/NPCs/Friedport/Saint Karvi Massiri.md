@@ -19,12 +19,15 @@ Status: Missing
 > [!important] History rewriting-shenanigans.
 > At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[Newcomers of Friedport]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
+---
+# Summary
 Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[New World - Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaur]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual and community leader.
 
 ![[KarviAtRest.png]]
 
 
-### Early Life - Massiri Family
+# History
+## Early Life - Massiri Family
 ``Content Warning: Physical, familial abuse, presumed suicide.``
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
@@ -42,7 +45,7 @@ One day, the knight returned home in a casket, dead. The family, distraught enou
 In an incident that would sink the Massiri family name into shame and obscurity forever, Karvi reached his breaking point. Utilising his prodigal intellect and a tome on the origins of flesh golems in the family study, Karvi broke into the morgue, and, in a matter of speaking - revived his knightly grandfather as a golem or undead creature. Karvi had also cut off his own left arm and right leg. It was to this gruesome image that his family found him and freaked out. Who was responsible for what followed next is uncertain, but all in the Massiri family except Karvi would end up dead, and the manor in flames. At age 13, Karvi Massiri was suspected of killing his family, and, orphaned.
 
 
-### Middle childhood - adoption and espionage
+## Middle childhood - adoption and espionage
 
 Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]] - the Meisters. These two, much kinder than any family Karvi had experienced, wanted to give him a new start and a chance to grow up and develop his talents at a reasonable pace. Here, Karvi took on the new name Krynn Meister, and enrolled in the [[Academie Peripherie Philosophia]]. Karvi began writing his thesis about [[Leylines]] and [[Entanglement Stones]] at the mere age of 14.
 
@@ -53,7 +56,7 @@ When this was eventually revealed after a massacre of sanitationists (also in wh
 Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Doctor Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed by the young prodigy, became acquainted with the teen and invited him on a special voyage across the seas to [[New World - Horiza|Horiza]]. With nowhere else to go without being recognised, he accepted.
 
 
-### Late childhood, becoming a Landcrab
+## Late childhood, becoming a Landcrab
 
 On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy. As he was found out stealing oranges from the ship supplies by the [[Iron Brothers]], he was beaten into an inch of his life, losing most of his teeth.
 
@@ -68,7 +71,7 @@ Becoming more and more engrained in Landcrab culture, at 25 years old Karvi Mass
 Following this incident, Karvi became personally acquainted with Ragnil Veldaks, and would frequently visit her manor. Some say it is as if he was adopted under the Veldaks family banner, whereas others believed they were romantically involved during this period.
 
 
-### Spiritual and community leader
+## Spiritual and community leader
 
 Having earned the trust of many Landcrabs, Karvi would go on to take a community leader role, and even delve into being a spiritual leader. While titan-worship was taboo in the city, he formed a sort of religion-philosophy based around secular and saintly principles - much like that of early Landcrab religion centred on the [[Shrine to New Horizons]]. Seeking further freedom to express their developing traditions, however, Karvi headed a project to build a secret church underneath the wooden favellas of the city - the [[Driftwood Church]].
 
@@ -80,13 +83,14 @@ As father of the Driftwood Church, Karvi began to push more and more towards ide
 Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every example of the titular phenomenon he experienced. Using this book, he categorised and taught about the alluring nature of not being sincere to one's thoughts and principles, and warned against losing one's truth. Some few instead saw this as a petty project, listing personal slights and designating people to be exiled from the movement or targeted once the Landcrabs took over.
 
 
-### The Landcrab Plot and Death
+## The Landcrab Plot and Death
 
 Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he was never found again. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city, now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
 
 ![[Karvi_Krynn_Meister 1.png]]
-*Karvi towards soon before the Summer Games.*
+*Karvi soon before the Summer Games, after narrowly escaping pirates.*
 
+---
 
 # Other Side of the Story - the Scurvymaster
  >[!important] Secrets ahead!
@@ -103,4 +107,4 @@ Towards this end he had obtained the [[Vestitur Relics]] and prepared the local 
 ![[KarvisLastSmile.png]]
 *The Scurvymaster, admitting defeat before exiling himself.*
 
-> 🎵 [Theme of chasing the Master]()
+> 🎵[Theme of the Landcrab Priest](https://youtu.be/KtZBSw3UUlU) 🎵 [Theme of chasing the Master](https://youtu.be/cb-qq8lSGYQ)
