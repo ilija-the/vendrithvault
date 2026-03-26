@@ -20,3 +20,4 @@ After being released, Cardinal Rackawn found his way to Friedport, where he had 
 Cardinal is nowadays believed to be travelling with [[Gator Grippli]] and [[Princess Ionelle]].
 
 ![[Cardinal_Rackawn_PRESHOW_Zoomed.png]]
+> 🎵 [Theme of a Fiery Heart](https://youtu.be/mNLB83gsYcE)
