@@ -28,7 +28,7 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 
 # History
 ## Early Life - Massiri Family
-``Content Warning: Physical, familial abuse, presumed suicide.``
+``Content Warning: Physical, familial abuse, implied suicide.``
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
 
