@@ -43,14 +43,15 @@ Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with th
 #campaigns/fool-me-once 
 **Setting:** [[Condinuum Coast]], Tidestorm 1272 ADc.
 Fool Me Once was a short game much like a thriller, focused on hinting at more mysterious worldbuilding concepts. During it, the [[Fools of Veridica]] saw the disastrous collapse of their [[Crusader Sects|cult]] town of [[Veridica]], with few making it out of the event alive. 
+> 🎵 [First Opening - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Second Opening](https://youtu.be/Wykhe7OgZeA) 
 
 #### The Landcrab Plot
 #campaigns/landcrab-plot 
 **Setting:** [[Chocolate Isles]], spring of 1274 to summer 1275 ADc.
 The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]]. 
 
-> 🎵 [Opening Theme - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Ending Theme](🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g) 
-> 🎵 [Theme of New Horizons](https://youtu.be/VwU0CCBMs1o)
+> 🎵 [Opening Theme - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Ending Theme](https://youtu.be/U2XELiosoWw&t=1547) 
+> 🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g) 🎵 [Theme of New Horizons](https://youtu.be/VwU0CCBMs1o)
 
 #### Call of the Cardinals
 #campaigns/call-of-the-cardinal
