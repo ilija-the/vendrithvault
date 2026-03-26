@@ -88,13 +88,11 @@ Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[
 *Karvi towards soon before the Summer Games.*
 
 
+# Other Side of the Story - the Scurvymaster
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
-
-### Other Side of the Story - the Scurvymaster
-
-In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told.
+In short: the newcomers remembered him for having lead the [[Landcrab Plot]], cooperated with the local [[Blackout Crusaders]] officially lead by Hallan, and murdering dozens towards his end of an independent Friedport where lies could no longer be told.****
 
 ![[Karvi_Bridge_WITH_SPHERE_1.0.png]]
 
@@ -104,3 +102,5 @@ Towards this end he had obtained the [[Vestitur Relics]] and prepared the local 
 
 ![[KarvisLastSmile.png]]
 *The Scurvymaster, admitting defeat before exiling himself.*
+
+> 🎵 [Theme of chasing the Master]()
