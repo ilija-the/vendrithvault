@@ -107,4 +107,4 @@ Towards this end he had obtained the [[Vestitur Relics]] and prepared the local 
 ![[KarvisLastSmile.png]]
 *The Scurvymaster, admitting defeat before exiling himself.*
 
-> 🎵[Theme of the Landcrab Priest](https://youtu.be/KtZBSw3UUlU) 🎵 [Theme of chasing the Master](https://youtu.be/cb-qq8lSGYQ)
+> 🎵[Theme of the Landcrab Priest](https://youtu.be/KtZBSw3UUlU) 🎵 [Theme of Watery Ambush](https://youtu.be/cb-qq8lSGYQ)
