@@ -41,7 +41,9 @@ A group of Philosophians jailed for suspiciously small causes escape and uncover
 #campaigns/welcome-to-friedport 
 **Setting:** [[Friedport]], 5th of Whippy 1274 ADc.
 
-Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with the opening of the later Landcrab Plot campaign, the short game saw the [[Welcoming Party]] be recruited into tracking down a thieving pirate and steal back a special piece of cargo from him.  
+Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with the opening of the later Landcrab Plot campaign, the short game saw the [[Welcoming Party]] be recruited into tracking down a thieving pirate and steal back a special piece of cargo from him. 
+
+> 🎵 [Theme of Showdown](https://youtu.be/pYUvNIAzq68)
 
 #### Fool Me Once
 #campaigns/fool-me-once 
@@ -63,6 +65,7 @@ The Landcrab Plot was a years long campaign both in and out of universe. In it, 
 #### Call of the Cardinals
 #campaigns/call-of-the-cardinal
 **Setting:** [[Ivory Crown]], 2nd tenday of Whippy 1273 ADc
+
 Call of the Cardinals was a short game that in real life happened during the Landcrab Plot, though in-universe took place some years before. It revolved around the kidnapping of [[Bishop the Peacemaker]]. [[Bishop's Disciples]] chased after the kidnappers, uncovering and stopping a [[Desecrators|Desecrator]] bomb plot lead by [[Cardinal Rackawn]]. Bishop, however, lost his life.
 
 #### Red Thread Station
@@ -73,8 +76,9 @@ A non-canon Halloween special oneshot. It took place on an eerie abandoned and d
 **Setting:** [[Rraka]], 1274 ADc.
 
 A collection of random adventurers are pulled in to explore a dungeon recently discovered under the marketplace of the Talvan city of Rraka, together with Abmetzar, a dwarf from the Forgotten Dawn Society.
-> 🎵[Ending T]
-> Themes: https://youtu.be/CZ1J9bswluY, https://youtu.be/SWpFnwGtqKU
+
+> 🎵[Opening Theme](https://youtu.be/Wykhe7OgZeA) 🎵[Ending Theme](https://youtu.be/exOi_zsOHwM)
+> 🎵[Dungeon Theme 1](https://youtu.be/CZ1J9bswluY) 🎵[Dungeon Theme 2](https://youtu.be/SWpFnwGtqKU)
 
 #### Eyes of Ire
 #campaigns/eyes-of-ire 
