@@ -16,14 +16,13 @@ Here is an overview of all campaigns currently being ran in Vendrith, or which a
 
 Road to Longdawn follows a set of travellers all trying to reach the titular Longdawn, capital of the eerie and cursed lands of Ferweth. On their way they face a multitude of mythological and horrifying creatures as well as tragic tales and dramatic intrigue.
 
-> 🎵 [Theme of Impending War](https://youtu.be/pzqtLZ23S5Q)
-
-
 #### [[Hunts of Vilhun Party|Hunts of Vilhun]]
 #campaigns/hunts-of-vilhun 
 **Setting:** [[Isle of Flod|Flod]], around 1262 ADc.
 
 A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain. 
+
+> 🎵 [Theme of Impending War](https://youtu.be/pzqtLZ23S5Q)
 
 ---
 
