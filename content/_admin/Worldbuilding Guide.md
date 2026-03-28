@@ -40,6 +40,7 @@ Things we love to see in Vendrith.
 - JRPGs in general for much of the vibes.
 - Terraria. Especially for biomes and bosses.
 - Calamity mod included for the above.
+- Zelda Tears of the Kingdom, dungeon, ancestry & world designs.
 - Elder Scrolls lore, certainly.
 - Monster Hunter!! Lovely aesthetics and vibe.
 - Chrono Trigger!!!
