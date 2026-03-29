@@ -8,7 +8,7 @@ tags:
 Status: Dead
 pronouns: He/Him
 ---
-Mag Gafn was known as a great [[Inventor|inventor]], architect and [[Performance|showman]], until he was later in life revealed to largely be a [[Charisma#Deception|fraud]]. He had been credited with the architectural plans for the [[Riseagain Tower]], in which he held the [[Riseagain Exhibition]] propped full of his many stolen 'inventions.' It was here however that he was killed by an unknown marksman, and a paper trail documenting his blatant series of thefts were uncovered.
+Mag Gafn was known as a great [[Inventor|inventor]], architect and [[Performance|showman]], until he was later in life revealed to largely be a [[Charisma#Deception|fraud]]. He had been credited with the architectural plans for the [[Riseagain Tower]], in which he held the [[Riseagain Exhibition]] propped full of his many stolen 'inventions.' It was here however that he was killed by an unknown marksman, and a paper trail documenting his blatant series of thefts were uncovered. He died just before showing off a primitive but functional dancing robot of humanoid size, perhaps the first invention of note he had created from scratch himself.
 
 ![[Mag_Gafnen_the_Magnificent.png | center | 800]]
 *Mag Gafn in his eccentric inventor clothes - at the Riseagain Exhibition.*
