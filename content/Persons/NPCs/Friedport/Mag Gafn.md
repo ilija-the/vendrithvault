@@ -13,6 +13,8 @@ Mag Gafn was known as a great [[Inventor|inventor]], architect and [[Performance
 ![[Mag_Gafnen_the_Magnificent.png | center | 800]]
 *Mag Gafn in his eccentric inventor clothes - at the Riseagain Exhibition.*
 
+> 🎵 [Theme of the Dancing Robot](https://youtu.be/5_tPakMnuyI)
+
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!
 
