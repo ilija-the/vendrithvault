@@ -143,8 +143,8 @@ Marauder
 ##### Armies
 Host
 ##### History
-Yore (the past), the lore, the tradition ("the tradition states"),
+Yore (the past), the lore, the tradition ("the tradition states"), the epics (stories),
 ##### Ethnic Group
 Tribe, Clan, 
 ##### Country/Nation
-Realm, land, province
+Realm, lands, homelands, ancestral lands, province, kingdom, princedom, duchy, sultanate, domain, imperial domain, royal domain, 
