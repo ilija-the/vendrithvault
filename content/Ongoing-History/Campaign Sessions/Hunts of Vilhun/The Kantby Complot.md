@@ -17,8 +17,8 @@ The [[Hunts of Vilhun Party]] have just left the Imperial Bay and arrive at [[Ka
 After rescuing the thrown-overboard captain of the ship and complimenting each other for their fighting prowess, they are able to procure some magic items[^1] from the mage along a letter of marquee with the intent of terrorizing and blockading the city. The letter is signed by [[Chikai Senso]].
 
 With the fight over, they finally arrive at Kantby, seeing the city under siege and the port warehouse on fire.
-
-To be continued…
 ## Session 2
+
+
 
 [^1]: The items being a pair of Pontoon Boots, a Spear of Water, and a Sextant of the Night.
