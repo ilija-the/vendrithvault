@@ -19,7 +19,7 @@ After rescuing the thrown-overboard captain of the ship and complimenting each o
 With the fight over, they finally arrive at Kantby, seeing the city under siege and the port warehouse on fire.
 ## Session 2
 
-After a lengthy firefighting session, involving rescuing a red-scaled kobold warehouse clerk Snix, the party has been directed towards the governors office. Thanks to Hachiko's prowess in flexing her noble authority, they're able to cut in line to meet the governor, [[Sora Lockneed]]. There the governor, thanks to the party's caught letter of marque, is able to deduce that the signee is a warlord far north of Kantby. With the lack of ships on the seas, it is assumed that the Senso clan base of operations is relatively nearby, problem being lack of manpower to scout the area, as well as the camp likely being hidden.
+After a lengthy firefighting session, involving rescuing a red-scaled kobold warehouse clerk [[Snix]], the party has been directed towards the governors office. Thanks to Hachiko's prowess in flexing her noble authority, they're able to cut in line to meet the governor, [[Sora Lockneed]]. There the governor, thanks to the party's caught letter of marque, is able to deduce that the signee is a warlord far north of Kantby. With the lack of ships on the seas, it is assumed that the Senso clan base of operations is relatively nearby, problem being lack of manpower to scout the area, as well as the camp likely being hidden.
 
 The party is enlisted to help find the camp before the situation in the city becomes too dire. While only running on promises of rewards, they are given lodging and food. 
 

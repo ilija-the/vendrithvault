@@ -6,4 +6,4 @@ tags:
 aliases:
   - Kobomber
 ---
-A reckless kobold bomber with an oversized, never-ending matchstick.
+A reckless [[Vilhun|Vili]] kobold bomber with an oversized, never-ending matchstick.
