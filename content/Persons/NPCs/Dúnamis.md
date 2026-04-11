@@ -9,4 +9,4 @@ aliases:
 
 ![[GnomeExample2.png|right|300]]
 
-A star-spangled gnome mage.
+A star-spangled gnome mage. Much like his looks, he seems to have star and gravity-related powers.
