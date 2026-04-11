@@ -12,7 +12,7 @@ Jade the Just was a highly popular and simultaneously controversial [[Sanitorium
 [[Philosophers of the Round]]
 [[Philosophia]]
 [[Dimitri the Deadly]]
-[[Prisoner Plot]]
+[[z_Circles Re-Traced/Prisoner Plot]]
 [[Goblin Gang War]]
 [[Jadebreakers]]
 

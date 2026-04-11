@@ -8,7 +8,7 @@ tags:
   - campaigns/eyes-of-ire
   - campaigns/winter-campaign
 ---
-Vön is a cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[Flock of Man]], but has remained an sparsely populated periphery and even experienced consistent gradual decline the last century. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
+Vön is a cold lands in eastern [[Encanath]], bordering the harsh and generally impassable [[Galaen Mountains|Mountains of]] [[Galae]] to the north and the isolationist jungles of [[Nagonkor]] to the east. Vön has a deep history tied to the early [[z_Winters of Vön/Flock of Man]], but has remained an sparsely populated periphery and even experienced consistent gradual decline the last century. It is largely integrated into Canathi ways of life, language and governance even if it retains a regional identity.
 
 ![[Mappae-Von1.png]]
 *A somewhat accurate map of Vön (that is to say, some updates may be coming).*

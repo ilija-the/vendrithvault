@@ -1,4 +1,4 @@
 [[Witch Concordat]] 
 [[Devil Deal]]
-[[Witch in Yellow]]
+[[VVIKI/Persons/NPCs/Witch in Yellow]]
 [[Old Crone]]

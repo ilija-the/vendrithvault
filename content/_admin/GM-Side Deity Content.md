@@ -103,7 +103,7 @@ Favoured weapons: Shield Bow
 
 #### Creatures
 
-### [[Hooded Saviour]]
+### [[z_Winters of Vön/Hooded Saviour]]
 #### Intercessions
 Buff 3
 Buff 2
@@ -118,7 +118,7 @@ Favoured weapons: Dagger, Fangwire
 
 #### Creatures
 
-### [[Icen Maiden]]
+### [[z_Winters of Vön/Icen Maiden]]
 #### Intercessions
 Buff 3
 Buff 2 - Ignore effects of cold terrain, gain cold resist.

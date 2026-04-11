@@ -9,7 +9,7 @@ tags:
 
 Young son of [[Father Sullivan]], murdered by [[Valentine Volmari]] by biting into his throat. 
 
-He has been unbeknownst to everyone else, turned into a form of [[dhampir]] by Valentine. Retaining his mostly childish worldview, his body turned into an ever-growing, ever-taller corpse as a result of his transformation. 
+He has been unbeknownst to everyone else, turned into a form of [[Dhampir]] by Valentine. Retaining his mostly childish worldview, his body turned into an ever-growing, ever-taller corpse as a result of his transformation. 
 
 Due to his throat being ripped out, he is mostly mute, requiring support to have semblance of speech, done by stuffing fingers into his open neck and down his throat.
 

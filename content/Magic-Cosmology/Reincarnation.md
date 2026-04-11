@@ -3,7 +3,7 @@ tags:
   - magic
   - cosmos
 ---
-[[Resurrection]]
+[[VVIKI/Magic-Cosmology/Resurrection]]
 [[Necromancy]]
 [[Occult]]
 [[Primal]]

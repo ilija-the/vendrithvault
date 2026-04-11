@@ -5,7 +5,7 @@ tags:
 ---
 ### Initial Exploration & Settlement
 
-These people brought Idurian as a common language. [[Friedport]] and most of the [[Chocolate Isles]] speaks it as such.
+These people brought Idurian as a common language. [[Friedport]] and most of the [[VVorldbuilding/Chocolate Isles]] speaks it as such.
 
 ### First Wave of Migration
 

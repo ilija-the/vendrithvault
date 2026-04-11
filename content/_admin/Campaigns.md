@@ -56,7 +56,7 @@ Fool Me Once was a short game much like a thriller, focused on hinting at more m
 
 #### The Landcrab Plot
 #campaigns/landcrab-plot 
-**Setting:** [[Chocolate Isles]], spring of 1274 to summer 1275 ADc.
+**Setting:** [[VVorldbuilding/Chocolate Isles]], spring of 1274 to summer 1275 ADc.
 
 The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]]. 
 

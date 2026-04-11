@@ -18,7 +18,7 @@ aliases:
 [Official rules page on lores.](https://2e.aonprd.com/Skills.aspx?ID=41)
 
 ### Overview
-"The underworld" is the side of society that operates outside of the bounds of the law, either fragrantly or partially, engaging in a variety of crimes. This can range from crimes such as theft, smuggling and corruption, to espionage, conspiracy, kidnapping and murder. While underworld trades can encompass a variety of skills, the most commonly used ones are [[Subterfuge#Thievery|Thievery]], [[Subterfuge#Stealth|Stealth]], [[Charisma#Intimidation|Intimidation]] and [[Charisma#Deception|Deception]].
+"The underworld" is the side of society that operates outside of the bounds of the law, either fragrantly or partially, engaging in a variety of crimes. This can range from crimes such as theft, smuggling and corruption, to espionage, conspiracy, kidnapping and murder. While underworld trades can encompass a variety of skills, the most commonly used ones are [[VVIKI/Materials-Trades/Subterfuge#Thievery|Thievery]], [[VVIKI/Materials-Trades/Subterfuge#Stealth|Stealth]], [[Charisma#Intimidation|Intimidation]] and [[Charisma#Deception|Deception]].
 
 Some of those who live in the underworld as a lifestyle are classed as [[Rogue|Rogues]]. Others, like [[Investigator|Investigators]], may be immersed in the underworld to obtain information and catch (the worst) criminals.
 

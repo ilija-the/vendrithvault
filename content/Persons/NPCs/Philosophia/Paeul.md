@@ -5,7 +5,7 @@ tags:
   - campaigns/circles
   - people/npc
 ---
-[[Valeira|Val]]
-[[Jade the Just]]
+[[z_Circles Re-Traced/Valeira|Val]]
+[[VVIKI/Persons/NPCs/Philosophia/Jade the Just]]
 [[Diamond Crisis]]
 [[Necromancy]]

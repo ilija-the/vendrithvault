@@ -47,7 +47,7 @@ In an incident that would sink the Massiri family name into shame and obscurity 
 
 ## Middle childhood - adoption and espionage
 
-Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]] - the Meisters. These two, much kinder than any family Karvi had experienced, wanted to give him a new start and a chance to grow up and develop his talents at a reasonable pace. Here, Karvi took on the new name Krynn Meister, and enrolled in the [[Academie Peripherie Philosophia]]. Karvi began writing his thesis about [[Leylines]] and [[Entanglement Stones]] at the mere age of 14.
+Karvi's name would not reappear in the records, but he would end up adopted by philanthropic elderly couple in [[Philosophia]] - the Meisters. These two, much kinder than any family Karvi had experienced, wanted to give him a new start and a chance to grow up and develop his talents at a reasonable pace. Here, Karvi took on the new name Krynn Meister, and enrolled in the [[Academie Peripherie Philosophia]]. Karvi began writing his thesis about [[Leylines]] and [[z_Winters of Vön/Entanglement Stones]] at the mere age of 14.
 
 Surrounded by intellectuals and well-travelled folks, Karvi began to make connections and friendships with a handful of people well above his age. Discussing a variety of topics about the arcane, leylines, and the great silence, Karvi was very eager to talk at length about anything. This included the lives of his beloved adoptive parents, whom were quite heavily involved in [[Sanitorium]] affairs in the background. Little did Karvi know that someone he had spoken to at length was a [[Crusaders|Crusader]] spy, utilising the information gained to do further espionage, and, sabotage Sanitorium operations.
 
@@ -102,7 +102,7 @@ In short: the newcomers remembered him for having lead the [[Landcrab Plot]], co
 
 The first victim was [[Carlos Valenci]], found killed in the Portaupearl Crypts. Another victim which did not die was [[Develyn Barbie]], which he had scoped out as having a suitable arm replacement, which he stole with the help of Doctor Hallan. He was acquainted with [[Sister Amelie Kenton]], which he manipulated and pressured into helping him towards his greater plans. Half a dozen people were killed by him in the [[Haven#Haven Massacre|Haven Massacre]], including [[Sister Innocent]], which he lured away to a murder location under the disguise of being [[Brother Archangel]]. Lastly, he also killed a worker named Spit Furst at [[O' Captain]]'s mansion.
 
-Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself using [[Entanglement Stones]] to a [[Labyrinthia|Labyrinthine]] plane.
+Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself using [[z_Winters of Vön/Entanglement Stones]] to a [[Labyrinthia|Labyrinthine]] plane.
 
 ![[KarvisLastSmile.png]]
 *The Scurvymaster, admitting defeat before exiling himself.*

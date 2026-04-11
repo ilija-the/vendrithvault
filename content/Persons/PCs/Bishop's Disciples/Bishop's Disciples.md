@@ -18,4 +18,4 @@ NPCs:
 [[Pawnshop Dill]]
 [[Rookie]]
 [[Vendy Vendetta Rapidly|Vendy]]
-[[Witch in Yellow|Belle]]
+[[VVIKI/Persons/NPCs/Witch in Yellow|Belle]]
