@@ -1,5 +1,5 @@
 [[Necromancy]]
 [[Undead]]
-[[Icen Maiden in Vön]]
+[[Icen Maiden]]
 [[Diamond Crisis]]
 [[Slavery]]
