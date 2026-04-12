@@ -14,15 +14,16 @@ Goblinoids are found in many appearances, as they are born into various forms im
 
 Goblin culture and the civilizations in which they have played a large role, such as Mogxa, have taken to naming these years after their respective most common goblin form - such as the Year of the Wolf, Year of the Goat, Year of the Boar, and so forth. 
 
+## Goblin Taxonomy
 
-| Animal Type | Location   |
-| ----------- | ---------- |
-| Aquatic     | Bog        |
-| Monkey      | Rainforest |
-| Wolf        | Plains     |
-| Boar        | Woods      |
-| Goat        | Mountain   |
-| Lizard      | Jungle     |
+![[Pasted image 20260412193549.png|right hsmall]]
+
+- Marsh Goblin (Tadpole/Fish)
+- Highland Goblin (Goat)
+- Canopy Goblin (Monkey)
+- Boscage Goblin (Boar)
+- Island Goblin (Chicken)
+- Field Goblin (Wolf)
 
 [[Goblin evolution]]
 [[Ancestries of Vendrith]]
