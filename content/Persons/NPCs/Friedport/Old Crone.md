@@ -20,6 +20,6 @@ The Old Crone was a [[Kholo]] [[Hags|Hag]] that likely was related to [[Ragnil V
 
 She cared little for their comforts, however, and eventually imprisoned Crimtone for her own 'safekeeping.' Her imprisonment was done by the [[The Fat Tiger|Fat Tiger]] for money. The Old Crone had three hags helping her at one point, named Plump, Sweet and Cream respectively.
 
-The Old Crone also conspired with the [[Blackout Crusaders]]. She worked especially closely with [[Auldwell Fareawel]] whilst trying to get [[z_Other Campaigns/3.1 Landcrab Plot/Bande Aparte]] declared guilty in a sham trial. The Old Crone, as well as Auldwell's lingering spirit, would eventually be ended by the [[Newcomers of Friedport]].
+The Old Crone also conspired with the [[Blackout Crusaders]]. She worked especially closely with [[Auldwell Fareawel]] whilst trying to get [[Bande Aparte (DB)]] declared guilty in a sham trial. The Old Crone, as well as Auldwell's lingering spirit, would eventually be ended by the [[Newcomers of Friedport]].
 
 ![[Old_Crone_2_cropped.png | center | 600]]

@@ -22,7 +22,7 @@ Here is a list of the known books of Vendrith:
 
 **Origins of the Theory of Three.** Speaks about [[Trinities]].
 
-**The Philosophised Downfall of Mogxa.** Book critical of the Philosophian system that makes grand and oddly specific claims about its eventual doomsday. Said to have been [[z_Circles Re-Traced/Jade the Just]]'s favourite book.
+**The Philosophised Downfall of Mogxa.** Book critical of the Philosophian system that makes grand and oddly specific claims about its eventual doomsday. Said to have been [[Jade the Just (DB)]]'s favourite book.
 
 **Treatise on Healing.** Old Mogxan book central to the knowledge of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
 
