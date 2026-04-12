@@ -10,7 +10,7 @@ A historical region that today is quite contested in its extent. It lies in betw
 
 ![[Mappae-Galae_1.5 1.png]]
 
-Galae was once home to the historically significant [[Elves|Elven]] [[Hightower Civilisation]], which was also propped up by the [[Amurrun]] and [[Hobgoblins]]/[[Vanara]] (before they diverged). After the downfall of the hightowers the peoples of [[Nagonkor]] inhabited large parts of Galae in a series of kingdoms by the name of Galaekor. Since their downfall and retreat, Galae has failed to form anything resembling a unifying polity or identity. A series of [[Kholo]] migrations have arrived in Galae from [[Far World - Eydwin|Eydwin]], whom has become a considerable part of the population.
+Galae was once home to the historically significant [[Elves|Elven]] [[Hightower Civilisation]], which was also propped up by the [[Amurrun]] and [[Hobgoblins]]/[[VVIKI/Ancestry-Culture/Vanara]] (before they diverged). After the downfall of the hightowers the peoples of [[Nagonkor]] inhabited large parts of Galae in a series of kingdoms by the name of Galaekor. Since their downfall and retreat, Galae has failed to form anything resembling a unifying polity or identity. A series of [[Kholo]] migrations have arrived in Galae from [[Far World - Eydwin|Eydwin]], whom has become a considerable part of the population.
 
 In recent history, Galae is most known as the battlegrounds of the [[War Over Haeven]] and [[Eternal Crusade]], primarily being played out by [[Mogxa|Mogxan]] and [[Canath|Canathi]] interests. The [[Crusaders]] and [[Sanitorium]] have much influence over the Galaen settlements near their borders.
 

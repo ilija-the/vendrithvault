@@ -12,7 +12,7 @@ aliases:
 ### Description
 **Summary** A [[Deity]] and mythical monkey-like figure said to have wandered the great expanse when he found the dead [[Sibling Dragons]], wept at the sight, and used them as a canvas to paint the world of [[Mythos of Vendrith|Vendrith]] alive on its surface.
 **Base of Worship** Entire corners of the world revere the Creator Monkey as their creator in some way or other, to the point it is almost taken for granted. However, this reverence has in later eras taken second priority to the much more immediate, earth-near worship of Titans.
-**Appearance, Items and Powers.** By tradition, is a figure much like a monkey man. The [[Vanara]] claim to be those most in his image today, after the Hobgoblins diverged from them.
+**Appearance, Items and Powers.** By tradition, is a figure much like a monkey man. The [[VVIKI/Ancestry-Culture/Vanara]] claim to be those most in his image today, after the Hobgoblins diverged from them.
 **Relations, History and Forms.**
 
 **Areas of Concern** Emotion, life, art.
