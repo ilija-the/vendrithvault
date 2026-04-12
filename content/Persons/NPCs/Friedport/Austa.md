@@ -10,4 +10,4 @@ pronouns: He/Him
 ---
 Austa is the mayor of [[Windfall]], an old man with a sense for humour and [[Performance]]. He is a mage capable of extreme feats of agility due to his mastery over air magic.
 
-![[Austa.png]]
+![[Austa.png|right]]
