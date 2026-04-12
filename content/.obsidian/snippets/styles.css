@@ -2,3 +2,31 @@
 	position: relative;
 }
 
+.sidebar {
+  width: auto;
+  max-width: 30%;
+  margin: 0.4em 1em 0.4em 1em;
+  font-size: 1em;
+  font-size: 0.9em;
+  font-weight: 400;
+  padding: 0 1em;
+}
+.sidebar .title {
+  font-size: 1.1em;
+  font-weight: 700;
+  margin: 0;
+}
+
+.sidebar.right {
+  float: right;
+  clear: right;
+  border-left: solid 2px;
+  margin-right: 5px;
+}
+
+.sidebar.left {
+  float: left;
+  clear: left;
+  border-right: solid 2px;
+  margin-left: 5px;
+}
