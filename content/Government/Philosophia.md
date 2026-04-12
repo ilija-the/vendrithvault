@@ -6,7 +6,7 @@ tags:
 aliases:
   - City of Ravens
 ---
-Philosophia[^1] is an enormous city at the centre of [[Mogxa]], and is by tradition considered both the first city and the biggest city in the world. It was founded by the [[z_Winters of Vön/Flock of Man]] under the leadership of the [[z_Winters of Vön/Icen Maiden]]. The city has a unique form of self-governance under the [[Guilds of Philosophia]] as part of the [[Pactlaw]] - a magically enforcing set of rules (like a localised [[Concordats|concordat]]) that runs on [[Leylines]]. Despite being the largest city in Mogxa and officially part of the [[Sanitorium]], its autonomy persists. The Sanitorium's first and main sanitorium building exists on the outskirts of Philosophia that are free from pactlaw rule.
+Philosophia[^1] is an enormous city at the centre of [[Mogxa]], and is by tradition considered both the first city and the biggest city in the world. It was founded by the [[Flock of Man (DB)]] under the leadership of the [[Icen Maiden in Vön]]. The city has a unique form of self-governance under the [[Guilds of Philosophia]] as part of the [[Pactlaw]] - a magically enforcing set of rules (like a localised [[Concordats|concordat]]) that runs on [[Leylines]]. Despite being the largest city in Mogxa and officially part of the [[Sanitorium]], its autonomy persists. The Sanitorium's first and main sanitorium building exists on the outskirts of Philosophia that are free from pactlaw rule.
 
 ![[Punk_Fight.png]]
 

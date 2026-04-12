@@ -18,4 +18,4 @@ He was briefly kidnapped by [[Mercenaries]] outside of [[Friedport]], but was sa
 
 
 ![[Mangx_Phoenix_of_the_Mounties.png]]
-*Mangx while exploring [[Bigthraun]] isle in the [[VVorldbuilding/Chocolate Isles]], an island full of [[Fauna]] released by a transport ship that crashed nearby.*
+*Mangx while exploring [[Bigthraun]] isle in the [[Chocolate Isles (DB)]], an island full of [[Fauna]] released by a transport ship that crashed nearby.*

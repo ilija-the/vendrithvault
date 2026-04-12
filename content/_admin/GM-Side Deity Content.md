@@ -118,7 +118,7 @@ Favoured weapons: Dagger, Fangwire
 
 #### Creatures
 
-### [[z_Winters of Vön/Icen Maiden]]
+### [[Icen Maiden in Vön]]
 #### Intercessions
 Buff 3
 Buff 2 - Ignore effects of cold terrain, gain cold resist.

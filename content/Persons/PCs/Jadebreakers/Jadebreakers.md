@@ -6,7 +6,7 @@ tags:
 The Jadebreakers are a [[Philosophia|Philosophian]] group that were at the centre of the [[Jadefall Crisis]].
 
 The group is known to consist of:
-[[VVIKI/Persons/PCs/Jadebreakers/Valeira]], an aiuvarin necromancer.
+[[Valeira (DB)]], an aiuvarin necromancer.
 [[Beirgit]], a goblin spellcaster.
 [[VVIKI/Persons/PCs/Jadebreakers/Shzorzy]], a kashrishi (unconfirmed) tinkerer.
 [[VVIKI/Persons/PCs/Jadebreakers/Sir Gordon|Gordon]], a wereforged soldier.
