@@ -4,8 +4,6 @@ tags:
 ---
 [[index|Click here to return to the index.]]
 
-!
-
 For those who haven't used obsidian - the quickest possible rundown is...
 
 - Reading the [official Obsidian wiki](https://help.obsidian.md/)!
