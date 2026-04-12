@@ -1,1 +1,1 @@
-*Related to [[Faceless Stalker]].* 
+An [[Aquatic]] being of[[Faceless Stalker]]. 
