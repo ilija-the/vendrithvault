@@ -1,1 +1,1 @@
-An [[Aquatic]] being of[[Faceless Stalker]]. 
+An [[Aquatic]] monster of myth that wields great and magical power. They are thought to serve the [[Ocean King]], or for the Ocean King to be one himself. [[Faceless Stalker|Faceless Stalkers]] serve the Alghollthu as agents that can infiltrate surface society.
