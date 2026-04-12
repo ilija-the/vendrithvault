@@ -37,7 +37,7 @@ See [[Hun Lords]] for information as to the Hun Lords, but they are not the only
 | Rarity   | Deities                                                                                                                                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Common   | [[Hun Lords\|The Hun Lords]], [[Awaited Architect]], [[Bombastic Peace]], [[Cosmic Guide]], [[Luminous Idea]][^1], [[Devil Queen of Crimson\|Oathbound Firestorm]][^2], [[Relentless Pen]], [[Resting Crown]], [[Wheel of Death]], [[Wordless Fleece]] |
-| Uncommon | [[Ancient Survivor]], [[Hooded Saviour in Vön]], [[Macabre Maelstrom]], [[Masked Showrunner]], [[Primordial Shepherd]]                                                                                                                                 |
+| Uncommon | [[Ancient Survivor]], [[Hooded Saviour]], [[Macabre Maelstrom]], [[Masked Showrunner]], [[Primordial Shepherd]]                                                                                                                                        |
 | Rare     | [[Icen Maiden]], [[Twotailed Drake]]                                                                                                                                                                                                                   |
 
 [^1]: Often adjacent to the [[Steel Lord]].

@@ -103,7 +103,7 @@ Favoured weapons: Shield Bow
 
 #### Creatures
 
-### [[Hooded Saviour in Vön]]
+### [[Hooded Saviour]]
 #### Intercessions
 Buff 3
 Buff 2
