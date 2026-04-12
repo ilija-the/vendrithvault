@@ -15,6 +15,6 @@ Many of the [[Languages|Languages of Vendrith]] are deeply tied to the [[Ancestr
 [[Dwarves]]
 [[Trip-kee]]
 [[Ysoki]]
-[[VVIKI/Ancestry-Culture/Vanara]]
+[[Vanara]]
 [[Orcs]]
 [[Dragons]]

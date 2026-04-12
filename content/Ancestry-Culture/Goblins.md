@@ -18,6 +18,8 @@ Goblin culture and the civilizations in which they have played a large role, suc
 
 ![[Pasted image 20260412193549.png|right hsmall]]
 
+Goblins can range from 'traditional,' 'plain' goblins to those influenced by their animal heritage / respective environment. The chart on the right highlights each biome and animal-kind the goblinoids can take.
+
 - Marsh Goblin (Tadpole/Fish)
 - Highland Goblin (Goat)
 - Canopy Goblin (Monkey)
