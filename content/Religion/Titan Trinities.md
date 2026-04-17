@@ -17,7 +17,7 @@ Also tied to Gluttony and Temperance. Has been held by the [[Luminous Idea]], [[
 Also tied to Pride and Humility. Has been held by [[Relentless Pen]], [[Resting Crown]], [[Imminent Fortune]] and [[Astral Guide]]. 
 
 ### [[Trinity of Relationships and Hierarchy]].
-Also tied to Lust and Love. Has been held by [[VVIKI/Religion/Titans/Icen Maiden]], [[Masked Showrunner]] and [[VVIKI/Religion/Titans/Hooded Saviour]]. 
+Also tied to Lust and Love. Has been held by [[Icen Maiden]], [[Masked Showrunner]] and [[Hooded Saviour]]. 
 
 ### [[Trinity of Samsara and the Veil]].
 Also tied to Envy and Charity. Has been held by the [[Ancient Survivor]], [[Promised Revealer]] and [[Wheel of Death]].

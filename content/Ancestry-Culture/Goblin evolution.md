@@ -5,7 +5,7 @@ tags:
 [[Humans]]
 [[Goblinoids]]
 [[Goblins]]
-[[VVIKI/Ancestry-Culture/Vanara]]
+[[Vanara]]
 [[Hobgoblins]]
 [[Creator Monkey]]
 [[First Ascended]] (not goblin, but reminiscent)

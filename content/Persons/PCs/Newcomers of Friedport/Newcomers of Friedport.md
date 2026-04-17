@@ -3,7 +3,7 @@ tags:
   - parties
   - campaigns/landcrab-plot
 ---
-A group of adventurers originally consisting of [[Ashur Holdok]], [[VVIKI/Persons/PCs/Newcomers of Friedport/Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Landcrab Plot|Landcrab Plot]] and stop [[Operation Blackout]]. Sebastian Faust parted ways with the group as he left Friedport for Galae through the [[Haven|Haven]] portal. Louen died in the line of duty before the plot was fully unravelled in Mahambanville. Gator, Ashur, Roslyn, Magnus and Cardinal all participated in the [[Summer Games]], which earned them the titles (unofficially, in the case of Cardinal) of [[Herō of Friedport]]. 
+A group of adventurers originally consisting of [[Ashur Holdok]], [[Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Landcrab Plot|Landcrab Plot]] and stop [[Operation Blackout]]. Sebastian Faust parted ways with the group as he left Friedport for Galae through the [[Haven|Haven]] portal. Louen died in the line of duty before the plot was fully unravelled in Mahambanville. Gator, Ashur, Roslyn, Magnus and Cardinal all participated in the [[Summer Games]], which earned them the titles (unofficially, in the case of Cardinal) of [[Herō of Friedport]]. 
 
 ![[Newcomers_Final_Token_Temp2_ZOOMED.png]]
 > 🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g)

@@ -11,7 +11,7 @@ A friendly, small and green trip-kee known for wearing a cowboy hat. As a summon
 
 ![[Gator_and_Schnappi.png]]
 
-After leaving the jungle and traversing civilization, Gator took on small jobs for various villages and learned to speak Idurian whilst doing so. Gator Grippli eventually sought his fortunes in the new world, as he travelled to [[Friedport]]. Here he would meet [[Ashur Holdok]] and [[VVIKI/Persons/PCs/Newcomers of Friedport/Bande Aparte]], with whom he formed the [[Newcomers of Friedport]]. 
+After leaving the jungle and traversing civilization, Gator took on small jobs for various villages and learned to speak Idurian whilst doing so. Gator Grippli eventually sought his fortunes in the new world, as he travelled to [[Friedport]]. Here he would meet [[Ashur Holdok]] and [[Bande Aparte]], with whom he formed the [[Newcomers of Friedport]]. 
 
 Together with the newcomers Gator worked on uncovering the brewing [[Landcrab Plot|Landcrab Plot]]. Gator played a leading role in having Ashur [[Reincarnation|reincarnated]] after his untimely demise. It was also in Friedport Gator met the hunter and killer of Schnappi's mother - Gozi Windaji. Gator Grippli would go on to learn that Gozi was partners in crime with the thief and friend of Gator [[Vendy Vendetta Rapidly]], cooperating to try to steal their way out of a sort of slave-slike contractual obligation to the Fat Tiger. Eventually managing to see Gozi as a victim of unfair circumstances, Gator was able to work alongside Gozi and Vendy to hunt for the [[Vestitur Relics]].
 

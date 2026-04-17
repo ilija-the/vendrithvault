@@ -12,6 +12,6 @@ The [[Planes of Vendrith|Plane]] most souls of [[Ancestries of Vendrith|people]]
 
 Descriptions of the River of Death vary, though it is almost always described as a shallow river in a hazy and dark environment. The 'landscape' around it is often depicted as frozen over and snowy, with shadows reminiscent of dead trees and an eerie lack of wildlife to accompany it.
 
-Those whom have performed [[VVIKI/Magic-Cosmology/Resurrection]] or been brought back to it describe it as a hazy and highly personal memory. Based on first-hand accounts, souls likely experience the memories and pent-up emotions of their lives one last time, in one last march down the river, before disappearing forever. 
+Those whom have performed [[Resurrection]] or been brought back to it describe it as a hazy and highly personal memory. Based on first-hand accounts, souls likely experience the memories and pent-up emotions of their lives one last time, in one last march down the river, before disappearing forever. 
 
 The River of Death serves an important purpose in the [[Great Flow|Great Flow Theory]]. In a sense it is the most direct evidence that essence flows "downwards," in the sense that death seems like an unavoidable end that takes ones soul down with it, likely to never rise again. As the theory states more essence must descend than can ascend, and that ascension up the flow causes a proportionate amount of extra descension, necromancy is viewed as having a 'cost' and corrupting effect on the world in most interpretations.
