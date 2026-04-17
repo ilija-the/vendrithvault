@@ -23,7 +23,7 @@ Road to Longdawn follows a set of travellers all trying to reach the titular Lon
 #### [[Hunts of Vilhun Party|Hunts of Vilhun]]
 
 #campaigns/hunts-of-vilhun
-**Setting:** [[Isle of Flod|Flod]], around 1262 ADc.
+**Setting:** [[Isle of Flod|Flod]], around 1272 ADc.
 
 A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and coveted island of Flod, officially to attempt to restore order. What possibilities or death awaits is uncertain.
 
