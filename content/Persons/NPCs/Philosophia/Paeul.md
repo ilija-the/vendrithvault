@@ -6,7 +6,7 @@ tags:
   - people/npc
 ---
 
-[[z_Circles Re-Traced/Valeira|Val]]
+[[Valeira|Val]]
 [[Jade the Just]]
 [[Diamond Crisis]]
 [[Necromancy]]
