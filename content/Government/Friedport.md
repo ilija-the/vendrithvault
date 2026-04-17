@@ -13,7 +13,7 @@ Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], 
 >The city of Friedport at night, as seen from flight over the bay to its north. 
 >  🎵[Theme of Sunny Friedport](https://youtu.be/4HUGKVWPFuM) 🎵[Theme of Friedport at Night](https://youtu.be/ZZ8ZOk8MECA) 🎵 [Theme of a Friedport Tavern](https://youtu.be/16vLKl4_bNo)
 
-Friedport sits on an island in the [[VVIKI/Geography-Government/Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
+Friedport sits on an island in the [[Chocolate Isles]]. The nearby smaller settlements such as [[Saint Earlybird]] (which itself claims to be the first settlement), [[Honeykiller]], [[The Rum Hills]], and [[Meadport]] all rely on support from Friedport. In turn however, Friedport is heavily reliant on these settlements to supplement its food (which it otherwise only really gets from Iduria).
 
 The City of Friedport is unusually multicultural, though it has developed its own unique culture and tribal system to maintain social cohesion. These tribes are known as the [[Landcrabs|Landcrab Tribes]]. The Landcrabs make up a majority population of the city, but have remained distinct from the newer generations of guildsmen and migrants to Friedport - often staying in the [[Portaupearl]] district. Famously, Portaupearl built a wall separating the Landcrabs from the centre of power and commerce in the city, though it was recently torn down in multiple places and not rebuilt.
 
