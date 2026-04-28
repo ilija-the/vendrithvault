@@ -4,6 +4,7 @@ aliases:
   - Book
   - book
   - books
+  - diagetic books
 tags:
   - admin
 ---
@@ -31,6 +32,10 @@ Here is a list of the known books of Vendrith:
 **Understanding the Great Flow.** Relatively modern interpretation and summary the theories of the [[Great Flow]]. Lacks a lot of the references to specific planes of older books.
 
 **A. Plumbus Collection.** Highly acclaimed series on farming, written for low-literacy readers, now collected in one intimidatingly large book. The book functions as an improvised weapon that deals 1d4 bludgeoning damage and has the backswing trait.
+
+**The Codex of Alchemical Engineering** A heavy-bound encyclopedia of alchemical recipes, known for its lengthy indexes categorizing recipes alphabetically, chronologically, and by author. Ending at a hefty 20 tomes, its the most comprehensive collection of alchemical knowledge, one that any alchemist wishes they could copy from, but not necessarily own. As such, its printing has been ended in favor of the shorter form [[Diegetic Books#^alchemical-journal|Journal of Alchemical Engineering]]. ^alchemical-codex
+
+**The Journal of Alchemical Engineering** A continuation of the [[#^alchemical-codex|Codex of Alchemical Engineering]]. The much shorter form scientific journal publishes new innovations in the realms of alchemy, as well as celebrating accomplishments of renowned alchemists. Volumes of journals are often themed around a specific topic, such as *A Time of Medicinal Advances*, *The Discovery of Quintessence*, *Alchemy for the Home*, or *Collected Works of Independent Research*.  ^alchemical-journal
 
 ### Stories
 
