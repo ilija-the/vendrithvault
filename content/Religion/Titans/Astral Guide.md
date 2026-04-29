@@ -24,7 +24,7 @@ aliases:
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify** Must Holy.
 **Weapons** [Sun Sling](https://2e.aonprd.com/Weapons.aspx?ID=248).
-**Spells** (also see [[Cleric Spells]])
+**Spells** (also see [[Devotee Benefits]])
 **(1) [Buoyant Bubbles](https://2e.aonprd.com/Spells.aspx?ID=1383)**
 (2) [Albatross Curse](https://2e.aonprd.com/Spells.aspx?ID=1946)
 (3) [Far Sight](https://2e.aonprd.com/Spells.aspx?ID=1101)
