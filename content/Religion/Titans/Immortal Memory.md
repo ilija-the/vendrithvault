@@ -5,9 +5,10 @@ aliases:
   - The Memory
   - Restored Memory
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** The Immortal Memory is the weird deity of the family, but also one that is quite uncontroversial. They are a caretaker of the dead generally, and specifically their memories, which contain millennia of experience and knowledge. The Restored Memory is also known for planting the firearm the Hooded Saviour stole, archiving it in the same way it does with all knowledge. The Immortal Memory's followers usually excuse themselves from partaking in armed conflicts, instead providing healing and shelter to the injured. The Immortal Memory's priests are still permitted to defend themselves and others immediately around them, and a very few of them are sent on secret missions to secure the dying words of very important individuals.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,7 +19,7 @@ aliases:
 **Anathema** Destroy unique information, fail to document a dying person's words, seek out partaking in violence.
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [Vigil](https://2e.aonprd.com/Domains.aspx?ID=123), [Repose](https://2e.aonprd.com/Domains.aspx?ID=116), [Death](https://2e.aonprd.com/Domains.aspx?ID=70).
 **Alternate** [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Undeath](https://2e.aonprd.com/Domains.aspx?ID=97).
 **Skill** Nature.

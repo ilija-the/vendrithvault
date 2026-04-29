@@ -6,9 +6,10 @@ tags:
 aliases:
   - The Peace
 ---
-> [!important] WIP!
-> Subject to changes. Further info
-### Description
+# Story
+
+
+# Description
 **Summary** Volcanoes destroy, yet also lay fertile ash. Cannons destroy, yet also deters attackers in the first place. 
 **Base of Worship** Many near volcanoes, in city states, or in order regions (especially walled ones) see the Bombastic Peace as their protector.
 **Appearance, Items and Powers.** Sometimes described as having the head of an anteater.
@@ -19,7 +20,7 @@ aliases:
 **Anathema** Wage needlessly destructive war
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=99), [Protection](https://2e.aonprd.com/Domains.aspx?ID=90).
 **Alternate** [Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85).
 **Skill** Crafting

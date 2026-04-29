@@ -6,9 +6,10 @@ tags:
 aliases:
   - The Architect
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Arbiter and creator of time, or another form time takes on, magic. Has yet to exist, yet is watching all. Said to have inherited the analytical side of the [[Creator Monkey|Creator Monkey's]] personality.
 **Base of Worship** Elves, librarians and high mages.
 **Appearance, Items and Powers.** Depicted with a unique staff containing both an hourglass and an endless scroll.
@@ -19,7 +20,7 @@ aliases:
 **Anathema** 
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Time](https://2e.aonprd.com/Domains.aspx?ID=121), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114), [Decay](https://2e.aonprd.com/Domains.aspx?ID=104).
 **Alternate** [Change](https://2e.aonprd.com/Domains.aspx?ID=102), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), Artifice (Clerics+).
 **Skill** Arcana.

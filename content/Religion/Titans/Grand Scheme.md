@@ -5,9 +5,10 @@ tags:
 aliases:
   - The Scheme
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** The Grand Scheme is the brother of strategy, sibling of the [[Triumphant Successor]]. A well stocked-supply of weapons, morale, logistics, all means to victory.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,7 +19,7 @@ aliases:
 **Anathema** Show your hand too early, run out of supplies
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Healing](https://2e.aonprd.com/Domains.aspx?ID=78), [Metal](https://2e.aonprd.com/Domains.aspx?ID=112), [Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71).
 **Alternate** [Fate](https://2e.aonprd.com/Domains.aspx?ID=75), [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120).
 **Skill** Medicine.

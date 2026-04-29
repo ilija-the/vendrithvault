@@ -4,9 +4,10 @@ tags:
 aliases:
   - The Fortune
 ---
-> [!important] WIP!
-> Subject to changes. Probably removed in favour of a duo between the Pen and the Guide?
-### Description
+# Story
+
+
+# Description
 **Summary** Mistress of victory - the coalescence of luck, determination, fate and willpower.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -17,7 +18,7 @@ aliases:
 **Anathema**
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Fate](https://2e.aonprd.com/Domains.aspx?ID=75), [Luck](https://2e.aonprd.com/Domains.aspx?ID=81), [Star](https://2e.aonprd.com/Domains.aspx?ID=119), [Toil](https://2e.aonprd.com/Domains.aspx?ID=122)
 **Alternate**
 **Skill** Diplomacy.

@@ -8,10 +8,10 @@ tags:
   - religion/deities/titans
   - cosmos/planes/crimson
 ---
-> [!important] WIP!
-> Subject to changes.
+# Story
 
-### Description
+
+# Description
 **Summary** The fiercely loyal lead soldier once served as the Guardian [[Angel]] of [[Haeven]], now turned Queen of [[Devil|Devils]]. During the war over heaven, she turned swathes of Galae into a desert of blood [[Crimson#Creation of Crimson.|carving out]] the plane of [[Crimson]], from which she continues the fight with her devil armies and serves as a pseudo-titan.
 **Base of Worship** She has the majority of lesser [[Devil|Devils]] at her beck and call. Though she is generally controversial to worship from Materia, she is seen as a steadfast warrior for the Crusader cause by some.
 **Appearance, Items and Powers.** 
@@ -22,7 +22,7 @@ tags:
 **Anathema** Break your oaths, lament your situation
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Dust](https://2e.aonprd.com/Domains.aspx?ID=107).
 **Alternate** [Naga](https://2e.aonprd.com/Domains.aspx?ID=113), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71), Judgement (Clerics+).
 **Skill** Diplomacy.

@@ -6,9 +6,10 @@ aliases:
   - The Maiden
   - Tyrant of Philosophia
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** A brilliant strategist in her time, the deity now known as the Icen Maiden is the ice cold husk of what was once the Empress of Mankind. Having subjugated every known human tribe at the time, discovered the existence of leylines, and founded the universal city of Philosophia, it is no wonder people are still inspired by her deeds before her heart froze over. Though, of course there are those who respect or envy her tyrannical and frightening reputation. 
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -19,7 +20,7 @@ aliases:
 **Anathema** Accept ridicule from those whom are lesser
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Cold](https://2e.aonprd.com/Domains.aspx?ID=103), [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=96), [Undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
 **Alternate** [Cities](https://2e.aonprd.com/Domains.aspx?ID=66), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82)
 **Skill** Society.

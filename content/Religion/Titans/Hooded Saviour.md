@@ -5,9 +5,10 @@ tags:
 aliases:
   - The Saviour
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Breaker of rules, the hooded saviour does what feels right even when it is regarded as wrong. Laws and philosophy always demand re-examination. Once a faithful lover, driven to kill their love.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,7 +19,7 @@ aliases:
 **Anathema** Act without reason, let yourself be pressured
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Introspection](https://2e.aonprd.com/Domains.aspx?ID=110), [Darkness]([Introspection](https://2e.aonprd.com/Domains.aspx?ID=110))
 **Alternate** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Sorrow](https://2e.aonprd.com/Domains.aspx?ID=117).
 **Skill** Thievery.
