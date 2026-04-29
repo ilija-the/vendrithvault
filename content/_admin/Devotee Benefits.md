@@ -17,6 +17,8 @@ Reverenced deities, those whom have ascended above even heaven, work the same, a
 
 **Normally** in PF2e these are always one 1st rank spell, and then two other spells of slightly varying ranks. However an exception is made for the Deity of Magic (Nethys) in its lore, and frankly shows that it does not break the game. In order to get more personality and use out of the deities - in Vendrith all deities grant Cleric Spells of every Spell Rank. These are mostly original per deity to ensure variety, though there is overlap on the last couple ranks of spells due to limited selection.
 
+**IF** y
+
 Other options, like the [Faith Tattoo](https://2e.aonprd.com/Equipment.aspx?ID=2207) can grant access to your deity's Cleric Spells. You can work with your GM to get a Faith Tattoo, or other homebrewed thematic item, that grants access to a Cleric Spell of a specific Rank you'd like (using the GM guidelines for item creations, cost, access to spells of which rank, etc.). GMs are encouraged to make themed religious items that take grant or buff Deity's cleric spells. 
 
 Crusader Archetypes (whenever they get developed - if you are interested in playing one for a fitting campaign please say so) will get access to Cleric Spells in some form or other.
