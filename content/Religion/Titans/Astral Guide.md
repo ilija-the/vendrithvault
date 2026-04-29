@@ -5,11 +5,6 @@ tags:
 aliases:
   - The Guide
 ---
-> [!important] WIP!
-> Subject to changes. 
-> 
-> In particular, Ilija has considered a greater opposition between a titan akin to the Astral Guide, who leads a fluid and ocean-like guiding light and destiny; and a titan akin to the Feathered Pen, whom sees the destinies fixed in the stars and writes them down so one can embrace it. Possible real life inspirations for the Astral Guide include: Gytrash, Castor and Pollux, Ariadne, Hermes, Saint Cristopher, Hectate, Trivia, Khonsu, Xaman Ek, the Hajj.
-
 ### Description
 **Summary** The Astral Guide serves as a guiding light to those whom are lost.
 **Base of Worship** He finds much of his support amongst sailors and explorers, but also sometimes fortune tellers, or people of power seeking guidance on how to lead. Anyone may turn to the Guide when lost.
