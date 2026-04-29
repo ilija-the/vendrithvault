@@ -4,9 +4,10 @@ tags:
 aliases:
   - The Successor
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Brother of tactics, striving, self-improvement and fair competition to some. Blamed as the fool that started the chain of events that lead to the [[War Over Haeven]]. Sibling of [[Grand Scheme]] that wanted to become a titan like his brother.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -17,7 +18,7 @@ aliases:
 **Anathema** Hide your intentions, take pride in beating a lesser enemy
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [Toil](https://2e.aonprd.com/Domains.aspx?ID=122), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Lightning](https://2e.aonprd.com/Domains.aspx?ID=111)
 **Alternate** [Might](https://2e.aonprd.com/Domains.aspx?ID=83)
 **Skill** Athletics.

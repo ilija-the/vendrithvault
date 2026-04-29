@@ -5,9 +5,10 @@ tags:
 aliases:
   - The Revealer
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Creator of the [[Orcs]] and worshipped as a prophet. An alternate or heretical version of this teachings culminate in the worship of the [[Macabre Maelstrom]]. Prophet of the [[Lotus Orcus]], once leader of the orcish people created from its use. Promised to lead the charge in revealing the underlying truths about the existence we find ourselves in.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,7 +19,7 @@ aliases:
 **Anathema** Think that the universe plays dice,
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Disorientation](https://2e.aonprd.com/Domains.aspx?ID=105), [Dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Magic](https://2e.aonprd.com/Domains.aspx?ID=82) (one has to go)
 **Alternate** [Truth](https://2e.aonprd.com/Domains.aspx?ID=95), [Nothingness](https://2e.aonprd.com/Domains.aspx?ID=114)
 **Skill** Occultism.

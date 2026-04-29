@@ -4,9 +4,10 @@ tags:
 aliases:
   - The Wheel
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Plants cannot grow if not spaced apart, and animal colonies are culled by their own pestilence. The life that finds its hidden and safe living space because of natural limits is beautiful.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -17,7 +18,7 @@ aliases:
 **Anathema** Try to save everyone
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120), [Plague](https://2e.aonprd.com/Domains.aspx?ID=115), [Cities](https://2e.aonprd.com/Domains.aspx?ID=66).
 **Alternate** [Decay](https://2e.aonprd.com/Domains.aspx?ID=104), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76) (changed).
 **Skill** Stealth.

@@ -6,9 +6,10 @@ tags:
 aliases:
   - The Shepherd
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** Survivor of the end of the world, conqueror of the age of megafauna, watcher of the resurrected guardians, tamer of beasts, owner of beloved pets, and one hell of a tough deity that refuses to perish.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -19,7 +20,7 @@ aliases:
 **Anathema** Take more meat than you need
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Nature](https://2e.aonprd.com/Domains.aspx?ID=85), [Might](https://2e.aonprd.com/Domains.aspx?ID=83), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Healing](https://2e.aonprd.com/Domains.aspx?ID=78).
 **Alternate** [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120), [Earth](https://2e.aonprd.com/Domains.aspx?ID=73).
 **Skill** Nature.

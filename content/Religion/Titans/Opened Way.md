@@ -4,9 +4,10 @@ tags:
 aliases:
   - The Way
 ---
-> [!important] WIP!
-> Subject to changes.
-### Description
+# Story
+
+
+# Description
 **Summary** An aloof and mysterious deity that did what it pleased, the Opened Way made a huge splash as their existence as a deity was discovered in the middle of a battlefield-to-be, simply sunbathing and enjoying a nice coconut drink. It has been speculated they constructed the divine fleet that uncovered Horiza.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -17,7 +18,7 @@ aliases:
 **Anathema** 
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Air](https://2e.aonprd.com/Domains.aspx?ID=65).
 **Alternate** [Water](https://2e.aonprd.com/Domains.aspx?ID=98), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124).
 **Skill** Acrobatics.

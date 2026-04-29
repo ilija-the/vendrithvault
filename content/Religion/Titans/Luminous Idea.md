@@ -19,7 +19,7 @@ aliases:
 **Anathema** Accept a sub-par solution
 
 ---
-### Mechanical Details
+# Mechanical Details
 **Domains** [Sun](https://2e.aonprd.com/Domains.aspx?ID=92), [Creation](https://2e.aonprd.com/Domains.aspx?ID=68), [Lightning](https://2e.aonprd.com/Domains.aspx?ID=111), [Wood](https://2e.aonprd.com/Domains.aspx?ID=124).
 **Alternate** 
 **Skill** Crafting.

@@ -6,9 +6,10 @@ tags:
 aliases:
   - The Pen
 ---
-> [!important] WIP!
-> Subject to changes. Rebuild into the Preordained Pen? Opposition to Astral Guide. Destiny and fate, one luck, perserverence in chaos. Stars vs ocean. Books versus canvas.
-### Description
+# Story
+
+
+# Description
 **Summary** The draconic overseer of the dawn of an age of literature, stories and education; as they introduced the written word into a world a culture that had previously rejected it. This was not done peacefully however, and it is their brutal dedication to the endless accumulation of knowledge that makes the feathered pen both feared and respected.
 **Base of Worship** 
 **Appearance, Items and Powers.**
