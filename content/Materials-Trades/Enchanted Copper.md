@@ -1,0 +1,1 @@
+Enchanted Copper was formerly a common  material in [[Encanath]] for its ease of magical enchantment, now largely replaced by [[Enchanted Bronze]]. It is still used to make [[Cannons|Copper Cannons]], however.

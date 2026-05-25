@@ -1,0 +1,285 @@
+{
+  "size": {
+    "w": 2551,
+    "h": 1510
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_qtwvjj",
+      "x": 0.5454910545884152,
+      "y": 0.5846340776866816,
+      "layer": "default",
+      "link": "Grand Gate",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ic5j2o",
+      "x": 0.6048279397211132,
+      "y": 0.3573160737121832,
+      "layer": "default",
+      "link": "Cragmoore",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_uirn5a",
+      "x": 0.8191414014670415,
+      "y": 0.87708035648173,
+      "layer": "default",
+      "link": "Philosophia",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_m421mb",
+      "x": 0.6162630428495431,
+      "y": 0.7613224541214774,
+      "layer": "default",
+      "link": "Zardoba",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pesjjj",
+      "x": 0.5346789457991209,
+      "y": 0.46848399861514706,
+      "layer": "default",
+      "link": "The Scar",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_yjhd3q",
+      "x": 0.3168340545064372,
+      "y": 0.28112190304904394,
+      "layer": "default",
+      "link": "Crimson Desert",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_vofhms",
+      "x": 0.09948256167545856,
+      "y": 0.5732962488459056,
+      "layer": "default",
+      "link": "Kallea",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kb3wic",
+      "x": 0.3132599336799584,
+      "y": 0.4641577944497988,
+      "layer": "default",
+      "link": "Babael",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_f5dh0c",
+      "x": 0.30513805869414784,
+      "y": 0.6905306271082167,
+      "layer": "default",
+      "link": "Silver Pass",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_n66eh3",
+      "x": 0.22875031734310947,
+      "y": 0.6849500972156375,
+      "layer": "default",
+      "link": "Riverside",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ghg7mb",
+      "x": 0.2772344917279319,
+      "y": 0.7710212311864536,
+      "layer": "default",
+      "link": "Vön",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_4jivvx",
+      "x": 0.3651401753280078,
+      "y": 0.8935556175480918,
+      "layer": "default",
+      "link": "Nagonkor",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_wptis3",
+      "x": 0.42376615647876065,
+      "y": 0.7810687299054686,
+      "layer": "default",
+      "link": "Regal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tydubt",
+      "x": 0.37386717060715857,
+      "y": 0.743319410851755,
+      "layer": "default",
+      "link": "Regal Path",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_u43rb6",
+      "x": 0.5157000439793988,
+      "y": 0.7537202952316562,
+      "layer": "default",
+      "link": "The Rend",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bi7fh8",
+      "x": 0.5465011895637729,
+      "y": 0.21745056429683388,
+      "layer": "default",
+      "link": "Blissfeldt Coast",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_0jwray",
+      "x": 0.6799788991043424,
+      "y": 0.18561959618644056,
+      "layer": "default",
+      "link": "Eleina",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8h69d9",
+      "x": 0.8838226836999131,
+      "y": 0.35696279087571803,
+      "layer": "default",
+      "link": "Enui",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_df1twm",
+      "x": 0.23902611576633104,
+      "y": 0.5279563598126207,
+      "layer": "default",
+      "link": "Path of Gold",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tlb555",
+      "x": 0.24234172015365155,
+      "y": 0.5758969793678903,
+      "layer": "default",
+      "link": "Bronze Canal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_1c267k",
+      "x": 0.46669025256575386,
+      "y": 0.33156683794041547,
+      "layer": "default",
+      "link": "Littlehorne",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ijyaoh",
+      "x": 0.16311521271296112,
+      "y": 0.10660314600614702,
+      "layer": "default",
+      "link": "Twinberry",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_7xp8s2",
+      "x": 0.27953717182254434,
+      "y": 0.100429345114711,
+      "layer": "default",
+      "link": "Vanderkact",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pah32f",
+      "x": 0.07091690544412609,
+      "y": 0.3502699588701873,
+      "layer": "default",
+      "link": "Celestaria",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_d01kh7",
+      "x": 0.07306590257879657,
+      "y": 0.43887744252737243,
+      "layer": "default",
+      "link": "Eyne",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "_admin/Assets/Mappae-Galae_1.5 1.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_admin/Assets/Mappae-Galae_1.5 1.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

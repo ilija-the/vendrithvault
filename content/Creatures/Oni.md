@@ -1,0 +1,7 @@
+Oni as a term is a general classification of powerful monsters in the [[Vilhun|Vili]] language, but also encompasses a specific archetype of large, [[Demon|demonic]] looking ogres, which this article is about.
+
+Depicted as blood-soaked butchers of the Vili mountains and swamps, these cannibalistic people are highly territorial and do not see any issues eating anything that moves, including humanoids. This does not mean they cannot be clever or intelligent however.
+
+While often mistaken for, or plainly called demons, they are not demons and do not have any particular cosmological inclinations beyond primal or occult magic. Oni with primal inclinations are often seen with animal characteristics such as that of wolves, jaguars, panthers, and boars. Meanwhile Oni with occult inclinations have a more [[Hags|Hag]]-like appearance and are thought of to be the most cunning of Oni.
+
+The Oni are also a historical enemy of the [[Dragons]]. Having controlled entire islands of the Vili archipelago, they were conquered over the years by [[The Vilhi Sultanate]] with the help of dragons with the promise of handing over the lands to them as tributaries of the sultanate. However, ever since the [[Draconic Concordat]], the dragon's control over the regions waned and now the few old remaining Oni that survived are starting to take back their grazing pastures once again.

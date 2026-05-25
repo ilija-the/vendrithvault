@@ -1,0 +1,5 @@
+---
+tags:
+  - places
+---
+Place Information

@@ -1,0 +1,8 @@
+---
+tags:
+  - people/npc
+  - campaigns/road-to-longdawn
+---
+![[Abe_Venstock.webp|right|300]]
+
+Once-missing brother of [[Kaya Venstock]]. Found hiding in a crypt taken over by vampirs led by [[Beast King Luca]].

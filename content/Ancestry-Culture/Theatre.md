@@ -1,0 +1,5 @@
+[[Gen]]
+[[Argathian Statues]]
+[[Bard]]
+[[Circus]]
+[[Blue Dawn Academy]]

@@ -1,0 +1,6 @@
+---
+aliases:
+  - curses
+  - curse
+  - cursed
+---

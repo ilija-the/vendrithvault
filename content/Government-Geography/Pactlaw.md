@@ -1,0 +1,2 @@
+#society 
+An ancient [[Concordats]] that permits the [[Guilds of Philosophia]] to run the city of [[Philosophia]] independently, even though they have usually sworn allegiance to whichever empire has ruled its surroundings.

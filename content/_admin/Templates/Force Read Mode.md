@@ -1,0 +1,5 @@
+```
+---
+obsidianUIMode: preview
+---
+```

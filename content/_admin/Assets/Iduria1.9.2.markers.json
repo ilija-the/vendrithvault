@@ -1,0 +1,505 @@
+{
+  "size": {
+    "w": 8024,
+    "h": 5288
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_kh3ity",
+      "x": 0.6485840063802447,
+      "y": 0.6326703033638746,
+      "layer": "default",
+      "link": "Philosophia",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_nezc3t",
+      "x": 0.7638970714008568,
+      "y": 0.7287162947047785,
+      "layer": "default",
+      "link": "Singsong",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_k1t0x3",
+      "x": 0.6720899781754586,
+      "y": 0.6170312958751726,
+      "layer": "default",
+      "link": "Mogxa",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_di3k8i",
+      "x": 0.8258617984892912,
+      "y": 0.5374815870945555,
+      "layer": "default",
+      "link": "Fenrunr",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_050iec",
+      "x": 0.5634947670697591,
+      "y": 0.5594909742763148,
+      "layer": "default",
+      "link": "Zardoba",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_pfwp9e",
+      "x": 0.6520930552849374,
+      "y": 0.23763677139368625,
+      "layer": "default",
+      "link": "Imperial Bay",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_c63ela",
+      "x": 0.5926014335698181,
+      "y": 0.1638970198412882,
+      "layer": "default",
+      "link": "Isle of Flod",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_joy9e1",
+      "x": 0.6672371816896923,
+      "y": 0.3858903670960823,
+      "layer": "default",
+      "link": "Enui",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_gqyldq",
+      "x": 0.5785071292038331,
+      "y": 0.3139533942827053,
+      "layer": "default",
+      "link": "Eleina",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_47jlse",
+      "x": 0.5573656726548558,
+      "y": 0.41869945942650766,
+      "layer": "default",
+      "link": "Cragmoore",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_olekbk",
+      "x": 0.4804876488403929,
+      "y": 0.3747109726723818,
+      "layer": "default",
+      "link": "Littlehorne",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_7d0xro",
+      "x": 0.4064925509189724,
+      "y": 0.49865643258732184,
+      "layer": "default",
+      "link": "Babael",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_4yxley",
+      "x": 0.37814377963738927,
+      "y": 0.5586849200363223,
+      "layer": "default",
+      "link": "Riverside",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_i13zo1",
+      "x": 0.39159743380492024,
+      "y": 0.5825018907650753,
+      "layer": "default",
+      "link": "Vön",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_1dczx6",
+      "x": 0.4346811596509421,
+      "y": 0.6328091656717276,
+      "layer": "default",
+      "link": "Nagonkor",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_r6gwwl",
+      "x": 0.4684454295565498,
+      "y": 0.5838917551868004,
+      "layer": "default",
+      "link": "Regal",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_e0fl2m",
+      "x": 0.5070746320762279,
+      "y": 0.5599000716041158,
+      "layer": "default",
+      "link": "The Rend",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_cd0189",
+      "x": 0.5128404838623126,
+      "y": 0.44810612736711103,
+      "layer": "default",
+      "link": "The Scar",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_igusgl",
+      "x": 0.5195673109460782,
+      "y": 0.49987158415511546,
+      "layer": "default",
+      "link": "Grand Gate",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_hn11if",
+      "x": 0.6526623896748673,
+      "y": 0.8189703858576969,
+      "layer": "default",
+      "link": "Argathia",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_gzun95",
+      "x": 0.8301087206673193,
+      "y": 0.935747237194091,
+      "layer": "default",
+      "link": "Lorgun",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tl9m7p",
+      "x": 0.31840314863156716,
+      "y": 0.5253897670787798,
+      "layer": "default",
+      "link": "Kallea",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_d7avta",
+      "x": 0.31974268995560673,
+      "y": 0.32694826657431075,
+      "layer": "default",
+      "link": "Twinberry",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8l2zjr",
+      "x": 0.40360962502592984,
+      "y": 0.3393207189009358,
+      "layer": "default",
+      "link": "Vanderkact",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_28yafv",
+      "x": 0.32576616982559414,
+      "y": 0.22242311685095872,
+      "layer": "default",
+      "link": "Barony of Rabarb",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_75phqc",
+      "x": 0.18465568181649297,
+      "y": 0.1593247252108562,
+      "layer": "default",
+      "link": "Longdawn",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_dknw2d",
+      "x": 0.2406649881494576,
+      "y": 0.22937376033261955,
+      "layer": "default",
+      "link": "Homrodeus",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_7crzz5",
+      "x": 0.21653976707740333,
+      "y": 0.2653473315709636,
+      "layer": "default",
+      "link": "Spireview",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_sabghn",
+      "x": 0.35064888773375963,
+      "y": 0.2501200291061485,
+      "layer": "default",
+      "link": "Cocatun",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_e6601a",
+      "x": 0.3754373815131537,
+      "y": 0.23551264737459596,
+      "layer": "default",
+      "link": "Piketown",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_92ai8u",
+      "x": 0.400632615276338,
+      "y": 0.24441795121958385,
+      "layer": "default",
+      "link": "Northpoint",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tupy3r",
+      "x": 0.4076560143505594,
+      "y": 0.2639185260206332,
+      "layer": "default",
+      "link": "Veridica",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_9z2z3j",
+      "x": 0.4108489722684574,
+      "y": 0.3640620678549951,
+      "layer": "default",
+      "link": "Crimson Desert",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_stk86z",
+      "x": 0.44212710894519236,
+      "y": 0.5698438565064141,
+      "layer": "default",
+      "link": "Regal Path",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ldgk60",
+      "x": 0.4088230940690641,
+      "y": 0.5594138998641649,
+      "layer": "default",
+      "link": "Silver Pass",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_mf3nut",
+      "x": 0.37139435436437757,
+      "y": 0.4964463170807068,
+      "layer": "default",
+      "link": "Path of Gold",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_579tz8",
+      "x": 0.3787173686544249,
+      "y": 0.5030311623391075,
+      "layer": "default",
+      "link": "Bronze Canal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_2h4w7n",
+      "x": 0.32323714558353717,
+      "y": 0.9155234986837593,
+      "layer": "default",
+      "link": "Rraka",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bq9t3a",
+      "x": 0.46194082559515376,
+      "y": 0.868787423053717,
+      "layer": "default",
+      "link": "Veducia",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_257uxv",
+      "x": 0.3343884281558185,
+      "y": 0.7428924275060255,
+      "layer": "default",
+      "link": "Rubyfirth Bay",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_fcqy5v",
+      "x": 0.5619328679196337,
+      "y": 0.8196258651948054,
+      "layer": "default",
+      "link": "Sea of Sargathis",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_bupn1w",
+      "x": 0.7172214440222691,
+      "y": 0.7203835717220755,
+      "layer": "default",
+      "link": "Dreyus",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_f96j8h",
+      "x": 0.631695869721222,
+      "y": 0.6983517769616759,
+      "layer": "default",
+      "link": "Kathayle",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_atcuim",
+      "x": 0.4526477336789255,
+      "y": 0.10212727182853448,
+      "layer": "default",
+      "link": "Challenge Isles",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_0u7vll",
+      "x": 0.6127330598285199,
+      "y": 0.1778134895349637,
+      "layer": "default",
+      "link": "Kantby",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_4688np",
+      "x": 0.48281728592567985,
+      "y": 0.2893890362970565,
+      "layer": "default",
+      "link": "Blissfeldt Coast",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_by2cch",
+      "x": 0.409142513103486,
+      "y": 0.21029371606613198,
+      "layer": "default",
+      "link": "Condinuum Coast",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "_admin/Assets/Iduria1.9.2.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_admin/Assets/Iduria1.9.2.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
