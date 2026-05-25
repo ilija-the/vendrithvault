@@ -3,6 +3,13 @@ aliases:
 tags:
   - material
 ---
-Note: Not to be confused with the similar [[Godpowder]]. There is no blackpowder or gunpowder in Vendrith.
+> [!warning]
+>  Not to be confused with the similar [[Godpowder]]. There is no real life equivalent of blackpowder or gunpowder in Vendrith.
 
-A powerfully red powder that's the result of drying out the main ingredients of [[Elixir of Life|Elixirs of Life]]. Like the elixirs, it causes a hot burning sensation upon touch or taste, which many find to have a pleasing, pain-relieving and invigorating effect, even when consumed in a way that you do not gain its main healing properties (like as redpowder).
+A powerful red powder that's primarily used as an ingredient in [[Elixir of Life|Elixirs of Life]], but also has pyrotechnic applications. 
+
+Like the elixirs, it causes a hot burning sensation upon touch or taste, which many find to have a pleasing, pain-relieving and invigorating effect, but consumed raw it does not have healing properties. 
+
+When an [[Elixir of Life]] has dried out or otherwise expired, the redpowder is the largest residue of the liquid. That powder then is either recycled or more often than not, thrown as an improvised explosive by the alchemist. Much to the glassworkers dismay of where all those flasks are going.
+
+Redpowder can be used for pyrotechnic applications, such as fireworks and alchemically flaming arrows. It can also be used to a lesser extent in cannons and firearms, but the amount of redpowder required to make projectiles fly anywhere close to a bow or crossbow makes it both impractical and wasteful beyond fortifications and naval combat, and even then it is primarily used as a special attack backed up by conventional kinetic weapons, like ballistae.
