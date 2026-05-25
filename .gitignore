@@ -11,3 +11,10 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+content/quartz
+Untitled.md
+
+content/.obsidian/*
+!content/.obsidian/snippets
+content/Secrets

@@ -1,1 +1,3 @@
 * text=auto eol=lf
+*.md filter=redact
+Redactions.md !filter
