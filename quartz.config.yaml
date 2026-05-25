@@ -271,6 +271,16 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: https://github.com/MrVauxs/quartz-clickable-images-zoom-plugin
+    enabled: true
+    options:
+      enableLightbox: true
+    order: 50
+  - source: https://github.com/MrVauxs/quartz-ink-plugin
+    enabled: true
+    options:
+      enabled: true
+    order: 50
 layout:
   groups:
     toolbar:

@@ -193,6 +193,18 @@
       "commit": "a53cf02ce7faca400bcf3cfeed47eb860329e534",
       "installedAt": "2026-05-25T17:50:53.401Z"
     },
+    "quartz-clickable-images-zoom-plugin": {
+      "source": "https://github.com/MrVauxs/quartz-clickable-images-zoom-plugin",
+      "resolved": "https://github.com/MrVauxs/quartz-clickable-images-zoom-plugin",
+      "commit": "5236d343b8cf0b3d5db9d5f340ce0628bcf4e176",
+      "installedAt": "2026-05-25T19:39:46.199Z"
+    },
+    "quartz-ink-plugin": {
+      "source": "https://github.com/MrVauxs/quartz-ink-plugin",
+      "resolved": "https://github.com/MrVauxs/quartz-ink-plugin",
+      "commit": "d3ff8b1908773c7c10c8ba1186373871ffbce83c",
+      "installedAt": "2026-05-25T20:07:08.573Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
