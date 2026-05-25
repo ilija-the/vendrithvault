@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Vilhun Campaign
 tags:
   - campaigns/hunts-of-vilhun
 ---
