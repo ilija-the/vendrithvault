@@ -6,7 +6,7 @@ tags:
 > [!warning]
 >  Not to be confused with the similar [[Godpowder]]. There is no real life equivalent of blackpowder or gunpowder in Vendrith.
 
-A powerful red powder that's primarily used as an ingredient in [[Elixir of Life|Elixirs of Life]], but also has pyrotechnic applications. 
+A mild red powder that's primarily used as an ingredient in [[Elixir of Life|Elixirs of Life]], but also has pyrotechnic applications. 
 
 Like the elixirs, it causes a hot burning sensation upon touch or taste, which many find to have a pleasing, pain-relieving and invigorating effect, but consumed raw it does not have healing properties. 
 
