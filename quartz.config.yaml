@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ilija-the.github.io/vendrithvault
+  baseUrl: localhost:8080
   ignorePatterns:
     - private
     - templates
