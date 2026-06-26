@@ -11,7 +11,7 @@ The envoys haven't yet arrived and have already experienced the reality of the w
 
 ![[Lizard_mercs.webp|right|320]]
 
-The [[Hunts of Vilhun Party]] have just left the Imperial Bay and arrive at [[Kantby]], the first town of [[Isle of Flod|Flod]]. Having a brief moment of introduction to each other, they remained mostly distant, up until their first hurdle. They are intercepted by a band of sea-walking lizardfolk privateers accompanied by a powerful water mage in an attempt to take control of the ship.
+The [[Regent's Legation]] have just left the Imperial Bay and arrive at [[Kantby]], the first town of [[Isle of Flod|Flod]]. Having a brief moment of introduction to each other, they remained mostly distant, up until their first hurdle. They are intercepted by a band of sea-walking lizardfolk privateers accompanied by a powerful water mage in an attempt to take control of the ship.
 
 [[Ciraxi]] makes short and bloody work of the privateers with the help of [[Zō-Ali Oxenfree|The Ox]] and [[Raskiff]], while [[Hachiko]] and [[Shun]] try their chances with the mage. With the mage pushing off and taking Hachiko's position on the crow's nest, the party struggles to climb up the ships pole as they are battered by the mages spells. Thankfully, The Ox reaches the mage in a rush of near-death adrenaline after already falling off once due to sustaining heavy injuries. He pushes the mage off and subsequently breaks her arm jumping right after her, ending the fight. 
 

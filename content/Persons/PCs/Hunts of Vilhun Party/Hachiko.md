@@ -14,7 +14,7 @@ tags:
 
 Her full title is Hachiko bin Abusabaku Abarone. The eighth daughter of [[Abu'Sabaku Abarone]], sister of [[Sabaku Abarone|Sabaku]] and [[Uraokra]].
 
-A member of the [[Hunts of Vilhun Party]], she is a *Wolf-Mounted Charhide [[Goblins|Goblin]] Starlit Span [[Magus]].*
+A member of the [[Regent's Legation]], she is a *Wolf-Mounted Charhide [[Goblins|Goblin]] Starlit Span [[Magus]].*
 
 Owns a Wolf animal companion **Yoko**, and a fire familiar **Kawa**.
 
