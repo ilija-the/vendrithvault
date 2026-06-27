@@ -17,3 +17,5 @@ The clash has since then caused a governmental paralysis and with no leverage fr
 The second in command of the previous Sultan has since become regent of Vilhun. Unfortunately, that second-in-command is a sovereign [[Dragons|dragon]]. While she has been fiercely royal to the sultan, this has inherently attracted unwanted attention from the rest of the world towards Vilhun. [[Mogxa]] especially, who deeply remember the age of the [[Draconic Empire]].
 
 With the war (and the election process itself) having divine connotations, it has also attracted attention of the [[Crusaders]] and by extension, the [[Sanitorium]].
+
+Relevant Party: [[Regent's Legation]]
