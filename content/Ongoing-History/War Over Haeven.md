@@ -8,7 +8,7 @@ tags:
   - events
 ---
 ### Summary
-The War Over Heaven is easily the most defining event of the last century, and served as the starting point of the two broad factions which dominate the geopolitical situation - the [[Crusaders]] and the [[Sanitorium]]. The regions of [[Canath]], [[Mogxa]] and [[Galae]] saw most of the fighting, with the latter remaining particularly devastated even decades after the war.
+The War Over Heaven is easily the most defining event of the last century, and served as the starting point of the two broad factions which dominate the geopolitical situation - the [[Crusaders]] and the [[Sanitorium]]. The regions of [[Canath]], [[Mogxa]] and [[VVIKI/Government-Geography/Galae]] saw most of the fighting, with the latter remaining particularly devastated even decades after the war.
 
 While the war's origins lies in a relatively humble set of inter-[[Titans|Titan]] conflicts in [[Canath]], it was through a cascading series of events, opportunism and desires for revenge that the situation began to come out of control. Eventually, a series of commoner revolts against being involved in the Titan's wars began to spread like wildfire and gained the support of groups of soldiers and adventurers. In the end, a fiery anti-deity coalition successfully marched on a worn-out and defeatist coalition of squabbling titans. Perhaps having already accepted defeat, many Titans left behind their wills in the form of knowledge, power and commands as part of the [[New Creed]], and prepared their exit plans. The climactic battle of the [[Rainbow Bridge]] saw the anti-deity army just about ebb out a victory, during which they destroyed the bridge causing the Titans to be [[The Great Silence|exiled from this world]].
 

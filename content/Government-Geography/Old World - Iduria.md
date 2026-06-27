@@ -9,5 +9,5 @@ Once thought to encompass the centre of Vendrith, the old world and Idurian term
 [[Lorgun]]
 [[Celestaria]]
 [[Rubyfirth Bay]]
-[[Galae]]
+[[VVIKI/Government-Geography/Galae]]
 [[Nagonkor]]

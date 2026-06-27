@@ -17,7 +17,7 @@ kanban-plugin: board
 - [ ] [[Singsong]]
 - [ ] [[Canath]]
 - [ ] [[Encanath]] and [[Brincanath]]
-- [ ] [[Galae]]
+- [ ] [[VVIKI/Government-Geography/Galae]]
 - [ ] [[Ferweth]]
 - [ ] [[Vilhun]]
 - [ ] [[Far World - Eydwin|Eydwin]]

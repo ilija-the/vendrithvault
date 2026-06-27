@@ -2,7 +2,7 @@
 tags:
   - admin
 ---
-[[Galae]] is a region now with unbridled wilds. It is home to many [[Halfling Ruins]].
+[[VVIKI/Government-Geography/Galae]] is a region now with unbridled wilds. It is home to many [[Halfling Ruins]].
 
 ```zoommap
 imageBases:
@@ -23,4 +23,4 @@ id: map-mlzokyu8
 ```
 
 
-![[Galae]]
+![[VVIKI/Government-Geography/Galae]]

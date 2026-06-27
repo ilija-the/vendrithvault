@@ -2,7 +2,7 @@
 tags:
   - places
 ---
-A gloomy and dangerous region at the northern edge of Iduria, bordering [[Galae]].
+A gloomy and dangerous region at the northern edge of Iduria, bordering [[VVIKI/Government-Geography/Galae]].
 
 ![[Mappi-Ferwethi_placeholder_roads 1.png]]
 

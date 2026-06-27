@@ -6,7 +6,7 @@ Fenrunr makes up the rugged, mountainous and cold northeastern coastline of Mogx
 
 Fenrunr is home to the [[Skald]] language, named so for the areas' bardic [[Charisma|performers]] and [[Lore|lorekeepers]], the Skalds. Fenrunr is also perhaps the earliest known site at which [[Dwarves]] reached the surface world. While never assimilated into Fenruni culture, the Dwarves and Fenruni long lived side by side in these lands, and they played a role in the formation of the Skald and Dwarven script. This script was used in early [[Arcane Magic]] as the language of magical glyphs - as it still is today in Mogxa.
 
-Largely distant and not of great economic importance, Fenunr has been a little known backwater to pretty much all parts of the world but Mogxa. The exception to this was the time of the Freigings, raids in which Fenruni marauders reached as far as the [[Elves|Elven]] [[Hightower Civilisation|Hightowers]] of [[Galae]], the [[Challenge Isles]] of [[Vilhun]], and the [[Rubyfirth Bay]]. These compile a large part of the early, pre Skaldic-Dwarven script, writings about the people of Fenrunr.
+Largely distant and not of great economic importance, Fenunr has been a little known backwater to pretty much all parts of the world but Mogxa. The exception to this was the time of the Freigings, raids in which Fenruni marauders reached as far as the [[Elves|Elven]] [[Hightower Civilisation|Hightowers]] of [[VVIKI/Government-Geography/Galae]], the [[Challenge Isles]] of [[Vilhun]], and the [[Rubyfirth Bay]]. These compile a large part of the early, pre Skaldic-Dwarven script, writings about the people of Fenrunr.
 
 Fenrunr is home to a very few [[Halflings|halfling]] ruins. Famously, these contained horned helmets.
 
