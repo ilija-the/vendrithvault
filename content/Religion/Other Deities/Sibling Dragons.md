@@ -4,6 +4,7 @@ tags:
   - religion/deities/ur
   - religion/deities/dwarf
   - religion/deities/dragon
+  - important
 aliases:
   - Velf
   - Tritas

@@ -2,6 +2,7 @@
 tags:
   - society
   - places/mogxa
+  - important
 aliases:
   - Sanitationist
 ---

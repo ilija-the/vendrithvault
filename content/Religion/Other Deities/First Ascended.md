@@ -3,6 +3,7 @@ tags:
   - religion/deities/old
   - religion/deities/titans
   - ancestries/human
+  - important
 aliases:
   - Allfather
   - The First

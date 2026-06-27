@@ -1,6 +1,7 @@
 ---
 tags:
   - cosmos
+  - important
 ---
 The stories of 
 A set of origin stories shared by most peoples of Vendrith, in varying forms.
