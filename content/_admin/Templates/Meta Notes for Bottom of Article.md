@@ -1,4 +1,8 @@
+---
+tags:
+  - admin
+---
 
 ---
 ###### Notes
-<small>Write about inspirations, desires to change or improve, </small>
+<small> Write about inspirations, what may be WIP or subject to change, and such. Also make sure to sign who's writing -Ilija </small>

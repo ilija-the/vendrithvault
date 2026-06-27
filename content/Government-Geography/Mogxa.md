@@ -41,3 +41,7 @@ Mogxa is a large and therefore varied region, but has some commonalities. The te
 
 
 > See #places/mogxa 
+
+---
+###### Notes
+<small>Mogxa is inspired by imperial China and France, and especially since the birth of the Sanitorium - revolutionary France. Some amount of Italian or other romance inspirations can be pulled in in small parts. China is already a large enough pool of inspiration, and probabl</small>
