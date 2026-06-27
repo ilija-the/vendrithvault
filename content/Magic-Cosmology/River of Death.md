@@ -8,7 +8,7 @@ aliases:
   - Mistress' River
   - Hel
 ---
-The [[Planes of Vendrith|Plane]] most souls of [[Ancestries of Vendrith|people]] go to after death. One of the most commonly known parts of the [[Cosmology of Vendrith]], the River of Death has captured popular imagination and has occasionally been visited, divined or access, often towards the end of [[Necromancy]]. However, there is still relatively little understanding of it. Many fear death, and likewise, that traveling to the land of the death is functionally similar to or a risk of being dead.
+The [[Cosmology of Vendrith|Plane]] most souls of [[Ancestries of Vendrith|people]] go to after death. One of the most commonly known parts of the [[Cosmology of Vendrith]], the River of Death has captured popular imagination and has occasionally been visited, divined or access, often towards the end of [[Necromancy]]. However, there is still relatively little understanding of it. Many fear death, and likewise, that traveling to the land of the death is functionally similar to or a risk of being dead.
 
 Descriptions of the River of Death vary, though it is almost always described as a shallow river in a hazy and dark environment. The 'landscape' around it is often depicted as frozen over and snowy, with shadows reminiscent of dead trees and an eerie lack of wildlife to accompany it.
 

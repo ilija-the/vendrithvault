@@ -3,7 +3,7 @@ tags:
   - cosmos/planes
   - cosmos/planes/hel
 ---
-One of the [[Planes of Vendrith]], widely believed to be a plane of [[Hel]]. It is commanded by the [[Devil Queen of Crimson|Devil Queen]] atop a temple city sitting on an island in a "river of blood." It's believed to be engaged in a [[Bloodwar]] with the [[Demonic Brigade]] occupying the distant desert around it.
+One of the [[Cosmology of Vendrith]], widely believed to be a plane of [[Hel]]. It is commanded by the [[Devil Queen of Crimson|Devil Queen]] atop a temple city sitting on an island in a "river of blood." It's believed to be engaged in a [[Bloodwar]] with the [[Demonic Brigade]] occupying the distant desert around it.
 
 #### Creation of Crimson.
 The [[Devil Queen of Crimson|Guardian Angel]] of [[Haeven]] had been tasked with fighting to win the [[War Over Haeven]] for the Titans at any cost. Ever true to her word, even as the Titans seemingly had began to accept defeat and prepared for their exile, she continued to fight for said cause to the fullest extent she could. Her battles in [[Galae]] had led her on a strategic retreat, trying to draw the tired anti-deity troops into the inhospitable desert of northern Galae (now the [[Crimson Desert]]). Amongst the army that had laid chase to her was the infamous [[Demonic Brigade]], nicknamed so for their horrific acts committed upon their enemies, prisoners and the lands which they passed through. The Brigade is said to have embraced this name with glee.

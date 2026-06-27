@@ -16,7 +16,6 @@ Here are some good articles you may start learning about Vendrith from:
 - [[Ancestries of Vendrith]], of which many have twists compared to stock fantasy.
 - [[Mythos of Vendrith]], the broadly accepted story of how the world came to be.
 - [[Campaigns]], the various games that have been or are preparing to be played in Vendrith.
-%% - Secret test %%
 
 Alternatively check out the graph by clicking the button in the top right, or you can browse the tags at the top and bottom of this page!
 

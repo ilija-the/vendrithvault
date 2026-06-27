@@ -33,7 +33,7 @@ Important to note however that Circles of Magic should take priority, and the ad
 
 ### (Writing the) Lore
 
-Potentially tie them in with the [[Planes of Vendrith]]?
+Potentially tie them in with the [[Cosmology of Vendrith]]?
 
 Visuals of levelling up a Primal Tree - roots growing and blooming. Levelling up an Arcane tree, leyline or circuit-board like glyphs connecting and expanding. Divine, a beautiful religious panting getting gradually expanded.
 

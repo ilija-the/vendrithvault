@@ -56,7 +56,7 @@ kanban-plugin: board
 - [ ] [[Deception]]
 - [ ] [[Medicine]]
 - [ ] Fill out [[The Prince]] like [[Su Na]].
-- [ ] Other [[Planes of Vendrith|Planes]] than just Crimson.
+- [ ] Other [[Cosmology of Vendrith|Planes]] than just Crimson.
 - [ ] [[Aquatic]] civilization and [[Ocean King]].
 
 

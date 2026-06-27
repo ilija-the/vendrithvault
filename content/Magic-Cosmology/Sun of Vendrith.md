@@ -1,3 +1,3 @@
 #cosmos
 [[Cosmology of Vendrith]].
-[[Planes of Vendrith]]
+[[Cosmology of Vendrith]]
