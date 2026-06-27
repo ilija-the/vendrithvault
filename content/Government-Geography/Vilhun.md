@@ -7,7 +7,7 @@ aliases:
 ---
 ![[vilhun.png]]
 
-Part of [[Old World - Iduria]], and island-chain north of [[VVIKI/Government-Geography/Galae]] and [[Mogxa]].
+Part of [[Old World - Iduria]], an island-chain north of [[Galae]] and [[Mogxa]].
 
 Home to a staunchly independent people, as well as a notable number of [[Dragons]] and their offspring. *Although as per the [[Draconic Concordat]], all of those offspring being humanoid.*
 
