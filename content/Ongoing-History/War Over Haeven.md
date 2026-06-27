@@ -21,7 +21,9 @@ The timeline goes something like this:
 - The Anti-Deists enjoy some victories on account of the surprise of this rebellion, but suffer attrition and hear news of their home villages being occupied or burnt down. 
 - With nowhere to return to and yet in need of reinforcements to survive, the leaders plan a march to Northern Mogxa, where an ongoing peasant revolt against the [[Western Kobold Dynasty]] has indicated sympathies. 
 - Some Titans actually strategically back the Anti-Deists for some time, in order to keep what they viewed as their real Holy Army enemies occupied. This helps shield their rallying point and subsequent retreat out of Canath.
-- Marching through Galae, the 
+- Marching through Galae, the Anti-Deists are threatened by an army formed by  the [[Devil Queen of Crimson|Firestorm, Guardian Angel of Haeven]] specifically to give pursuit and stop them.
+- Thinking they have an intelligence advantage over the Firestorm and an opportunity to attack them while unprepared, a portion of the most elite warriors of the Anti-Deist Army (known as the [[Demonic Brigade]]) splits off and marches northwest.
+- Meeting the Firestorm's Army in the [[Crimson Desert|Red Desert]], they are caught in a trap and swallowed up by a wo
 
 ### Context
 The Titans of Canath have often engaged in holy wars, in which they called upon their divine soldiers to help them secure objectives that would strengthen them against their rival deities. Many of these were fellow Titans, though the Titans were also quite willing to wage war against border regions not following titanic-deities. These wars were limited in scope, often not directly involving the governments or armies of the city states or kingdoms of Canath. Many [[Adventurers|adventurers]] were recruited to fight the enemies at specific locations such as temples, holy sites and private fortifications. Many viewed these acts as lawless and disrespectful, leaving destruction and corpses in their wake for the city folk to clean up.
