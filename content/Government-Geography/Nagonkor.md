@@ -11,4 +11,4 @@ This people is said to come from the south - possibly [[Veducia]].
 
 ---
 ###### Notes
-<small>Inspirations for Nagonkor include Cambodia </small>
+<small>Inspirations for Nagonkor include Southeast Asia, stretching from Myanmar to Cambodia, Thailand to the Malaysian Peninsula. In terms of following the trend of combining 2 distant influences to make Vendrith cultures, it could integrate Aztec Mesoamerican inspiration, but I'm not sure yet. -Ilija</small>
