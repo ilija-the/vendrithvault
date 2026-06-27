@@ -1,6 +1,7 @@
 ---
 tags:
   - society
+  - important
 aliases:
   - ancestries
   - ancestry

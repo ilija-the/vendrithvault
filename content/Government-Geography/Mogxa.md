@@ -1,6 +1,7 @@
 ---
 tags:
   - places/iduria/mogxa
+  - important
 aliases:
   - Mogxan
 ---

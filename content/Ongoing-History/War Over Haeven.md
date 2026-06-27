@@ -6,6 +6,7 @@ tags:
   - society/crusaders
   - society/sanitationist
   - events
+  - important
 ---
 ### Summary
 The War Over Heaven is easily the most defining event of the last centuries, and served as the starting point of the two broad factions which dominate the geopolitical situation - the [[Crusaders]] and the [[Sanitorium]]. The regions of [[Canath]], [[Mogxa]] and [[Galae]] saw most of the fighting, with the latter remaining particularly devastated even decades after the war.
