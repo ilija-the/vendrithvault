@@ -19,7 +19,7 @@ For player character adventurers, see #campaigns, #people/pc or the adventurer p
 [[Bishop's Disciples]]
 [[So-Called Heroes]]
 [[Dawnseekers]]
-[[Hunts of Vilhun Party]]
+[[Regent's Legation]]
 
 NPC adventurers:
 [[Bloodpaw Bonepaw]]
