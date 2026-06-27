@@ -14,18 +14,13 @@ While the war's origins lies in a relatively humble set of inter-[[Titans|Titan]
 
 The timeline goes something like this:
 - The to-be Triumphant Successor begins his quest to ascend, starting a war over a [[Mantle]].
-- Allegiances shift and escalation pulls 
+- Allegiances shift and escalation pulls in more Titans on both sides, which results in the mobilisation of supporters from across both Canath and Mogxa.
+- Commoners revolt in response to being conscripted to yet another large inter-Titan war so soon after the previous one. Temples are sacked and holy men abducted or killed.
+- A series of retributions by the Holy Armies of some of the Titans adds fuel to the fire, causing an Anti-Deist Faction to form across various villages and towns.
+- A number of charismatic heroes from Canath and beyond, including important figures from the [[Resting Crown|God-King's Court]], sympathise with the ANti- 
 
 ### Context
 The Titans of Canath have often engaged in holy wars, in which they called upon their divine soldiers to help them secure objectives that would strengthen them against their rival deities. Many of these were fellow Titans, though the Titans were also quite willing to wage war against border regions not following titanic-deities. These wars were limited in scope, often not directly involving the governments or armies of the city states or kingdoms of Canath. Many [[Adventurers|adventurers]] were recruited to fight the enemies at specific locations such as temples, holy sites and private fortifications. Many viewed these acts as lawless and disrespectful, leaving destruction and corpses in their wake for the city folk to clean up.
-
-
-
-#### Shifting Allegiances and Escalation
-
-
-#### Commoner Revolts
-
 
 
 #### Antideist Coalition Coalesces
