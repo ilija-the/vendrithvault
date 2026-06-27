@@ -40,7 +40,7 @@ The format for a nested place tag is:
 
 The names should be lowercase, and a single word that is ideally not too long (judge the best shortening yourself, hyphenate if needed).
 
-Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Encanath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
+Note that many regions are at times divided into sub-regions, but for simplicity's sake we do not include them as tags. Subdivisions of regions into areas, and of large settlements such as Philosophia into districts are to be represented in the description or in maps. For now at least, this includes not tagging [[Brincanath]] and [[Canath]], as a place in either is simply tagged as being in [[Canath]]. If in doubt of a place's region, ask Ilija.
 
 For planes other than that of [[Materia]], use the cosmos tag with a similar format:
 	``cosmos/``

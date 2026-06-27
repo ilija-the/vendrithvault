@@ -16,7 +16,7 @@ kanban-plugin: board
 - [ ] [[Philosophia]]
 - [ ] [[Singsong]]
 - [ ] [[Canath]]
-- [ ] [[Encanath]] and [[Brincanath]]
+- [ ] [[Canath]] and [[Brincanath]]
 - [ ] [[VVIKI/Government-Geography/Galae]]
 - [ ] [[Ferweth]]
 - [ ] [[Vilhun]]
