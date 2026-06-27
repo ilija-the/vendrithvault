@@ -11,7 +11,7 @@ Essence Magic is the primary passed on magic system of [[Vilhun]], but its users
 While a caster can wield both ways of wielding magic – and almost all of them do by the nature of cantrips! – the vast majority focus on one, whether by not having knowledge of the other system, or by a preference of one over the other, as both have their strengths and weaknesses. The basic difference being that slot spellcasting has a limited amount of power before needing to rest and prepare new spells but allows for instantaneous usage of the spells, while essence requires lengthy on-the-spot incantations, but it is available at all times during the day.
 ## Center of Magic
 
-[[Vilhun]] is the region most associated with essence casting, bringing near-orientalist fascination to itself, including negative connotations. This issue is especially strengthened due to its political and cultural friction with its neighbors, [[Mogxa]] and [[VVIKI/Government-Geography/Galae]].
+[[Vilhun]] is the region most associated with essence casting, bringing near-orientalist fascination to itself, including negative connotations. This issue is especially strengthened due to its political and cultural friction with its neighbors, [[Mogxa]] and [[Galae]].
 
 Despite the friction, this large difference in magic methodology does also bring a lot of cultural exchange in metropolitan areas from exchange magic students and scholars. 
 
