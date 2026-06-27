@@ -21,7 +21,7 @@ Galae can be roughly split into a few parts:
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]] from [[Vön]]. 
 
 #### Galaen Wilds
-The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads. Also accessible by the [[Regal Path]] from [[Nagonkor]], which was used by invading crusaders in the [[Galaekor Campaign]].
+The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads. Also accessible by the [[Regal Path]] from [[Nagonkor]], which was used by invading crusaders in the [[March of the Corpse Flowers]].
 
 #### Crimson Desert
 *Main article - [[Crimson Desert]]*
