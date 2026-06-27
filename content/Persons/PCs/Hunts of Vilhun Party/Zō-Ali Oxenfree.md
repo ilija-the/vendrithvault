@@ -13,7 +13,7 @@ aliases:
 
 His full title is Zo-Ali Oxenfree of Abarone, also known as "The Ox." Guardian and Charge of [[Hachiko]].
 
-A member of the [[Hunts of Vilhun Party]], he is a *Warrior [[Automatons|Automaton]] Shield [[Guardian]]*.
+A member of the [[Regent's Legation]], he is a *Warrior [[Automatons|Automaton]] Shield [[Guardian]]*.
 
 His drives are (loosely):
 - Protecting Hachiko

@@ -6,7 +6,7 @@ tags:
 ---
 ![[MappaFlodi_1.2.3_B.webp]]
 
-The Isle of Flod is the primary location of the [[Hunts of Vilhun Party|Hunts of Vilhun campaign]]. The central island of [[Vilhun]] has erupted into a war between many warring states, with the main factions being unified under their respective Hun Lords, with the most infamous ones being the [[Horde Lord]] and the [[Steel Lord]]. Vast lands have also fallen by the wayside, no longer connected to any owner as its viceroys and barons fled or mysteriously died.
+The Isle of Flod is the primary location of the [[Regent's Legation|Hunts of Vilhun campaign]]. The central island of [[Vilhun]] has erupted into a war between many warring states, with the main factions being unified under their respective Hun Lords, with the most infamous ones being the [[Horde Lord]] and the [[Steel Lord]]. Vast lands have also fallen by the wayside, no longer connected to any owner as its viceroys and barons fled or mysteriously died.
 
 Home to various ancestries, the island is a diverse but also tense place, having to balance the various tribes isolationism and expansionism, all in the shadow of the central mountain range host to the [[Hun Lords]] [[Shrines#Vilhi Bell Towers|shrines]].
 
