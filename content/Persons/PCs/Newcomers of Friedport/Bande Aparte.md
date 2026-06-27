@@ -7,7 +7,7 @@ tags:
   - society/crusaders
   - society/sanitationist
 ---
-A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], Bande Aparte made a name for himself by earning a victory (even if Phyrric) in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  Since thenThe [[March of Roses]] - taking advantage of leaked intel from Mogxa (see [[Espionage Crisis]]) and ending with the capture of the infamous sanitationist [[Chaucer]].
+A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], Bande Aparte made a name for himself by earning a victory (even if Pyric) in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  He also played a role in the [[March of the Roses]] which took advantage of [[Espionage Crisis|leaked intel from Mogxa]]  to  destroy a covert Sanitationist camp and capture the infamous sanitationist [[Chaucer]].
 
 Despite his efficacy, Bande Aparte was committed to his men and attempting to fight justly, and never rose far in the ranks. He was nearly killed after getting too close to the truth of his own General's corruption. Believed his closest comrade in arms [[Lykas]] had actually been killed for it, and the rest of his men in danger, Bande Aparte disappeared himself.
 
