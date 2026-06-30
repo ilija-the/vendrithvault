@@ -7,7 +7,7 @@ Once thought to encompass the centre of Vendrith, the old world and Idurian term
 [[Canath]]
 [[Vilhun]]
 [[Lorgun]]
-[[Celestaria]]
+[[Celene]]
 [[Rubyfirth Bay]]
 [[Galae]]
 [[Nagonkor]]
