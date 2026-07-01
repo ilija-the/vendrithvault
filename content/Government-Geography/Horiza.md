@@ -62,9 +62,12 @@ Other settlements on the mainland include: ==To be detailed more later==
 ## Society
 Horizan society is a creation of mixed origins, often ones fleeing from conflict, and a cautious peace and balance between various home world factions. Certain topics, like that of the [[Eternal Crusade]] and the worshipping of [[Titans|Titan]] or Titan-like deities, have become subject of a social taboo in public in order to maintain orderly relations. It is still common to acknowledge and accept more subtle or secular forms of spirituality and religious-like community, and few commoners object to the private worship of deities.
 
+![[Pasted image 20260701222217.png]]
+*Exploration and the hunt for knowledge and treasure - adventure - remains a cornerstone of Horizan popular imagination*
+
 Some say that Horiza has inherited a core element of each of its three originators. The Talvan/Rubyfirthers are said to have gifted it its love of commerce, treasure and plutocracy. Canath is said to have given it its caste systems and reverence of prestige and heroics. And Mogxa is said to have inspired its love of secret societies and cautious backroom politicking.
 
-It speaks the Idurian, Bay Pidgin and Harza Pidgin languages. 
+Horiza speaks the Idurian, Bay Pidgin and Harza Pidgin languages. 
 
 ## History
 The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]]. The history of its settlement and politics is largely the history of the [[Horizan Guild Association]].
