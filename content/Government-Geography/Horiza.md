@@ -6,14 +6,14 @@ aliases:
   - Horizan Peninsula
   - New World
 ---
-Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. It's size, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
+Horiza, sometimes called the *New World*, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. It's size, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
 The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," with which Horiza has been compared. 
 
 ![[Pasted image 20260701213544.png]]
 *Other languages name these lands after its often blue and silvery viewscapes.*
 
-On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
+On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, Horiza is, besides its coastal waters, *so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.*  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
 > There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet all we got was a calm shore and a cursed horizon." Some attribute the name of Horiza to the use of the word horizon in said story.
 
@@ -59,12 +59,14 @@ Other settlements on the mainland include: ==To be detailed more later==
 - Survalley
 
 ## Society
-Horizan society is a creation of mixed origins, often ones fleeing from conflict, and a cautious peace and balance between various home world factions. It speaks the Idurian, Bay Pidgin and Harza Pidgin languages. 
+Horizan society is a creation of mixed origins, often ones fleeing from conflict, and a cautious peace and balance between various home world factions. Certain topics, like that of the [[Eternal Crusade]] and the worshipping of [[Titans|Titan]] or Titan-like deities, have become subject of a social taboo in public in order to maintain orderly relations. It is still common to acknowledge and accept more subtle or secular forms of spirituality and religious-like community, and few commoners object to the private worship of deities.
 
 Some say that Horiza has inherited a core element of each of its three originators. The Talvan/Rubyfirthers are said to have gifted it its love of commerce, treasure and plutocracy. Canath is said to have given it its caste systems and reverence of prestige and heroics. And Mogxa is said to have inspired its love of secret societies and cautious backroom politicking.
 
+It speaks the Idurian, Bay Pidgin and Harza Pidgin languages. 
+
 ## History
-The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]].
+The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]]. The history of its settlement is largely the history of the [[Horizan Guild Association]].
 
 #### The Horizan Guild.
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
