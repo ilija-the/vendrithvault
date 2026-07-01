@@ -17,8 +17,8 @@ Due to the stark division between coast and inland, pretty much all of the perma
 
 The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. 
 
-Friedport sits on the [[Chocolate Isles]], a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). Other settlements in the Chocolate Isles include:
-- 
+Friedport sits on the [[Chocolate Isles]], a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). The main islands of the Chocolate Isles include:
+- Everydry, home to Friedport, Rum Coast, 
 
 ## History
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
