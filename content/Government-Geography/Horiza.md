@@ -8,8 +8,10 @@ aliases:
 ---
 Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. It's size, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
+The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," with which Horiza has been compared. 
+
 ![[Pasted image 20260701213544.png]]
-*The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," with which Horiza has been compared. Some other languages name the continent after its blue and silvery viewscapes. *
+*Other languages name these lands after its often blue and silvery viewscapes.*
 
 On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
@@ -43,9 +45,9 @@ The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main island
 Adamsworth and Newshore, just a bit into inland on the mainland, have both taken an increasingly important role as the population balloons and the desire to explore (and perhaps importance of exploring) the Horizon only continues to grow. These settlements have to make do with less available ocean food, and have only gained a limited success in certain forms of agriculture - and thus are highly reliant on their exchanges with the homeland in order to be fed. The Mainland speaks Idurian only for business, with the common folk's day to day language being either [[Bay Pidgin]] or [[Harza Pidgin]].
 
 ![[Pasted image 20260701213516.png]]
-*A typical sight in Horizan geography is sudden stark height differences, even on the coast and in lakes.*
+*A typical sight in Horizan geography is sudden stark height differences, even in its inland lakes. These spots are often simultaneously beautiful, and eerily empty.*
 
-Other settlements on the mainland include:
+Other settlements on the mainland include: ==To be detailed more later==
 - Dirgwall
 - Fallheim
 - Farmen
@@ -57,10 +59,14 @@ Other settlements on the mainland include:
 - Survalley
 
 ## History
+The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]].
+
+#### The Horizan Guild.
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
 
 The Guild set up its Idurian headquarters on the island of [[Jedaia]], as a neutral place in-between worlds, and one which symbolised the ability of Canathis and Mogxans to work together.
 
+#### Three Wa
 In this initially balanced and neutral state, the HGA set out on its **first wave of settlement**. Compared to later waves, this one was rather small and focused but also diverse, sending a variety of adventurers, researchers, mages and other experts willing and enthusiastic to set up operations in these new lands. The first settlement was either [[Saint Earlybird]] or [[Friedport]] (accounts vary), though it is the latter which became the hub of the new world. The [[Chocolate Isles]] these both sit on were named so after the Chocolate Beans the voyagers had brought, hoping to be able to plant this luxury item in a climate that was supposedly good for it - though these agricultural attempts largely failed. The colonies remained food scarce, and reliant on importing food from the old world. Due to the masses and cost of food demanded, this often had to be done in exchange for something valuable in return, including treasures and knowledge (raw resources are often too heavy/bulky to be worth the hull space). This food scarcity led society to become both stratified along certain class/caste lines, as well as more equal within these classes/castes. Many people turned to banditry, and especially, [[Piracy]] in these conditions - especially targeting those gathering treasures to send home in order to bargain and demand portions of the food to come. The first wave almost all spoke the Idurian language (with the exception of a few [[Slavery|slaves]]), which was to become the language of commerce and official activity of these new settlements.
 
 The **second wave of settlement** happened as the colonies pleaded for more people. One of the stated goals was to set more people on uncovering ways to find reliable and sustainable food sources, and to reduce the reliance on unreliable food transports from Iduria. Seeking greater masses of people, the second wave picked up a variety of people largely around the Rubyfirth Bay, including a number of [[Kholo|Kholos]] whom had been migrating northward (others would end up in [[Galae]]), as well as Talvan [[Amurrun]] and [[Veducia|Veducian]] [[Trip-kee]]. Many Canathis of all sorts travelled to the Ruby coast to embark on this journey, though those of a known and explicit allegiance to the [[Crusaders|Crusaders]] were rejected on the grounds of the neutrality between Canath and the Mogxa. These people founded the first sizeable settlement on the Horizan mainland, [[Adamsworth]]. This varied group ended up developing a new language to cross their various linguistic barriers - called [[Bay Pidgin]] - which co-exists as a language "of the people" alongside the Idurian "of the guild." Friedport remains the settlement with the highest literacy of Idurian.
