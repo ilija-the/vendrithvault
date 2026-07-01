@@ -58,8 +58,10 @@ Other settlements on the mainland include: ==To be detailed more later==
 - Quietwatch
 - Survalley
 
-# Society
-Hor
+## Society
+Horizan society is a creation of mixed origins, often ones fleeing from conflict, and a cautious peace and balance between various home world factions. It speaks the Idurian, Bay Pidgin and Harza Pidgin languages. 
+
+Some say that Horiza has inherited a core element of each of its three originators. The Talvan/Rubyfirthers are said to have gifted it its love of commerce, treasure and plutocracy. Canath is said to have given it its caste systems and reverence of prestige and heroics. And Mogxa is said to have inspired its love of secret societies and cautious backroom politicking.
 
 ## History
 The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]].
