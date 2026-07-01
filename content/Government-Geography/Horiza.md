@@ -58,6 +58,9 @@ Other settlements on the mainland include: ==To be detailed more later==
 - Quietwatch
 - Survalley
 
+# Society
+Hor
+
 ## History
 The history of Horiza is quite short compared to most corners of the world, told only from the [[Discovery of Horiza]].
 
