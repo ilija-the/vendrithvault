@@ -24,7 +24,7 @@ Due to the stark division between coast and inland, pretty much all of the perma
 ![[Pasted image 20260701213548.png]]
 *Loneliness and desolation in the vastness of Horiza.*
 
-The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. 
+The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. Each of these contain a fortress that doubles as the settlement's granary and stockpile of all goods they can't easily get - heavily fortified due to the fear and suspicion that others in the lands would raid it given the opportunity. Lesser settlements have been subject to this, and often rely on hiding their stockpiles, often underground or somewhere outside the actual settlement.
 
 #### Chocolate Isles
 [[Chocolate Isles|Main article here]]
