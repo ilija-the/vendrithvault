@@ -8,7 +8,14 @@ aliases:
 ---
 Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]] as part of the [[Discovery of Horiza]]. Due to its status as a landmass uniquely far away from anywhere else known, and the way in which it was never discovered before (possibly because the World Fleece literally forbid it) but then suddenly was, has made it an object of exceptional fascination and speculation, and for some, reverence.
 
-## History
+
+
+> There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet, all we got was a calm shore and a cursed horizon." 
+
+# Geography
+Horiza 
+
+# History
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
 
 The Guild set up its Idurian headquarters on the island of [[Jedaia]], as a neutral place in-between worlds, and one which symbolised the ability of Canathis and Mogxans to work together.
@@ -22,42 +29,3 @@ By the time ideas of a **third wave of settlement** had started floating around,
 The rising influence of the Sanitorium over the HGA, and their blatantly self-serving ways of overseeing the third wave of settlement, has caused the Crusader-aligned Canathis to increasingly protest, and even withdraw from, the guild. While there are still Canathis sit at the table, nominally as independent and only representing their home cities or kingdoms, it is clear they're under pressure from the Crusaders to either take over or leave the guild altogether. Crusader-HGA relations were worst hit after a Crusader incursion landed on and tried to occupy the island of Jedaia (as a precursor of the [[March of the Corpse Flowers]]).  While the Crusaders didn't engage in official hostilities with the HGA representatives or headquarters there, it is clear their intentions were to gain control of them. The operation failed to gain any swift ground however, and has turned into a stalemate as the local Jedaians keep the Crusaders at bay, whom fight on from the jungle. 
 
 The breakdown of the mostly civil relations in the HGA, and the threat to its headquarters (which have temporarily relocated), has caused it to slow down its plans and operations. While the third wave of settlement ended quite recently, there are still those who already speak of a **fourth wave of settlement**. This however is mostly a way to refer to the existence of informal, technically illegal (as per the HGA Charter) voyages of people who go to Horiza on their own - circumventing the guild's monopoly. There are rumours of both experienced Crusader pirates managing to sail across, as well as secretly-sanctioned Mogxan soldiers and representatives being sent over. The Crusaders are said to have an interest in these lands due to the myth of the [[Continental Army]] that awaits there, preparing to help return the [[Titans]] from exile. Likewise, the Sanitorium has an interest in preventing any such discovery if they do exist, or to even go pre-emptively destroy them themselves. The [[Desecrators]] of Horiza may consist of a mix of those who got in by HGA convoys and those whom have made the voyage "in the dark." The [[Blackout Crusaders]] were one such group whom made the voyage in the dark, which is where they draw their name from. 
-
-
-
-Initially the [[Chocolate Isles]] were settled, but recently the focus of the [[Horizan Guild Association]] has shifted to the [[Horizan Peninsula]].
-
-Is being studied by the [[Forgotten Dawn Society]].
-
-Adamsworth
-Axelton
-Barker
-Bigthrone
-Chaulk Island
-Cockathrees
-Cookiebatter
-Damesland
-Dirgwall
-Everdry
-Fallheim
-Farmen 
-Ferryshield
-Shinglefort
-Friedport
-Gab
-Gillymen
-Greensquat
-Honeykiller
-Lenspoint
-Lillac
-Lilthraun
-Bigthraun
-Loushea
-Mt Chaulk
-Newshore
-Quietwatch
-Rum Hills
-Saint Earlybird
-Survalley
-The Hurricane
-Thymesend
