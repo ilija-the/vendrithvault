@@ -8,9 +8,12 @@ aliases:
 ---
 Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]] as part of the [[Discovery of Horiza]]. Due to its status as a landmass uniquely far away from anywhere else known, and the way in which it was never discovered before (possibly because the World Fleece literally forbid it) but then suddenly was, has made it an object of exceptional fascination and speculation, and for some, reverence.
 
+Horiza is indeed a unique land. On one hand, it has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible)  
 
 
-> There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet, all we got was a calm shore and a cursed horizon." 
+
+> There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet all we got was a calm shore and a cursed horizon." Some attribute the name of Horiza to the use of the word horizon in said story.
+
 
 # Geography
 Horiza 
