@@ -68,7 +68,7 @@ Fool Me Once was a short game much like a thriller, focused on hinting at more m
 #campaigns/landcrab-plot
 **Setting:** [[Chocolate Isles]], spring of 1274 to summer 1275 ADc.
 
-The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[New World - Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]].
+The Landcrab Plot was a years long campaign both in and out of universe. In it, the [[Newcomers of Friedport]] uncovered a conspiracy and stopped the [[Landcrab Plot]], facing crusaders, a serial killer, rebellious landcrabs, oceanic infiltrators, leyline magic, and much more. Varying between these many plotlines, many draped in a mystery-solving genre, the rotating cast got deeply acquainted with the [[Horiza|Horizan]] city of [[Friedport]] and its [[Landcrabs]].
 
 > 🎵 [Opening Theme - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Ending Theme](https://youtu.be/U2XELiosoWw&t=1547)
 > 🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g) 🎵 [Theme of New Horizons](https://youtu.be/VwU0CCBMs1o) 🎵[Theme of Final Ending](https://youtu.be/oHQUUAcB0io)

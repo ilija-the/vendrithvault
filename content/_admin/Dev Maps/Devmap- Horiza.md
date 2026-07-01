@@ -22,6 +22,6 @@ render: dom
 id: map-mm0uo0sy
 ```
 
-[[New World - Horiza|Horiza]] is a region. This map might give too much info tho.
+[[Horiza|Horiza]] is a region. This map might give too much info tho.
 
-![[New World - Horiza|Horiza]]
+![[Horiza|Horiza]]

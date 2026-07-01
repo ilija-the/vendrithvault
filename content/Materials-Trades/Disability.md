@@ -1,4 +1,4 @@
-The [[New World - Horiza|Horizan Peninsula]] is well known for its use of [[grafts]] for both enhancement as well as disability assistance. [[Develyn Barbie]] and [[Saint Karvi Massiri|Karvi Massiri]] being the well known examples of graft users to replace their missing arm.
+The [[Horiza|Horizan Peninsula]] is well known for its use of [[grafts]] for both enhancement as well as disability assistance. [[Develyn Barbie]] and [[Saint Karvi Massiri|Karvi Massiri]] being the well known examples of graft users to replace their missing arm.
 
 [[Cragmoore]] is home to a large variety of metal implements on the other hand, best well shown by [[Ashur Holdok]] and most of his limbs being mechanical. 
 

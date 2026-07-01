@@ -22,7 +22,7 @@ kanban-plugin: board
 - [ ] [[Vilhun]]
 - [ ] [[Far World - Eydwin|Eydwin]]
 - [ ] [[Talvas]]
-- [ ] [[New World - Horiza|Horiza]]
+- [ ] [[Horiza|Horiza]]
 - [ ] [[Friedport]]
 - [ ] 
 

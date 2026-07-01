@@ -1,1 +1,1 @@
-A mythical army said to hide in the [[New World - Horiza]], waiting to aid the [[Eternal Crusade]] on the side of the Crusaders and finally bring the [[Titans]] back. [[Crusaders]].
+A mythical army said to hide in the [[Horiza]], waiting to aid the [[Eternal Crusade]] on the side of the Crusaders and finally bring the [[Titans]] back. [[Crusaders]].

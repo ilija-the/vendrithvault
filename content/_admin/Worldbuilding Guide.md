@@ -115,12 +115,12 @@ These are topics with specific visions/rules that need to be kept in mind.
 6. [[World Fleece|The World Fleece]]. It must remain mysterious.
 7. Travelling the cosmos. Extraplanar travel is arduous, and all but a few planes are extremely poorly documented. There are specific dangers/difficulties to travelling 'upstream' and 'downstream' (see [[Great Flow]]).
 8. What's south in [[Far World - Eydwin|Eydwin]]? There is more land, but we do not know it well. The world remains centred on Iduria.
-9.  What's Deeper in [[New World - Horiza|Horiza]]. 
+9.  What's Deeper in [[Horiza|Horiza]]. 
 10. [[Elves|The Elves]]. Remain a people who's formula still remains lost, and most attempts to make elves can only make something akin to automatons.
 11. Living Elves. They are not known to age like most, but their bodies still decay and die depending on the environment they endure. Therefore very few elves still remain (rare ancestry), and those who do usually have memory issues around the hightower civilisation days.
 12. [[Hightower Civilisation|Downfall of the Hightowers]]. It's not an unknowable topic, but nobody has an exact thesis on why their downfall happened.
 13. [[Automatons]]. Are still rare, and different from maker to maker, region to region.
-14. [[New World - Horiza|Horiza]] as a whole. Gonna stay Ilija's domain, I think.
+14. [[Horiza|Horiza]] as a whole. Gonna stay Ilija's domain, I think.
 15. [[Flying Ships]] are rare, cumbersome, costly and fragile. Read the page and consider which situations they can make sense in.
 16. Socialist/democratic revolutions. Please remember this is set in the equivalent of (late) feudal times.
 

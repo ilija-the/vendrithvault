@@ -10,7 +10,7 @@ Birth: 1188 ADc
 pronouns: He/Him
 ---
 
-Kiam Kroschwim Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[New World - Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city. Kiam Lockneed's origins are not well known, though he began to appear in the ranks of the [[Horizan Guild Association]] while stationed in [[Singsong]].
+Kiam Kroschwim Lockneed is an influental [[Dragonblood]] noble that built his wealth and network in [[Horiza|Horiza]]. He served as the Harbourmaster of [[Friedport]] for decades, and briefly as the Governor of the city. Kiam Lockneed's origins are not well known, though he began to appear in the ranks of the [[Horizan Guild Association]] while stationed in [[Singsong]].
 
 ![[Kiam_Lockneed_Portrait.png]]
 

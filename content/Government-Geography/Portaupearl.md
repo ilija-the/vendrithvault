@@ -3,7 +3,7 @@ tags:
   - places/horiza/friedport
   - society/hga
 ---
-Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[New World - Horiza|Horiza]] - but it has since stopped being used and maintained. 
+Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[Horiza|Horiza]] - but it has since stopped being used and maintained. 
 
 Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Old World - Iduria]] (see [[World Fleece]]).
 

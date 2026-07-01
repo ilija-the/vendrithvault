@@ -7,7 +7,7 @@ aliases:
   - Friedporter
 ---
 ### Overview
-Friedport is potentially the first settlement in [[New World - Horiza|Horiza]], and has until recently been perhaps the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an essential harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues sending magic across the [[World Fleece]] than elsewhere.
+Friedport is potentially the first settlement in [[Horiza|Horiza]], and has until recently been perhaps the most important. Created under the jurisdiction and supply of the [[Horizan Guild Association]], it serves as an essential harbour, entry and stopping point connecting the old and new world. Friedport is also the city from which most communications between the two have been sent/sent from, as it experiences somewhat fewer issues sending magic across the [[World Fleece]] than elsewhere.
 
 >![[Friedport1.3.combined.png]]
 >The city of Friedport at night, as seen from flight over the bay to its north. 
@@ -26,7 +26,7 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 # Places in Friedport
 
 ### [[Portaupearl]]
-Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[New World - Horiza|Horiza]] - but it has since stopped being used and maintained. 
+Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[Horiza|Horiza]] - but it has since stopped being used and maintained. 
 
 Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Old World - Iduria]] (see [[World Fleece]]).
 

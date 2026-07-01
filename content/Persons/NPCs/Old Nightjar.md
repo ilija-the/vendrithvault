@@ -6,7 +6,7 @@ tags:
   - ancestries/kholo
   - secrets
 ---
-Old Nightjar is a retired knight, and despite his advanced age, a current hunter and [[Survival|survivalist]]. He specialises in [[Monster Hunting|hunting]] the [[Undead]]. He has ventured far from his home of [[Canath]], ending up in [[New World - Horiza|Horiza]].
+Old Nightjar is a retired knight, and despite his advanced age, a current hunter and [[Survival|survivalist]]. He specialises in [[Monster Hunting|hunting]] the [[Undead]]. He has ventured far from his home of [[Canath]], ending up in [[Horiza|Horiza]].
 
 ![[Old-Nightjar-Chibi.png]]
 

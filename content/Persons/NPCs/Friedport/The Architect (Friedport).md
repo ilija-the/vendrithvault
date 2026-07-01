@@ -27,7 +27,7 @@ The Architect is a former architect of Friedport, whom never earned an official 
 
 > 🎵 [Theme of Twin Threats](https://youtu.be/1G26glo1058)
 
-The Architect was a [[Crusaders|Crusader]] that once played an important part in the secretive [[Blackout Crusaders]] camp on the island. Having been invited to build a church inside and an invisible stairway to the then newly discovered [[Labyrinthia|Labyrinthine]] portal of [[Haven]], the Architect hatched a plan to use it as an invasion point for the [[Crusader Armies]] to seize [[New World - Horiza|Horiza]]. However, this plan was rejected by [[Sister Amelie Kenton|Amelie Kenton]], and the Architect was kicked out and barred from further entry.
+The Architect was a [[Crusaders|Crusader]] that once played an important part in the secretive [[Blackout Crusaders]] camp on the island. Having been invited to build a church inside and an invisible stairway to the then newly discovered [[Labyrinthia|Labyrinthine]] portal of [[Haven]], the Architect hatched a plan to use it as an invasion point for the [[Crusader Armies]] to seize [[Horiza|Horiza]]. However, this plan was rejected by [[Sister Amelie Kenton|Amelie Kenton]], and the Architect was kicked out and barred from further entry.
 
 One fateful day the Architect died at a construction site of hers, possibly due to foul play, but remained as a [[Ghost]] bound to her many sites of architecture. Dead, no longer able to move around freely, and her plan having failed, the Architect and her brother fell out of favour at the Blackout Crusader camp, especially with the rise of their new leader - [[Auldwell Fareawel]].
 

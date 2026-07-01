@@ -5,7 +5,7 @@ aliases:
   - pirate
 ---
 
-Various pirates of today are [[Crusaders]], justifying their acts as participation in the [[Eternal Crusade]]. This also contributes to the journey to [[New World - Horiza]] being a tenuous and dangerous one.
+Various pirates of today are [[Crusaders]], justifying their acts as participation in the [[Eternal Crusade]]. This also contributes to the journey to [[Horiza]] being a tenuous and dangerous one.
 
 The [[Chocolate Isles]] have also become a haven of various pirates.
 
