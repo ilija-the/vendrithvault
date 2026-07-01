@@ -28,7 +28,7 @@ Another famous figure is the late [[Saint Karvi Massiri]], considered the first 
 ### [[Portaupearl]]
 Portaupearl is the port district of [[Friedport]], and serves as its capital with most of the [[Horizan Guild Association]]'s business being located there. It is famously surrounded by a wall that was once used to separate the rowdy [[Landcrabs|Landcrab]] of the city from the business oriented guildsmen and travellers just arriving in [[Horiza|Horiza]] - but it has since stopped being used and maintained. 
 
-Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Old World - Iduria]] (see [[World Fleece]]).
+Portaupearl makes up a part of Friedport that was founded on the ruins of [[Horizan Precursors]]. It is possible this location was important to the precursors due to its position relative to [[Leylines]]. Evidence to this is the fact that Portaupearl remains the best discovered place to send magical messages between Horiza and the [[Iduria]] (see [[World Fleece]]).
 
 ### Crabraven
 Crabraven is the largest district of the city, and makes up the landscape of landcrabs the city is so well known for. It is largely constructed out of wood, features heavy landcrab motifs such as colourful plank decorations and ropes and fishing nets crossed in the shapes of X. Houses are small and rickety and often built on top of eachother, so to reach higher levels of homes in these favellas one must often climb and use elevated rooftop streets and their plank-based skybridges.
