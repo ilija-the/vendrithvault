@@ -20,7 +20,7 @@ kanban-plugin: board
 - [ ] [[VVIKI/Government-Geography/Galae]]
 - [ ] [[Ferweth]]
 - [ ] [[Vilhun]]
-- [ ] [[Far World - Eydwin|Eydwin]]
+- [ ] [[Eydwin|Eydwin]]
 - [ ] [[Talvas]]
 - [ ] [[Horiza|Horiza]]
 - [ ] [[Friedport]]

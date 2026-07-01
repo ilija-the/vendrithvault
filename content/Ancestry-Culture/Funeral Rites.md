@@ -15,4 +15,4 @@ In history some [[Halflings]] have had their [[Halfling Markings]] turned into b
 
 [[Automatons]] have no shared funerary custom, and many are pilfered for parts or research.
 
-[[Far World - Eydwin|Eydwin]] pyramids also exist.
+[[Eydwin|Eydwin]] pyramids also exist.
