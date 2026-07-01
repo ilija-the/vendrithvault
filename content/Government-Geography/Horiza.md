@@ -10,17 +10,14 @@ Horiza, sometimes called the New World, is a great mass of mostly unsettled land
 
 On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
-Due to this, pretty much all of the permanent settlements of Horiza, as done by the [[Horizan Guild Association]], is limited to the coast and short ranges inlands from it.  
-
-
-
 > There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet all we got was a calm shore and a cursed horizon." Some attribute the name of Horiza to the use of the word horizon in said story.
 
+## Geography
+Due to the stark division between coast and inland, pretty much all of the permanent settlements of Horiza, as done by the [[Horizan Guild Association]], is limited to the coast and short ranges inlands from it. The inlands, or the Horizon as its often called, is seen as something mysterious and in need of deeper exploration. Due to the lack of food, potentially increasingly hostile terrain and fauna, and the unknown element of it all, deeper expeditions are rare and expensive - and are usually staffed by highly experienced adventurers. 
 
-# Geography
-Horiza 
+The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]]. 
 
-# History
+## History
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
 
 The Guild set up its Idurian headquarters on the island of [[Jedaia]], as a neutral place in-between worlds, and one which symbolised the ability of Canathis and Mogxans to work together.
