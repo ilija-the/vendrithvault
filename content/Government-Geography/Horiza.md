@@ -18,7 +18,7 @@ Due to the stark division between coast and inland, pretty much all of the perma
 The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. 
 
 #### Chocolate Isles
-Friedport sits on the [[Chocolate Isles]], a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). The main islands of the Chocolate Isles include:
+Friedport sits on the [[Chocolate Isles]], a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main islands of the Chocolate Isles include:
 - Everydry, the biggest island, home to Friedport and its immediately surrounding Raltron and Mahanbamville. Other settlements include the Rum Hills, Thymesville, Shadebay and Meadport. At the centre of the island is a slumbering volcano called "Mt. Chalkstone" by the locals.
 - Hershrin, a small isle right across the bay of Friedport. Home to Tuntontown, and a sacred secular temple.
 - Cookiebatter Island, east of Everdry, home to [[Saint Earlybird]].
@@ -29,10 +29,18 @@ Friedport sits on the [[Chocolate Isles]], a relatively plentiful area due to it
 - Greenskvat, Bightraun, and Smallthraun (in order of smallest to largest) are three unsettled and thickly jungled islands to the north of Everdry and Cookiebatter.
 
 #### The Mainland
-Adamsworth and Newshore, just a bit into inland on the mainland, have both taken an increasingly important role as the population balloons and the desire to explore (and perhaps importance of exploring) the Horizon only continues to grow. These settlements have to make do with less available ocean food, and have only gained a limited success in certain forms of agriculture. 
+Adamsworth and Newshore, just a bit into inland on the mainland, have both taken an increasingly important role as the population balloons and the desire to explore (and perhaps importance of exploring) the Horizon only continues to grow. These settlements have to make do with less available ocean food, and have only gained a limited success in certain forms of agriculture - and thus are highly reliant on their exchanges with the homeland in order to be fed. The Mainland speaks Idurian only for business, with the common folk's day to day language being either [[Bay Pidgin]] or [[Harza Pidgin]].
 
 Other settlements on the mainland include:
-- 
+- Dirgwall
+- Fallheim
+- Farmen
+- Fort Shingle
+- Gab
+- Gillymen
+- Lillac
+- Quietwatch
+- Survalley
 
 ## History
 The initial explorers who confirmed their journey to Horiza all returned after their first voyage there, reporting a vast, beautiful but empty land. Despite their claims they found nothing of much value, even nutritionally, the news spread quickly and caught the ears of powerful [[Talvas|Talvan]]/[[Rubyfirth Bay|Rubyfirth]] merchants who sought to make these lands their (effective) property. These were experts in navigation and shipbuilding, and had uniquely large funds and legal freedoms (from any sovereign king or emperor) that allowed them to undertake such ventures. The [[Forgotten Dawn Society]], a guild focused on exploration, and largely, archaeology, was instrumental in the process to come. They founded and took on a leading role in the [[Horizan Guild Association]] (HGA), which was to be the sole organisation capable of exploring and settling these lands. Inviting important [[Mogxa|Mogxan]] and [[Canath|Canathi]] figures to the table, the guild initially played these two's desire to not pass any opportunities up to each other as a way to keep their influence low whilst extracting concessions, resources, and funding. 
