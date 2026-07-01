@@ -6,9 +6,12 @@ aliases:
   - Horizan Peninsula
   - New World
 ---
-Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]] as part of the [[Discovery of Horiza]]. 
+Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]] as part of the [[Discovery of Horiza]]. Due to its status as a landmass uniquely far away from anywhere else known, and the way in which it was never discovered before (possibly because the World Fleece literally forbid it) but then suddenly was, has made it an object of exceptional fascination and speculation, and for some, reverence.
 
-A great mass of land found beyond the [[World Fleece]] to the east of the [[Iduria]] as part of the [[Discovery of Horiza]].
+
+
+
+
 
 Initially the [[Chocolate Isles]] were settled, but recently the focus of the [[Horizan Guild Association]] has shifted to the [[Horizan Peninsula]].
 
