@@ -8,6 +8,8 @@ aliases:
 ---
 Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. It's size, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
+![[Pasted image 20260701213544.png]]
+
 On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
 > There's a saying about Horiza that's based of an old tale of a mythical island paradise - "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet all we got was a calm shore and a cursed horizon." Some attribute the name of Horiza to the use of the word horizon in said story.
@@ -15,15 +17,18 @@ On one hand, Horiza has been described as endlessly large and beautiful, with vi
 ## Geography
 Due to the stark division between coast and inland, pretty much all of the permanent settlements of Horiza, as done by the [[Horizan Guild Association]], is limited to the coast and short ranges inlands from it. The inlands, or the Horizon as its often called, is seen as something mysterious and in need of deeper exploration. Due to the lack of food, potentially increasingly hostile terrain and fauna, and the unknown element of it all, deeper expeditions are rare and expensive - and are usually staffed by highly experienced adventurers. 
 
-![[Pasted image 20260701213516.png]]
-![[Pasted image 20260701213544.png]]
 ![[Pasted image 20260701213548.png]]
+*Loneliness and desolation in the Horizan inlands.*
 
 The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. 
 
 #### Chocolate Isles
 [[Chocolate Isles|Main article here]]
-Friedport sits on the Chocolate Isles, a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main islands of the Chocolate Isles include:
+Friedport sits on the Chocolate Isles, a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). 
+
+![[Pasted image 20260701213928.png]]
+
+The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main islands of the Chocolate Isles include:
 - Everydry, the biggest island, home to Friedport and its immediately surrounding Raltron and Mahanbamville. Other settlements include the Rum Hills, Thymesville, Shadebay and Meadport. At the centre of the island is a slumbering volcano called "Mt. Chalkstone" by the locals.
 - Hershrin, a small isle right across the bay of Friedport. Home to Tuntontown, and a sacred secular temple.
 - Cookiebatter Island, east of Everdry, home to [[Saint Earlybird]].
@@ -34,6 +39,9 @@ Friedport sits on the Chocolate Isles, a relatively plentiful area due to its ab
 - Greenskvat, Bightraun, and Smallthraun (in order of smallest to largest) are three unsettled and thickly jungled islands to the north of Everdry and Cookiebatter.
 #### The Mainland
 Adamsworth and Newshore, just a bit into inland on the mainland, have both taken an increasingly important role as the population balloons and the desire to explore (and perhaps importance of exploring) the Horizon only continues to grow. These settlements have to make do with less available ocean food, and have only gained a limited success in certain forms of agriculture - and thus are highly reliant on their exchanges with the homeland in order to be fed. The Mainland speaks Idurian only for business, with the common folk's day to day language being either [[Bay Pidgin]] or [[Harza Pidgin]].
+
+![[Pasted image 20260701213516.png]]
+*A typical sight in Horizan geography is sudden stark height differences, even on the coast and in lakes.*
 
 Other settlements on the mainland include:
 - Dirgwall
