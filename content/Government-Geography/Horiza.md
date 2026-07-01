@@ -21,7 +21,7 @@ By the time ideas of a **third wave of settlement** had started floating around,
 
 The rising influence of the Sanitorium over the HGA, and their blatantly self-serving ways of overseeing the third wave of settlement, has caused the Crusader-aligned Canathis to increasingly protest, and even withdraw from, the guild. While there are still Canathis sit at the table, nominally as independent and only representing their home cities or kingdoms, it is clear they're under pressure from the Crusaders to either take over or leave the guild altogether. Crusader-HGA relations were worst hit after a Crusader incursion landed on and tried to occupy the island of Jedaia (as a precursor of the [[March of the Corpse Flowers]]).  While the Crusaders didn't engage in official hostilities with the HGA representatives or headquarters there, it is clear their intentions were to gain control of them. The operation failed to gain any swift ground however, and has turned into a stalemate as the local Jedaians keep the Crusaders at bay, whom fight on from the jungle. 
 
-This breakdown
+The breakdown of the mostly civil relations in the HGA, and the threat to its headquarters (which have temporarily relocated), has caused it to slow down its plans and operations. While the third wave of settlement ended quite recently, there are still those who already speak of a **fourth wave of settlement**. This however is mostly a way to refer to the existence of informal, technically illegal (as per the HGA Charter) voyages of people who go to Horiza on their own - circumventing the guild's monopoly. There are rumours of both experienced Crusader pirates managing to sail across, as well as secretly-sanctioned  
 
 
 
