@@ -9,6 +9,7 @@ aliases:
 Horiza, sometimes called the New World, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. It's size, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
 ![[Pasted image 20260701213544.png]]
+*The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," with which Horiza has been compared. Some other languages name the continent after its blue and silvery viewscapes. *
 
 On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, it is, besides its coastal waters, so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
@@ -18,7 +19,7 @@ On one hand, Horiza has been described as endlessly large and beautiful, with vi
 Due to the stark division between coast and inland, pretty much all of the permanent settlements of Horiza, as done by the [[Horizan Guild Association]], is limited to the coast and short ranges inlands from it. The inlands, or the Horizon as its often called, is seen as something mysterious and in need of deeper exploration. Due to the lack of food, potentially increasingly hostile terrain and fauna, and the unknown element of it all, deeper expeditions are rare and expensive - and are usually staffed by highly experienced adventurers. 
 
 ![[Pasted image 20260701213548.png]]
-*Loneliness and desolation in the Horizan inlands.*
+*Loneliness and desolation in the vastness of Horiza.*
 
 The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. 
 
@@ -27,6 +28,7 @@ The three biggest and most important settlements of Horiza are [[Friedport]], [[
 Friedport sits on the Chocolate Isles, a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). 
 
 ![[Pasted image 20260701213928.png]]
+*The Chocolate Isles are a relatively green part of Horiza. It is also home to some edible foods, as well as wildlife that sometimes imitates the food or terrain.*
 
 The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main islands of the Chocolate Isles include:
 - Everydry, the biggest island, home to Friedport and its immediately surrounding Raltron and Mahanbamville. Other settlements include the Rum Hills, Thymesville, Shadebay and Meadport. At the centre of the island is a slumbering volcano called "Mt. Chalkstone" by the locals.
