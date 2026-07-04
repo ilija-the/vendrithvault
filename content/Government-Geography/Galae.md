@@ -15,7 +15,7 @@ More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal
 Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture.
 
 ## Geography
-Galae is formed by a variety of areas 
+Galae is formed by a variety of areas. It is roughly divided in the middle by a great lake called "[[The Scar]]" whose immediate surroundings is sometimes called Scarred Galae. To the east of it is eastern Galae, consisting of the Cragrock area, some islands like that of [[Eleina]], as well as some tribes and steppes that have slowly been integrated more into Mogxa. The west of the scar can be divided into at minimum three areas. In the south-western corner towards Canath and Nagonkor is the High Plateau, a highly elevated mountainous area, and what's known as either Lower or Pastoral Gal
 #### The High Plateau
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]] from [[Vön]].
 
