@@ -36,7 +36,7 @@ Mogxa has historically spoken variants of the [[Ancestral Languages|Draconic Lan
 Mogxa is a large and therefore varied region, but has some commonalities. The terrain is characterised by stark differences in elevation, with frequent cliffs and canyons, sometimes combined with heavy vegetation and bodies of water that make traversal outside of the common roads difficult. The central jungle of Mogxa contains some of if not the highest mountains on Vendrith.
 
 #### Imperial Mogxa
-And Central Mogxan cities.
+
 
 #### Zardoba
 The grand city of [[Zardoba]] and its surrounding realm has been an autonomous part of [[Mogxa]] roughly since the end of the [[Zardoban Crown|Zardoban Empire]].  It is a port city that sits on [[The Rend]] on the western edge of Mogxa, and has used those seas well for both warfare and commerce. Its governed territories also extend inland along the Silver River and much of the Electrum mountains. It also once stretched further south towards the Tributary Coast, though its territories here have been re-shuffled into other hands. 
@@ -44,16 +44,11 @@ The grand city of [[Zardoba]] and its surrounding realm has been an autonomous p
 Zardoba was once known as the "City of Gold." Due to its strategic position, size and wealth is has been viewed as the only city capable of seriously threatening the Imperial Heartlands of Mogxa, though in practice it has never managed to do this and more recently it has lost much of its influence to corruption.
 
 Zardoba's north is guarded by an arid desert that few bother to traverse, separating Zardoba from the Frontier Settlements area.
-
----
-###### Notes
-<small>Zardoba  -Ilija </small>
-
 #### Frontier Settlements
 
 
 #### The Old Steppe
-
+And Central Mogxan cities.
 
 #### Northern Shore
 
@@ -61,7 +56,7 @@ Zardoba's north is guarded by an arid desert that few bother to traverse, separa
 #### Lake Galae
 
 
-#### Eastern Galae
+#### Eastern Mogxa
 
 
 #### Sergethis 
@@ -78,4 +73,6 @@ Zardoba's north is guarded by an arid desert that few bother to traverse, separa
 
 ---
 ###### Notes
-<small>Mogxa is inspired by imperial China and France, and especially since the birth of the Sanitorium - revolutionary France. Some amount of Italian or other romance inspirations can be pulled in in small parts. China is already a large enough pool of inspiration, and probably should actually be narrowed down to a specific dynastic era or two to help focus. -Ilija</small>
+<small>Mogxa is inspired by imperial China and France, and especially since the birth of the Sanitorium - revolutionary France. Some amount of Italian or other romance inspirations can be pulled in in small parts. China is already a large enough pool of inspiration, and probably should actually be narrowed down to a specific dynastic era or two to help focus -Ilija.
+
+<small>Zardoba exchanges much of the French inspiration of Mogxa in favour of Spanish and Portuguese ones -Ilija </small>
