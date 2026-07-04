@@ -22,7 +22,6 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 	"aspectRatio": 1.248761149653122
 }
 ```
-
 ## Culture
 Besides [[Humans]] - [[Kobolds]] and [[Goblins]] are especially common in Mogxa, and take up a variety of forms depending on where in the continent you find yourself.
 
@@ -55,19 +54,25 @@ The east of Mogxa was once its most important lands, only losing influence when 
 #### Sergethis 
 The Sergethine Bay or "Crescent" is the historical home of the [[Dragons]] of the [[Draconic Empire]], which is considered either the earliest Mogxan Empire or at least its precursor. Since the [[Draconic Concordat]] the region has slowly lost influence, and has seen a large depopulation as the remaining true Dragons left, people move elsewhere in Mogxa, and some have gone to the islands of [[Lorgun]] across the ocean to its east. Those who remain are primarily of the [[Draconic Tribes of Mogxa|Draconic Tribes]], which attempt to keep the Dragons' legacy alive through practicing its language and culture. The western coast of Sergethis makes up only a short sea-trip to the coast of Imperial Mogxa.
 
-Sergethis once constituted a larg
-
+Sergethis once constituted a much larger mass of land in its southern tip, though the [[Sinking of Argathia]] saw much of it disappear into the sea. This is often considered a [[Disasters of the Silence|Disaster of the Silence]].
 #### Lakes of Life
 The [[Lakes of Life]] are a set of lakes, and a surrounding jungle that is extremely dense, dangerous and inhospitable, which sits on an enormously elevated plateau. It is completely impassable terrain for anyone but the most dedicated of small-group explorers, and thus has served as a natural barrier separating Eastern Mogxa from what today is Imperial Mogxa. Back when the east and Sergethine parts of the Mogxan Empires constituted its heartland, the Lakes of Life allowed for the concentration of defence in the north if push came to shove, a line which few hostile armies managed to cross.
-
 
 > [!important] **The Old Tributaries**
 > [[Fenrunr]], the [[Tributary Coast]] and [[Lorgun]] all can be considered part of the Mogxan imperial tradition to some degree or other.
 
-
 ## History
-
-
+To be detailed:
+- Founding of Philosophia
+- Draconic Empire
+- First Kobold Dynasty
+- Eastern Kobold Dynasty
+- Early Western Kobold Dynasty
+- Idurian Interregnum 
+- Late Western Kobold Dynasty
+- War Over Haeven and destruction of the Rainbow Bridge
+- Founding of the Sanitorium
+- Adventurer Crisis
 
 
 ---
