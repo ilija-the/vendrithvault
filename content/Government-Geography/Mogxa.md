@@ -51,10 +51,11 @@ The northern shore of Mogxa has long been considered rather unimportant and unev
 #### Lakes of Mogxa
 The Lake area of Mogxa make up the region's northeast. Home to a number of mining operations, it is somewhat more important than the Northern Shore, and is home to a decent number of settlements and historical conflicts. The area is somewhat wild and hard to control however, and has a history of struggling against monsters. It also makes up large part of the border with [[Fenrunr]]. 
 #### Eastern Mogxa
-The east of Mogxa was once its most important lands, only losing influence when the capital moved westward with the [[Western Kobold Dynasty]]. The region may be seeing a revival however, as the port city of [[Singsong]] has become the primary hub conn
-
+The east of Mogxa was once its most important lands, only losing influence when the capital moved westward with the [[Western Kobold Dynasty]]. The region may be seeing a revival however, as the port city of [[Singsong]] has become the primary hub connecting [[Iduria]] to [[Horiza]], and is yet growing in importance.
 #### Sergethis 
+The Sergethine Bay or "Crescent" is the historical home of the [[Dragons]] of the [[Draconic Empire]], which is considered either the earliest Mogxan Empire or at least its precursor. Since the [[Draconic Concordat]] the region has slowly lost influence, and has seen a large depopulation as the remaining true Dragons left, people move elsewhere in Mogxa, and some have gone to the islands of [[Lorgun]] across the ocean to its east. Those who remain are primarily of the [[Draconic Tribes of Mogxa|Draconic Tribes]], which attempt to keep the Dragons' legacy alive through practicing its language and culture. The western coast of Sergethis makes up only a short sea-trip to the coast of Imperial Mogxa.
 
+Sergethis once constituted a larg
 
 #### Lakes of Life
 The [[Lakes of Life]] are a set of lakes, and a surrounding jungle that is extremely dense, dangerous and inhospitable, which sits on an enormously elevated plateau. It is completely impassable terrain for anyone but the most dedicated of small-group explorers, and thus has served as a natural barrier separating Eastern Mogxa from what today is Imperial Mogxa. Back when the east and Sergethine parts of the Mogxan Empires constituted its heartland, the Lakes of Life allowed for the concentration of defence in the north if push came to shove, a line which few hostile armies managed to cross.
