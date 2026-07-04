@@ -6,7 +6,9 @@ tags:
   - places/iduria
   - important
 ---
-## Overview
+Galae is a historical region that sits between [[Ferweth]], [[Canath]] and [[Mogxa]].  
+
+
 A historical region that today is quite contested in its extent. It lies in between [[Ferweth]] to the northwest, [[Mogxa]] to the east and [[Canath]] to the west and south. It also shares a small jungle border with [[Nagonkor]].
 
 ![[Mappae-Galae_1.5 1.png]]
