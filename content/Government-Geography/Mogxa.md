@@ -22,7 +22,11 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 ```
 
 ## Culture
-[[Kobolds]] and
+Besides [[Humans]] - [[Kobolds]] and [[Goblins]] are especially common in Mogxa, and take up a variety of forms depending on where in the continent you find yourself.
+
+Many [[Vanara]] communities also exist in Mogxa, having long since migrated to here from the [[Hightower Civilisation]] 
+
+[[Dragonblood|Dragonbloods]] are technically few in number, but practically makes up one of the most important populations as they frequently hold on to wealth, power and fame inherited from Draconic times (despite the best efforts of those who view them with suspicion). 
 
 Mogxa has historically spoken variants of the [[Ancestral Languages|Draconic Language]] in its upper echelons and courts due to the rule of Dragons, but has since side-lined it. The language is today mostly just learned by [[Dragonblood|Dragonbloods]] or [[Kobolds|Kobolds]], usually as part of the [[Draconic Tribes of Mogxa|Draconic Tribes]] that attempt to maintain old traditions. [[Languages|Idurian]] has stayed the court language of Mogxa since their conquest by [[Resting Crown|God-King Idur]], and is the language high business and high rank. A number of other [[Ancestral Languages]] also dot the very large and populous region, though it is the lower class common language of [[Maux Xi]] that ties together much the common folk.  
 
