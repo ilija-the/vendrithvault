@@ -31,11 +31,9 @@ The Scar is the great lake which divides Galae into east and west. While the ter
 
 Besides crossing the water, there's two roads that connect east and west. One is the [[Ivory Road]] on the south land-bridge, which passes through the [[Heavenly Wall]] city of Mogxa. Another is a more poorly maintained and rougher terrain route along the north.
 #### Craggy and Eastern Galae
-The Craggy, or Cragrock, side of Galae begins to the east of the Scar. The Cragrock area contains arid rocky terrain and a number of rather steep cliffs and mountains. The few passages and rivers that do exist have been put to great use by its inhabitants, creating a number of well-connected towns and cities despite its rough starting point. The city of [[Cragmoore]] is the largest city, and also hosts the [[Magistrate of Cragrock]] which governs an 
+The Craggy, or Cragrock, side of Galae begins to the east of the Scar. The Cragrock area contains arid rocky terrain and a number of rather steep cliffs and mountains. The few passages and rivers that do exist have been put to great use by its inhabitants, creating a number of well-connected towns and cities despite its rough starting point. The city of [[Cragmoore]] is the largest city, sometimes known as the "eastern capital" of Galae. It hosts the [[Magistrate of Cragrock]], which governs an alliance of the most important settlements in the area.
 
-, and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
-
-The Island of [[Enui]] is sometimes claimed as being of Galae descent. 
+The historic eastern plains or steppe of Galae is today considered part of Mogxa, though you can see the mixed origins with many of the tribal peoples in the borderlands here. The island of [[Eleina]] has its own unique identity, but is still usually considered a part of the greater Galaen heritage. The island of [[Enui]] may once have been similarly, though today few Galaens remain there.
 
 ## History
 #### Hightower Civilisation
