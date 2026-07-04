@@ -49,7 +49,7 @@ The Hightower civilisations, quite famously, ended abruptly but for unknown reas
 
 The rebellion of the Hobgoblins must have played a role in the downfall of the Hightowers. While still really one shared ancestry with the Vanarans, these two groups formed out of a split over whether to violently rebel and secure a worthy material life, or continue collaborating with the elves and their high art culture. After the end, the Vanarans carried on much of the Elven heritage into their seclusive and highly cultural communes. 
 
-Some believe the Hightowers form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven civilization never fell and the elves never died out or disappeared, they merely completed their journey to an idyllic plane above through these planar portals.
+Many believe the Hightowers form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven civilization never fell and the elves never died out or disappeared, they merely completed their journey to an idyllic plane above through these planar portals.
 
 > [!important] **Halflings?**
 > The existence of a large amount of [[Halfling Ruins]] in Galae pose many questions to its history, especially given they're time period of origin is uncertain. One theory places them alongside the Hightowers, explaining how the Hightowers ruled a "high civilisation" in the sky, while the "vulgar, low civilisation" on the ground was led by Halflings.
