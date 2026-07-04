@@ -44,4 +44,6 @@ The Island of [[Enui]] is sometimes claimed as being of Galae descent.
 
 
 ## History
-Galaen history largely begins at the Elven Hightowers, which is seen by many as its pride and joy - though to others it's seen as such a distant and different 
+Galaen history largely begins at the Elven Hightowers, which is seen by some as its proudest heritage. 
+
+The Galaekor Period followed - not to be confused with the corner of Galae today called Galaekor - in which the peoples of [[Nagonkor]] established themselves across considerable parts of Galae. They established a number of pyramids and temples during this time, though these have been abandoned, plundered and even destroyed in later times by those who view them as pagan. 
