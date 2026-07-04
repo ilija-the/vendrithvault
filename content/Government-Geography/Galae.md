@@ -55,9 +55,11 @@ While the details known for sure from so long ago are limited, it is commonly un
 
 The society also included the [[Hobgoblins|Hobgoblin]]-[[Vanara]], the [[Amurrun]] (Catfolk), and despite the common myths of their rivalry, they also frequently engaged with the [[Dwarves]].  The Hobgoblin-Vanara were a type of labourer today recognised as [[Slavery|slaves]], often carrying out the construction work planned and directed by the middle-caste Amurrun. The Amurrun, being born with mystical [[Amurrun Markings]], were a sort of 'born architect' which contributed piece by piece to the Hightowers with the "blueprints" on their bodies.
 
-The Hightower civilisation was mainly based in the Plateau region of Galae, though a number also existed on the east coast of the [[Celene]] (called the Hightower Coast) and some few 
+The Hightower civilisation was mainly based in the Plateau region of Galae, though a number also existed on the east coast of the [[Celene]] (called the Hightower Coast). Some individual Hightowers have also been said to exist as far outliers in other regions.
 
 Some believe the Hightowers form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven civilization never fell and the elves never died out or disappeared, they merely completed their journey to an idyllic plane above through these planar portals.
 
+> [!important] **Halflings?**
+> The existence of a large amount of [[Halfling Ruins]] in Galae pose many questions to its history, especially given they're time period of origin is uncertain. One theory places them alongside the Hightowers, explaining how the Hightowers ruled a "high civilisation" in the sky, while the "vulgar, low civilisation" on the ground was led by Halflings.
 #### Galaekor Period
 The Galaekor Period followed - not to be confused with the corner of Galae today called Galaekor - in which the peoples of [[Nagonkor]] established themselves across considerable parts of Galae. They established a number of pyramids and temples during this time, though these have been abandoned, plundered and even destroyed in later times by those who view them as pagan. 
