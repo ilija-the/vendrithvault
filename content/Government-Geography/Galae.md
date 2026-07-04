@@ -31,7 +31,7 @@ The Scar is the great lake which divides Galae into east and west. While the ter
 
 Besides crossing the water, there's two roads that connect east and west. One is the [[Ivory Road]] on the south land-bridge, which passes through the [[Heavenly Wall]] city of Mogxa. Another is a more poorly maintained and rougher terrain route along the north.
 #### Craggy and Eastern Galae
-The Craggy, or Cragrock, side of Galae begins to the east of the Scar.
+The Craggy, or Cragrock, side of Galae begins to the east of the Scar. The Cragrock area contains arid rocky terrain and a number of rather steep cliffs and mountains. The few passages and rivers that do exist have been put to great use by its inhabitants, creating a number of well-connected towns and cities despite its rough starting point. The city of [[Cragmoore]] is the largest city, and also hosts the [[Magistrate of Cragrock]] which governs an 
 
 , and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
