@@ -21,14 +21,12 @@ The west of the scar can be divided into at minimum three areas. In the south-we
 #### The High Plateau
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]] from [[Vön]].
 #### Pastoral Galae
-Lower or Pastoral Galae lies just below the Plateau to its east, and is made up of a series of smaller towns and villages with a history of quiet agricultural, pastoral and maritime life. They also connect to the [[Regal Path]] that leads down to [[Nagonkor]], along which lies the densely jungled valley today known as [[Galaekor]].
+Lower or Pastoral Galae lies just below the Plateau to its east, and is made up of a series of smaller towns and villages with a history of quiet agricultural, pastoral and maritime life. They also connect to the [[Regal Path]] that leads down to [[Nagonkor]], along which lies the densely jungled valley today known as [[Galaekor]]. The Crusaders hoped to open this path for the future in the [[March of the Corpse Flowers]], though despite their technically successful march through it - it remains practically impenetrable.
 #### Central Wilds
-The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads. Also accessible by the [[Regal Path]] from [[Nagonkor]], which was used by invading crusaders in the [[March of the Corpse Flowers]].
-#### Blissfeldt Coast
-
+The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads - though the area ties all the parts of Galae together with its trade routes and food sales. It is home to one of the two roads that can cross the west-east boundary, the [[Ivory Road]], which leads to the [[Heavenly Wall]] city of Mogxa.
 #### Borderland Marches
-*Main article - [[Crimson Desert]]*
-The border with Ferweth is marked by a distinctive red desert.
+The 
+ [[Crimson Desert|Red Desert]]
 #### Scarred Galae.
 Consists of region of spotted lakes and mountains known as The Scar
 #### Craggy and Eastern Galae
