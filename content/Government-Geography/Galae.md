@@ -25,8 +25,7 @@ Lower or Pastoral Galae lies just below the Plateau to its east, and is made up 
 #### Central Wilds
 The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads - though the area ties all the parts of Galae together with its trade routes and food sales. It is home to one of the two roads that can cross the west-east boundary, the [[Ivory Road]], which leads to the [[Heavenly Wall]] city of Mogxa.
 #### Borderland Marches
-The 
- [[Crimson Desert|Red Desert]]
+The north-western edge of Galae is today home to the large [[Crimson Desert|Red Desert]] that was created during the War Over Haeven, at the centre of which still lies a "great wound" portal to the [[Crimson|Plane of Crimson]]. The desert is uninhabitable, though its transition into calm coasts and wet marshes to the north allow for some limited amount of mostly nomadic or maritime-based settlement, such as that of [[Vanderkact]]. The Marches area is also home to two other paths connected to Canath - the [[Sacred Path]] and the [[Old Passage]]. 
 #### Scarred Galae.
 Consists of region of spotted lakes and mountains known as The Scar
 #### Craggy and Eastern Galae
