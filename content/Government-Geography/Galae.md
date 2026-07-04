@@ -57,6 +57,8 @@ The society also included the [[Hobgoblins|Hobgoblin]]-[[Vanara]], the [[Amurrun
 
 The Hightower civilisation was mainly based in the Plateau region of Galae, though a number also existed on the east coast of the [[Celene]] (called the Hightower Coast). Some individual Hightowers have also been said to exist as far outliers in other regions.
 
+The Hightower civilisations, quite famously, ended abruptly but for unknown reasons. While few sources speak to anything like a calamity, it is clear that the elves and their tower cities suddenly stopped being referred to in writings or marked on the maps. Many Hightowers have collapsed, or simply been forgotten to time. A few Hightowers still exist and are well known, but are in a dangerous state of disrepair and considered too dangerous or eerie to inhabit. The only exception is Babael, which is a city consisting of the lower section of a Hightower and the settlements around it.
+
 Some believe the Hightowers form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven civilization never fell and the elves never died out or disappeared, they merely completed their journey to an idyllic plane above through these planar portals.
 
 > [!important] **Halflings?**
