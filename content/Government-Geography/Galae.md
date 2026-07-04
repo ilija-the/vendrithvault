@@ -27,9 +27,11 @@ The largest and most open region of Accessible from Canath through the [[Sacred 
 #### Borderland Marches
 The north-western edge of Galae is today home to the large [[Crimson Desert|Red Desert]] that was created during the War Over Haeven, at the centre of which still lies a "great wound" portal to the [[Crimson|Plane of Crimson]]. The desert is uninhabitable, though its transition into calm coasts and wet marshes to the north allow for some limited amount of mostly nomadic or maritime-based settlement, such as that of [[Vanderkact]]. The Marches area is also home to two other paths connected to Canath - the [[Sacred Path]] and the [[Old Passage]].
 #### Scarred Galae.
-The Scar is the great lake which divides Galae into east and west. While the term Scar of region of spotted lakes and mountains known as The Scar. 
+The Scar is the great lake which divides Galae into east and west. While the term Scarred Galae may overlap with the other areas, it's useful to refer to the Scar itself and its immediate surroundings. A number of clans and bandit camps have gotten very used to this terrain, being within raiding or 'taxing' distance of the east-west roads and making use of the waters to quickly raid or relocate.
+
+Besides crossing the water, there's two roads that connect east and west. One is the [[Ivory Road]] on the south land-bridge, which passes through the [[Heavenly Wall]] city of Mogxa. Another is a more poorly maintained and rougher terrain route along the north.
 #### Craggy and Eastern Galae
-The Craggy, or Cragrock, side of Galae begins to the east of the Scar. 
+The Craggy, or Cragrock, side of Galae begins to the east of the Scar.
 
 , and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
