@@ -44,6 +44,8 @@ The Island of [[Enui]] is sometimes claimed as being of Galae descent.
 
 
 ## History
-Galaen history largely begins at the Elven Hightowers, which is seen by some as its proudest heritage. 
+Galaen history largely begins at the Elven Hightowers, which is seen by some as its proudest heritage. While the details known for sure from so long ago are limited, it is commonly understood that this was a period of high culture. 
+
+The namesake "Hightowers" are exceptionally tall towers which seem to pierce the sky, whose peaks cannot be seen in the clouds constantly gathered around them. It is commonly believed these form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven 
 
 The Galaekor Period followed - not to be confused with the corner of Galae today called Galaekor - in which the peoples of [[Nagonkor]] established themselves across considerable parts of Galae. They established a number of pyramids and temples during this time, though these have been abandoned, plundered and even destroyed in later times by those who view them as pagan. 
