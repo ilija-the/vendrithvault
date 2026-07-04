@@ -35,6 +35,8 @@ Mogxa has historically spoken variants of the [[Ancestral Languages|Draconic Lan
 Mogxa is a large and therefore varied region, but has some commonalities. The terrain is characterised by stark differences in elevation, with frequent cliffs and canyons, sometimes combined with heavy vegetation and bodies of water that make traversal outside of the common roads difficult. The central jungle of Mogxa contains some of if not the highest mountains on Vendrith.
 #### Imperial Mogxa
 The relatively central strip of Mogxa that runs down the western edge of the Lakes of Life today are known as "Imperial Mogxa." It has been home to the latest [[Western Kobold Dynasty|Kobold Dynasty]], its Imperial City, the highly productive farmlands around its enormous rivers, and last but not least, the autonomous super-city of [[Philosophia]]. 
+
+> Philosophia is so large and unique it is often necessary to separate it out from the province it exists in in most discussions. See the main article for more.
 #### Zardoba
 The grand city of [[Zardoba]] and its surrounding realm has been an autonomous part of [[Mogxa]] roughly since the end of the [[Zardoban Crown|Zardoban Empire]].  It is a port city that sits on [[The Rend]] on the western edge of Mogxa, and has used those seas well for both warfare and commerce. Its governed territories also extend inland along the Silver River and much of the Electrum mountains. It also once stretched further south towards the Tributary Coast, though its territories here have been re-shuffled into other hands. 
 
@@ -63,17 +65,18 @@ The [[Lakes of Life]] are a set of lakes, and a surrounding jungle that is extre
 
 ## History
 To be detailed:
-- Founding of Philosophia
+- Flock of Man, Founding of Philosophia
 - Draconic Empire
 - First Kobold Dynasty
 - Eastern Kobold Dynasty
 - Early Western Kobold Dynasty
 - Idurian Interregnum 
 - Late Western Kobold Dynasty
+- Modern Philosophia
 - War Over Haeven and destruction of the Rainbow Bridge
 - Founding of the Sanitorium
 - Adventurer Crisis
-
+- Rise of Singsong and reinforced Sanitorium
 
 ---
 ###### Notes
