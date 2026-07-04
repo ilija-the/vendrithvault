@@ -15,33 +15,26 @@ More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal
 Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture.
 
 ## Geography
-Galae can be roughly split into a few parts:
-#### The High Plateau.
+Galae is formed by a variety of areas 
+#### The High Plateau
 A great plateau marks the most clearly defined part of Galae as well as the historic border between Galae and Canath, visible for miles on end all around. The ''western capital'' of [[Babael]] lies here, on the [[Path of Gold]] - the main road and pass used to get through the [[Galaen Mountains]]. Another much less used route is the [[Silver Pass]] from [[Vön]].
 
-#### Lower Galae
+#### Pastoral Galae
 
-#### Northern Borderlands
-*Main article - [[Crimson Desert]]*
-The border with Ferweth is marked by a distinctive red desert.
+
 #### Central Wilds
 The largest and most open region of Accessible from Canath through the [[Bronze Canal]]. Settlements are rather sparse - though a couple straddle the northern [[Blissfeldt Coast|Blissfeldt]] coastline such as the rather sizeable [[Littlehorne]]. Its lands are primarily used by hunters, scavengers and shepherd nomads. Also accessible by the [[Regal Path]] from [[Nagonkor]], which was used by invading crusaders in the [[March of the Corpse Flowers]].
-
 #### Blissfeldt Coast
 
-
+#### Borderland Marches
+*Main article - [[Crimson Desert]]*
+The border with Ferweth is marked by a distinctive red desert.
 #### Scarred Galae.
 Consists of region of spotted lakes and mountains known as The Scar
-
-#### 
+#### Craggy and Eastern Galae
 , and stretches into Mogxa from there. [[Cragmoore]], just east of the Scar, is sometimes known as the ''eastern capital'' of Galae. Just north off it lies the island of [[Eleina]]. The historic eastern plains of Galae are now considered part of Mogxa and the Sanitorium.
 
 The Island of [[Enui]] is sometimes claimed as being of Galae descent. 
-
-#### Old Galaen Plains
-
-
-
 
 ## History
 #### Hightower Civilisation
@@ -62,7 +55,7 @@ Some believe the Hightowers form a sort of bridge to [[Cosmology of Vendrith|oth
 #### Galaekor Period
 The Galaekor Period followed - not to be confused with the corner of Galae today called Galaekor - in which the peoples of [[Nagonkor]] established themselves across considerable parts of Galae. They established a number of pyramids and temples during this time, though these have been abandoned, plundered and even destroyed in later times by those who view them as pagan. 
 
-The Galaekor Period that followed is often overshadowed by the Hightowers, but in reality formed the basis of many of the towns and polities of the region today, unlike the Hightower societies which essentially ceased to exist. The end of the Galaekor period came about through a number of violent and destructive wars waged by Galaens against "pagans," as Galae embraced the worship of Titans over  
+The Galaekor Period that followed is often overshadowed by the Hightowers, but in reality formed the basis of many of the towns and polities of the region today, unlike the Hightower societies which essentially ceased to exist. The end of the Galaekor period came about through a number of violent and destructive wars waged by Galaens against "pagans," as Galaens embraced the worship of Titans over older folk religion.  
 #### Middle Period
 After this, Galae went through a rather peaceful "Middle Period" that saw Galaens form bonds with its neighbours and engage in exchange of culture, commercial goods and great people like writers, thinkers and heroes. This period can also be said to have began an increasing division between the western Canathi-aligned Galae and the eastern Mogxa-aligned Galae, however, and it also saw the loss of Galaen identity and ways of life in some of its borderlands (like the formerly "Galaen Steppe" today constituting north-western Mogxa). 
 #### Recent Galaen History
