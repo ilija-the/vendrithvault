@@ -48,9 +48,10 @@ The Frontier Armies and Settlements of Mogxa push its influence north-west, into
 Stretching east from [[Galae]] and through a strip of land in the general northern stretch of Mogxa (though its coast is not included), the Old Steppe was once occupied by nomadic peoples considered part of the Galaen people. A number of Dwarves also made lived here and exchanged with the Galaens, perhaps leading to their minority of Dwarves today. The traditional nomadic population is essentially gone today, though some of its mount-riding techniques live on today with rural Mogxans. Besides the rural Mogxans of this extremely sparse land, there exist a few large and heavily urbanised cities in the few good spots for it - creating a very stark distinction between the cities and the general lands they occupy. These cities and their roads connect all of Mogxa together, especially along the West-East axis.
 #### Northern Shore
 The northern shore of Mogxa has long been considered rather unimportant and uneventful, and has been allowed to cultivate a quiet, rural and peaceful culture of fishing. It is also through here all ties and trade with [[Vilhun]] pass through, though this has been relatively little in number depending on time period. The Pearl Fortress is an important military installation for the empire however, guarding the northern-most frontier of Mogxa from Cragrock. The islands of [[Enui]] have become a site of conflict with [[Crusaders|Crusaders]] in recent times.
-#### Lake Mogxa
+#### Lakes of Mogxa
+The Lake area of Mogxa make up the region's northeast. Home to a number of mining operations, it is somewhat more important than the Northern Shore, and is home to a decent number of settlements and historical conflicts. The area is somewhat wild and hard to control however, and has a history of struggling against monsters. It also makes up large part of the border with [[Fenrunr]]. 
 #### Eastern Mogxa
-The east of Mogxa was once its most important lande
+The east of Mogxa was once its most important lands, only losing influence when the capital moved westward with the [[Western Kobold Dynasty]]. The region may be seeing a revival however, as the port city of [[Singsong]] has become the primary hub conn
 
 #### Sergethis 
 
