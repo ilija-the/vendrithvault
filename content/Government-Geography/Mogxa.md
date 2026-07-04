@@ -24,7 +24,7 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 ## Culture
 Besides [[Humans]] - [[Kobolds]] and [[Goblins]] are especially common in Mogxa, and take up a variety of forms depending on where in the continent you find yourself.
 
-Many [[Vanara]] communities also exist in Mogxa, having long since migrated to here from the [[Hightower Civilisation]] 
+Many [[Vanara]] communities also exist in Mogxa, having long since migrated to here from the [[Hightower Civilisation]] of [[Galae]]. 
 
 [[Dragonblood|Dragonbloods]] are technically few in number, but practically makes up one of the most important populations as they frequently hold on to wealth, power and fame inherited from Draconic times (despite the best efforts of those who view them with suspicion). 
 
@@ -33,21 +33,33 @@ Mogxa has historically spoken variants of the [[Ancestral Languages|Draconic Lan
 ## Geography
 Mogxa is a large and therefore varied region, but has some commonalities. The terrain is characterised by stark differences in elevation, with frequent cliffs and canyons, sometimes combined with heavy vegetation and bodies of water that make traversal outside of the common roads difficult. The central jungle of Mogxa contains some of if not the highest mountains on Vendrith.
 
-#### Western Grainbasket
+#### Imperial Mogxa
 
 
-#### Centre
+#### Zaradoba
 
 
-#### Kobold East
+
+#### Frontier Settlements
 
 
-#### Sergethina
+#### The Old Steppe
 
 
-#### Rainy North
+#### Northern Shore
 
 
+#### Lake Galae
+
+
+#### Eastern Galae
+
+
+#### Sergethis 
+
+
+> [!important] **The Old Tributaries**
+> 
 
 ## History
 
