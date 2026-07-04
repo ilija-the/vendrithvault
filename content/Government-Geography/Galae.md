@@ -16,7 +16,7 @@ Besides [[Humans]] - [[Amurrun]], [[Hobgoblins]] and [[Kholo]] make up the bigge
 
 Galae is quite linguistically split, with many speaking mutually unintelligible [[Ancestral Languages]]. Galae primarily relies on the [[Languages|Idurian]] language for politics and commerce, and also often as a way to translate between groups due to the aforementioned division. There is a native Galaen common language called [[Gaeyli]] with its roots in the Middle Period - while it largely fell out of favour, it has today seen some efforts to revive it in order to strengthen the ties between parts of Galae. 
 
-To modern Galaens, "high" culture and politics is usually seen as foreign and suspicious, or at best wasteful. Loyalty to ones tribe and family are extolled as some of the most impo
+To modern Galaens, "high" culture and politics is usually seen as foreign and suspicious, or at best wasteful. Loyalty to ones tribe and family are extolled as some of the most important virtues, as are possessing practical talents like athleticism, knowledge around hunting and pastoralism, and all manner of potentially useful crafting. Magic is often considered as something left behind by ones ancestors, and is usually imagined as more powerful the older it is - the re-discovery of artefacts and spells from olden times is therefore a valued occasion. 
 
 Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture. Cacti are also used rather uniquely in Galaen culture. 
 ## Geography
