@@ -14,9 +14,11 @@ More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal
 ## Culture
 Besides [[Humans]] - [[Amurrun]], [[Hobgoblins]] and [[Kholo]] make up the biggest populations of Galae. [[Dwarves]], [[Halflings]] and [[Orcs]] also constitute significant minorities. The illusive still-surviving [[Elves]] are a rarity across the world, but are perhaps found more frequently in Galae due to their origins there. 
 
-Galae is quite linguistically split, with many speaking mutually unintelligible [[Ancestral Languages]]. Galae primarily relies on the [[Languages|Idurian]] language for politics and commerce, and also often as a way to translate between groups due to the aforementioned division. There is a native Galaen common language called [[Gaeyli]] with its roots in the Middle Period - while it largely fell out of favour, it has today s 
+Galae is quite linguistically split, with many speaking mutually unintelligible [[Ancestral Languages]]. Galae primarily relies on the [[Languages|Idurian]] language for politics and commerce, and also often as a way to translate between groups due to the aforementioned division. There is a native Galaen common language called [[Gaeyli]] with its roots in the Middle Period - while it largely fell out of favour, it has today seen some efforts to revive it in order to strengthen the ties between parts of Galae. 
 
-Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture.
+To modern Galaens, "high" culture and politics is usually seen as foreign and suspicious, or at best wasteful. Loyalty to ones tribe and family are extolled as some of the most impo
+
+Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture. Cacti are also used rather uniquely in Galaen culture. 
 ## Geography
 Galae is formed by a variety of areas. It is roughly divided in the middle by a great lake called "[[The Scar]]" whose immediate surroundings is sometimes called Scarred Galae. To the east of it is eastern Galae, consisting of the Cragrock area, some islands like that of [[Eleina]], as well as some tribes and steppes that have slowly been integrated more into Mogxa. 
 
