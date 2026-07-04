@@ -33,11 +33,14 @@ Mogxa is a large and therefore varied region, but has some commonalities. The te
 #### Kobold East
 
 
-#### Argathian South
+#### Sergethina
 
 
 #### Rainy North
 
+
+
+## History
 
 
 
