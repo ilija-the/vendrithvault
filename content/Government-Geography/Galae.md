@@ -8,13 +8,12 @@ tags:
 ---
 Galae is a historical region that sits between [[Ferweth]] and [[Canath]] to its west, and [[Mogxa]] to its east. The (absence of a) shared identity of Galae has long been contentious, as has its borders with its neighbouring regions. Galae's most prestigious period was when the [[Elves|Elven]] [[Hightower Civilisation]] reigned primarily from the Galaen plateau, though it was also a force to be reckoned with during the subsequent "[[Galaekor]] period." 
 
-More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal Crusade]] that followed soon after - unable to rebuild any strong realms or economies as its various polities are played as pawns by the [[Sanitorium]] and [[Crusaders|Crusaders]]. A number of [[Kholo]] have migrated to Galae from the south and has now become one of its primary ancestries. 
+More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal Crusade]] that followed soon after. The [[Crusaders]] and [[Sanitorium]] have considerable influence over the goings on of Galaen polities, especially those close to their respective homes. [[Amurrun]] and [[Hobgoblins]] consider Galae their home. Recently, many [[Kholo]] have migrated to Galae from [[Eydwin|the south]] and now constitutes a large part of the population. 
 
 ![[Mappae-Galae_1.5 1.png]]
 
-Galae was once home to the historically significant [[Elves|Elven]] [[Hightower Civilisation]], which was also propped up by the [[Amurrun]] and [[Hobgoblins]]/[[Vanara]] (before they diverged). After the downfall of the hightowers the peoples of [[Nagonkor]] inhabited large parts of Galae in a series of kingdoms by the name of Galaekor. Since their downfall and retreat, Galae has failed to form anything resembling a unifying polity or identity. A series of [[Kholo]] migrations have arrived in Galae from [[Eydwin|Eydwin]], whom has become a considerable part of the population.
 
-In recent history, Galae is most known as the battlegrounds of the [[War Over Haeven]] and [[Eternal Crusade]], primarily being played out by [[Mogxa|Mogxan]] and [[Canath|Canathi]] interests. The [[Crusaders]] and [[Sanitorium]] have much influence over the Galaen settlements near their borders.
+
 
 Roses are plentiful of Galae despite its arid conditions, and serve an important role in its cuisine and culture.
 
