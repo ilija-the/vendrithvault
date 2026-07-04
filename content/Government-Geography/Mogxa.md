@@ -39,10 +39,15 @@ Mogxa is a large and therefore varied region, but has some commonalities. The te
 And Central Mogxan cities.
 
 #### Zardoba
-The grand city of [[Zardoba]] and its surrounding realm has been an autonomous part of [[Mogxa]] roughly since the end of the [[Zardoban Crown|Zardoban Empire]]. It is a port city that sits on [[The Rend]] on the western edge of Mogxa, and has used those seas well for both warfare and commerce. Its governed territories also extend inland along the Silver River and much of the Electrum mountains. It also once stretched further south towards the Tributary Coast, though its territo
+The grand city of [[Zardoba]] and its surrounding realm has been an autonomous part of [[Mogxa]] roughly since the end of the [[Zardoban Crown|Zardoban Empire]].  It is a port city that sits on [[The Rend]] on the western edge of Mogxa, and has used those seas well for both warfare and commerce. Its governed territories also extend inland along the Silver River and much of the Electrum mountains. It also once stretched further south towards the Tributary Coast, though its territories here have been re-shuffled into other hands. 
 
-Its north is guarded by an arid desert that few bother to traverse, separating Zardoba from the Frontier Settlements area.
+Zardoba was once known as the "City of Gold." Due to its strategic position, size and wealth is has been viewed as the only city capable of seriously threatening the Imperial Heartlands of Mogxa, though in practice it has never managed to do this and more recently it has lost much of its influence to corruption.
 
+Zardoba's north is guarded by an arid desert that few bother to traverse, separating Zardoba from the Frontier Settlements area.
+
+---
+###### Notes
+<small>Zardoba  -Ilija </small>
 
 #### Frontier Settlements
 
