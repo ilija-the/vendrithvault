@@ -44,7 +44,7 @@ The Island of [[Enui]] is sometimes claimed as being of Galae descent.
 
 
 ## History
-Galaen history largely begins at the Elven Hightowers, which is seen by some as its proudest heritage. While the details known for sure from so long ago are limited, it is commonly understood that this was a period of high culture. 
+Galaen history largely begins at the Elven Hightowers, which is seen by some as its proudest heritage. While the details known for sure from so long ago are limited, it is commonly understood that this was a period of high culture. The Elves were a people with a rather alien culture, language and physicality to the rest of the world, but whom undeniably were talented in their understanding of beauty and eloquence. Their societies were relatively closed off, but those who were able to visit and be hosted as consistently wrote home in flowery language, and the baubles they brought home with them were often highly treasured. The society also included the [[Hobgoblins|Hobgoblin]]
 
 The namesake "Hightowers" are exceptionally tall towers which seem to pierce the sky, whose peaks cannot be seen in the clouds constantly gathered around them. It is commonly believed these form a sort of bridge to [[Cosmology of Vendrith|other planes of existence]]. Some speculate the elven civilization never fell and the elves never died out or disappeared, they merely completed their journey to an idyllic plane above.
 
