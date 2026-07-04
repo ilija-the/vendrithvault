@@ -44,12 +44,11 @@ Zardoba was once known as the "City of Gold." Due to its strategic position, siz
 Zardoba's north is guarded by an arid desert that few bother to traverse, separating Zardoba from the Frontier Settlements area.
 #### Frontier Settlements
 The Frontier Armies and Settlements of Mogxa push its influence north-west, into [[Galae]] and towards [[The Scar]]. Its most important site is the [[Heavenly Wall]] city, which guards the [[Ivory Road]], one of only two roads that allow for passage east-west between Mogxa and Galae. It is also home to the Guardian Lake city, and a number of both mobile and more permanent military bases. A grouping of culturally Galaen tribes co-exist with the Mogxans here, occupying the least desired Badlands.
-
 #### The Old Steppe
-Stretching east from [[Galae]] and through a strip of land in the general northern stretch of Mogxa (though its coast is not included), the Old Steppe was once occupied by nomadic peoples considered part of the Galaen people. A 
+Stretching east from [[Galae]] and through a strip of land in the general northern stretch of Mogxa (though its coast is not included), the Old Steppe was once occupied by nomadic peoples considered part of the Galaen people. A number of Dwarves also made lived here and exchanged with the Galaens, perhaps leading to their minority of Dwarves today. The traditional nomadic population is essentially gone today, though some of its mount-riding techniques live on today with rural Mogxans. Besides the rural Mogxans of this extremely sparse land, there exist a few large and heavily urbanised cities in the few good spots for it - creating a very stark distinction between the cities and the general lands they occupy. These cities and their roads connect all of Mogxa together, especially along the West-East axis.
 
 #### Northern Shore
-
+The northern shore of Mogxa has long been considered rather unimportant and uneventful, and has been allowed to 
 
 #### Lake Galae
 
