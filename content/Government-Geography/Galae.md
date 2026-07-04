@@ -6,7 +6,7 @@ tags:
   - places/iduria
   - important
 ---
-Galae is a historical region that sits between [[Ferweth]], [[Canath]] and [[Mogxa]].  
+Galae is a historical region that sits between [[Ferweth]] and [[Canath]] to its west, and [[Mogxa]] to its east. The (absence of a) shared identity of Galae has long been contentious, as has its borders with its neighbouring regions. Galae's most prestigious period was when the [[Elves|Elven]] [[Hightower Civilisation]] reigned primarily from the Galaen plateau, though it was also a force to be reckoned with during the subsequent "[[Galaekor]] period." More recently, Galae found itself devasted by the [[War Over Haeven]] and the ongoing [[]]
 
 
 A historical region that today is quite contested in its extent. It lies in between [[Ferweth]] to the northwest, [[Mogxa]] to the east and [[Canath]] to the west and south. It also shares a small jungle border with [[Nagonkor]].
