@@ -27,5 +27,5 @@ The voyage from Singsong to Horiza might take 20 days under ideal circumstances,
 
 These land travels all also assume minimal breaks, never staying anywhere longer than just to rest.
 
-A land courier (runner) with a run speed of 40 speed can move about 32 miles per day leisurely, but also easily double that by resting only minimally but becoming fatigued under normal conditions. can ignore difficult terrain due to their training.
+A land courier (runner) with a run speed of 40 speed can move about 32 miles per day leisurely, but also easily double that (64 miles per day) by resting only minimally but becoming fatigued. They can usually ignore difficult terrain due to their training. The best trained couriers can run as if their speed was 60 feet, allowing them to travel 96 miles per day, though this is only used for highly urgent messages.
 
