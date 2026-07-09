@@ -18,9 +18,11 @@ Saints, while a form of demi-deity, are still mortal and eventually pass away. U
 | Rarity   | Ancestries                                       |
 | -------- | ------------------------------------------------ |
 | Common   | [[Humans\|Human]], [[Shoony]], [[Gnomes\|Gnome]] |
-| Uncommon | [[Vanara]], [[Beastkin]],                        |
-| Rare     |                                                  |
-The [[Shoony]] people are uniquely tied to Ferweth.
+| Uncommon | [[Beastkin]]                                     |
+| Rare     | [[Vanara]]                                       |
+The [[Shoony]] people are uniquely tied to Ferweth. [[Gnomes]], in some oral and written traditions considered tied to stories, are more prevalent in Ferweth than any other region. [[Beastkin]] too in their many forms can be found across Ferweth, many potentially the results of the various monsters of Ferweth leaving their mark on the 'civilised'
+
+A couple of [[Vanara]] settlements cultivating their Qi and [[Performance|art]] can also be found - most of these are closed-off communities as is their tradition, though some few have left and taken to living amongst the other ancestries.
 
 
 
