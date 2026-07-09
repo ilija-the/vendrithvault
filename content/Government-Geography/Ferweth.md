@@ -11,9 +11,12 @@ Ferwethi culture is enveloped in its status as the "region ruled by monsters and
 
 While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most regions it melded with older traditions and put its own twist on things. In Ferweth, the importance of [[Saint|Saints]] are elevated. These are holy men and warriors who serve a deity in a way befitting of their ideals and goals, as great inspirations to the rest of the populace. Most uniquely however, in Ferweth Saints are commonly canonised as Saints long before their deaths, and are as such worshipped in their lifetimes, which is extremely rare and considered uncouth in most other regions. This is done because the Saints are often the chief warriors keeping dangerous monsters at bay from the vulnerable populace, whom trust they gain the both physical and divine protection and blessing of the Saint and their Titan in return for the worship.
 
-Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
-
 Saints, while a form of demi-deity, are still mortal and eventually pass away. Upon their deaths or disappearances, it is customary to construct a [[Shrines|Tomb Shrine]] to a Saint somewhere befitting of their origin and history. These tomb shrines are not just a place to potentially story the body and its relics, but also to seal their most important secrets. These secrets are meant only to be known to the most worthy and loyal of the Saint and Titan's followers, and guarded against outsiders.
+
+Here's a list of Titans known to be worshipped in Ferweth, and their Saints if applicable:
+- [[Luminous Idea]] and [[Saint Ima]], suhc as
+
+Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
 
 | Rarity   | Ancestries                                       |
 | -------- | ------------------------------------------------ |
@@ -27,11 +30,11 @@ The [[Shoony]] people are uniquely tied to Ferweth, and are said to "come out of
 | -------- | ------------------------------------------------------------------------------ |
 | Common   | [[Languages\|Idurian]], [[Whetish]], [[Ylfi]], [[Shoony]], [[Gnomes\|Gnomish]] |
 | Uncommon | [[Empyrean]], [[Fey Language]]                                                 |
-| Rare     | [[Requian]], [[Necril]], [[Vanara]]                                            |
+| Rare     | [[Requian]], [[Necril]], [[Vanara]]%%, [[Jotun Language]]%%                    |
 
-Ferwethi merchants and travellers, as well as some village elders dependent on trade, speak the [[Languages#Idurian|Idurian]] language. The capital of Longdawn, and its immediate neighbours' courts, largely speaks the [[Ylfi]] language, which is considered a much finer version of the related common folk [[Whetish]] language used across much of the rest of Ferweth. Some claim the Ylfi language is related to or influenced by the [[Ancestral Languages|Shoony Language]], which is also prevalent due to their presence. Gnomish and Vanara 
+Ferwethi merchants and travellers, as well as some village elders dependent on trade, speak the [[Languages#Idurian|Idurian]] language. The capital of Longdawn, and its immediate neighbours' courts, largely speaks the [[Ylfi]] language, which is considered a much finer version of the related common folk [[Whetish]] language used across much of the rest of Ferweth. Some claim the Ylfi language is related to or influenced by the [[Ancestral Languages|Shoony Language]], which is also prevalent due to their presence. Gnomish and Vanara languages also exist.
 
-Longdawn, a cathedral-city full of clergymen, also has a large presence of speakers of [[Empyrean]], the language used in the upper hierarchy of Titan churches, as well as some speaking the [[Requian]] language used to speak to undead souls in the [[River of Death]]. In addition, a smattering of necromancers and undead-hunters also "speak" (or at least understand) [[Necril]].
+Longdawn, a cathedral-city full of clergymen, also has a large presence of speakers of [[Empyrean]], the language used in the upper hierarchy of Titan churches, as well as some speaking the [[Requian]] language used to speak to undead souls in the [[River of Death]]. In addition, a smattering of necromancers and undead-hunters also "speak" (or at least understand) [[Necril]]. %%The tribes of "Far Ferweth" may speak Jotun.%%
 ## Geography
 The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. The Ferwethi heartland around Longdawn is traditionally reached with the northern road, roughly following a bit inlands of the northern coast. Starting in the [[Galae#Borderland Marches|Galaen Borderlands]], it connects to a couple of smaller settlements like the coastal [[Piketown]] and forested [[Cocatun]]. More importantly however, it passes through the [[Barony of Rabarb]] and its iconic bridge, necessary to cross the turbulent river.
 
