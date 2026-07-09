@@ -29,3 +29,4 @@ These land travels all also assume minimal breaks, never staying anywhere longer
 
 A land courier (runner) with a run speed of 40 speed can move about 32 miles per day leisurely, but also easily double that (64 miles per day) by resting only minimally but becoming fatigued. They can usually ignore difficult terrain due to their training. The best trained couriers can run as if their speed was 60 feet, allowing them to travel 96 miles per day, though this is only used for highly urgent messages.
 
+Long-distance magical communication exists, but 1) there are fears that it can be intercepted or will fail to reach, and 2) the presence of the World Fleece definitively and greatly increases the risk of failure to deliver.
