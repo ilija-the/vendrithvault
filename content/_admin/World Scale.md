@@ -13,12 +13,12 @@ However, we should still at least try to keep it within a certain range of itsel
 ![[Pasted image 20260709174316.png]]
 This section of the Miro used to be the chief tool of scale, with each red square consisting of 500 square miles. However I have since decided this should be scaled down to 2/3rds, meaning each red square is 333.333333333 (continuing) miles (no, getting it to be a holy number was not intentional but it does seem fitting).
 
-A party speed of 25 lets you move 20 miles per day. I've included the walking travel time using this in each example, though this assumes they're on a road the entire time (lack of road or even a rough road through woods, mountain passes or cliffs means difficult terrain). I've also included sailing speeds of 40 feet per action * 3 for the fact it should be more efficient and doesn't need to rest like a horse. 
+A party speed of 25 lets you move 20 miles per day. I've included the walking travel time using this in each example, though this assumes they're on a road the entire time (lack of road or even a rough road through woods, mountain passes or cliffs means difficult terrain). I've also included sailing speeds AT SLOWEST 60 miles per day, though realistically closer to 96.
 
 This means that the west to east end of Galae is about 600 miles (30 days walk)
-The islands of Vilhun are similarly spaced at most a little over 600 miles apart (10 days sailing).
-The farthest corners of Ferweth are about 750 miles 
-Encanath is over 1200 miles wide.
+The islands of Vilhun are similarly spaced at most a little over 600 miles apart (6-10 days sailing).
+The farthest corners of Ferweth are about 750 miles (37 days walk, though realistically with difficult terrain all over it'd be closer to 75 days).
+Encanath is over 1200 miles wide (60 days walk on a good road).
 Bottom of Mogxan Sergetis to top of Ennui of Mogxa is also about 1200 miles.
 At least a 333 mile voyage separates Mogxa and Lorgun.
 A little less than that, about 280, separates Mogxa and Veducia at its farthest.
