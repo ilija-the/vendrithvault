@@ -20,7 +20,7 @@ The islands of Vilhun are similarly spaced at most a little over 600 miles apart
 The farthest corners of Ferweth are about 750 miles (37 days walk, though realistically with difficult terrain all over it'd be closer to 75 days).
 Encanath is over 1200 miles wide (60 days walk on a good road).
 Bottom of Mogxan Sergetis to top of Ennui of Mogxa is also about 1200 miles.
-At least a 333 mile voyage separates Mogxa and Lorgun.
-A little less than that, about 280, separates Mogxa and Veducia at its farthest.
-The farthest voyage north-south on the Celene is about 300 miles.
+At least a 333 mile voyage separates Mogxa and Lorgun (3 and a half to 5 and a half days sailing)
+A little less than that, about 280, separates Mogxa and Veducia at its farthest (about 3 days till 5 days sailing)
+The farthest voyage north-south on the Celene is about 300 miles (little over 3 days on any good ship).
 
