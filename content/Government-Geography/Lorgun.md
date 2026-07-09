@@ -9,7 +9,7 @@ aliases:
 ---
 Lorgun is an island-chain out at sea south-east of continental [[Mogxa]]. While it is a considerable voyage between the two, it has still in the past been considered part of the Mogxan Imperial and cultural sphere. It is also on these grounds it is part of the modern concept of [[Iduria]]. Lorgun has long battled with [[Dragons]] from the [[Draconic Empire]]. Today, the experienced dragon hunters of Lorgun have largely unified the Lorgun islands under one confederation - though a number of dragons still linger in the outer islands to the north (sometimes called [[Deria]]).
 
-# History
+## History
 Lorgun was initially settled by an early contingent from Mogxa which took to the islands for a variety of reasons, including escaping law and old families. As it grew new settlers and traders from Mogxa would eventually show up. Eventually, the [[Draconic Empire]] of Mogxa came knocking and demanded Lorgun be treated as an imperial province. After a short war, the largely harmonic and unarmed island society surrendered, much laid in flames.
 
 Lorgun did rebuild under Mogxan rule, and enjoyed an influx of Mogxan culture and innovations. It was during this time that many native spices and rare herbs got noticed by merchants, whom would sell them across the sea and start a longstanding trade network. 
