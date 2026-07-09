@@ -19,4 +19,4 @@ The [[Rend Peoples]] are a series of [[Ancestries of Vendrith|peoples]] whom hav
 
 I'm thinking the inspiration should be the Kilwan Coast, a realm of Muslim merchants who occupied exactly the coastline of eastern Africa (and basically never went far inland), focusing on having a strong navy, defendable coastal settlements, and being the ones trading the ivory, gold and slaves from east africa into the Muslim world, and whatever goods they offered in return back. 
 
-I think they also should overlap the realm of Talvas though, which is an Egyptian like desert civilisation built on a river that feeds out into the Rubyfirth. I think the Talvans should go farther inland and have strong armies and a god-king type religion and empire, but that in reality the Rubyfirther</small>
+I think they also should overlap the realm of Talvas though, which is an Egyptian like desert civilisation built on a river that feeds out into the Rubyfirth. I think the Talvans should go farther inland and have strong armies and a god-king type religion and empire, but that in reality the Rubyfirthers exert varying degrees of influence over its northernmost settlements. -Ilija</small>
