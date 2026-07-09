@@ -23,4 +23,5 @@ Bottom of Mogxan Sergetis to top of Ennui of Mogxa is also about 1200 miles.
 At least a 333 mile voyage separates Mogxa and Lorgun (3 and a half to 5 and a half days sailing)
 A little less than that, about 280, separates Mogxa and Veducia at its farthest (about 3 days till 5 days sailing)
 The farthest voyage north-south on the Celene is about 300 miles (little over 3 days on any good ship).
+The voyage from Singsong to Horiza might take 20 days under ideal circumstances, but in reality takes between 40-60 due to the crawling speeds required to navigate the fog.
 
