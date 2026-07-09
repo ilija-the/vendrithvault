@@ -9,6 +9,8 @@ aliases:
 
 Part of [[Iduria]], Vilhun is an island-chain north of [[Galae]] and [[Mogxa]].
 
+> For more in Vilhun, see #places/vilhun 
+
 Home to a staunchly independent people, as well as a notable number of [[Dragons]] and their offspring. *Although as per the [[Draconic Concordat]], all of those offspring being humanoid.*
 
 Primary regional deities of note are the [[Hun Lords]], with the multiple noble families, and all dynasties, being associated with their divine lineage.

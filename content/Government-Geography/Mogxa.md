@@ -11,7 +11,7 @@ To the north lies the island region of [[Vilhun]], which has inherited a variety
 
 Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haeven]] by taking over the Kobold Throne. The Fenruni coast on its north-eastern edge, the Ruby Peninsula to the west and the Galaen border contains many smaller states which serve as [[Tributaries]].
 
-> For more, see #places/mogxa 
+> For more in Mogxa, see #places/mogxa 
 
 
 ```handdrawn-ink

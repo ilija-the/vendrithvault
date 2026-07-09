@@ -6,6 +6,7 @@ Ferweth is a large but sparsely populated region to the north of [[Canath]] and 
 
 ![[Mappi-Ferwethi_placeholder_roads 1.png]]
 
+> For more in Ferweth, see #places/ferweth  
 ## Culture
 Ferwethi culture is enveloped in its status as the "region ruled by monsters and myth." The [[Fog of Ferweth]], both connected and conflated with the [[World Fleece]], is also central to Ferwethi life. 
 
