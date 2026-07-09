@@ -2,7 +2,7 @@
 tags:
   - places
 ---
-Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths. An important founding story of Ferweth is how the [[Saint Jonathan|Saint of Silver Jonathan]] drove off a ferocious Wolf named Silver that roamed and perhaps even ruled the lands.
+Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths. An important founding story of Ferweth is how the [[Saint Jonathan|Saint of Silver Jonathan]] drove off the ferocious Wolf named Silver that roamed and ruled the lands before. The region was also said to be layered in an even worse darkness before it was illuminated by [[Saint Ima]].
 
 ![[Mappi-Ferwethi_placeholder_roads 1.png]]
 
@@ -56,7 +56,6 @@ Beyond the areas of Ferweth under the cultural, linguistic and political power o
 ## History
 Due to Ferweth's terrain, the location of its most valuable and capital area safely far away, and it's lacking interest or capability to create an empire stretching much further, Ferweth has largely stayed uninvolved with the other regions. While there have been conflicts with outsiders on a few occasions, these have largely consisted of marches, stand-offs and sometimes sieges, rarely engaging in much battlefield combat. The strong fortifications and creative defensive mechanisms of Ferwethi settlements, spurred by the prevalence of monsters, may have contributed to its safety against invaders.
 
-
 ---
-###### Notes
+## Notes
 <small>The initial stated inspiration for Ferweth was a gloomy gothic British vibe, with the furthest inlands being more akin to the Celtic and pre-Britonic tribes. I extended the term to "Anglo" to allow for some American inspiration for Lucky's benefit, but this should remain minimal still. Another source of inspiration I believe is good to mix in is that of Ethiopia, Abyssinia, the Aksumite Empire; which were also Christian (I know you like to draw in Christian icons and symbolism). -Ilija </small>

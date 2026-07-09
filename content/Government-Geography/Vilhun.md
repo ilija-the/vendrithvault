@@ -15,7 +15,7 @@ Primary regional deities of note are the [[Hun Lords]], with the multiple noble 
 
 The primary spellcasting system in the isles is that of [[Essence Casting]].
 
-Primary languages are [[Ancestral Languages|Draconic]] and [[V.
+The primary languages of Vilhun are [[Ancestral Languages|Draconic]], and the [[Vili Language]], a descendant of [[Maux Xi|Mogxan common tongue]].
 
 The nation is ruled by [[The Vilhi Sultanate]], though currently it is facing a [[Rosbit Period|succession crisis]]. 
 
