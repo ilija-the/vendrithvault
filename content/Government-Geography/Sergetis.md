@@ -7,6 +7,7 @@ aliases:
   - Sergetine Sea
   - Sergetine Crescent
   - Sergetine Coast
+  - Sergetine Peninsula
 ---
 Sergetis is the famously dangerous and often shark-infested waters around the current island chain and peninsula of [[Sergetis]], the southernmost peninsula and island-chain of [[Mogxa]]. The waters of Sergetis have also been called the "Mouth of Mogxa" at times. 
 
