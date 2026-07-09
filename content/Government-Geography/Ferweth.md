@@ -23,13 +23,15 @@ Saints, while a form of demi-deity, are still mortal and eventually pass away. U
 
 The [[Shoony]] people are uniquely tied to Ferweth. [[Gnomes]], in some oral and written traditions considered tied to stories, are more prevalent in Ferweth than any other region. [[Beastkin]] too in their many forms can be found across Ferweth, many potentially the results of the various monsters of Ferweth leaving their mark on the 'civilised' population. A couple of [[Vanara]] settlements cultivating their Qi and [[Performance|art]] can also be found, whom favour Ferweth for the plentiful possibilities to settle in isolated places. Most of these are closed-off communities as is their tradition, though some few have left and taken to living amongst the other ancestries.
 
+The Ferwethi Fog, both connected and conflated with the [[World Fleece]], is also central to Ferwethi life. 
 ## Geography
 The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. The Ferwethi heartland around Longdawn is traditionally reached with the northern road, roughly following a bit inlands of the northern coast. Starting in the [[Galae#Borderland Marches|Galaen Borderlands]], it connects to a couple of smaller settlements like the coastal [[Piketown]] and forested [[Cocatun]]. More importantly however, it passes through the [[Barony of Rabarb]] and its iconic bridge, necessary to cross the turbulent river.
 
 A number of isolated and secretive settlements exist in Ferweth, including some [[Crusader Sects]]. These include [[Northpoint]], and formerly, [[Veridica]].
 
-An alternate route is the Long Road, which may have a longer history than the more efficient northern road (for uncertain reasons). It has at times been necessary to use when the Northern Road is closed off. The Long Road can be said to begin in the [[Galae#Borderland Marches|Galaen Borderlands]] leading up the the town of [[Twinberry]] hanging over the Canathi [[Twinvale]]. From here it passes across the sparse and cold Ferwethi Mountain Plateau. This part of the route ends at [[Spireview]], which 
+The nomadic settlement of [[Vanderkact]] geographically exists more in Galae, wandering the northern edge of the [[Crimson Desert|Red Desert]], though are culturally of Ferweth. Their small size and distance from Longdawn means they're self-governing, however.
 
+An alternate route is the Long Road, which may have a longer history than the more efficient northern road (for uncertain reasons). It has at times been necessary to use when the Northern Road is closed off. The Long Road can be said to begin in the [[Galae#Borderland Marches|Galaen Borderlands]] leading up the the town of [[Twinberry]] hanging over the Canathi [[Twinvale]]. From here it passes across the sparse and cold Ferwethi Mountain Plateau. This part of the route ends at [[Spireview]], which is known for, on particularly fog-less days, having a gorgeous view that stretches across [[Homrodeus]] and even [[Longdawn]] just further down the road.
 
 [[Piketown]]
 [[Cocatun]]
