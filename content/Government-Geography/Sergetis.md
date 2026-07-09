@@ -9,6 +9,8 @@ aliases:
   - Sergetine Coast
   - Sergetine Peninsula
 ---
+Sergetis is the name of a peninsula and its coastline and immediately adjacent islands, forming a Crescent-like shape at the southern tip of [[Mogxa]]. It was famously home to the [[Draconic Empire]], and today is occupied by most of the [[Draconic Tribes of Mogxa|Draconic Tribes]] still remaining. 
+
 Sergetis is the famously dangerous and often shark-infested waters around the current island chain and peninsula of [[Sergetis]], the southernmost peninsula and island-chain of [[Mogxa]]. The waters of Sergetis have also been called the "Mouth of Mogxa" at times. 
 
 Sergetis is now also home to the [[Sinking of Sergetis|sunken]] parts of former [[Sergetis]], sometimes called Sergetis in its sunken form. Some brave [[Adventurers|adventurers]] and archaeologists have attempted to dive into Sergetis to find the Sergetine ruins and its many lost artefacts and history.
