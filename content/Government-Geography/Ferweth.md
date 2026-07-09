@@ -39,3 +39,8 @@ The largest and safest settlements of Ferweth all find themselves on its norther
 
 ## History
 Due to Ferweth's terrain, the location of its most valuable and capital area safely far away, and it's lacking interest or capability to create an empire stretching much further, Ferweth has largely stayed uninvolved with the other regions. While there have been conflicts with outsiders on a few occasions, these have been more akin to army marches than traditional warfare.
+
+
+---
+###### Notes
+<small>The initial stated inspiration for Ferweth was a gloomy gothic British vibe, with the furthest inlands being more akin to the Celtic and pre-Britonic tribes. I extended the term to "Anglo" to allow for some American inspiration for Lucky's benefit, but this should remain minimal still. Another source of inspiration I believe is good to mix in is that of Ethiopia, Abyssinia, the Aksumite Empire. -Ilija </small>
