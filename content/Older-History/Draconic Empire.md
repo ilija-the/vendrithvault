@@ -1,7 +1,7 @@
 ---
 tags:
   - places/mogxa
-  - places/mogxa/argathia
+  - places/mogxa/sergetis
 ---
 A once-infamous empire based in [[Mogxa]] ruled by [[Dragons]]. After the [[Draconic Concordat]] it became the [[Kobold Throne]].
 

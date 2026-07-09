@@ -34,7 +34,7 @@ kanban-plugin: board
 - [ ] [[Crusaders]]. High importance page, should be quick to the point and well-organised.
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 - [ ] [[Saint Karvi Massiri]], probably cut down on some of the details.
-- [ ] [[Sergetis]], [[Sergetis|Sargathis]], [[Sargathia]], [[Sinking of Sergetis|Sinking of Argathis]] needs change. Way too difficult to separate all the different names.
+- [ ] [[Sergetis]], [[Sergetis|Sargathis]], [[Sergetis]], [[Sinking of Sergetis|Sinking of Argathis]] needs change. Way too difficult to separate all the different names.
 	
 	Merge into Argathia for land and civilization, and Sargathis for sea? The undersea ruins can be Sargathis Ruins.
 - [ ] Folder structure can always do with some changes. I think the top structure is fine right now, but should reduce the amount of sub-folders. Search, tags and linking is more important than subfolders.
