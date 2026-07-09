@@ -13,8 +13,12 @@ While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most
 
 Saints, while a form of demi-deity, are still mortal and eventually pass away. Upon their deaths or disappearances, it is customary to construct a [[Shrines|Tomb Shrine]] to a Saint somewhere befitting of their origin and history. These tomb shrines are not just a place to potentially story the body and its relics, but also to seal their most important secrets. These secrets are meant only to be known to the most worthy and loyal of the Saint and Titan's followers, and guarded against outsiders.
 
-Here's a list of Titans known to be worshipped in Ferweth, and their Saints if applicable:
-- [[Luminous Idea]] and [[Saint Ima]], suhc as
+Here's a list of Titans known to be worshipped in Ferweth, their Saints, and places they have followers (if applicable):
+- xxx and [[Saint Ima]], such as in [[Cocatun]].
+- [[Luminous Idea]] and [[Saint Clover]], such as in [[Vanderkact]].
+- xxx and [[Saint Silver]], such as in [[Twinberry]].
+- [[Saint Rowan]], formerly important in [[Twinberry]] and potentiall
+- [[Wheel of Death]] has a congregation in [[Longdawn]].
 
 Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
 
