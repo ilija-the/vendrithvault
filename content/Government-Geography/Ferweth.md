@@ -2,7 +2,7 @@
 tags:
   - places
 ---
-Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths. An important founding story of Ferweth is how the [[Saint Jonathan|Saint of Silver Jonathan]] drove off the ferocious Wolf named Silver that roamed and ruled the lands before. The region was also said to be layered in an even worse darkness before it was illuminated by [[Saint Ima]].
+Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], today considered part of [[Iduria]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths. An important founding story of Ferweth is how the [[Saint Jonathan|Saint of Silver Jonathan]] drove off the ferocious Wolf named Silver that roamed and ruled the lands before. The region was also said to be layered in an even worse darkness before it was illuminated by [[Saint Ima]].
 
 ![[Mappi-Ferwethi_placeholder_roads 1.png]]
 
