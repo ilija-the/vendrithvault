@@ -25,5 +25,7 @@ A little less than that, about 280, separates Mogxa and Veducia at its farthest 
 The farthest voyage north-south on the Celene is about 300 miles (little over 3 days on any good ship).
 The voyage from Singsong to Horiza might take 20 days under ideal circumstances, but in reality takes between 40-60 due to the crawling speeds required to navigate the fog.
 
-These all assume minimal breaks though, never staying anywhere longer than just to rest.
+These land travels all also assume minimal breaks, never staying anywhere longer than just to rest.
+
+A land courier (runner) with a run speed of 40 speed can move about 32 miles per day leisurely, but also easily double that by resting only minimally but becoming fatigued under normal conditions. can ignore difficult terrain due to their training.
 
