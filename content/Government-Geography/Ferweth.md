@@ -10,8 +10,7 @@ Ferweth is a large but sparsely populated region to the north of [[Canath]] and 
 Has a rather unique worship of even living [[Saint]]s, done in return for protection against the various monsters and myths of the region.
 
 ## Geography
-The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities.
-
+The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. 
 
 
 [[Piketown]]
@@ -22,3 +21,6 @@ The largest and safest settlements of Ferweth all find themselves on its norther
 [[Longdawn]]
 [[Veridica]]
 [[Northpoint]]
+
+## History
+Due to Ferweth's terrain, the location of its most valuable and capital area safely far away, and it's lacking interest or capability to create an empire stretching much further, Ferweth has largely stayed uninvolved with the other regions. While 
