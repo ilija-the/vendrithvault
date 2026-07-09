@@ -9,11 +9,11 @@ aliases:
   - Sergetine Coast
   - Sergetine Peninsula
 ---
-Sergetis is the name of a peninsula and its coastline and immediately adjacent islands, forming a Crescent-like shape at the southern tip of [[Mogxa]]. It was famously home to the [[Draconic Empire]], and today is occupied by most of the [[Draconic Tribes of Mogxa|Draconic Tribes]] still remaining. 
+Sergetis is the name of a peninsula and its coastline and immediately adjacent islands, forming a Crescent-like shape at the southern tip of [[Mogxa]]. Sergetis is the traditional homelands of [[Dragons]], and was home to the [[Draconic Empire]] - alternatively called the Sergetine Empire. The peninsula is today home to most of the [[Draconic Tribes of Mogxa|Draconic Tribes]] still remaining. 
 
-Sergetis is the famously dangerous and often shark-infested waters around the current island chain and peninsula of [[Sergetis]], the southernmost peninsula and island-chain of [[Mogxa]]. The waters of Sergetis have also been called the "Mouth of Mogxa" at times. 
+The landmass used to be larger, but about 1/3rd of it sank into the sea during the [[Sinking of Sergetis]], sometimes hailed as the largest [[Disasters of the Silence|Disaster of the Silence]].
 
-Sergetis is now also home to the [[Sinking of Sergetis|sunken]] parts of former [[Sergetis]], sometimes called Sergetis in its sunken form. Some brave [[Adventurers|adventurers]] and archaeologists have attempted to dive into Sergetis to find the Sergetine ruins and its many lost artefacts and history.
+The Sergetine coastline is turbulent and shark-infested. The waters of Sergetis have also been called the "Mouth of Mogxa" at times. It is also home to various submerged ruins since the sinking. Some brave [[Adventurers|adventurers]] and archaeologists have attempted to dive into Sergetis to find the Sergetine ruins and its many lost artefacts and history.
 
 Sergetis used to be a peninsula on the southernmost tip of [[Mogxa]], and the traditional homelands and power base of many [[Dragons]] and Draconic Tribes. At times, the [[Draconic Empire]] held their courts in Sergetis. While the Draconic Empire was rather infamous, Sergetis itself was a flourishing centre of culture and saw many visitors from abroad seeking to experience and learn from its traditions. One particularly proud piece of Sergetine culture was its theatre - often outshining the at the time decaying city of [[Philosophia]]'s.
 
