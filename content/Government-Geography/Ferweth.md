@@ -16,7 +16,7 @@ Saints, while a form of demi-deity, are still mortal and eventually pass away. U
 Here's a list of Titans known to be worshipped in Ferweth, their Saints, and places they have followers (if applicable):
 - [[Saint Ima]], such as in [[Cocatun]].
 - [[Luminous Idea]] and [[Saint Clover]]. This saint birthed a lineage of [[Amurrun]] bearing [[Amurrun Markings]] that helped create [[Vanderkact]].
-- [[Saint Jonathan]], such as in [[Twinberry]].
+- [[Saint Jonathan]], such as in [[Twinberry]], where is Tomb lies.
 - [[Saint Rowan]], formerly important in [[Twinberry]] and potentially returning.
 - [[Wheel of Death]] has a congregation in [[Longdawn]].
 
@@ -52,11 +52,11 @@ The nomadic settlement of [[Vanderkact]] geographically exists more in Galae, wa
 
 An alternate route is the Long Road, which may have a longer history than the more efficient northern road (for uncertain reasons). It has at times been necessary to use when the Northern Road is closed off. The Long Road can be said to begin in the [[Galae#Borderland Marches|Galaen Borderlands]] leading up the the town of [[Twinberry]] hanging over the Canathi [[Twinvale]]. From here it passes across the sparse and cold Ferwethi Mountain Plateau. This part of the route ends at [[Spireview]], which is known for, on particularly fog-less days, having a gorgeous view that stretches across [[Homrodeus]] and even [[Longdawn]] just further down the road.
 
-Beyond the areas of Ferweth under the cultural, linguistic and political power of Longdawn, further inland, are both a variety of monsters but also certain tribes that seemingly have accommodated to living in the harshest of lands. These lands are sometimes called "Far Ferweth," though this is likely an exonym its inhabitants wouldn't like. There is little friendly contact with these peoples, though they have proven more violent against Canathis visiting from their side than from the occasional encounters with Ferwethis. Some consider there to be a sort of unspoken understanding of an alliance against the monsters that predate the lands between Ferwethis and Far Ferwethis - and indeed, the few positive interactions that have been recorded are events in which people from both sides had to impromptu team up against a dangerous foe.
+Beyond the areas of Ferweth under the cultural, linguistic and political power of Longdawn, further inland, are both a variety of monsters but also certain tribes that seemingly have accommodated to living in the harshest of lands. These lands are sometimes called "**Far Ferweth**," though this is likely an exonym its inhabitants wouldn't like. There is little friendly contact with these peoples, though they have proven more violent against Canathis visiting from their side than from the occasional encounters with Ferwethis. The exception is the Western coast of Ferweth, in which some fighting over land has taken place - with the soldiers from Longdawn successful in claiming lands for a new settlement. Outside of this, some consider there to be a sort of unspoken understanding of an alliance against the monsters that predate the lands between Ferwethis and Far Ferwethis - and indeed, the few positive interactions that have been recorded are events in which people from both sides had to impromptu team up against a dangerous foe. The closed-off Vanara communities might have closer ties to these peoples, but this is unknown to outsiders.
 ## History
 Due to Ferweth's terrain, the location of its most valuable and capital area safely far away, and it's lacking interest or capability to create an empire stretching much further, Ferweth has largely stayed uninvolved with the other regions. While there have been conflicts with outsiders on a few occasions, these have largely consisted of marches, stand-offs and sometimes sieges, rarely engaging in much battlefield combat. The strong fortifications and creative defensive mechanisms of Ferwethi settlements, spurred by the prevalence of monsters, may have contributed to its safety against invaders.
 
 
 ---
-**Notes**
+###### Notes
 <small>The initial stated inspiration for Ferweth was a gloomy gothic British vibe, with the furthest inlands being more akin to the Celtic and pre-Britonic tribes. I extended the term to "Anglo" to allow for some American inspiration for Lucky's benefit, but this should remain minimal still. Another source of inspiration I believe is good to mix in is that of Ethiopia, Abyssinia, the Aksumite Empire; which were also Christian (I know you like to draw in Christian icons and symbolism). -Ilija </small>
