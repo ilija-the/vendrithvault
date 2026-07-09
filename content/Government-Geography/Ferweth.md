@@ -13,7 +13,16 @@ While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most
 
 Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
 
-Saints, while a form of demi-deity, are still mortal and eventually pass away. Upon their deaths or disappearances, it is customary to construct a [[Shrines|Tomb Shrine]] to a Saint somewhere befitting of their origin and history. These tomb shrines are not just a place to potentially story the body and its relics, but also to seal their most important secrets. These secrets are meant only to be known to the most worthy of th  
+Saints, while a form of demi-deity, are still mortal and eventually pass away. Upon their deaths or disappearances, it is customary to construct a [[Shrines|Tomb Shrine]] to a Saint somewhere befitting of their origin and history. These tomb shrines are not just a place to potentially story the body and its relics, but also to seal their most important secrets. These secrets are meant only to be known to the most worthy and loyal of the Saint and Titan's followers, and guarded against outsiders.
+
+| Rarity   | Ancestries                                       |
+| -------- | ------------------------------------------------ |
+| Common   | [[Humans\|Human]], [[Shoony]], [[Gnomes\|Gnome]] |
+| Uncommon | [[Vanara]], [[Beastkin]],                        |
+| Rare     |                                                  |
+The [[Shoony]] people are uniquely tied to Ferweth.
+
+
 
 ## Geography
 The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. 
