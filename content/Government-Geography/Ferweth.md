@@ -9,9 +9,11 @@ Ferweth is a large but sparsely populated region to the north of [[Canath]] and 
 ## Culture
 Ferwethi culture is enveloped in its status as the "region ruled by monsters and myth." 
 
-While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most regions it melded with older traditions and put its own twist on things. In Ferweth, the importance of [[Saint|Saints]] are elevated. These are holy men and warriors who serve a deity in a way befitting of their ideals and goals, as great inspirations to the rest of the populace. Most uniquely however, in Ferweth Saints are commonly canonised as Saints long before their deaths, and are as such worshipped in their lifetimes, which is extremely rare and considered uncouth in most other regions. This is done because the Saints are often the chief warriors keeping dangerous monsters at bay from the vulnerable populace, whom trust they gain the both physical and divine protection and blessing of the Saint and their Titan in
+While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most regions it melded with older traditions and put its own twist on things. In Ferweth, the importance of [[Saint|Saints]] are elevated. These are holy men and warriors who serve a deity in a way befitting of their ideals and goals, as great inspirations to the rest of the populace. Most uniquely however, in Ferweth Saints are commonly canonised as Saints long before their deaths, and are as such worshipped in their lifetimes, which is extremely rare and considered uncouth in most other regions. This is done because the Saints are often the chief warriors keeping dangerous monsters at bay from the vulnerable populace, whom trust they gain the both physical and divine protection and blessing of the Saint and their Titan in return for the worship.
 
-as a rather unique worship of even living [[Saint]]s, done in return for protection against the various monsters and myths of the region.
+Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
+
+Saints, while a form of demi-deity, are still mortal and eventually pass away. Upon their deaths, or perhaps even preceeding it 
 
 ## Geography
 The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. 
