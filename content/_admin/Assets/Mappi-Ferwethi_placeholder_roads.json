@@ -138,7 +138,7 @@
       "x": 0.672,
       "y": 0.8718854166666666,
       "layer": "default",
-      "link": "Celestaria",
+      "link": "Celene",
       "iconKey": "pinBlue",
       "tooltip": ""
     },
@@ -169,6 +169,16 @@
       "y": 0.40257307740939213,
       "layer": "default",
       "link": "Gourdvil",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ck39gy",
+      "x": 0.3005982678345959,
+      "y": 0.36245525769950926,
+      "layer": "default",
+      "link": "Homrodeus",
       "iconKey": "pinRed",
       "tooltip": ""
     }

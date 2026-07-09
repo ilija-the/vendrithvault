@@ -4,7 +4,7 @@ tags:
   - campaigns/fool-me-once
   - secrets
 ---
-A hidden village of [[Ferweth]] once created by a [[Utopian Theory|Utopian]] [[Crusader Sects|Crusader Sect]], supposedly after getting shipwrecked and believing it was fated. Its founding fathers were interested in clockwork, and the overlap between [[Automatons|automatons]] and living humanoid creatures. [[Leylines|Leyline]] energy was being investigated here.
+Veridica was a hidden village of [[Ferweth]] once created by a [[Utopian Theory|Utopian]] [[Crusader Sects|Crusader Sect]], supposedly after getting shipwrecked and believing it was fated. Its founding fathers were interested in clockwork, and the overlap between [[Automatons|automatons]] and living humanoid creatures. [[Leylines|Leyline]] energy was being investigated here.
 
 The village is believed to have [[Fools of Veridica|collapsed and vanished]], though given it was a secret village to begin with few can really confirm.
 
