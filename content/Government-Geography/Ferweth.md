@@ -9,7 +9,8 @@ Ferweth is a large but sparsely populated region to the north of [[Canath]] and 
 ## Culture
 Ferwethi culture is enveloped in its status as the "region ruled by monsters and myth." 
 
-Ferweth has 
+While Ferweth adopted [[Titans|Titan Worship]] from Canathi influence, like most regions it melded with older traditions and put its own twist on things. In Ferweth, the importance of [[Saint|Saints]] are elevated. These are holy men and warriors who serve a deity in a way befitting of their ideals and goals, as great inspirations to the rest of the populace. Most uniquely however, in Ferweth Saints are commonly canonised as Saints long before their deaths, and are as such worshipped in their lifetimes, which is extremely rare and considered uncouth in most other regions. This is done because the Saints are often the chief warriors keeping dangerous monsters at bay from the vulnerable populace, whom trust they gain the both physical and divine protection and blessing of the Saint and their Titan in
+
 as a rather unique worship of even living [[Saint]]s, done in return for protection against the various monsters and myths of the region.
 
 ## Geography
