@@ -2,7 +2,7 @@
 tags:
   - places
 ---
-Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths.
+Ferweth is a large but sparsely populated region to the north of [[Canath]] and [[Galae]], mostly consisting of various unfriendly terrains and climates like mountains, thick forests and barely traversable marshes. It is famously a gloomy region that has since time immemorial been haunted by various [[Monsters of Vendrith|monsters]] and myths. An important founding story of Ferweth is how the [[Saint Jonathan|Saint of Silver Jonathan]] drove off a ferocious Wolf named Silver that roamed and perhaps even ruled the lands.
 
 ![[Mappi-Ferwethi_placeholder_roads 1.png]]
 
@@ -16,8 +16,8 @@ Saints, while a form of demi-deity, are still mortal and eventually pass away. U
 Here's a list of Titans known to be worshipped in Ferweth, their Saints, and places they have followers (if applicable):
 - xxx and [[Saint Ima]], such as in [[Cocatun]].
 - [[Luminous Idea]] and [[Saint Clover]], such as in [[Vanderkact]].
-- xxx and [[Saint Silver]], such as in [[Twinberry]].
-- [[Saint Rowan]], formerly important in [[Twinberry]] and potentiall
+- xxx and [[Saint Jonathan]], such as in [[Twinberry]].
+- [[Saint Rowan]], formerly important in [[Twinberry]] and potentially returning.
 - [[Wheel of Death]] has a congregation in [[Longdawn]].
 
 Some have taken to doing the opposite however, seeing the Saints as too distant and the monsters as too strong, instead giving worship and offerings to the monsters themselves. Shrines dedicated to bribing monsters from attacking one's home, or even one's village, can be found in semi-hidden spots around Ferweth.
