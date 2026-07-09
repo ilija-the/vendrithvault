@@ -20,14 +20,13 @@ Saints, while a form of demi-deity, are still mortal and eventually pass away. U
 | Common   | [[Humans\|Human]], [[Shoony]], [[Gnomes\|Gnome]] |
 | Uncommon | [[Beastkin]]                                     |
 | Rare     | [[Vanara]]                                       |
-The [[Shoony]] people are uniquely tied to Ferweth. [[Gnomes]], in some oral and written traditions considered tied to stories, are more prevalent in Ferweth than any other region. [[Beastkin]] too in their many forms can be found across Ferweth, many potentially the results of the various monsters of Ferweth leaving their mark on the 'civilised'
 
-A couple of [[Vanara]] settlements cultivating their Qi and [[Performance|art]] can also be found - most of these are closed-off communities as is their tradition, though some few have left and taken to living amongst the other ancestries.
-
-
+The [[Shoony]] people are uniquely tied to Ferweth. [[Gnomes]], in some oral and written traditions considered tied to stories, are more prevalent in Ferweth than any other region. [[Beastkin]] too in their many forms can be found across Ferweth, many potentially the results of the various monsters of Ferweth leaving their mark on the 'civilised' population. A couple of [[Vanara]] settlements cultivating their Qi and [[Performance|art]] can also be found - most of these are closed-off communities as is their tradition, though some few have left and taken to living amongst the other ancestries.
 
 ## Geography
-The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. 
+The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. It is traditionally reached with the northern road, roughly following a bit inlands of the northern coast and passing through important cities like [[Barony of Rabarb|Rabarb]]. 
+
+An alternate route is the Long Road, which may have a longer history than the more efficient northern road (for uncertain reasons). It can be said to begin in the [[Galae#Borderland Marches|Galaen Borderlands]] leading up the the town of [[Twinberry]] hanging over [[]]
 
 
 [[Piketown]]
