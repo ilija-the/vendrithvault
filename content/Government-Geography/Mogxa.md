@@ -5,7 +5,7 @@ tags:
 aliases:
   - Mogxan
 ---
-Mogxa (by some pronounced more like "Meau Xi") is a densely populated subcontinent located in what is today called "[[Iduria]]." Mogxa has historically been home to various centralised empires - the [[Draconic Empire]], the [[Kobold Throne]], and now currently, the [[Sanitorium]]. The Mogxan region borders [[Galae]] (with which it has a blurry border) to the northwest, the [[Rubyfirth Bay]] and [[Sea of Sargathis|Mouth of Mogxa]] to its west and south. 
+Mogxa (by some pronounced more like "Meau Xi") is a densely populated subcontinent located in what is today called "[[Iduria]]." Mogxa has historically been home to various centralised empires - the [[Draconic Empire]], the [[Kobold Throne]], and now currently, the [[Sanitorium]]. The Mogxan region borders [[Galae]] (with which it has a blurry border) to the northwest, the [[Rubyfirth Bay]] and [[Sergetis|Mouth of Mogxa]] to its west and south. 
 
 To the north lies the island region of [[Vilhun]], which has inherited a variety of Mogxan culture and has taken in much of its former [[Dragons]], but which is largely shut off to the rest of the world. To the south-east lies the [[Lorgun]] islands, which are rarely visited but rely on Mogxa for trade and connectivity to the rest of the world.
 
