@@ -15,4 +15,8 @@ The [[Rend Peoples]] are a series of [[Ancestries of Vendrith|peoples]] whom hav
 
 ---
 ###### Notes
-<small>I'm thinking of making the Rubyfirth Bay more of its own cultural community and set of polities instead of just a geographic thing. It would stretch around the Rubyfirth Coastline, from  </small>
+<small>I'm thinking of making the Rubyfirth Bay more of its own cultural community and set of polities instead of just a geographic thing. It would stretch around the Rubyfirth Coastline, from South Canath even touching Nagonkor, to the western borderlands between Canath and Eydwin, to the Talvan (and lesser extent Veducian) coast. It would also include the island of Jed. 
+
+I'm thinking the inspiration should be the Kilwan Coast, a realm of Muslim merchants who occupied exactly the coastline of eastern Africa (and basically never went far inland), focusing on having a strong navy, defendable coastal settlements, and being the ones trading the ivory, gold and slaves from east africa into the Muslim world, and whatever goods they offered in return back. 
+
+I think they also should overlap the realm of Talvas though, which is an Egyptian like desert civilisation built on a river that feeds out into the Rubyfirth. I think the Talvans should go farther inland and have strong armies and a god-king type religion and empire, but that in reality the Rubyfirther</small>
