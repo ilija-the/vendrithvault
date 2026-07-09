@@ -11,6 +11,8 @@ Galae is a historical region that sits between [[Ferweth]] and [[Canath]] to its
 More recently, Galae was devastated by the [[War Over Haeven]] and the [[Eternal Crusade]] that followed soon after. The [[Crusaders]] and [[Sanitorium]] have considerable influence over the goings on of Galaen polities, especially those close to their respective homes. [[Amurrun]] and [[Hobgoblins]] consider Galae their home. Recently, many [[Kholo]] have migrated to Galae from [[Eydwin|the south]] and now constitutes a large part of the population. [[Halflings]], [[Dwarves]] and [[Elves]] also form considerable minority populations.
 
 ![[Mappae-Galae_1.5 1.png]]
+
+> For more in Galae, see #places/galae 
 ## Culture
 Besides [[Humans]] - [[Amurrun]], [[Hobgoblins]] and [[Kholo]] make up the biggest populations of Galae. [[Dwarves]], [[Halflings]] and [[Orcs]] also constitute significant minorities. The illusive still-surviving [[Elves]] are a rarity across the world, but are perhaps found more frequently in Galae due to their origins there. 
 
