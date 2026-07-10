@@ -9,4 +9,4 @@ Cocatun connects to the nearby coastal [[Piketown]].
 
 Cocatun exports the rare cocoa beans which grow around it, which the villagers of [[Vanderkact]] have helped trade. Cocatun also occasionally buys some of the cacti and cacti juice that Vanderkact makes in return.
 
-Cocatun has a small library, and a tavern called Bartlee
+Cocatun has a small library, and a tavern called Bartlebees.
