@@ -2,7 +2,10 @@
 
 hmmm thonking
 
-
+admin
+	assets
+	templates
+	``etc``
 culture
 	ancestries ``the intelligent playable ancestries``
 	cosmology ``about planes and theories on the fabric of the world``
@@ -23,6 +26,6 @@ people
 	groups ``non-governmental groups, societies, and parties``
 	npcs ``all non player characters``
 	pcs ``all player characters``
-	monsters ``all manner of monstrous creatures``
-	deities ``all manner of immortal creatures tied to other planes``
+	monsters ``all manner of monstrous creatures not deemed an npc``
+	deities ``worshippable immortal creatures``
 
