@@ -1,24 +1,24 @@
+?
 
 hmmm thonking
 
 
 culture
-	ancestries ``self explanatory``
+	ancestries ``the intelligent playable ancestries``
 	cosmology ``about planes and theories on the fabric of the world``
-	magic ``all manner of other spells, curses, rituals, magic``
-	traditions ``practices, customs, trades/jobs, castes, etc`` 
-	~~religion ``not for deities! but for the above when it's religious``~~
-	items ``natural materials, ores, plants, crafted items`` 
+	magic ``all manner of other spells, curses, rituals, magic items``
+	traditions ``practices, customs, trades/jobs, castes, nonmagical items``
 events
 	ancient ``the oldest least certain most embelished types of history``
 	newer ``events of the last 500 years or so``
 	ongoing ``events of the last 100 years or so``
 	campaigns ``events only known or significant to parties``
 lands
-	regions ``breakdowns of land, including "Mogxa",
-	landmarks
-	government
-	settlements
+	regions ``breakdowns of land, including "Mogxa", "Iduria", etc``
+	landmarks ``natural, magical, or non-settled-man-made landmarks``
+	government ``duchies, kingdoms, empires and governmental bodies``
+	settlements ``villages, towns, fortresses and cities``
+	nature ``plants, animals and ores
 people
 	groups ``non-governmental groups, societies, and parties``
 	npcs ``all non player characters``
