@@ -8,7 +8,7 @@ tags:
 ---
 ![[Beast_King_Luca.webp|right|300]]
 
-Young son of [[Persons/NPCs/Father Sullivan]], murdered by [[Valentine Volmari]] by biting into his throat. Full name D'arby Luca Sullivan Jr.
+Young son of [[Father Sullivan]], murdered by [[Valentine Volmari]] by biting into his throat. Full name D'arby Luca Sullivan Jr.
 
 He has been unbeknownst to everyone else, turned into a form of [[Dhampir]] by Valentine. Retaining his mostly childish worldview, his body turned into an ever-growing, ever-taller corpse as a result of his transformation. 
 

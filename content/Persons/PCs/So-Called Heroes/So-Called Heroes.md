@@ -26,7 +26,6 @@ Other notable characters include, categorized by location:
 	- [[Wyrm Knight]]
 - Vanderkact
 	- [[Father Emeri]]
-	- [[Kelvin]] 
 	- [[General Major Ironheart]]
 	- [[So-Called Doppelgangers]]
 - Twinberry
