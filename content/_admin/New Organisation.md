@@ -13,16 +13,16 @@ events
 	ancient ``the oldest least certain most embelished types of history``
 	newer ``events of the last 500 years or so``
 	ongoing ``events of the last 100 years or so``
-	campaigns 
+	campaigns ``events only known or significant to parties``
 lands
-	regions
+	regions ``breakdowns of land, including "Mogxa",
 	landmarks
 	government
 	settlements
 people
-	groups
-	npcs
-	pcs
-	monsters
-	deities
+	groups ``non-governmental groups, societies, and parties``
+	npcs ``all non player characters``
+	pcs ``all player characters``
+	monsters ``all manner of monstrous creatures``
+	deities ``all manner of immortal creatures tied to other planes``
 
