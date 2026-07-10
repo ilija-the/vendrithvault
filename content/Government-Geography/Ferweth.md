@@ -52,6 +52,8 @@ A number of isolated and secretive settlements exist in Ferweth, including some 
 
 The nomadic settlement of [[Vanderkact]] geographically exists more in Galae, wandering the northern edge of the [[Crimson Desert|Red Desert]], though are culturally of Ferweth. Their small size and distance from Longdawn means they're essentially self-governing, however.
 
+This Galae-facing part of Ferweth is also known to be subject to both [[Blood Storm|Blood Storms]] and [[Blood Rain]].
+
 An alternate route is the Long Road, which may have a longer history than the more efficient northern road (for uncertain reasons). It has at times been necessary to use when the Northern Road is closed off. The Long Road can be said to begin in the [[Galae#Borderland Marches|Galaen Borderlands]] leading up the the town of [[Twinberry]] hanging over the Canathi [[Twinvale]]. From here it passes across the sparse and cold Ferwethi Mountain Plateau, including passing by [[Grænehul]]. This part of the route ends at [[Spireview]], which is known for, on particularly fog-less days, having a gorgeous view that stretches across [[Gourdvil]], and some say even [[Longdawn]] down the road.
 
 Beyond the areas of Ferweth under the cultural, linguistic and political power of Longdawn, further inland, are both a variety of monsters but also certain tribes that seemingly have accommodated to living in the harshest of lands. These lands are sometimes called "**Far Ferweth**," though this is likely an exonym its inhabitants wouldn't like. There is little friendly contact with these peoples, though they have proven more violent against Canathis visiting from their side than from the occasional encounters with Ferwethis. 
