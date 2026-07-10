@@ -10,11 +10,10 @@ persons-groups                          persons
 hmmm
 
 
-cosmos
-	cosmology
-	magic
 culture
 	ancestries
+	cosmology
+	magic
 	traditions
 	religion
 	items
