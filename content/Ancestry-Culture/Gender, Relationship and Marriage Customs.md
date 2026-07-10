@@ -14,4 +14,4 @@ Most people partner up across gender lines, though homosexuality is common and a
 
 Magic and alchemy allows for the changing of one's sex, either slowly or rapidly depending on the solution (the latter being harder to come by). Gender as a social role matters to most culture's customs and expectations, but the ability to change ones gender is widely accepted so long as one adopts the customs of the new gender one takes on. While it varies in relevance, the concept of a 3rd Gender has existed and continues to exist in many cultures in Vendrith. The changing of sex and/or gender appears in some cultural stories as an element signifying a hero's self-discovery and renewal after a journey.
 
-%% write about eunuchs, harems, poly
+%% write about eunuchs, harems, polygamy %%
