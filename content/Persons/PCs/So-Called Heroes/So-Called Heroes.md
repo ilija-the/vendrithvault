@@ -26,7 +26,7 @@ Other notable characters include, categorized by location:
 	- [[Father Emery]]
 	- [[Ironhardt]]
 - Twinberry
-	- [[Father Sullivan]]
+	- [[Persons/NPCs/Father Sullivan]]
 	- [[Kaya Venstock]] (pnoll wife)
 
 

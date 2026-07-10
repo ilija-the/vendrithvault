@@ -10,6 +10,6 @@ Twinberry has been known to observe superstition, such as using garlic to ward o
 Nearby the town is a [[Shrines|Shrine]] to [[Saint Jonathan]] at a depleted silver mine.
 
 Notable figures:
-[[Father Sullivan]], a leader figure and priest. His teachings are that of Saint Jonathan.
+[[Persons/NPCs/Father Sullivan]], a leader figure and priest. His teachings are that of Saint Jonathan.
 [[Beast King Luca|Lucas]], Sullivan's son killed by [[Valentine Volmari|Valentine]].
 [[Kaya Venstock]], owner of the Vennstock Pot tavern.
