@@ -1,26 +1,19 @@
-admin
-culture-lineage                            lineage
-geography-government             lands
-myths-monsters-magic             myths-monsters
-history-situations                        history
-persons-groups                          persons
 
-
-
-hmmm
+hmmm thonking
 
 
 culture
-	ancestries
-	cosmology
-	magic
-	traditions
+	ancestries ``self explanatory``
+	cosmology ``about planes and theories on the fabric of the world``
+	magic ``all manner of other spells, curses, rituals, magic``
+	traditions ``non-practices, 
 	religion
 	items
 events
 	ancient
 	newer
 	ongoing
+	campaigns
 lands
 	regions
 	landmarks
