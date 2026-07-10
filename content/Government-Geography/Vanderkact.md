@@ -10,5 +10,5 @@ Vanderkact, collecting and making use of Cacti, have trade ties to [[Cocatun]]. 
 The myth of [[The Blare]] was central to Vanderkact.
 
 Citizens include:
-- Father Emeri
+- Father Emeri, who handles the mobile church.
 - Mathilda, barkeep of the Vanderkact Bartlebees
