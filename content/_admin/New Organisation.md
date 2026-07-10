@@ -10,14 +10,23 @@ persons-groups                          persons
 hmmm
 
 people
-	Groups
-	NPCs
-	PCs
-
+	groups
+	npcs
+	pcs
 culture
-lands
-	Settlements
-	Regions
-	Government
+	ancestries
+	items
+	culture
 events
+	ancient
+	recent
+	ongoing
+lands
+	regions
+	landmarks
+	government
+	settlements
+
 cosmos
+	cosmology
+	magic
