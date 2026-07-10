@@ -7,7 +7,9 @@ A group of adventurers that have travelled [[Ferweth]], all seeking to reach [[L
 
 Consists of:
 [[Minky]], a kobold fey-blood sorcerer.
+	With familiar cat Scaredy and wolf Toothy.
 [[Sheppie]], a halfling seer animist.
+	With various spirit familiars.
 [[Cantro]], a dragonblood cold-blooded barbarian.
 [[Kai]], an amurrun investigator.
 [[Valentine Volmari|Valentine]], an eerie shoony rogue.
@@ -18,17 +20,19 @@ Has also been accompanied on their journey by:
 
 Other notable characters include, categorized by location:
 - Cocoton
-	- [[Bobo and Kicky]]
+	- [[Boubo]] & [[Kicky]]
 	- [[Malachai]]
-	- [[Mayor Bombast]] (deceased)
-	- [[The Wyrm Knight]]
+	- [[Mayor Bombask]] (deceased)
+	- [[Wyrm Knight]]
 - Vanderkact
-	- [[Father Emery]]
-	- [[Ironhardt]]
+	- [[Father Emeri]]
+	- [[Kelvin]] 
+	- [[General Major Ironheart]]
+	- [[So-Called Doppelgangers]]
 - Twinberry
-	- [[Persons/NPCs/Father Sullivan]]
+	- [[Father Sullivan]]
 	- [[Kaya Venstock]] (pnoll wife)
 
 
 ###### Alternate names
-The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians.
+The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians, the penal battalion, the tomb raiders
