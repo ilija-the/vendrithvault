@@ -19,7 +19,7 @@ events
 lands
 	regions ``breakdowns of land, including "Mogxa", "Iduria", etc``
 	landmarks ``natural, magical, or non-settled-man-made landmarks``
-	government ``duchies, kingdoms, empires and governmental bodies``
+	government ``duchies, kingdoms, empires and high governmental bodies``
 	settlements ``villages, towns, fortresses and cities``
 	nature ``plants, animals and ores
 people
