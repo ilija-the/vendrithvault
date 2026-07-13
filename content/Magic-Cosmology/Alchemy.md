@@ -25,4 +25,4 @@ Particularly legendary alchemists have also been known for using homunculi and c
 
 [^1]: The only exception are the Herbalists who insist on using raw materials without dissolving them into base components, believing that dissolution and reconstitution lowers the potency of its end result compared to using harvested matter.
 
-[^2]: Alas, an Alchemist working at a manufactory is considered an indignant way to use your knowledge, at best an uninspiring, unassuming desk job and at worst a failure of an alchemist not being able to get into any superior position. However, one benefit of a quiet, steady unassuming career is that of a way longer lifespan compared to the ever ambitious house alchemists.
+[^2]: An Alchemist working at a manufactory is considered an indignant way to use their knowledge, at best an uninspiring, unassuming desk job and at worst a failure of an alchemist not being able to get into any superior position. However, one benefit of a quiet, steady unassuming career is that of a way longer lifespan compared to the ever ambitious house alchemists and their short-lived schemes. Or falling prey to them.
