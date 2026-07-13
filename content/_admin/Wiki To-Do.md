@@ -72,6 +72,11 @@ kanban-plugin: board
 - [ ] I think [[Feydark]] and plane of [[Deep Gray|(Deep) Grey]] may just get merged.
 - [ ] and [[Rustyard]] is a part of [[Deep Gray]]?
 
+#### PCs With Unassigned Classes or Ancestries
+```query
+tag:people/pc (-tag:#classes OR -tag:#ancestries)
+```
+
 
 ***
 

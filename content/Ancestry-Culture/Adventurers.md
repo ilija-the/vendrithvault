@@ -11,7 +11,7 @@ Adventurers are a powerful group of people, especially when they combine to form
 
 In [[Mogxa]], questing is usually done through the [[Societies of Mogxa]], which intelligently monitor, invest in or sabotage adventurers as needed to ensure they remain a boon to ones own society and aren't at risk of becoming a threat under another. Adventuring work outside of the societies is rare at higher levels, due to the fear that powerful independent adventurers may cause another [[Adventurer Crisis]].
 
-For player character adventurers, see #campaigns, #people/pc or the adventurer parties listed below: [List](https://ilija-the.github.io/vendrithvault/tags/parties)
+For player character adventurers, see #campaigns, #people/pc or the adventurer parties listed below: #parties
 ```query
 tag:parties
 ```

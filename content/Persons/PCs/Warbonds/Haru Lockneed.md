@@ -4,6 +4,7 @@ tags:
   - people/pc
   - places/vilhun
   - campaigns/hunts-of-vilhun
+  - classes/commander
 ---
 
 ![[Pasted image 20260705163152.png|right|300]]
