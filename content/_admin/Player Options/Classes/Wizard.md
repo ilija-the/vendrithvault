@@ -7,6 +7,7 @@ Wizard is a [[magic|spellcaster]] categorization, where the spellcaster primaril
 It is also a colloquial term for any spellcaster who happens to study magic.
 
 #### Notable Wizards:
+[List](https://ilija-the.github.io/vendrithvault/tags/classes/wizard)
 
 ```query
 tag:classes/wizard
