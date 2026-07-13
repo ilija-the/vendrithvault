@@ -19,7 +19,7 @@ The mountain is also home to many [[Leylines|leylines]] stemming from the [[Shri
 
 ![[landscape-TORII GATE.png|banner]]
 
-[[Hagane Clan]] occupies the north of the island. While not directing much trade, they are able to control smaller isles and have them act as [[Lighthouses from Hell|observatories]] for any oncoming ships, or sometimes [[Disasters of the Silence]]. It is also the only part of the island where far, far away, the [[World Fleece]] can be seen.
+[[Hagane Clan]] has control of much of the north of the island, composed of many smaller clans pledging loyalty to them. While not directing much trade, they are able to control smaller isles and have them act as [[Lighthouses from Hell|observatories]] for any oncoming ships, or sometimes [[Disasters of the Silence]]. It is also the only part of the island where far, far away, the [[World Fleece]] can be seen. 
 ### East
 
 ![[landscape-COAST TOWN.png|banner]]
@@ -31,7 +31,7 @@ The terrain away from the shore becomes increasingly elevated and empty with lon
 
 ![[landscape-FOREST temple.png|banner b-bottom]]
 
-The [[Suli Clan]] is mostly located to the south of the island, exerting large naval presence around the sea towards [[Mogxa|Mogxan]] continent. As such, it has a large control over ships in the area, either privateering or taxing merchants to fund its centralization efforts. With the [[Impassable Forest]] to its [[#West]] side, the Goblin Horde's only reasonable option for expansion is to the [[#East|Eastern]] parts of the island.
+The [[Suli Clan]] has its home located to the south of the island, exerting large naval presence around the sea towards [[Mogxa|Mogxan]] continent. As such, it has a large control over ships in the area, either privateering or taxing merchants to fund its centralization efforts. With the [[Impassable Forest]] to its [[#West]] side, the Goblin Horde's only reasonable option for expansion is to the [[#East|Eastern]] parts of the island.
 ### West
 
 ![[Pasted image 20260218004418.png|banner]]
