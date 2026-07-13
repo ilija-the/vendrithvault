@@ -7,7 +7,9 @@ aliases:
 ---
 ![[vilhun.png]]
 
-Part of [[Iduria]], an island-chain north of [[Galae]] and [[Mogxa]].
+Part of [[Iduria]], Vilhun is an island-chain north of [[Galae]] and [[Mogxa]].
+
+> For more in Vilhun, see #places/vilhun 
 
 Home to a staunchly independent people, as well as a notable number of [[Dragons]] and their offspring. *Although as per the [[Draconic Concordat]], all of those offspring being humanoid.*
 
@@ -15,7 +17,7 @@ Primary regional deities of note are the [[Hun Lords]], with the multiple noble 
 
 The primary spellcasting system in the isles is that of [[Essence Casting]].
 
-Primary languages are Draconic and Old Mogxan (Vili).
+The primary languages of Vilhun are [[Ancestral Languages|Draconic]], and the [[Vili Language]], a descendant of [[Maux Xi|Mogxan common tongue]].
 
 The nation is ruled by [[The Vilhi Sultanate]], though currently it is facing a [[Rosbit Period|succession crisis]]. 
 

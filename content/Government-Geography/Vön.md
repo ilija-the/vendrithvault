@@ -14,6 +14,8 @@ Vön is a cold lands in eastern [[Canath]], bordering the harsh and generally im
 ![[Mappae-Von1.png]]
 _A somewhat accurate map of Vön (that is to say, some updates may be coming)._
 
+> For more in Vön, see #places/canath/vön  %% this may be changed to just #places/vön at some point%%
+
 #### History
 
 Vön is largely the realm of the [[Kingdom of Vestitur]], famous for the myth of the [[Vestitur Relics]]. That Kingdom's once-capital of [[Riverside]] commonly marks the border of Vön and the rest of Encanath. Vön was also once known for training the [[Silver Couriers]] as the only runners capable of safely using the [[Silver Pass]], though they have long since began to fade into obscurity. The [[Town of Ire]] today houses their last headquarters.

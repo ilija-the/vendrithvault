@@ -34,9 +34,6 @@ kanban-plugin: board
 - [ ] [[Crusaders]]. High importance page, should be quick to the point and well-organised.
 - [ ] All the [[Titans]] some reorganising, the template stuff at the beginning is unecessary.
 - [ ] [[Saint Karvi Massiri]], probably cut down on some of the details.
-- [ ] [[Argathia]], [[Sea of Sargathis|Sargathis]], [[Sargathia]], [[Sinking of Argathia|Sinking of Argathis]] needs change. Way too difficult to separate all the different names.
-	
-	Merge into Argathia for land and civilization, and Sargathis for sea? The undersea ruins can be Sargathis Ruins.
 - [ ] Folder structure can always do with some changes. I think the top structure is fine right now, but should reduce the amount of sub-folders. Search, tags and linking is more important than subfolders.
 - [ ] Separate page for the statblock for deities, and introduce the fact that a deity can have separate appearances, icons, that may have slightly different statblocks.
 - [ ] Also a separate page for the mechanics of Vendrith-customised versions of the ancestries. Here we can finally start working on and formalising that content.

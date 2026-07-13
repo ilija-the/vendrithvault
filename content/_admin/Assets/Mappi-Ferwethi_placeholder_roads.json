@@ -138,7 +138,7 @@
       "x": 0.672,
       "y": 0.8718854166666666,
       "layer": "default",
-      "link": "Celestaria",
+      "link": "Celene",
       "iconKey": "pinBlue",
       "tooltip": ""
     },
@@ -150,6 +150,36 @@
       "layer": "default",
       "link": "Challenge Isles",
       "iconKey": "pinBlue",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_yivvq0",
+      "x": 0.5447995087594697,
+      "y": 0.5611250258937026,
+      "layer": "default",
+      "link": "Grænehul",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_h687sq",
+      "x": 0.46537256442263525,
+      "y": 0.40257307740939213,
+      "layer": "default",
+      "link": "Gourdvil",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ck39gy",
+      "x": 0.3005982678345959,
+      "y": 0.36245525769950926,
+      "layer": "default",
+      "link": "Homrodeus",
+      "iconKey": "pinRed",
       "tooltip": ""
     }
   ],
@@ -171,5 +201,9 @@
   "panClamp": true,
   "drawLayers": [],
   "drawings": [],
-  "textLayers": []
+  "textLayers": [],
+  "grids": [],
+  "secondScreen": {
+    "showGrids": true
+  }
 }
