@@ -7,7 +7,7 @@ tags:
 ---
 Unlike [[Mundane Materials]], Special Materials are those possessing mystical, magical and powerful alchemical capabilities. They're often used for [[Crafting]] and [[Adventurers|Adventuring]].
 
-> A list of materials that don't exist (or at least aren't magical) in the real world, often to
+> A list of materials that don't exist (or at least aren't magical) in the real world, often to be used as consumable items or to craft weapons, armour and other gear. Should have their own articles unless they're minor.
 
 [[Holy Oil]]
 [[Whitetar]]
