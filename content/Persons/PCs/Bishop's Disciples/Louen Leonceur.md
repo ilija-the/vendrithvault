@@ -12,9 +12,10 @@ aliases:
   - Lu Wen
   - Luwen
 player: Aeon
-Birth: 1249 ADc (4th of Breezy)
+Birth: 1249 ADc
 Status: Dead
 pronouns: He/Him
+Birthday: 4th of Breezy
 ---
 A kitsune cleric of the First Ascended that was part of [[Bishop's Disciples]], and later the [[Newcomers of Friedport]]. He helped turn [[Cardinal Rackawn]] away from creating terror alongside the [[Desecrators]]. Cardinal would one day pick up his torch as Louen was killed in Friedport unravelling the [[Landcrab Plot|Blackout Plot]].
 

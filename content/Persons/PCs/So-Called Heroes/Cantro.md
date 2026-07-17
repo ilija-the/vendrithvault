@@ -9,6 +9,7 @@ tags:
 player: Vauxs
 Status: Alive
 pronouns: He/Him
+Birth: 1246 ADc
 ---
 ![[demon_siberian smaller done-protected-intensity-LOW-V2.webp]]
 
