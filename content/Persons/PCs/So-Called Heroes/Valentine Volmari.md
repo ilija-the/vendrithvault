@@ -8,6 +8,10 @@ tags:
   - classes/rogue
   - ancestries/dhampir
   - undead
+Birth: 1237 ADc ?
+Status: Alive
+pronouns: He/Him
+player: Donna
 ---
 A fancily dressed shoony rogue that may or may not be a [[Dhampir]]. Acting and speaking rather overconfidently, he's often seen with his paws on the table sipping wine, either talking himself up or hitting on others. He quite obviously appears to have fallen for the physically imposing but oblivious dragonblood [[Cantro]].
 
