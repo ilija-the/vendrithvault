@@ -100,7 +100,9 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 #### Landcrab Plot Oneshots
 **Setting:** [[Friedport]] during and after the end of the Landcrab Plot in summer 1275.
 
-There's some oneshots I want to, and some that I could poss
+There's some oneshots I want to, and some that I could imagine, running as post-campaign content for the Landcrab Plot. One would be called Blackout, and pertains to saving the city of Friedport from the crisis, including diving into the Starfish in which Hallan Aerf is producing the fungus-golems from, and might even take an alternate timeline in which the Scurvymaster wasn't fully defeated at the tournament (allowing me to revisit original plans for the final stretch in the city itself). 
+
+For other, post-campaign oneshots 
 
 #### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign
