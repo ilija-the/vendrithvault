@@ -9,6 +9,7 @@ Unlike [[Mundane Materials]], Special Materials are those possessing mystical, m
 
 > A list of materials that don't exist (or at least aren't magical) in the real world, often to be used as consumable items or to craft weapons, armour and other gear. Should have their own articles unless they're minor.
 
+Anbar (Meteoric Metal)
 [[Holy Oil]]
 [[Whitetar]]
 [[Blackice]]
