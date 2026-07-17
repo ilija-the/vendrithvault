@@ -7,31 +7,39 @@ Olibanum
 Myrrh
 Electrum
 Malachite
-Fool's Gold
-Azurite
-Arsenic
 
 
 
 
 
-Wood
 
+
+
+## Fauna
 Bone
 Leather
 Hide
 
+## Flora
+Charcoal
+Wood
 
-## Metals
+## Minerals
 Ores:
 Iron
 Tin
 Copper
+Fool's Gold (Fool')
 
 Alloys:
 Bronze
 Steel
 
-## Stones
+Stones:
+Regular Stone
 Obsidian
-Stone
+Azurite
+Lapis Lazuli
+
+## Alchemical
+Arsenic
