@@ -6,6 +6,7 @@ tags:
   - campaigns/circles
   - ancestries/automaton
   - people/pc
+player: Morgan
 ---
 > [!important] Similar names warning!
 > Not to be confused with [[Gourdon]] of the Fools of Veridica, with whom Sir Gordon has no relation.

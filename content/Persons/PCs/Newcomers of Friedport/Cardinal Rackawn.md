@@ -8,6 +8,7 @@ tags:
   - people/pc
   - people/npc
   - society/crusaders
+Birth:
 ---
 A red strix bard that is as famous for his charisma and performances as he is infamous for his rebellious and violent history. Starting his music career in [[Newshore]], he played alongside [[Rex Stormwind]] and others in [[Underworld]] communities. Disillusioned with society and authority, and began making connections with [[Desecrators|Desecrator]] rebels. At some point in his life he made a [[Devil Deal]] with the [[Good Doctor]], though the specifics are unknown. He would grow close to and work with the disgraced [[Princess Ionelle]], whom had also made such a deal.
 

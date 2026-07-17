@@ -6,6 +6,8 @@ tags:
   - campaigns/hunts-of-vilhun
   - people/pc
   - ancestries/hobgoblin
+pronouns: She/Her
+player: Ilija
 ---
 > ![[Hachiko.webp|right|300]]
 
