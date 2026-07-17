@@ -102,7 +102,7 @@ And here is an overview of various campaign ideas, which may or may not ever be 
 
 There's some oneshots I want to, and some that I could imagine, running as post-campaign content for the Landcrab Plot. One would be called Blackout, and pertains to saving the city of Friedport from the crisis, including diving into the Starfish in which Hallan Aerf is producing the fungus-golems from, and might even take an alternate timeline in which the Scurvymaster wasn't fully defeated at the tournament (allowing me to revisit original plans for the final stretch in the city itself). 
 
-For other, post-campaign oneshots 
+For other, post-campaign oneshots I have a number of ideas. One is a detective mystery investigation with only Bande Aparte and Gator Grippli as characters - using the best of our mystery mechanics to solve a circus and crusader-related crime and conspiracy. Another is a prison breakout seeing Ashur Holdok take on the evils of a variety of refugees of war having been imprisoned for life for crimes of circumstance and desperation. A third might be a non-canon one, perhaps called Friedport Time Travel, seeing Magnus and Ashur travel to the city's past whil
 
 #### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign
