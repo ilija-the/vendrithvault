@@ -5,6 +5,6 @@ tags:
   - people/pc
   - ancestries/amurrun
 player: Beelze
-pronouns: She/Her
+pronouns: They/Them
 ---
 An [[Amurrun|amurrun]] inventor of [[Rraka]] that participated in the [[Dawnseekers]].

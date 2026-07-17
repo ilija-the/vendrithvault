@@ -8,6 +8,7 @@ tags:
 player: Aeon
 Status: Alive
 Birth: 1248 ADc
+pronouns: He/Him
 ---
 A tribal-looking but charismatic red kobold thaumaturge that carries a tablet of [[Concordats]] rules. Was once hired by a sanitorium knight as an archaeologist due to his interest in the concordats. Rumoured to have incurred the attention of some mystical entity through this work.
 
