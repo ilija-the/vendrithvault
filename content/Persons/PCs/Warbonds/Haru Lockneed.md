@@ -5,6 +5,7 @@ tags:
   - places/vilhun
   - campaigns/hunts-of-vilhun
   - classes/commander
+player: Lucky
 ---
 
 ![[Pasted image 20260705163152.png|right|300]]

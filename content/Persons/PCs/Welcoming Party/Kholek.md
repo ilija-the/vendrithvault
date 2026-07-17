@@ -5,6 +5,9 @@ tags:
   - campaigns/welcome-to-friedport
   - classes/thaumaturge
   - sanitationists
+player: Aeon
+Status: Alive
+Birth: 1248 ADc
 ---
 A tribal-looking but charismatic red kobold thaumaturge that carries a tablet of [[Concordats]] rules. Was once hired by a sanitorium knight as an archaeologist due to his interest in the concordats. Rumoured to have incurred the attention of some mystical entity through this work.
 

@@ -5,6 +5,8 @@ tags:
   - ancestries/tengu
   - classes/monk
   - campaigns/welcome-to-friedport
+Status: Alive
+player: Niko
 ---
 A tengu-like poppet that was created by the [[Unknown Son of a Witch|son of a witch]] in [[Sergetis]]. Very visible for his constant theatric performances around his home town, he ended up tricked onto a convoy set for [[Friedport]], potentially because the town found him annoying. For some reason, the town found his martial arts-like moves he sometimes incorporated into his performances unnerving.
 

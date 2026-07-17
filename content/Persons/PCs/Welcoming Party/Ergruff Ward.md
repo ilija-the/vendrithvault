@@ -7,6 +7,8 @@ tags:
   - classes/magus
   - classes/gunslinger
   - society/crusaders
+player: Morgan
+Status: Alive
 ---
 Ergruff Ward is a [[Kitsune]] found half-feral in the woods and raised by [[Chatwood]], whom would go on to become a [[Crusaders|Crusader]]. Somewhat overweight and with white fur, Ward is usually dressed or armoured lightly, preferring not to cover himself up or weigh himself down too much. Despite his hampered intelligence, Ward has proven his physical prowess and aim.
 
