@@ -9,19 +9,17 @@ Campaigns are the many stories of games that have taken place in Vendrith. Some 
 
 # List of Campaigns
 
-### Ongoing Campaigns
+## Ongoing Campaigns
 
 Here is an overview of all campaigns currently being ran in Vendrith, or which are planned to be ran very soon.
 
-#### Road to Longdawn
-
+#### [[So-Called Heroes|Road to Longdawn]]
 #campaigns/road-to-longdawn
 **Setting:** [[Ferweth]], around 1272 ADc.
 
 Road to Longdawn follows a set of travellers all trying to reach the titular Longdawn, capital of the eerie and cursed lands of Ferweth. On their way they face a multitude of mythological and horrifying creatures as well as tragic tales and dramatic intrigue.
 
 #### [[Regent's Legation|Hunts of Vilhun]]
-
 #campaigns/hunts-of-vilhun
 **Setting:** [[Isle of Flod|Flod]], around 1272 ADc.
 
@@ -35,8 +33,7 @@ A set of symbolic agents of the Sultanate of Vilhun are sent to the unstable and
 
 Here is an overview of all campaigns that have been ran in Vendrith, now finished. They are sorted in chronological order (by their first session, if there's overlap).
 
-#### Circles
-
+#### [[Jadebreakers|Circles]]
 #campaigns/circles
 **Setting:** Philosophia, 1-30th of Freezy 1271 ADc.
 
@@ -45,8 +42,7 @@ A group of Philosophians jailed for suspiciously small causes escape and uncover
 > [!note]- Note: Campaign Inconsistency
 > The world of Vendrith did not exist when the original Circles was ran. It has later been retconned into existing in Vendrith however, with the required changes. If the Circles re-traced campaign happens, an attempt to redo the spirit of the campaign in an improved format and now formally set in Vendrith, it will overwrite the old lore (which for now is being kept strategically vague).
 
-#### Welcome to Friedport
-
+#### [[Welcoming Party|Welcome to Friedport]]
 #campaigns/welcome-to-friedport
 **Setting:** [[Friedport]], 5th of Whippy 1274 ADc.
 
@@ -54,8 +50,7 @@ Welcome to Friedport was the first game ever ran in Vendrith. Concurrent with th
 
 > 🎵 [Theme of Showdown](https://youtu.be/pYUvNIAzq68)
 
-#### Fool Me Once
-
+#### [[Fools of Veridica|Fool Me Once]]
 #campaigns/fool-me-once
 **Setting:** [[Condinuum Coast]], Tidestorm 1272 ADc.
 
@@ -63,8 +58,7 @@ Fool Me Once was a short game much like a thriller, focused on hinting at more m
 
 > 🎵 [First Opening - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Second Opening](https://youtu.be/Wykhe7OgZeA) 🎵[Third Opening](https://youtu.be/exOi_zsOHwM) 🎵[Theme of End of Veridica](https://youtu.be/haI3kOyVsQ8)
 
-#### The Landcrab Plot
-
+#### [[Newcomers of Friedport|The Landcrab Plot]]
 #campaigns/landcrab-plot
 **Setting:** [[Chocolate Isles]], spring of 1274 to summer 1275 ADc.
 
@@ -73,8 +67,7 @@ The Landcrab Plot was a years long campaign both in and out of universe. In it, 
 > 🎵 [Opening Theme - Theme of Vendrith](https://youtu.be/fmuTcaRYj1U) 🎵 [Ending Theme](https://youtu.be/U2XELiosoWw&t=1547)
 > 🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g) 🎵 [Theme of New Horizons](https://youtu.be/VwU0CCBMs1o) 🎵[Theme of Final Ending](https://youtu.be/oHQUUAcB0io)
 
-#### Call of the Cardinals
-
+#### [[Bishop's Disciples|Call of the Cardinals]]
 #campaigns/call-of-the-cardinal
 **Setting:** [[Ivory Crown]], 2nd tenday of Whippy 1273 ADc
 
