@@ -6,7 +6,7 @@ tags:
   - ancestries/hobgoblin
   - society/crusaders
   - society/sanitationist
-Birth:
+Birth: 1222 ADc
 ---
 A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], Bande Aparte made a name for himself by earning a victory (even if Pyric) in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  He also played a role in the [[March of the Roses]] which took advantage of [[Espionage Crisis|leaked intel from Mogxa]]  to  destroy a covert Sanitationist camp and capture the infamous sanitationist [[Chaucer]].
 
@@ -19,3 +19,8 @@ Landing in [[Friedport]], Bande Aparte became acquainted with [[Gator Grippli]] 
 Unbeknownst to Bande Aparte until the end of the plot, his trusted comrade Lykas had survived back in the [[Iduria|old world]], and together with many of Bande Aparte's former soldiers created the secretive [[Moonless Night]]. Inspired by their former leader, the Moonless Night worked to uncover corruption and conspiracy. Their most important achievement was getting General Architrave sentenced to death for his crimes.
 
 >🎵 [Theme of Second Revival](https://youtu.be/Lnw3J9XNLLQ) 🎵 [Theme of Mind Palace](https://youtu.be/54moBCJSfXg) 🎵 [Theme of Comrades in Truth](https://youtu.be/XIfRGhD-9QY)
+
+
+---
+###### Notes
+<small>Bande Aparte's age was never confirmed per his player, but I set him to be 52-3 during the Landcrab Plot one based on context -Ilija </small>
