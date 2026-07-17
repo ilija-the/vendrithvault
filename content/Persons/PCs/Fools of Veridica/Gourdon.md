@@ -4,6 +4,9 @@ tags:
   - classes/druid
   - people/pc
   - ancestries/leshy
+Fate:
+Status: Likely dead
+player: Panda
 ---
 
 > [!important] Similar names warning!
