@@ -1,7 +1,7 @@
 > [!tldr] Summary
 > The Sanitorium Calendar of Vendrith consists of 10 day weeks, 4 week months, and 9 month years. Years are annotated in the advent of the [[Draconic Concordat]] (ADc). 
 > 
-> "Current" year is 1272 ADc. See [[Campaigns]] for specific dates.
+> "Current" year is 1275 ADc. See [[Campaigns]] for specific dates.
 ## Weeks
 Weeks consist of 10 days.
 1. Maltsday
