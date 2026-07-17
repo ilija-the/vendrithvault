@@ -13,7 +13,7 @@ Vendrith - meaning world of three dragons - is a fantasy setting fit for heroics
 
 Here are some good articles you may start learning about Vendrith from: 
 - [[War Over Haeven]], the inciting incident of most recent stories in Vendrith.
-
+- [[Iduria]] and [[Horiza]], the old and new world of the [[Materia|material plane]] of Vendrith.
 - [[Campaigns]], the various games that have been or are preparing to be played in Vendrith.
 - [[Ancestries of Vendrith]], of which many have twists compared to stock fantasy.
 
