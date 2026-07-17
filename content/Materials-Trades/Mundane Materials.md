@@ -1,16 +1,6 @@
-[[Special Materials]]
+A variety of materials are used for crafting weapons and armour, just as well as for constructing houses, performing cultural and religious rites, and otherwise running a thriving society. Materials which possess mystical, magical or powerful alchemical abilities are instead [[Special Materials]].
 
-Mastic
-Chrism
-
-
-
-
-
-
-
-
-
+> Basically a list of materials from the real world relevant to Vendrith.
 
 ## Fauna
 Bone
@@ -51,6 +41,8 @@ Formaldehyde
 ## Cultural
 Myrrh
 Olibanum
+Chrism
+Mastic
 
 ## Textiles
 Silk
