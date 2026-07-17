@@ -104,6 +104,10 @@ There's some oneshots I want to, and some that I could imagine, running as post-
 
 For other, post-campaign oneshots I have a number of ideas. One is a detective mystery investigation with only Bande Aparte and Gator Grippli as characters - using the best of our mystery mechanics to solve a circus and crusader-related crime and conspiracy. Another is a prison breakout seeing Ashur Holdok take on the evils of a variety of refugees of war having been imprisoned for life for crimes of circumstance and desperation. A third might be a non-canon one, perhaps called Friedport Time Travel, seeing Magnus and Ashur travel to the city's past and seeing many characters we know in their prime. Yet another might see Magnus and Roslyn, despite their tensions, take on an infection of the fungus from the Landcrab Crisis that escaped containment and only later landed somewhere on a wind. A final one might see an unrelated party become investigators and lawyers in a crime in Karvi Massiri's past, doing another Ace Attorney styled game to explore the antagonist's past.
 
+#### Galaen Wilds
+#campaigns/wilds
+**Setting:** [[Galae]], 
+
 #### Winters of Vön - A Land out of Time
 #campaigns/winter-campaign
 **Setting:** [[Vön]], 1267 ADc.
