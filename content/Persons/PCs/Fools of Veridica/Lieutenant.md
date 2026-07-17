@@ -7,6 +7,7 @@ tags:
 Status: Likely dead
 player: Niko
 pronouns:
-Birth: 1008/1090/1091 ADc ?
+Birth: Unknown
+Fate: 1272 ADc
 ---
 A [[Conrasu|conrasu]] oracle of the [[Fools of Veridica]]. Believed to be have once been a body double that endured an [[Magus Assassination Attempt|assassination attempt]] against the [[Magus in the High Tower]]. His current status is uncertain.

@@ -8,5 +8,7 @@ tags:
   - people/pc
 Status: Unknown
 player: Donna
+Birth: 1072 ADc
+pronouns: Any/All
 ---
 An [[animated skeleton]] summoner of the [[Fools of Veridica]], joined by their eidolon companion [[Weatherman]]. Their current whereabouts or status are unknown.
