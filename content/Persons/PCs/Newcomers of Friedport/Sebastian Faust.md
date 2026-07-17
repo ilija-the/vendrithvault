@@ -5,6 +5,8 @@ tags:
   - classes/cleric
   - campaigns/landcrab-plot
   - people/pc
+Status: Likely alive
+player: Lucky
 ---
 An amurrun cleric steadfastly following the [[Immortal Memory]]. The black catfolk was often dressed in black priest's robes and wearing a flat black hat, and seen wielding a divine firearm. Having lost his memories from his birthplace of [[Galae]] with the exception of a burning village, he set out to find the legendary inventor [[Borgrumm Holdok]] to decipher his [[Amurrun Markings]]. After discovering Borgrumm had died, he instead sought out his fellow inventor and fugitive adoptive son, [[Ashur Holdok]].
 

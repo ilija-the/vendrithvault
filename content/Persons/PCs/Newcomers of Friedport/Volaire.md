@@ -1,1 +1,7 @@
+---
+pronouns:
+player: Lucky
+tags:
+  - people/companion
+---
 A construct [[Familiars|familiar]] (see Inventors+) that appears much like a metal owl, created by [[Ashur Holdok]]. Similar to how familiars have replicable magical abilities, Ashur can swap out the components and functionality of Volaire to serve his needs.
