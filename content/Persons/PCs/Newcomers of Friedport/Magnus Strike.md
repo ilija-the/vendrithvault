@@ -4,6 +4,10 @@ tags:
   - ancestries/human
   - people/pc
   - campaigns/landcrab-plot
+Status: Alive
+player: Vauxs
+pronouns: He/Him
+Birth: 1251 ADc
 ---
 ![[magnus by komolord.webp|right|300]]
 

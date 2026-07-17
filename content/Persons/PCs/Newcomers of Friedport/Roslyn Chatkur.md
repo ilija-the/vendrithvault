@@ -4,6 +4,10 @@ tags:
   - campaigns/landcrab-plot
   - people/pc
   - ancestries/amurrun
+Birth: 1248 ADc
+Status: Alive
+player: Beelze
+pronouns: She/Her
 ---
 ![[roslyn by komolord.webp|left|300]]
 
