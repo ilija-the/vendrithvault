@@ -2,8 +2,6 @@
 
 Mastic
 Chrism
-Cave Cotton
-
 
 
 
@@ -22,6 +20,7 @@ Hide
 ## Flora
 Charcoal
 Wood
+Amber
 
 ## Minerals
 **Ores:**
@@ -41,10 +40,19 @@ Azurite
 Lapis Lazuli
 Malachite
 Fool's Gold (Pyrite)
+Cave Cotton
+Gypsum
+Jade
 
 ## Alchemical
 Arsenic
+Formaldehyde
 
 ## Cultural
 Myrrh
 Olibanum
+
+## Textiles
+Silk
+Cotton
+Glass Cloth
