@@ -3,10 +3,9 @@
 Mastic
 Chrism
 Cave Cotton
-Olibanum
-Myrrh
-Electrum
-Malachite
+
+
+
 
 
 
@@ -25,21 +24,27 @@ Charcoal
 Wood
 
 ## Minerals
-Ores:
+**Ores:**
 Iron
 Tin
 Copper
-Fool's Gold (Fool')
 
-Alloys:
+**Alloys:**
 Bronze
 Steel
+Electrum
 
-Stones:
+**Other Minerals:**
 Regular Stone
 Obsidian
 Azurite
 Lapis Lazuli
+Malachite
+Fool's Gold (Pyrite)
 
 ## Alchemical
 Arsenic
+
+## Cultural
+Myrrh
+Olibanum
