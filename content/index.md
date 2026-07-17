@@ -7,7 +7,7 @@ Welcome to the Vendrith wiki! This is a fantasy setting mainly authored by Ilija
 If you are a contributor, GM to-be, or just curious, you are encouraged to check out the [[Campaigns]], [[Houserules & Homebrew]], [[Worldbuilding Guide]] and the wiki [[Style Guide]].
 
 ![[VendrithSplashSun_wip.png]]
-> 🎵 [Theme of Vendrith](https://youtu.be/U2XELiosoWw&t=2116)
+> 🎵 [Theme of Vendrith](https://youtu.be/U2XELiosoWw&t=2116) %% 🎵 [Special Op 1](https://youtu.be/eCm--tb5SKg) 🎵 [Special Op 2](https://youtu.be/Oft7d6g5cew) 🎵 [Special Op 3](https://youtu.be/3ShE2o8E0jg)%%
 
 Vendrith - meaning world of three dragons - is a fantasy setting fit for heroics, aiming roughly emulate a fantastical version of our own world immediately pre-renaissance. The setting tries to combine cultural influences from all over to make the world not feel exclusively western. For example, the region of [[Mogxa]] is largely inspired by dynastic China, but also incorporates elements of revolutionary France.
 
