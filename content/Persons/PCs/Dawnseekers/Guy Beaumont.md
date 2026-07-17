@@ -6,6 +6,6 @@ tags:
   - people/pc
 player: Lucky
 pronouns: He/Him
-Status:
+Status: Missing
 ---
 A [[Humans|human]] alchemist of [[Rraka]] that participated in the [[Dawnseekers]]. Son of [[Petunia Beaumont]]. 

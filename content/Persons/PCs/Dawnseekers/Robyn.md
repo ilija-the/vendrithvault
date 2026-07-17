@@ -5,5 +5,7 @@ tags:
   - people/pc
   - ancestries/goblin
 player: Vauxs
+pronouns: She/They
+Status: Missing
 ---
 A [[Goblins|goblin]] kineticist of [[Rraka]] that participated in the [[Dawnseekers]].
