@@ -6,6 +6,7 @@ tags:
   - ancestries/hobgoblin
   - society/crusaders
   - society/sanitationist
+Birth:
 ---
 A scruffy hobgoblin soldier and investigator dedicated to [[Daydreaming Truth|Truth]]. Once a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]], Bande Aparte made a name for himself by earning a victory (even if Pyric) in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  He also played a role in the [[March of the Roses]] which took advantage of [[Espionage Crisis|leaked intel from Mogxa]]  to  destroy a covert Sanitationist camp and capture the infamous sanitationist [[Chaucer]].
 

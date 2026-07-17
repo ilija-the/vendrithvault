@@ -5,6 +5,9 @@ tags:
   - ancestries/rabbitfolk
   - campaigns/landcrab-plot
   - ancestries/iruxi
+Birth: 1252 ADc
+Status: Alive
+pronouns: He/Him
 ---
 A well-known rabbitfolk inventor with mechanical limbs, and the adoptive son of the equally famous inventor [[Borgrumm Holdok]]. After he was framed for Borgrumm's murder he fled the city of [[Cragmoore]] with the aid of [[Antoine Dumas]] and [[Sister Amelie Kenton|Amelie Kenton]], eventually safely reaching [[Friedport]]. Here he met [[Bande Aparte]] and [[Gator Grippli]] with whom he formed the [[Newcomers of Friedport]].
 
