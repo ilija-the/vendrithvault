@@ -6,6 +6,9 @@ tags:
   - ancestries/iruxi
   - ancestries/dragonblood
   - people/pc
+player: Vauxs
+Status: Alive
+pronouns: He/Him
 ---
 ![[demon_siberian smaller done-protected-intensity-LOW-V2.webp]]
 
