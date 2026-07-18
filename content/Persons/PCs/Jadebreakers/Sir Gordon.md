@@ -8,8 +8,10 @@ tags:
   - people/pc
 player: Morgan
 Status: Alive
-Birth: Unknown
+Birth: 1263 ADc
 pronouns: He/Him
+height: 6'3"
+weight: 290 lbs
 ---
 > [!important] Similar names warning!
 > Not to be confused with [[Gourdon]] of the Fools of Veridica, with whom Sir Gordon has no relation.
