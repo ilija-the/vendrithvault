@@ -1,0 +1,1 @@
+The Idurian Empire is a term used for the realm ruled by the conqueror that became known as [[Resting Crown|God-King Idur]], spanning large parts of [[Canath]], [[The Rend]] and [[Mogxa]]
