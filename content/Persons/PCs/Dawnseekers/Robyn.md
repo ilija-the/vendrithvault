@@ -8,4 +8,6 @@ player: Vauxs
 pronouns: She/They
 Status: Missing
 ---
-A [[Goblins|goblin]] kineticist of [[Rraka]] that participated in the [[Dawnseekers]].
+![[Robyn_art_flat.png|right|300]]
+
+A [[Goblins|goblin]] water [[kineticist]] of [[Rraka]] that participated in the [[Dawnseekers]]. 
