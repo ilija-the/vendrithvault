@@ -35,7 +35,8 @@ Here is an overview of all campaigns that have been ran in Vendrith, now finishe
 
 #### [[Jadebreakers|Circles]]
 #campaigns/circles
-**Setting:** Philosophia, 1-30th of Freezy 1271 ADc.
+**Setting:** Philosophia, 1253, Freezy 1-30th
+%% previously listed Philosophia, 1-30th of Freezy 1271 ADc, corrected to fix timeline stuff. %%
 
 A group of Philosophians jailed for suspiciously small causes escape and uncover the corruption of the Sanitationist whom ordered mass arrests. The party endures gang war and leads a rebellion against Jade the Just, and liberates the city from his insidious prisoner plot in the process.
 
