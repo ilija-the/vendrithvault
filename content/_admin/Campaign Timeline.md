@@ -8,10 +8,30 @@
 > 1222 ADc
 > [[Bande Aparte]] born.
 > .
+> 1228 ADc
+> [[Grokk]] born.
 > .
+> .
+> 1245 ADc
+> [[Gator Grippli]] born.
+>
 > 1246 ADc
-> Cantro born
+> [[Cantro]] born.
 > .
+> .
+> 1248 ADc
+> [[Kholek]] born.
+> .
+> 1249 ADc
+> [[Louen Leonceur]] born.
+> .
+> 1250 ADc
+> [[Cardinal Rackawn]] born.
+> [[Ergruff Ward]] born.
+> [[Kai]] born.
+> .
+> 1251 ADc
+> [[Magnus Strike]] born.
 > .
 > 1252 ADc
 > [[Ashur Holdok]] born.
@@ -38,6 +58,7 @@
 > .
 > 1273 ADc
 > [[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot.
+> [[Gen]] created.
 > .
 > 1274 ADc
 > [[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot.
