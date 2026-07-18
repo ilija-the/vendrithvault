@@ -91,17 +91,17 @@
 >Meets their fate: [[Gourdon]], [[Lieutenant]].
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] and [[Mon Qi]].
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]].
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc
->[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]], [[Tricky]], [[Nimbus]] and [[Rex Stormwind|Rex]].
+>[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]] (24), [[Tricky]], [[Nimbus]] and [[Rex Stormwind|Rex]].
 >[[Gen]] created.
 > 
 >1274 ADc
->[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]], [[Guy Beaumont|Guy]], [[Isla]] and [[Robyn]].
+>[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]] (54), [[Guy Beaumont|Guy]], [[Isla]] and [[Robyn]].
 >An [[Horizan Guild Association|HGA]] convoy arrives in [[Friedport]].
->[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]], [[Boney]], [[Ergruff Ward]] and [[Gen]].
+>[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]] (25), [[Boney]] (15), [[Ergruff Ward]] (23) and [[Gen]].
 >[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts, including [[Bande Aparte]], [[Gator Grippli]], [[Ashur Holdok]], [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Roslyn Chatkur]].
 >Meets their fate: [[Louen Leonceur]].
 > 
