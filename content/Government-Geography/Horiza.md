@@ -6,14 +6,19 @@ aliases:
   - Horizan Peninsula
   - New World
 ---
-Horiza, sometimes called the *New World*, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. Its enormity, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
+Horiza, sometimes called the *New World*, is a great mass of mostly unsettled land [[Discovery of Horiza|discovered]] beyond the [[World Fleece]] to the east of [[Iduria]]. It has since had its coastline settled by the [[Horizan Guild Association|Horizan Guild]]. These lands' enormity, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
-The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," to which Horiza has been compared. 
+The name Horiza is thought to derive from a story about the mythical island of Eve, which Horiza has been compared to, which frequently and poetically refers to "the Horizon" as if it was a character.
 
 ![[Pasted image 20260701213544.png]]
 *Other languages name these lands after its often blue and silvery viewscapes.*
 
-On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, Horiza is, besides its coastal waters, *so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.*  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
+On one hand, Horiza has been described as endlessly large and beautiful, with vibrant blue and silver colours to its waters, mountains and skies unlike anything anywhere else. On the other hand, Horiza is, besides its coastal waters, *so barren of (edible) life it sometimes causes a great feeling of unease, loneliness and even paranoia in its visitors.*  The plant-life of Horiza is namely uniquely lacking in nutrition, and is often poisonous or otherwise hostile. The wild-life too is both scarce, and unwelcoming. Much of its inland creatures (besides those imported from Iduria, which has happened in waves) have ways of blending in with the environment or otherwise tricking humans and remaining hidden. 
+
+A zoologist once said:
+> "Even if we account for "
+
+Horiza's coasts are seemingly an exception to most of these rules, containing some modicum of edible land foods (or the ability to plant them), and the ocean-life seems rather plentiful and normal.
 
 There's a saying about Horiza that's based of an old tale of a mythical island paradise - 
 > "Our stories of Eve told us we'd find a blessed horizon beyond the stormy seas. Yet all we got was a calm shore and a cursed horizon."
