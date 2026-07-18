@@ -1,1 +1,3 @@
-The lands
+The lands of Vendrith constitute one of its main parts, and is often what is referred to when the term Vendrith is even used. Other [[Cosmology of Vendrith|Planes]] of existence than [[Materia]] are often forgotten about, or intentionally excluded.
+
+>  In the folder structure of the vviki, the Lands folder contains all manner of locations in the material plane ranging from Continents, Regions, Areas, Settlements and specific landmarks of a natural or man-made variety, as well as the Polities that claim and administrate them. 
