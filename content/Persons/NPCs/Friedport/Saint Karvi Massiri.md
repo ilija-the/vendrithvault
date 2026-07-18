@@ -28,8 +28,8 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 ![[KarviAtRest.png]]
 
 
-# History
-## Early Life - Massiri Family
+# Life
+## Massiri Family
 ``Content Warning: Physical, familial abuse, implied suicide.``
 
 Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
@@ -55,9 +55,7 @@ When this was eventually revealed after a massacre of sanitationists (also in wh
 
 Karvi, now 15, made his way to a port town full of refugees he could hide amongst. Here he met Doctor [[Doctor Hallan Aerf]] treating the sickly and wounded refugees. Seeing a dead kholo girl on the operating table, a fervour took over Karvi as he used his knowledge of necromancy and golems to once again perform a 'resurrection.' The Doctor, impressed by the young prodigy, became acquainted with the teen and invited him on a special voyage across the seas to [[Horiza|Horiza]]. With nowhere else to go without being recognised, he accepted.
 
-
 ## Late childhood, becoming a Landcrab
-
 On his voyage from Singsong to Friedport, Karvi suffered malnutrition and Scurvy. As he was found out stealing oranges from the ship supplies by the [[Iron Brothers]], he was beaten into an inch of his life, losing most of his teeth.
 
 Arriving in Friedport bruised and sickly, Karvi was taken into the care of the [[Theatre Orphanage]] on the orders of [[Kiam Lockneed]]. Here, he would befriend [[The Prince]], [[Su Na]] and [[Etcetera]] - the former of which would also become an important figure to the Landcrabs. Having began to learn [[Arcane Magic|Arcane Spellcasting]] at last, with the help of Hallan he got his teeth replaced with ones containing arcane glyphs functioning like that of a spellbook. As the orphanage kicked him out as a late teen, Karvi had regained his health and confidence.
@@ -70,9 +68,7 @@ Becoming more and more engrained in Landcrab culture, at 25 years old Karvi Mass
 
 Following this incident, Karvi became personally acquainted with Ragnil Veldaks, and would frequently visit her manor. Some say it is as if he was adopted under the Veldaks family banner, whereas others believed they were romantically involved during this period.
 
-
 ## Spiritual and community leader
-
 Having earned the trust of many Landcrabs, Karvi would go on to take a community leader role, and even delve into being a spiritual leader. While titan-worship was taboo in the city, he formed a sort of religion-philosophy based around secular and saintly principles - much like that of early Landcrab religion centred on the [[Shrine to New Horizons]]. Seeking further freedom to express their developing traditions, however, Karvi headed a project to build a secret church underneath the wooden favellas of the city - the [[Driftwood Church]].
 
 ![[Scurvymaster_Reveal_Outfit_1.1.png]]
@@ -82,16 +78,13 @@ As father of the Driftwood Church, Karvi began to push more and more towards ide
 
 Karvi was known to keep a journal titled "Hypocrisy," in which he outlined every example of the titular phenomenon he experienced. Using this book, he categorised and taught about the alluring nature of not being sincere to one's thoughts and principles, and warned against losing one's truth. Some few instead saw this as a petty project, listing personal slights and designating people to be exiled from the movement or targeted once the Landcrabs took over.
 
-
 ## The Landcrab Plot and Death
-
 Seeking to finalise the brewing Landcrab Rebellion, Karvi participated in the [[Summer Games]]. Here, he lost to the [[Newcomers of Friedport]], but had still succeeded in inspiring his many followers in the city into finally realising the free landcrab city they'd envisioned. However, during these events, golems attacked en-masse from the depths of [[The Starfish]]. After many of the participants of the Summer Games had returned to Friedport to stop these events, including Karvi, he was never found again. Karvi Massiri was declared dead at age 42, and mourned in the aftermath by the Landcrab city, now finally undergoing reforms making the Landcrabs equal citizens to those of the Guild and Portaupearl.
 
 ![[Karvi_Krynn_Meister 1.png]]
 *Karvi soon before the Summer Games, after narrowly escaping pirates.*
 
 ---
-
 # Other Side of the Story - the Scurvymaster
  >[!important] Secrets ahead!
 > While anyone is free to read what's ahead, everything else in this article is privileged knowledge only known to a few specific people in the world of Vendrith. Take particular caution to not assume your character knows these things, or avoid it entirely if you're worried about keeping your own and your characters' knowledge separate!

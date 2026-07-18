@@ -11,7 +11,9 @@ Status: Alive
 pronouns: He/Him
 player: Niko
 ---
-Bande Aparte is a scruffy [[Hobgoblins|hobgoblin]] soldier and [[Investigator|investigator]] dedicated to [[Daydreaming Truth|Truth]]. Born somewhere in rural [[Canath]] 1222 ADc, Bande Aparte became a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]]. There he made a name for himself by earning a victory, even if the operation was a failure, in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  He also played a role in the [[March of the Roses]] which took advantage of [[Espionage Crisis|leaked intel from Mogxa]] to destroy a covert Sanitationist camp and capture the infamous sanitationist [[Chaucer]].
+Bande Aparte is a scruffy [[Hobgoblins|hobgoblin]] soldier and [[Investigator|investigator]] dedicated to [[Daydreaming Truth|Truth]]. Born somewhere in rural [[Canath]] 1222 ADc, Bande Aparte became a commander in the [[Crusaders|Crusader Army]] of [[General Architrave]]. Being at the right place at the right time, he was called in to serve in the rapid [[March of the Roses]], which took advantage of [[Espionage Crisis|leaked intel from Mogxa]] to destroy a covert Sanitationist camp and capture the infamous sanitationist [[Chaucer]]. Having earned a name for himself here, he went on to serve in the [[March of the Corpse Flowers]] and managed to eek out a victory in the 
+
+by earning a victory, even if the operation was a failure, in the difficult siege of [[Galaekor]] as part of the [[March of the Corpse Flowers]].  He also played a role in the [[March of the Roses]] 
 
 Despite his efficacy, Bande Aparte was committed to his men and attempting to fight justly, and never rose far in the ranks. After getting too close to the truth of his own [[General Architrave]]'s corruption, he was almost killed in a staged ambush. Believed his closest comrade in arms [[Lykas]] had actually been killed for it, and that the rest of his men were in danger because of him, Bande Aparte disappeared himself.
 
