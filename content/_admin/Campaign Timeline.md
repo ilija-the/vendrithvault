@@ -78,8 +78,8 @@
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
 > 
 >1266 ADc
->[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]], [[Andia]], [[Nduwa]], [[Sydney Rascal|Sydney]] and [[Twist]].
->[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]], [[Valeira|Val]], [[Shzorzy]], and [[Beirgit]]; and possibly [[Grokk]], [[Treyl D'Jzari]] and [[Ashe]].
+>[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (x), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
+>[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]] (1), [[Valeira|Val]] (20), [[Shzorzy]] (67), and [[Beirgit]]; and possibly [[Grokk]], [[Treyl D'Jzari]] and [[Ashe]].
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
 >
@@ -87,23 +87,23 @@
 >==[[Campaigns#Winters of Vön - A Land out of Time|Winters of Vön]] campaign?==
 > 
 >1272 ADc
->[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[Ergruff Ward]] (22), and [[Wick]] (200).
->Meets their fate: [[Gourdon]], [[Lieutenant]].
+>[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]] (x), [[Lieutenant]] (x), [[Ergruff Ward]] (22), and [[Wick]] (200).
+>Meets their fate: [[Gourdon]] (x), [[Lieutenant]] (x).
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]].
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]] (x)
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc
->[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]] (24), [[Tricky]], [[Nimbus]] and [[Rex Stormwind|Rex]].
+>[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]] (24), [[Tricky]] (x), [[Nimbus]] (x) and [[Rex Stormwind|Rex]](x).
 >[[Gen]] created.
 > 
 >1274 ADc
->[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]] (54), [[Guy Beaumont|Guy]], [[Isla]] and [[Robyn]].
+>[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]] (54), [[Guy Beaumont|Guy]] (x), [[Isla]] (x) and [[Robyn]](x).
 >An [[Horizan Guild Association|HGA]] convoy arrives in [[Friedport]].
->[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]] (25), [[Boney]] (15), [[Ergruff Ward]] (23) and [[Gen]].
->[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts, including [[Bande Aparte]], [[Gator Grippli]], [[Ashur Holdok]], [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Roslyn Chatkur]].
->Meets their fate: [[Louen Leonceur]].
+>[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]] (25), [[Boney]] (15), [[Ergruff Ward]] (23), [[Pike]] (21) and [[Gen]] (1).
+>[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts, including [[Bande Aparte]] (52), [[Gator Grippli]] (29), [[Ashur Holdok]] (22), [[Louen Leonceur]] (25), [[Sebastian Faust]] (x), [[Cardinal Rackawn]] (24), [[Magnus Strike]] (23) and [[Roslyn Chatkur]] (26).
+>Meets their fate: [[Louen Leonceur]] (25).
 > 
 >1275 ADc
 >The Landcrab Plot campaign ends.
