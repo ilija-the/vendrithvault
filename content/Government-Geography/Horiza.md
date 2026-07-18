@@ -8,7 +8,7 @@ aliases:
 ---
 Horiza, sometimes called the *New World*, is a great mass of mostly unsettled land found beyond the [[World Fleece]] to the east of [[Iduria]], as part of the [[Discovery of Horiza]]. Its enormity, unique features and sudden discovery has made it an object of exceptional fascination and speculation, and for some, reverence.
 
-The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," with which Horiza has been compared. 
+The name Horiza is thought to derive from a story about the mythical island of Eve which frequently refers to "the Horizon," to which Horiza has been compared. 
 
 ![[Pasted image 20260701213544.png]]
 *Other languages name these lands after its often blue and silvery viewscapes.*
