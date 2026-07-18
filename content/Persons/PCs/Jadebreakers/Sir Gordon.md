@@ -7,6 +7,9 @@ tags:
   - ancestries/automaton
   - people/pc
 player: Morgan
+Status: Alive
+Birth: Unknown
+pronouns: He/Him
 ---
 > [!important] Similar names warning!
 > Not to be confused with [[Gourdon]] of the Fools of Veridica, with whom Sir Gordon has no relation.
