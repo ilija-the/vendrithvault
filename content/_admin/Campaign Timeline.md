@@ -60,8 +60,8 @@
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
+>
 >Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
->[[Campaigns#Galaen Wilds|Galaen Wilds]] 
 > 
 >1253 ADc
 >[[Pike]] born.
