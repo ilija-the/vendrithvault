@@ -87,11 +87,11 @@
 >==[[Campaigns#Winters of Vön - A Land out of Time|Winters of Vön]] campaign?==
 > 
 >1272 ADc
->[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[Ergruff Ward]], and [[Wick]].
+>[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[Ergruff Ward]] (22), and [[Wick]] (200).
 >Meets their fate: [[Gourdon]], [[Lieutenant]].
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]], [[Cantro]], [[Kai]], [[Minky]], [[Valentine Volmari|Valentine]] and [[Mon Qi]].
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] and [[Mon Qi]].
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc
