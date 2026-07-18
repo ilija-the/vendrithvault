@@ -16,3 +16,7 @@ Ashur met his end to an agent of the [[Ocean King]] in the city, but was eventua
 With the Newcomers, Ashur would eventually go on to save the city from the [[Landcrab Plot|Landcrab Plot]]. In the process, he won the [[Summer Games]] and earned the title [[Herō of Friedport]], as well as enough prestige to push for government reform (ending the tripartite system) and to start up a successful tinkershop.
 
 Ashur was gifted a metal jaguar-like construct companion named [[Jacques]] by his father, which he has since maintained, and Ashur himself invented his flying metal owl named [[Volaire]].
+
+![[Lizard_ashur.webp]]
+
+![[Lizard_ashur_alt.webp]]
