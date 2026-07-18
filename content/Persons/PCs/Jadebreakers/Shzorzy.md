@@ -18,7 +18,6 @@ A [[Kashrishi]] of [[Philosophia]] that is either an intelligent tinkerer or a p
 
 Shzorzy was once imprisoned on [[Backbreaker Island]], supposedly over causing the riots that ended up as the [[Shadeview Massacre]] with his inflammatory writings and speech.
 
-
 ---
 ###### Notes
 <small>Shorsh was listed as 201 years old but I don't think exceptionally long lifespans are a thing in Vendrith. Being middle aged at age 67 as an elephant-type person should suffice -ilija </small>

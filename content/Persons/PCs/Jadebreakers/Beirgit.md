@@ -8,7 +8,7 @@ tags:
   - ancestries/goblin
   - campaigns/circles-retraced
   - society/bmdfireworks
-pronouns: Any?
+pronouns: Any/All
 Status: Alive
 player: Geeps
 Birth: 1220 ADc
