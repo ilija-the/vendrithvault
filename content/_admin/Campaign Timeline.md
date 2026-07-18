@@ -96,9 +96,9 @@
 >[[Gen]] created.
 > 
 >1274 ADc
->[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot.
+>[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]], [[Guy Beaumont|Guy]], [[Isla]] and [[Robyn]].
 >An [[Horizan Guild Association|HGA]] convoy arrives in [[Friedport]].
->[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot.
+>[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]],
 >[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts.
 > 
 >1275 ADc
