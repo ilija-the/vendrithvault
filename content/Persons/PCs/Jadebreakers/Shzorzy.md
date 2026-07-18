@@ -11,6 +11,7 @@ player: Niko
 pronouns: He/Him
 Status: Unknown
 Birth:
+height: 7'11 /
 ---
 A [[Kashrishi]] of [[Philosophia]] that is either an intelligent tinkerer or a prisoner misfit, depending on who you hear it from. Known to have been perhaps the most infamous member of  the [[Jadebreakers]], with prominent scars and terrifying self-crafted weapons.
 
