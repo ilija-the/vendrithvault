@@ -1,7 +1,7 @@
 > [!tip] Reading Music
 > https://zachtronics.bandcamp.com/track/transmutation-engine
 
-Alchemy is a fundamental block of the universe, specifically relating to the material interactions, though also encompassing how materials can interact with otherwise [[magic|magical]] elements.
+Alchemy is a fundamental block of the universe, specifically relating to the material interactions, though also encompassing how materials can interact with otherwise [[Magic|magical]] elements.
 
 Alchemy is generally understood in three categories: the elemental, the metallic, and the enchanted. While there is an expectation of any [[Alchemist]] being proficient in all of them, their overlap consists mostly in the fundamentals. Ultimately herbalists will specialize in the elemental, engineers will specialize in the metallic, mystics will specialize in the enchanted, and the like.
 

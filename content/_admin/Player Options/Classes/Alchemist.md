@@ -2,7 +2,7 @@
 > The mechanical text for the Alchemist class can be found [here on Archives of Nethys](https://2e.aonprd.com/Classes.aspx?ID=56&Redirected=1). 
 > The text below is the description of the role and status of a certified Alchemist.
 
-A professional Alchemist is a highly-educated master of [[alchemy]], the art of combining elements and substances to create new items. Often hired alongside professional [[Wizard|Wizards]] (if not also Wizards themselves), they support many noble houses, or at least ones who are able to afford such highly qualified personal assistants.
+A professional Alchemist is a highly-educated master of [[Alchemy]], the art of combining elements and substances to create new items. Often hired alongside professional [[Wizard|Wizards]] (if not also Wizards themselves), they support many noble houses, or at least ones who are able to afford such highly qualified personal assistants.
 
 The role of a hired alchemist is often to aid with creation of any medicaments for the house members, as well as repairing and restoring old constructs. As such, trained alchemists are trained in a wide variety of magical, medicinal, and mechanical disciplines to fulfill their role.
 

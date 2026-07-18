@@ -9,7 +9,6 @@ Campaigns are the many stories of games that have taken place in Vendrith. Some 
 > 🎵[Theme of Preparing for a new Campaign](https://youtu.be/p7KFYl8slq8), [Theme of Scheming](https://zachtronics.bandcamp.com/track/de-re-metallica)
 
 # List of Campaigns
-
 ## Ongoing Campaigns
 
 Here is an overview of all campaigns currently being ran in Vendrith, or which are planned to be ran very soon.
