@@ -70,16 +70,17 @@
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
 > 
 >1258 ADc
->[[Boney]] born.
+>[[Boney]] born. 
 > 
->1263 ADc.
+>1263 ADc
+>[[Wereforged]] project begins.
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
 > 
 >1266 ADc
 >[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot.
 >[[Campaigns#Jadebreakers Circles|Circles]] campaign.
->[[Jade the Just]]'s direct rule of [[Philosophia]] ends.
->The [[Wereforged]] programme is unravelled.
+>[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
+>The wereforged programme unravels.
 > 
 >1272 ADc
 >[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot.
