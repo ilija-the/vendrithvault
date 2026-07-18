@@ -67,6 +67,7 @@
 > 
 >1255 ADc
 >[[Sheppie]] born.
+>Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
 > 
 >1258 ADc
 >[[Boney]] born.
