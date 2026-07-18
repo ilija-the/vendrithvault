@@ -83,15 +83,16 @@
 >The wereforged programme unravels.
 > 
 >1272 ADc
->[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[W]]
+>[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[Ergruff Ward]], and [[Wick]].
 >Meets their fate: [[Gourdon]], [[Lieutenant]].
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign.
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]], [[Cantro]], [[Kai]], [[Minky]], [[Valentine Volmari|Valentine]] and [[Mon Qi]].
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc
->[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot.
+>[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]], [[Tricky]], [[Nimbus]] and [[Rex Stormwind|Rex]].
+>
 >[[Gen]] created.
 > 
 >1274 ADc
