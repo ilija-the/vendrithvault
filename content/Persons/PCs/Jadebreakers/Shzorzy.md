@@ -9,6 +9,6 @@ aliases:
   - Shorshy
 player: Niko
 ---
-A kashrishi (unconfirmed) of [[Philosophia]] that is either an intelligent tinkerer or a prisoner misfit, depending on who you hear it from. Known to have been perhaps the most infamous member of  the [[Jadebreakers]]. 
+A [[Kashrishi]] of [[Philosophia]] that is either an intelligent tinkerer or a prisoner misfit, depending on who you hear it from. Known to have been perhaps the most infamous member of  the [[Jadebreakers]], with prominent scars and terrifying self-crafted weapons.
 
-Shzorzy was once imprisoned on [[Backbreaker Island]], supposedly over causing the riots that ended as the [[Shadeview Massacre]] with his inflammatory writing and/or speech.
+Shzorzy was once imprisoned on [[Backbreaker Island]], supposedly over causing the riots that ended up as the [[Shadeview Massacre]] with his inflammatory writings and speech.

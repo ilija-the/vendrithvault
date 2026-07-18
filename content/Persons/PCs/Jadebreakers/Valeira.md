@@ -8,7 +8,7 @@ aliases:
   - Valaira
 player: Donna
 Birth: 1246 ADc
-height: 5'6" / 156 cm
+height: 5'6" / 167 cm
 Status: Alive
 pronouns: She/Her
 weight: 127 lbs / 57.6 kg
