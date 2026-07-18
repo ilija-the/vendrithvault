@@ -46,7 +46,8 @@
 >1249 ADc
 >[[Louen Leonceur]] born.
 >[[Minky]] born.
->The [[Espionage Crisis]] lea
+>The [[Espionage Crisis]] leads to the [[March of the Roses]].
+>Bande Aparte makes a name for himself helping capture [[Chaucer]].
 > 
 >1250 ADc
 >[[Cardinal Rackawn]] born.
@@ -59,7 +60,7 @@
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
->Bande Aparte leads in the [[March of the Corpse Flowers]].
+>Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
 > 
 >1253 ADc
 >[[Pike]] born.
@@ -82,6 +83,7 @@
 >1272 ADc
 >[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot.
 >The cult town of [[Veridica]] disappears.
+>The once-captured [[Chaucer]] goes missing, either dead or in hiding.
 >[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign.
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
