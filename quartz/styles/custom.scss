@@ -716,30 +716,47 @@ img[alt~=border],
 	display: flow-root;
 }
 
-/* Timeline Callout settings (Quartz-friendly variables + fallbacks) */
+/* Timeline Callout settings (Quartz + your theme colors) */
 .callout.timeline {
-	--timeline-title-color: var(--text-normal, #eaeaea);
-	--timeline-title-size: var(--h2-size, 1.25rem);
 	--timeline-title-width: 150px;
 
-	--timeline-line-color: var(--color-base-35, var(--text-muted, rgba(255, 255, 255, 0.25)));
+	/* Titles: use theme grays with sensible fallbacks */
+	--timeline-title-color: var(--text-normal, var(--colors-darkgray, #4e4e4e));
+
+	/* Quartz typically exposes these in different ways depending on theme.
+     We use fallbacks that still work. */
+	--timeline-title-size: var(--h2-size, 1.25rem);
+
+	--timeline-line-color: var(--color-base-35,
+			var(--text-muted, rgba(184, 184, 184, 0.6)));
 	--timeline-line-margin: 16px;
 	--timeline-line-width: 4px;
 	--timeline-line-style: solid;
 
-	--timeline-dot-color: var(--color-base-70, var(--text-normal, #eaeaea));
 	--timeline-dot-size: 32px;
 	--timeline-dot-radius: 100%;
-	--timeline-dot-border-color: var(--background-primary, rgba(0, 0, 0, 0.35));
+
+	/* Default dot color: match your "secondary" */
+	--timeline-dot-color: var(--color-base-70, var(--colors-secondary, #284b63));
+
 	--timeline-dot-border-size: 6px;
+
+	/* Dot border: use card/bg separation */
+	--timeline-dot-border-color: var(--background-primary,
+			var(--colors-light, #faf8f8));
+
 	--timeline-dot-offset-x: -18px;
 	--timeline-dot-offset-y: -2px;
 
 	--timeline-card-margin: 16px;
-	--timeline-card-background-color: var(--color-base-30,
-			var(--background-secondary, rgba(255, 255, 255, 0.08)));
 	--timeline-card-padding-x: 10px;
 	--timeline-card-padding-y: 16px;
+
+	/* Card background: translucent highlight for both modes */
+	--timeline-card-background-color: var(--background-secondary,
+			var(--colors-highlight, rgba(143, 159, 169, 0.15)));
+
+	/* If your theme uses different variable names, this still keeps it readable */
 }
 
 /* Timeline styling */
@@ -760,16 +777,19 @@ img[alt~=border],
 .callout.timeline .callout-title-inner {
 	width: 100%;
 	text-align: right;
-	color: var(--timeline-title-color, #eaeaea);
+	color: var(--timeline-title-color, #4e4e4e);
 	font-size: var(--timeline-title-size, 1.25rem);
 	margin-top: var(--dot-offset);
 }
 
-/* Left line + dot */
+/* Line + icon container */
 .callout.timeline .callout-icon {
 	order: 2;
 	margin-inline: var(--timeline-line-margin, 16px);
-	border-left: var(--timeline-line-width, 4px) var(--timeline-line-style, solid) var(--timeline-line-color, rgba(255, 255, 255, 0.25));
+
+	border-left: var(--timeline-line-width, 4px) var(--timeline-line-style, solid) var(--timeline-line-color,
+			rgba(184, 184, 184, 0.6));
+
 	height: 100%;
 	position: relative;
 }
@@ -779,12 +799,12 @@ img[alt~=border],
 	content: "";
 	box-sizing: border-box;
 
-	background-color: var(--timeline-dot-color, #eaeaea);
 	position: absolute;
 
-	border: var(--timeline-dot-border-size, 6px) solid var(--timeline-dot-border-color, rgba(0, 0, 0, 0.35));
-	border-radius: var(--timeline-dot-radius, 100%);
+	background-color: var(--timeline-dot-color, #284b63);
+	border: var(--timeline-dot-border-size, 6px) solid var(--timeline-dot-border-color, #faf8f8);
 
+	border-radius: var(--timeline-dot-radius, 100%);
 	width: var(--timeline-dot-size, 32px);
 	height: var(--timeline-dot-size, 32px);
 
@@ -802,7 +822,9 @@ img[alt~=border],
 	order: 3;
 	--p-spacing: 0.5rem;
 
-	background-color: var(--timeline-card-background-color, rgba(255, 255, 255, 0.08));
+	background-color: var(--timeline-card-background-color,
+			rgba(143, 159, 169, 0.15));
+
 	border-radius: 1rem;
 
 	margin-bottom: var(--timeline-card-margin, 16px);
@@ -823,43 +845,36 @@ div:has(> [data-callout="timeline"])+div:not(> [data-callout="timeline"]) {
 	margin-bottom: 1rem;
 }
 
-/* Timeline dot colors (Quartz will still accept these) */
-.callout.timeline[data-callout-metadata="red"],
-[data-callout-metadata="red"] {
-	--timeline-dot-color: var(--color-red, #ff4d4d);
+/* Metadata dot overrides (keep your design, but different accents) */
+.callout.timeline[data-callout-metadata="red"] {
+	--timeline-dot-color: #d64545;
 }
 
-.callout.timeline[data-callout-metadata="orange"],
-[data-callout-metadata="orange"] {
-	--timeline-dot-color: var(--color-orange, #ff9800);
+.callout.timeline[data-callout-metadata="orange"] {
+	--timeline-dot-color: #d97706;
 }
 
-.callout.timeline[data-callout-metadata="yellow"],
-[data-callout-metadata="yellow"] {
-	--timeline-dot-color: var(--color-yellow, #ffeb3b);
+.callout.timeline[data-callout-metadata="yellow"] {
+	--timeline-dot-color: #b08900;
 }
 
-.callout.timeline[data-callout-metadata="green"],
-[data-callout-metadata="green"] {
-	--timeline-dot-color: var(--color-green, #4caf50);
+.callout.timeline[data-callout-metadata="green"] {
+	--timeline-dot-color: #2f7d5a;
 }
 
-.callout.timeline[data-callout-metadata="cyan"],
-[data-callout-metadata="cyan"] {
-	--timeline-dot-color: var(--color-cyan, #00bcd4);
+.callout.timeline[data-callout-metadata="cyan"] {
+	--timeline-dot-color: #0ea5a4;
 }
 
 .callout.timeline[data-callout-metadata="blue"],
-[data-callout-metadata="blue"] {
-	--timeline-dot-color: var(--color-blue, #2196f3);
+.callout.timeline[data-callout-metadata="blue"] {
+	--timeline-dot-color: var(--colors-secondary, #284b63);
 }
 
-.callout.timeline[data-callout-metadata="purple"],
-[data-callout-metadata="purple"] {
-	--timeline-dot-color: var(--color-purple, #9c27b0);
+.callout.timeline[data-callout-metadata="purple"] {
+	--timeline-dot-color: #6d28d9;
 }
 
-.callout.timeline[data-callout-metadata="pink"],
-[data-callout-metadata="pink"] {
-	--timeline-dot-color: var(--color-pink, #e91e63);
+.callout.timeline[data-callout-metadata="pink"] {
+	--timeline-dot-color: #db2777;
 }
