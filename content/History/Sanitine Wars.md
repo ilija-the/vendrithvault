@@ -1,6 +1,10 @@
 ---
 tags:
   - events
+  - places/mogxa
+  - society/sanitationist
+aliases:
+  - Sanitorium Wars
 ---
 After the [[Sanitorium]] was proclaimed and the [[Western Kobold Dynasty|Kobold Emperor]] abdicated, a number of provinces, tribes and governors refused to serve or recognise the Sanitorium's new rule over [[Mogxa]]. As a result, the Sanitorium led a number of wars and conflicts in order to reunify what the empire previously held. It was due to the exhaustion of the troops that just fought the [[War Over Haeven]] and the possible fragmentation of the young regime that it was mostly fought at a small scale, often including routs and temporary cease-fires, and it made high use of [[Mercenaries]] and [[Adventurers]]. The war took on a step-by-step approach, and eventually did succeed in claiming what the former empire held.
 
