@@ -1,67 +1,67 @@
 > [!timeline|blue] Campaign Timeline
-> 1072 ADc
-> [[Wick]] born.
-> 
-> 1199 ADc
-> [[Shzorzy]] born.
-> 
-> 1219 ADc
-> [[Petunia Beaumont]] born.
-> 
-> 1220 ADc
-> [[Beirgit]] born.
-> 
-> 1222 ADc
-> [[Bande Aparte]] born.
-> 
-> 1228 ADc
-> [[Grokk]] born.
-> 
-> 1231 ADc
-> [[Treyl D'Jzari]] born.
-> 
-> 1232 ADc
-> [[Nduwa]] born.
-> 
-> 1233 ADc
-> [[Punk Weight]] born.
-> 
-> 1237 ADc
-> [[Valentine Volmari]] born?
-> 
-> 1245 ADc
-> [[Gator Grippli]] (and possibly [[Schnappi]]) born.
+>1072 ADc
+>[[Wick]] born.
 >
-> 1246 ADc
-> [[Cantro]] born.
-> [[Valeira]] born.
+>1199 ADc
+>[[Shzorzy]] born.
 > 
-> 1248 ADc
-> [[Kholek]] born.
-> [[Roslyn Chatkur]] born.
+>1219 ADc
+>[[Petunia Beaumont]] born.
 > 
-> 1249 ADc
-> [[Louen Leonceur]] born.
-> [[Minky]] born.
+>1220 ADc
+>[[Beirgit]] born.
 > 
-> 1250 ADc
-> [[Cardinal Rackawn]] born.
-> [[Ergruff Ward]] born.
-> [[Kai]] born.
+>1222 ADc
+>[[Bande Aparte]] born.
 > 
-> 1251 ADc
-> [[Magnus Strike]] born.
-> [[Twist]] incarnated.
+>1228 ADc
+>[[Grokk]] born.
 > 
-> 1252 ADc
-> [[Ashur Holdok]] born.
-> Bande Aparte leads in the [[March of the Corpse Flowers]].
+>1231 ADc
+>[[Treyl D'Jzari]] born.
 > 
-> 1253 ADc
-> [[Pike]] born.
+>1232 ADc
+>[[Nduwa]] born.
+>
+>1233 ADc
+>[[Punk Weight]] born.
+>
+>1237 ADc
+>[[Valentine Volmari]] born?
 > 
-> 1255 ADc
-> [[Sheppie]] born.
+>1245 ADc
+>[[Gator Grippli]] (and possibly [[Schnappi]]) born.
+>
+>1246 ADc
+>[[Cantro]] born.
+>[[Valeira]] born.
+> 
+>1248 ADc
+>[[Kholek]] born.
+>[[Roslyn Chatkur]] born.
+> 
+>1249 ADc
+>[[Louen Leonceur]] born.
+>[[Minky]] born.
+> 
+>1250 ADc
+>[[Cardinal Rackawn]] born.
+>[[Ergruff Ward]] born.
+>[[Kai]] born.
+> 
+>1251 ADc
+>[[Magnus Strike]] born.
+>[[Twist]] incarnated.
+> 
+>1252 ADc
+>[[Ashur Holdok]] born.
+>Bande Aparte leads in the [[March of the Corpse Flowers]].
+> 
+>1253 ADc
+>[[Pike]] born.
+> 
+>1255 ADc
+>[[Sheppie]] born.
 > 
 > 1258 ADc
 > [[Boney]] born.
