@@ -10,8 +10,8 @@ player: Morgan
 Status: Alive
 Birth: 1263 ADc
 pronouns: He/Him
-height: 6'3"
-weight: 290 lbs
+height: 6'3" / 190.5 cm
+weight: 290 lbs / 131.5 kg
 ---
 > [!important] Similar names warning!
 > Not to be confused with [[Gourdon]] of the Fools of Veridica, with whom Sir Gordon has no relation.
