@@ -84,6 +84,7 @@
 > 
 >1272 ADc
 >[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot.
+>Meets their fate: [[Gourdon]], [[Lieutenant]].
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
 >[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign.
