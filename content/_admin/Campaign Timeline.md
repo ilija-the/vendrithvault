@@ -2,6 +2,9 @@
 >1072 ADc
 >[[Wick]] born.
 >
+>1086 ADc
+>[[Wick]] meets their fate but becomes [[Undead]].
+>
 >1193 ADc
 >[[War Over Haeven]] concludes and the Age of the [[The Great Silence|Great Silence]] begins.
 >
@@ -79,7 +82,7 @@
 > 
 >1266 ADc
 >[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (x), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
->[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]] (1), [[Valeira|Val]] (20), [[Shzorzy]] (67), and [[Beirgit]]; and possibly [[Grokk]], [[Treyl D'Jzari]] and [[Ashe]].
+>[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]] (1), [[Valeira|Val]] (20), [[Shzorzy]] (67), and [[Beirgit]] (46); and possibly [[Grokk]] (38), [[Treyl D'Jzari]] (x) and [[Ashe]] (x).
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
 >
