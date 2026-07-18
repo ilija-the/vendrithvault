@@ -5,9 +5,9 @@
 > 
 > 333 ADc
 > The Trimillennial Revolution takes place, [[Eastern Kobold Dynasty]] is born.
-> .
+> 
 > 769
-> [[Res
+> The Great Conqueror [[Resting Crown|Idur]] conquers [[Mogxa]] from the Eastern Kobold Dynasty, forming the first realm spanning from [[Canath]] to it.
 > 
 > 796 ADc
 > [[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
