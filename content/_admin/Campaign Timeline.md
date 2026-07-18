@@ -77,13 +77,13 @@
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
 > 
 >1266 ADc
->[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot
->[[Campaigns#Jadebreakers Circles|Circles]] campaign.
+>[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]], [[Andia]], [[Nduwa]], [[Sydney Rascal|Sydney]] and [[Twist]].
+>[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]], [[Valeira|Val]], [[Shzorzy]], and [[Beirgit]]; and possibly [[Grokk]], [[Treyl D'Jzari]] and [[Ashe]].
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
 > 
 >1272 ADc
->[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot.
+>[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[W]]
 >Meets their fate: [[Gourdon]], [[Lieutenant]].
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
