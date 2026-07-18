@@ -61,6 +61,7 @@
 >1252 ADc
 >[[Ashur Holdok]] born.
 >Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
+>[[Campaigns#Galaen Wilds]]
 > 
 >1253 ADc
 >[[Pike]] born.
@@ -92,15 +93,16 @@
 > 
 >1273 ADc
 >[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]], [[Tricky]], [[Nimbus]] and [[Rex Stormwind|Rex]].
->
 >[[Gen]] created.
 > 
 >1274 ADc
 >[[Campaigns#Dawnseekers Forgotten Dawn - Underbelly of Rraka|Forgotten Dawn Rraka]] oneshot, including [[Petunia Beaumont|Petunia]], [[Guy Beaumont|Guy]], [[Isla]] and [[Robyn]].
 >An [[Horizan Guild Association|HGA]] convoy arrives in [[Friedport]].
->[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]],
->[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts.
+>[[Campaigns#Welcoming Party Welcome to Friedport|Welcome to Friedport]] oneshot, including [[Kholek]], [[Boney]], [[Ergruff Ward]] and [[Gen]].
+>[[Campaigns#Newcomers of Friedport The Landcrab Plot|The Landcrab Plot]] campaign starts, including [[Bande Aparte]], [[Gator Grippli]], [[Ashur Holdok]], [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Roslyn Chatkur]].
+>Meets their fate: [[Louen Leonceur]].
 > 
 >1275 ADc
 >The Landcrab Plot campaign ends.
+>Meets their fate: [[Suite Feul]].
 
