@@ -5,13 +5,13 @@ tags:
   - important
 aliases:
   - Cosmology
-  - Cosmologial
   - cosmological
   - universe
   - Planes
   - Plane
   - plane
   - plane of Vendrith
+  - Cosmological
 ---
 Related to [[Mythos of Vendrith]]
 
