@@ -1,9 +1,9 @@
-> [!timeline|blue] Timeline Title
-> Title
-> Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
+> [!timeline|blue] Campaign Timeline
+> 1199 ADc
+> [[Shzorzy]] born.
 > 
-> Holy Crap
-> Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
+> 1222 ADc
+> [[Bande Aparte]] born.
 > 
-> It just goes on
+> [[Campaigns#Circl]]
 > Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
