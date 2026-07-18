@@ -77,7 +77,7 @@
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
 > 
 >1266 ADc
->[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot.
+>[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot
 >[[Campaigns#Jadebreakers Circles|Circles]] campaign.
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
