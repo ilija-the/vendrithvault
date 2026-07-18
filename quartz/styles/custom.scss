@@ -716,150 +716,131 @@ img[alt~=border],
 	display: flow-root;
 }
 
-/* Timeline Callout settings (Quartz-friendly variables + fallbacks) */
-.callout.timeline {
-	--timeline-title-color: var(--text-normal, #eaeaea);
-	--timeline-title-size: var(--h2-size, 1.25rem);
+/*
+source: https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md
+*/
+
+/* Timeline Callout settings */
+body {
+	--timeline-title-color: var(--text-normal);
+	--timeline-title-size: var(--h2-size);
 	--timeline-title-width: 150px;
 
-	--timeline-line-color: var(--color-base-35, var(--text-muted, rgba(255, 255, 255, 0.25)));
+	--timeline-line-color: var(--color-base-35);
 	--timeline-line-margin: 16px;
 	--timeline-line-width: 4px;
 	--timeline-line-style: solid;
 
-	--timeline-dot-color: var(--color-base-70, var(--text-normal, #eaeaea));
+	--timeline-dot-color: var(--color-base-70);
 	--timeline-dot-size: 32px;
 	--timeline-dot-radius: 100%;
-	--timeline-dot-border-color: var(--background-primary, rgba(0, 0, 0, 0.35));
+	--timeline-dot-border-color: var(--background-primary);
 	--timeline-dot-border-size: 6px;
 	--timeline-dot-offset-x: -18px;
 	--timeline-dot-offset-y: -2px;
 
 	--timeline-card-margin: 16px;
-	--timeline-card-background-color: var(--color-base-30,
-			var(--background-secondary, rgba(255, 255, 255, 0.08)));
+	--timeline-card-background-color: var(--color-base-30);
 	--timeline-card-padding-x: 10px;
 	--timeline-card-padding-y: 16px;
 }
 
 /* Timeline styling */
-.callout.timeline[data-callout="timeline"] {
+[data-callout="timeline"] {
 	order: 1;
 	padding: 0;
 	margin: 0;
 	display: grid;
 	mix-blend-mode: normal;
 	background-color: unset;
-
 	grid-template-columns: var(--timeline-title-width, 150px) auto;
-
 	--dot-offset: calc(var(--timeline-dot-offset-y) + var(--timeline-card-padding-y));
-}
 
-/* Title inner */
-.callout.timeline .callout-title-inner {
-	width: 100%;
-	text-align: right;
-	color: var(--timeline-title-color, #eaeaea);
-	font-size: var(--timeline-title-size, 1.25rem);
-	margin-top: var(--dot-offset);
-}
+	.callout-title-inner {
+		width: 100%;
+		text-align: right;
+		color: var(--timeline-title-color);
+		font-size: var(--timeline-title-size);
+		margin-top: var(--dot-offset);
+	}
 
-/* Left line + dot */
-.callout.timeline .callout-icon {
-	order: 2;
-	margin-inline: var(--timeline-line-margin, 16px);
-	border-left: var(--timeline-line-width, 4px) var(--timeline-line-style, solid) var(--timeline-line-color, rgba(255, 255, 255, 0.25));
-	height: 100%;
-	position: relative;
-}
+	.callout-icon {
+		order: 2;
+		margin-inline: var(--timeline-line-margin);
+		border-left: var(--timeline-line-width) var(--timeline-line-style) var(--timeline-line-color);
+		height: 100%;
+		position: relative;
 
-/* Dot */
-.callout.timeline .callout-icon::after {
-	content: "";
-	box-sizing: border-box;
+		&::after {
+			content: "";
+			box-sizing: border-box;
+			background-color: var(--timeline-dot-color);
+			position: absolute;
+			border: var(--timeline-dot-border-size) solid var(--timeline-dot-border-color);
+			border-radius: var(--timeline-dot-radius);
+			width: var(--timeline-dot-size);
+			height: var(--timeline-dot-size);
+			top: var(--dot-offset);
+			left: var(--timeline-dot-offset-x);
+		}
+	}
 
-	background-color: var(--timeline-dot-color, #eaeaea);
-	position: absolute;
+	.svg-icon {
+		display: none;
+	}
 
-	border: var(--timeline-dot-border-size, 6px) solid var(--timeline-dot-border-color, rgba(0, 0, 0, 0.35));
-	border-radius: var(--timeline-dot-radius, 100%);
+	.callout-content {
+		order: 3;
+		--p-spacing: 0.5rem;
+		background-color: var(--timeline-card-background-color);
+		border-radius: 1rem;
+		margin-bottom: var(--timeline-card-margin);
+		padding: var(--timeline-card-padding-x) var(--timeline-card-padding-y);
 
-	width: var(--timeline-dot-size, 32px);
-	height: var(--timeline-dot-size, 32px);
-
-	top: var(--dot-offset);
-	left: var(--timeline-dot-offset-x, -18px);
-}
-
-/* Quartz may render SVG icons; hide if present */
-.callout.timeline .svg-icon {
-	display: none;
-}
-
-/* Content card */
-.callout.timeline .callout-content {
-	order: 3;
-	--p-spacing: 0.5rem;
-
-	background-color: var(--timeline-card-background-color, rgba(255, 255, 255, 0.08));
-	border-radius: 1rem;
-
-	margin-bottom: var(--timeline-card-margin, 16px);
-	padding: var(--timeline-card-padding-x, 10px) var(--timeline-card-padding-y, 16px);
-}
-
-/* First heading spacing */
-.callout.timeline .callout-content>h2:first-child {
-	margin-top: 0;
+		&>h2:first-child {
+			margin-top: 0;
+		}
+	}
 }
 
 /* Stacking multiple timelines */
 div:not(:has(> [data-callout="timeline"]))+div>[data-callout="timeline"] {
-	margin-top: var(--p-spacing, 0.5rem);
+	margin-top: var(--p-spacing);
 }
 
 div:has(> [data-callout="timeline"])+div:not(> [data-callout="timeline"]) {
 	margin-bottom: 1rem;
 }
 
-/* Timeline dot colors (Quartz will still accept these) */
-.callout.timeline[data-callout-metadata="red"],
+/* Timeline dot colors */
 [data-callout-metadata="red"] {
-	--timeline-dot-color: var(--color-red, #ff4d4d);
+	--timeline-dot-color: var(--color-red);
 }
 
-.callout.timeline[data-callout-metadata="orange"],
 [data-callout-metadata="orange"] {
-	--timeline-dot-color: var(--color-orange, #ff9800);
+	--timeline-dot-color: var(--color-orange);
 }
 
-.callout.timeline[data-callout-metadata="yellow"],
 [data-callout-metadata="yellow"] {
-	--timeline-dot-color: var(--color-yellow, #ffeb3b);
+	--timeline-dot-color: var(--color-yellow);
 }
 
-.callout.timeline[data-callout-metadata="green"],
 [data-callout-metadata="green"] {
-	--timeline-dot-color: var(--color-green, #4caf50);
+	--timeline-dot-color: var(--color-green);
 }
 
-.callout.timeline[data-callout-metadata="cyan"],
 [data-callout-metadata="cyan"] {
-	--timeline-dot-color: var(--color-cyan, #00bcd4);
+	--timeline-dot-color: var(--color-cyan);
 }
 
-.callout.timeline[data-callout-metadata="blue"],
 [data-callout-metadata="blue"] {
-	--timeline-dot-color: var(--color-blue, #2196f3);
+	--timeline-dot-color: var(--color-blue);
 }
 
-.callout.timeline[data-callout-metadata="purple"],
 [data-callout-metadata="purple"] {
-	--timeline-dot-color: var(--color-purple, #9c27b0);
+	--timeline-dot-color: var(--color-purple);
 }
 
-.callout.timeline[data-callout-metadata="pink"],
 [data-callout-metadata="pink"] {
-	--timeline-dot-color: var(--color-pink, #e91e63);
+	--timeline-dot-color: var(--color-pink);
 }
