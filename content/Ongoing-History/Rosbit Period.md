@@ -9,7 +9,7 @@ With the death of its previous long-lived Sultan, Vilhun has underwent a long-si
 
 The [[Free Lord]] families have been mostly out of the picture, having bureaucratic experience but ultimately having no eligible candidates. The [[Horde Lord]] families had elected the khan of the [[Suli Clan]], which was then immediately rebuked by [[Steel Lord]] families emir of the [[Hagane Clan]].
 
-The clash has since then caused a governmental paralysis and with no leverage from other houses, expanded into an all out war between the two clans, both residing on the [[Isle of Flod]]. Other clans of those t[]()wo bloodlines, while not having declared war on each other, have become hostile and broadly distanced themselves from each other, at least until the affair is over.
+The clash has since then caused a governmental paralysis and with no leverage from other houses, expanded into an all out war between the two clans, both residing on the [[Isle of Flod]]. Other clans of those two bloodlines, while not having declared war on each other, have become hostile and broadly distanced themselves from each other, at least until the affair is over.
 
 > [!important]
 > **The only thing both sides will agree on now is that whoever will win the war over [[Isle of Flod|Flod]], will win the divine right over [[Vilhun]].**
