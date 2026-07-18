@@ -1,8 +1,19 @@
 > [!timeline|blue] Campaign Timeline
-> 769 ADc
-> [[Resting Crown|God-King Idur]] abdicates the throne, the Mogxan interregnum be
+> 0 ADc
+> The [[Draconic Concordat]] is signed.
+> [[First Kobold Dynasty]] takes over the throne of [[Mogxa]].
+> 
+> 333 ADc
+> The Trimillennial Revolution takes place, [[Eastern Kobold Dynasty]] is born.
+> .
+> 769
+> [[Res
+> 
+> 796 ADc
+> [[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
+> 
 > 856 ADc
-> [[Western Kobold Dynasty]] established.
+> Mogxan interregnum ends, [[Western Kobold Dynasty]] established.
 > 
 >1072 ADc
 >[[Wick]] born.
