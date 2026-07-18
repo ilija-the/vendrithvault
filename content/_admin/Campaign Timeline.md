@@ -60,7 +60,7 @@
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
->
+>==[[Campaigns#Galaen Wilds|Galaen Wilds]] campaign?==
 >Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
 > 
 >1253 ADc
@@ -82,6 +82,9 @@
 >[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]], [[Valeira|Val]], [[Shzorzy]], and [[Beirgit]]; and possibly [[Grokk]], [[Treyl D'Jzari]] and [[Ashe]].
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
+>
+>1267 ADc
+>==[[Campaigns#Winters of Vön - A Land out of Time|Winters of Vön]] campaign?==
 > 
 >1272 ADc
 >[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]], [[Lieutenant]], [[Ergruff Ward]], and [[Wick]].
