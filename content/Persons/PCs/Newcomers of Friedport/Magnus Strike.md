@@ -19,6 +19,6 @@ After helping fight off strange creatures of light or vitality spawned by Leylin
 
 At the end of these events, he (unwittingly) helped summon his mysterious sponsor, the [[Magus in the High Tower]] (and his tower-town) to [[Horiza|Horiza]] using [[Campaigns/Winters of Vön/Entanglement Stones|secret teleportation techniques]].
 
-![[fishooe magnus kitty.webp|left|300]] After the events of the Landcrab Plot, he has resumed his research and been under the wing of the summoned [[Magus in the High Tower|Magus]] and developed an interest in transmutation magic, inspired by how [[Disability|common grafts]] are in [[Horiza]].
+![[fishooe magnus kitty.webp|left|300]] After the events of the Landcrab Plot he has resumed his research under the wing of his [[Magus in the High Tower|sponsor]] and developed an interest in transmutation magic, inspired by how [[Disability|common grafts]] are in [[Horiza]].
 
 > 🎵 [Theme of Frozen Magic](https://youtu.be/FvAc2H8rncs)
