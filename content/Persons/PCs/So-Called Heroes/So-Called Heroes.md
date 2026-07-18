@@ -2,6 +2,8 @@
 tags:
   - parties
   - campaigns/road-to-longdawn
+aliases:
+  - Road to Longdawn
 ---
 A group of adventurers that have travelled [[Ferweth]], all seeking to reach [[Longdawn]] for various reasons. Known for having aided the settlements of [[Cocatun]] and [[Vanderkact]] in their times of need.
 
