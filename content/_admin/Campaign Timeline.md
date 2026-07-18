@@ -1,4 +1,9 @@
 > [!timeline|blue] Campaign Timeline
+> 769 ADc
+> [[Resting Crown|God-King Idur]] abdicates the throne, the Mogxan interregnum be
+> 856 ADc
+> [[Western Kobold Dynasty]] established.
+> 
 >1072 ADc
 >[[Wick]] born.
 >
