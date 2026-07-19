@@ -1,0 +1,1 @@
+The Strix are a rare bird-like people
