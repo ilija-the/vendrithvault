@@ -27,12 +27,12 @@ In this tradition, all goblinoids are believed to be direct descendants of the m
 | Rarity                      | Ancestries                                                                                                                                                                               |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Common                      | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                       |
-| Uncommon                    | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaurs]], [[G'Mayun]], [[Tripkee]], [[Tengu]], [[Leshys]]                  |
+| Uncommon                    | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaurs]], [[G'Mayun]], [[Tripkee]], [[Tengu]], [[Leshys]], [[Beastkin]]    |
 | Rare                        | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonbloods]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]], [[Athamaru]], |
 | On hold / To be implemented | [[Conrasu]], [[Strix]], [[Rabbitfolk]], [[Pnoll]], Anadi, Nagaji                                                                                                                         |
 | Not yet implemented         | Azarketi, Centaur, Fetchling, Merfolk, Samsarans, Wayang, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                                                  |
 | Unlikely to be implemented  | Android                                                                                                                                                                                  |
-An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however.
+An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however. Also see [[Special Heritages]].
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.
 
