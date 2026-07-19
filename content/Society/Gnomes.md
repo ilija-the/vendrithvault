@@ -7,7 +7,7 @@ aliases:
   - gnomes
   - gnome
 ---
-Gnomes are a [[Ancestries of Vendrith|people]] of short stature, usually known to have dressed up everything except their faces. Underneath the clothes, their bodies appear like a void of shadow, which can visibly exude from their body like a shadowy gas. As an unusual looking people, many ancestries and cultures have superstitions about gnomes. Gnomes therefore tend to remain either isolated in small groups of gnomes, or to go on their lonesome as lone gnomes that attempt to earn the trust and love of non-gnome settlements. The archetype of a successful city gnome is usually that of a somewhat shy but eccentric tinkerer, artist or even performer.
+Gnomes are a [[Ancestries of Vendrith|people]] of short stature, usually known to have dressed up everything except their faces. Underneath the clothes, their bodies appear like a void of shadow, which can visibly exude from their body like a shadowy gas. As an unusual looking people, many ancestries and cultures have superstitions about gnomes. Gnomes therefore tend to remain either isolated in small groups of gnomes, or to go on their lonesome as lone gnomes that attempt to earn the trust and love of non-gnome settlements. The archetype of a successful city gnome is usually that of a somewhat shy but eccentric tinkerer, artist or even performer. Gnomes can be found in somewhat greater quantities in [[Ferweth]] and [[Canath]].
 
 Traditional gnome culture spells their names without any vowels, though more and more gnomes have began to write their names with them to integrate better with other ancestries.
 
