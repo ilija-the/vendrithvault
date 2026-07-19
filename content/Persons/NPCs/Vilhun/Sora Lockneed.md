@@ -21,4 +21,4 @@ Sora came to power during a turbulent time after the rebellion in [[Kantby]] dep
 
 She has since managed Kantby for 7 years unopposed.
 
-*A distant relative of [[Kiam Lockneed]].*
+Sister of [[Haru Lockneed]]. *A distant relative of [[Kiam Lockneed]].*
