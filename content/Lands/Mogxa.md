@@ -23,11 +23,11 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 }
 ```
 ## Culture
-Besides [[Humans]] - [[Kobolds]] and [[Goblins]] are especially common in Mogxa, and take up a variety of forms depending on where in the continent you find yourself.
+Besides [[Humans]] -  [[Goblins]] are plentiful common in Mogxa, especially congregated in the cities (such as [[Philosophia]]). [[Kobolds|Kobold]] are a people atop the social hierarchy, having long sat on the [[Kobold Throne]] and staffed administrations and courts even into the Sanitorium's rule. Most Mogxan Kobolds have retained their draconic look despite the lack of dragons. 
 
 Many [[Vanara]] communities also exist in Mogxa, having long since migrated to here from the [[Hightower Civilisation]] of [[Galae]]. 
 
-[[Dragonblood|Dragonbloods]] are technically few in number, but practically makes up one of the most important populations as they frequently hold on to wealth, power and fame inherited from Draconic times (despite the best efforts of those who view them with suspicion). Despite the ongoing formal ban on Titan worship, a significant amount of [[Orcs|Orcish]] holds, as well as integrated urban dwellers, remain in Mogxa.
+[[Dragonblood|Dragonbloods]] are technically few in number, but practically makes up one of the most important populations as they frequently hold on to wealth, power and fame inherited from Draconic times (despite the best efforts of those who view them with suspicion). Dragonbloods have often been made subservient to Kobolds, used as labourers and soldiers while Kobolds were to think and give orders. Despite the ongoing formal ban on Titan worship, a significant amount of [[Orcs|Orcish]] holds, as well as integrated urban dwellers, remain in Mogxa.
 
 Mogxa has historically spoken variants of the [[Ancestral Languages|Draconic Language]] in its upper echelons and courts due to the rule of Dragons, but has since side-lined it. The language is today mostly just learned by [[Dragonblood|Dragonbloods]] or [[Kobolds|Kobolds]], usually as part of the [[Draconic Tribes of Mogxa|Draconic Tribes]] that attempt to maintain old traditions. [[Languages|Idurian]] has stayed the court language of Mogxa since their conquest by [[Resting Crown|God-King Idur]], and is the language high business and high rank. A number of other [[Ancestral Languages]] also dot the very large and populous region, though it is the lower class common language of [[Maux Xi]] that ties together much the common folk.  
 
