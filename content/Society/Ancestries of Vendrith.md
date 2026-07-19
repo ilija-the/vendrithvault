@@ -30,7 +30,7 @@ In this tradition, all goblinoids are believed to be direct descendants of the m
 | **Uncommon** |                |
 | **Rare**     |                |
 | **N/A***     |                |
-. *N/A refers to ancestries which either haven't been implemented in the lore of Vendrith yet, perhaps won't be, or which are banned from play for other reasons.
+An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however. *N/A refers to ancestries which either haven't been implemented in the lore of Vendrith yet, perhaps won't be, or which are banned from play for other reasons.
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.
 
