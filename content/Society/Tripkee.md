@@ -5,6 +5,6 @@ tags:
 aliases:
   - Trip-kee
 ---
-One of the [[Ancestries of Vendrith]].
+The Tripkee are a short frog-like [[Ancestries of Vendrith|people]]
 [[Veducia]]
 [[Gator Grippli]]
