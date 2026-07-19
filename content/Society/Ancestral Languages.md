@@ -13,7 +13,7 @@ Many of the [[Languages|Languages of Vendrith]] are deeply tied to the [[Ancestr
 [[Amurrun]]
 [[Kitsune]]
 [[Dwarves]]
-[[Trip-kee]]
+[[Tripkee]]
 [[Ysoki]]
 [[Vanara]]
 [[Orcs]]

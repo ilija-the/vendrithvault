@@ -11,7 +11,7 @@ player: Donna
 Birth: 1072 ADc
 pronouns: Any/All
 ---
-An [[animated skeleton]] summoner of the [[Fools of Veridica]], joined by their eidolon companion [[Weatherman]]. Their current whereabouts or status are unknown.
+An [[Animated Skeletons]] summoner of the [[Fools of Veridica]], joined by their eidolon companion [[Weatherman]]. Their current whereabouts or status are unknown.
 
 > Character Sheet Biography:
 > Born on the day of a solar eclipse; followed by the abandonment of the holy Gods, Wick's birth was seen as a bad omen to their village of Gnolls. Because of over-protective parents, they weren't banished, but still grew up without being allowed to play with other kids their age (only in secret).
