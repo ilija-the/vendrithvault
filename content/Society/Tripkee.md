@@ -5,6 +5,4 @@ tags:
 aliases:
   - Trip-kee
 ---
-The Tripkee are a short frog-like [[Ancestries of Vendrith|people]]
-[[Veducia]]
-[[Gator Grippli]]
+The Tripkee are a short frog-like [[Ancestries of Vendrith|people]] often found in the [[Veducia|Veducian]] marshes and around the rest of the [[Sergetis|Mouth of Mogxa]]. A community of them migrated to [[Friedport]].
