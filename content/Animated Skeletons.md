@@ -1,0 +1,1 @@
+The Skeletons of dead bodies are frequently animated into [[Undead|Undeath]] by lingering energies, or intentionally by [[Necromancy|Necromancers]]. The vast majority of these, like most undead, lack any sort of i
