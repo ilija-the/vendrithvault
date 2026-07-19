@@ -9,4 +9,4 @@ A primal entity that resides in [[Friedport]]. The myth goes she was created aft
 
 In later times, the speculated killer [[Carlos Valenci]] faced much hatred, causing him to take a job somewhere he believed he'd take less attention - the [[Portaupearl Crypts]]. He worked here until his own mysterious murder.
 
-A small now-broken open shack near [[Amberhole]] saw a large and old-seeming tree suddenly and overnight grow through it. It has since become a site of devotion to nature, and is frequently visited by [[Leshy]] spirits.
+A small now-broken open shack near [[Amberhole]] saw a large and old-seeming tree suddenly and overnight grow through it. It has since become a site of devotion to nature, and is frequently visited by [[Leshys]] spirits.

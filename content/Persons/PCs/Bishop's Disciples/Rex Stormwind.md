@@ -12,4 +12,4 @@ player: Chrysanthos
 pronouns: He/Him
 Status: Alive
 ---
-A [[Dragonblood]] bard that was part of [[Bishop's Disciples]]. As former bandmate of [[Cardinal Rackawn]], he helped turn Cardinal away from creating terror alongside desecrators.
+A [[Dragonbloods]] bard that was part of [[Bishop's Disciples]]. As former bandmate of [[Cardinal Rackawn]], he helped turn Cardinal away from creating terror alongside desecrators.

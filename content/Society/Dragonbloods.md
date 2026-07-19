@@ -5,6 +5,7 @@ tags:
   - uncommon
 aliases:
   - Dragonborn
+  - Dragonblood
 ---
 Dragonblood is a general term for offspring of [[Dragons]] that are not dragons in and out themselves. As varied as the dragons themselves, they are held in high renown as well as infamy across Vendrith.
 

@@ -6,6 +6,6 @@ tags:
 Status: Alive
 pronouns: They/Them
 ---
-Tarok is a [[Leshy]] spirit overlooking [[Friedport]].
+Tarok is a [[Leshys]] spirit overlooking [[Friedport]].
 
 ![[Tarok.cutout 1.png| center | 800]]

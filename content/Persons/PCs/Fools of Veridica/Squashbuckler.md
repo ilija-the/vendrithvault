@@ -6,4 +6,4 @@ tags:
 Status: Likely dead
 player: Panda
 ---
-The [[Leshy|leshy]] [[Familiars|familiar]] of [[Gourdon]], once part of the [[Fools of Veridica]].
+The [[Leshys|leshy]] [[Familiars|familiar]] of [[Gourdon]], once part of the [[Fools of Veridica]].
