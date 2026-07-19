@@ -86,10 +86,14 @@
 > 
 >1253 ADc
 >[[Pike]] born.
-> 
+>
 >1255 ADc
 >[[Sheppie]] born.
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
+>.
+>1257 ADc
+>Bande Aparte attempts a heist for the [[Vestitur Relics]], is betrayed.
+>Go
 > 
 >1258 ADc
 >[[Boney]] born. 
