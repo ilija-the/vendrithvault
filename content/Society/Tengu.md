@@ -7,4 +7,4 @@ tags:
 ---
 Tengu are a mystical flightless bird-like [[Ancestries of Vendrith|people]] with long beaks known for their ties to [[Fate|Fortune]]. They have roots likely spanning to the days of [[Mewji]], and are still found in [[Vilhun]].
 
-There exists and has existed a number of long-nosed [[P]]
+There exists and has existed a number of long-nosed [[Poppets]] also called Tengu. It is uncertain which one came first or what connection they have, but the term is rarely used for them any more.
