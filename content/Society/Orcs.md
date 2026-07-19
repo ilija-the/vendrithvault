@@ -9,6 +9,6 @@ aliases:
   - Lotus Orcs
   - Lotus-Eaters
 ---
-One of the [[Ancestries of Vendrith]].
+Orcs are an ethno-religious [[Ancestries of Vendrith|people]] which follows the teachings of the [[Promised Revealer]], and habitua 
 
 Created by the use of the [[Lotus Orcus]], as instructed by the [[Promised Revealer]]. Orcs are a curious people that have seen through 
