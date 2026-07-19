@@ -17,7 +17,7 @@ Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haev
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "_admin/Ink/Drawing/2026.2.17 - 22.36pm.drawing",
+	"filepath": "_admin/Ink/2026.2.17 - 22.36pm.drawing",
 	"width": 630,
 	"aspectRatio": 1.248761149653122
 }
