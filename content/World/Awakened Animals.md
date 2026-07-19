@@ -1,3 +1,3 @@
-Awakened Animals are what were once anim animals who have for some reason or another gained consciousness. This is in contrast to [[Spirits]] who take animal-like forms.
+Awakened Animals are what were once [[Animals|animals]] whom have somehow gained sapience and became as [[Ancestries|people]]. Awakened Animals can be created by [[Druid|Druids]], [[Wizard|Wizards]] or other spellcasters, but remain rather rare. They are much more common as characters in [[Performance|stories]].
 
-I.e. Awakened Wolf =/= Guardian Wolf Spirit
+This is in contrast to [[Spirits]] who take animal-like forms (I.e. Awakened Wolf =/= Guardian Wolf Spirit).
