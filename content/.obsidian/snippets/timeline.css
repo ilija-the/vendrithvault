@@ -25,6 +25,23 @@ body {
   --timeline-card-background-color: var(--color-base-30);
   --timeline-card-padding-x: 10px;
   --timeline-card-padding-y: 16px;
+
+  /* per-paragraph items: zigzag cards around an inner line */
+  --timeline-item-gap: 14px;
+  --timeline-item-spacing: 18px;
+  --timeline-item-padding-x: 14px;
+  --timeline-item-padding-y: 10px;
+  --timeline-item-frame-color: color-mix(in srgb, var(--text-accent) 55%, transparent);
+  --timeline-item-frame-inset: 78%;
+
+  --timeline-inner-line-width: 3px;
+  --timeline-inner-line-color: var(--color-base-40);
+
+  --timeline-node-size: 14px;
+  --timeline-node-color: var(--timeline-dot-color);
+  --timeline-node-fill: var(--timeline-card-background-color);
+  --timeline-node-border: 2px;
+  --timeline-node-top: 1.15rem;
 }
 
 /* Timeline styling */
@@ -76,6 +93,10 @@ body {
   .callout-content {
     order: 3;
     --p-spacing: 0.5rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: var(--timeline-item-spacing);
     background-color: var(--timeline-card-background-color);
     border-radius: 1rem;
     margin-bottom: var(--timeline-card-margin);
@@ -83,6 +104,132 @@ body {
 
     & > h2:first-child {
       margin-top: 0;
+    }
+
+    /* inner vertical line the paragraph nodes sit on */
+    &::before {
+      content: "";
+      position: absolute;
+      top: var(--timeline-card-padding-x);
+      bottom: var(--timeline-card-padding-x);
+      left: 50%;
+      translate: -50% 0;
+      width: var(--timeline-inner-line-width);
+      border-radius: var(--timeline-inner-line-width);
+      background-color: var(--timeline-inner-line-color);
+    }
+
+    /* single paragraph: no zigzag, no inner line */
+    &:not(:has(> p:nth-of-type(2))) {
+      &::before {
+        display: none;
+      }
+
+      & > p {
+        width: auto;
+        align-self: stretch;
+
+        &::before,
+        &::after {
+          display: none;
+        }
+      }
+    }
+
+    /* each paragraph becomes its own framed card */
+    & > p {
+      position: relative;
+      box-sizing: border-box;
+      width: calc(50% - var(--timeline-item-gap));
+      margin: 0;
+      padding: var(--timeline-item-padding-y) var(--timeline-item-padding-x);
+      border-top: 1px solid var(--timeline-item-frame-color);
+      border-bottom: 1px solid var(--timeline-item-frame-color);
+
+      /* inset vertical bracket rules, so the frame reads as corner brackets */
+      background-image: linear-gradient(
+          var(--timeline-item-frame-color),
+          var(--timeline-item-frame-color)
+        ),
+        linear-gradient(
+          var(--timeline-item-frame-color),
+          var(--timeline-item-frame-color)
+        );
+      background-size: 1px var(--timeline-item-frame-inset);
+      background-position: left center, right center;
+      background-repeat: no-repeat;
+
+      /* connector stub from card edge to node */
+      &::before {
+        content: "";
+        position: absolute;
+        top: calc(
+          var(--timeline-node-top) + var(--timeline-node-size) / 2 - 1px
+        );
+        width: calc(var(--timeline-item-gap) - var(--timeline-node-size) / 2);
+        height: 2px;
+        background-color: var(--timeline-node-color);
+      }
+
+      /* node on the inner line */
+      &::after {
+        content: "";
+        position: absolute;
+        box-sizing: border-box;
+        top: var(--timeline-node-top);
+        width: var(--timeline-node-size);
+        height: var(--timeline-node-size);
+        border-radius: 50%;
+        background-color: var(--timeline-node-fill);
+        border: var(--timeline-node-border) solid var(--timeline-node-color);
+      }
+
+      &:nth-of-type(odd) {
+        align-self: flex-start;
+
+        &::before {
+          left: 100%;
+        }
+
+        &::after {
+          left: calc(
+            100% + var(--timeline-item-gap) - var(--timeline-node-size) / 2
+          );
+        }
+      }
+
+      &:nth-of-type(even) {
+        align-self: flex-end;
+
+        &::before {
+          right: 100%;
+        }
+
+        &::after {
+          right: calc(
+            100% + var(--timeline-item-gap) - var(--timeline-node-size) / 2
+          );
+        }
+      }
+    }
+  }
+}
+
+/* Narrow screens: drop the zigzag, stack the paragraph cards in one column */
+@media all and (max-width: 800px) {
+  [data-callout="timeline"] .callout-content {
+    &::before {
+      display: none;
+    }
+
+    & > p {
+      width: auto;
+      align-self: stretch;
+
+      &::before,
+      &::after {
+        display: none;
+      }
     }
   }
 }

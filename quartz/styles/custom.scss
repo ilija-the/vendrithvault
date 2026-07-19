@@ -717,58 +717,108 @@ img[alt~=border],
 }
 
 /*
+Timeline callout — adapted for Quartz's callout DOM.
 source: https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md
 */
 
-/* Timeline Callout settings */
-body {
-	--timeline-title-color: var(--text-normal);
-	--timeline-title-size: var(--h2-size);
+.callout[data-callout="timeline"] {
+	--timeline-title-color: var(--dark);
+	--timeline-title-size: 1.4rem;
 	--timeline-title-width: 150px;
 
-	--timeline-line-color: var(--color-base-35);
+	--timeline-line-color: var(--lightgray);
 	--timeline-line-margin: 16px;
 	--timeline-line-width: 4px;
 	--timeline-line-style: solid;
 
-	--timeline-dot-color: var(--color-base-70);
-	--timeline-dot-size: 32px;
+	--timeline-dot-color: var(--secondary);
+	--timeline-dot-size: 24px;
 	--timeline-dot-radius: 100%;
-	--timeline-dot-border-color: var(--background-primary);
-	--timeline-dot-border-size: 6px;
-	--timeline-dot-offset-x: -18px;
-	--timeline-dot-offset-y: -2px;
+	--timeline-dot-border-color: var(--light);
+	--timeline-dot-border-size: 5px;
+	--timeline-dot-offset-y: 0px;
 
 	--timeline-card-margin: 16px;
-	--timeline-card-background-color: var(--color-base-30);
-	--timeline-card-padding-x: 10px;
-	--timeline-card-padding-y: 16px;
-}
+	--timeline-card-background-color: var(--lightgray);
+	--timeline-card-padding-x: 16px;
+	--timeline-card-padding-y: 10px;
 
-/* Timeline styling */
-[data-callout="timeline"] {
-	order: 1;
-	padding: 0;
-	margin: 0;
-	display: grid;
-	mix-blend-mode: normal;
-	background-color: unset;
-	grid-template-columns: var(--timeline-title-width, 150px) auto;
+	/* per-paragraph items: zigzag cards around an inner line */
+	--timeline-item-gap: 14px;
+	--timeline-item-spacing: 18px;
+	--timeline-item-padding-x: 14px;
+	--timeline-item-padding-y: 10px;
+	--timeline-item-frame-color: color-mix(in srgb, var(--secondary) 55%, transparent);
+	--timeline-item-frame-inset: 78%;
+
+	--timeline-inner-line-width: 3px;
+	--timeline-inner-line-color: color-mix(in srgb, var(--gray) 60%, transparent);
+
+	--timeline-node-size: 14px;
+	--timeline-node-color: var(--timeline-dot-color);
+	--timeline-node-fill: var(--timeline-card-background-color);
+	--timeline-node-border: 2px;
+	--timeline-node-top: 1.15rem;
+
 	--dot-offset: calc(var(--timeline-dot-offset-y) + var(--timeline-card-padding-y));
 
+	/* undo Quartz's blockquote + .callout chrome */
+	border: none;
+	border-radius: 0;
+	background-color: transparent;
+	padding: 0;
+	margin: 0;
+	overflow: visible;
+
+	display: grid;
+	grid-template-columns: var(--timeline-title-width) auto;
+	align-items: stretch;
+
+	& > .callout-title {
+		/* holds the title text and, via .callout-icon, the vertical line */
+		display: flex;
+		align-items: stretch;
+		gap: 0;
+		padding: 0;
+		color: var(--timeline-title-color);
+		min-width: 0;
+	}
+
 	.callout-title-inner {
-		width: 100%;
+		flex: 1 1 auto;
+		min-width: 0;
 		text-align: right;
 		color: var(--timeline-title-color);
 		font-size: var(--timeline-title-size);
+		line-height: 1.2;
 		margin-top: var(--dot-offset);
+
+		& > p {
+			color: inherit;
+			font-size: inherit;
+		}
+	}
+
+	.fold-callout-icon {
+		order: 3;
+		align-self: flex-start;
+		margin-top: var(--dot-offset);
+		background-color: var(--timeline-title-color);
 	}
 
 	.callout-icon {
 		order: 2;
+		/* kill Quartz's masked SVG icon — this element becomes the line */
+		mask-image: none;
+		-webkit-mask-image: none;
+		background-color: transparent;
+		background-image: none;
+		width: 0;
+		flex: 0 0 auto;
+		padding: 0;
+		align-self: stretch;
 		margin-inline: var(--timeline-line-margin);
 		border-left: var(--timeline-line-width) var(--timeline-line-style) var(--timeline-line-color);
-		height: 100%;
 		position: relative;
 
 		&::after {
@@ -781,66 +831,203 @@ body {
 			width: var(--timeline-dot-size);
 			height: var(--timeline-dot-size);
 			top: var(--dot-offset);
-			left: var(--timeline-dot-offset-x);
+			left: calc(
+				(var(--timeline-dot-size) / -2) + (var(--timeline-line-width) / -2)
+			);
 		}
 	}
 
-	.svg-icon {
-		display: none;
-	}
-
-	.callout-content {
-		order: 3;
-		--p-spacing: 0.5rem;
+	& > .callout-content {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		gap: var(--timeline-item-spacing);
 		background-color: var(--timeline-card-background-color);
 		border-radius: 1rem;
 		margin-bottom: var(--timeline-card-margin);
-		padding: var(--timeline-card-padding-x) var(--timeline-card-padding-y);
+		padding: var(--timeline-card-padding-y) var(--timeline-card-padding-x);
+		min-width: 0;
 
-		&>h2:first-child {
+		/* inner vertical line the paragraph nodes sit on */
+		&::before {
+			content: "";
+			position: absolute;
+			top: var(--timeline-card-padding-y);
+			bottom: var(--timeline-card-padding-y);
+			left: 50%;
+			translate: -50% 0;
+			width: var(--timeline-inner-line-width);
+			border-radius: var(--timeline-inner-line-width);
+			background-color: var(--timeline-inner-line-color);
+		}
+
+		/* single paragraph: no zigzag, no inner line */
+		&:not(:has(> p:nth-of-type(2))) {
+			&::before {
+				display: none;
+			}
+
+			& > p {
+				width: auto;
+				align-self: stretch;
+
+				&::before,
+				&::after {
+					display: none;
+				}
+			}
+		}
+
+		& > :first-child {
 			margin-top: 0;
+		}
+
+		& > :last-child {
+			margin-bottom: 0;
+		}
+
+		/* each paragraph becomes its own framed card */
+		& > p {
+			position: relative;
+			box-sizing: border-box;
+			width: calc(50% - var(--timeline-item-gap));
+			margin: 0;
+			padding: var(--timeline-item-padding-y) var(--timeline-item-padding-x);
+			border-top: 1px solid var(--timeline-item-frame-color);
+			border-bottom: 1px solid var(--timeline-item-frame-color);
+
+			/* inset vertical bracket rules, so the frame reads as corner brackets */
+			background-image:
+				linear-gradient(var(--timeline-item-frame-color), var(--timeline-item-frame-color)),
+				linear-gradient(var(--timeline-item-frame-color), var(--timeline-item-frame-color));
+			background-size: 1px var(--timeline-item-frame-inset);
+			background-position: left center, right center;
+			background-repeat: no-repeat;
+
+			/* connector stub from card edge to node */
+			&::before {
+				content: "";
+				position: absolute;
+				top: calc(var(--timeline-node-top) + var(--timeline-node-size) / 2 - 1px);
+				width: calc(var(--timeline-item-gap) - var(--timeline-node-size) / 2);
+				height: 2px;
+				background-color: var(--timeline-node-color);
+			}
+
+			/* node on the inner line */
+			&::after {
+				content: "";
+				position: absolute;
+				box-sizing: border-box;
+				top: var(--timeline-node-top);
+				width: var(--timeline-node-size);
+				height: var(--timeline-node-size);
+				border-radius: 50%;
+				background-color: var(--timeline-node-fill);
+				border: var(--timeline-node-border) solid var(--timeline-node-color);
+			}
+
+			&:nth-of-type(odd) {
+				align-self: flex-start;
+
+				&::before {
+					left: 100%;
+				}
+
+				&::after {
+					left: calc(100% + var(--timeline-item-gap) - var(--timeline-node-size) / 2);
+				}
+			}
+
+			&:nth-of-type(even) {
+				align-self: flex-end;
+
+				&::before {
+					right: 100%;
+				}
+
+				&::after {
+					right: calc(100% + var(--timeline-item-gap) - var(--timeline-node-size) / 2);
+				}
+			}
+		}
+	}
+
+	/* collapsed state: keep the card from showing an empty padded box */
+	&.is-collapsed > .callout-content {
+		display: none;
+	}
+}
+
+/* Narrow screens: drop the zigzag, stack the paragraph cards in one column */
+@media all and (max-width: 800px) {
+	.callout[data-callout="timeline"] {
+		grid-template-columns: 1fr;
+
+		& > .callout-title .callout-title-inner {
+			text-align: left;
+		}
+
+		& > .callout-content {
+			&::before {
+				display: none;
+			}
+
+			& > p {
+				width: auto;
+				align-self: stretch;
+
+				&::before,
+				&::after {
+					display: none;
+				}
+			}
 		}
 	}
 }
 
-/* Stacking multiple timelines */
-div:not(:has(> [data-callout="timeline"]))+div>[data-callout="timeline"] {
-	margin-top: var(--p-spacing);
+/* Stacking: consecutive timelines form one continuous line */
+.callout[data-callout="timeline"] + .callout[data-callout="timeline"] {
+	margin-top: 0;
 }
 
-div:has(> [data-callout="timeline"])+div:not(> [data-callout="timeline"]) {
+.callout[data-callout="timeline"]:first-of-type {
+	margin-top: 1rem;
+}
+
+.callout[data-callout="timeline"]:last-of-type {
 	margin-bottom: 1rem;
 }
 
-/* Timeline dot colors */
-[data-callout-metadata="red"] {
-	--timeline-dot-color: var(--color-red);
+/* Timeline dot colors (Quartz has no Obsidian --color-* palette) */
+.callout[data-callout="timeline"][data-callout-metadata="red"] {
+	--timeline-dot-color: #db4242;
 }
 
-[data-callout-metadata="orange"] {
-	--timeline-dot-color: var(--color-orange);
+.callout[data-callout="timeline"][data-callout-metadata="orange"] {
+	--timeline-dot-color: #db8942;
 }
 
-[data-callout-metadata="yellow"] {
-	--timeline-dot-color: var(--color-yellow);
+.callout[data-callout="timeline"][data-callout-metadata="yellow"] {
+	--timeline-dot-color: #dba642;
 }
 
-[data-callout-metadata="green"] {
-	--timeline-dot-color: var(--color-green);
+.callout[data-callout="timeline"][data-callout-metadata="green"] {
+	--timeline-dot-color: #09ad7a;
 }
 
-[data-callout-metadata="cyan"] {
-	--timeline-dot-color: var(--color-cyan);
+.callout[data-callout="timeline"][data-callout-metadata="cyan"] {
+	--timeline-dot-color: #00b8d4;
 }
 
-[data-callout-metadata="blue"] {
-	--timeline-dot-color: var(--color-blue);
+.callout[data-callout="timeline"][data-callout-metadata="blue"] {
+	--timeline-dot-color: #448aff;
 }
 
-[data-callout-metadata="purple"] {
-	--timeline-dot-color: var(--color-purple);
+.callout[data-callout="timeline"][data-callout-metadata="purple"] {
+	--timeline-dot-color: #7a43b5;
 }
 
-[data-callout-metadata="pink"] {
-	--timeline-dot-color: var(--color-pink);
+.callout[data-callout="timeline"][data-callout-metadata="pink"] {
+	--timeline-dot-color: #db42a6;
 }
