@@ -2,7 +2,7 @@
 tags:
   - ancestries
 ---
-The G'Mayun are a short and colourful bird-like [[Ancestries of Vendrith|people]] with a penchant for [[Performance|song]] and tropical climates. There's a decent number of them in [[Friedport]].
+The G'Mayun are a short and colourful bird-like [[Ancestries|people]] with a penchant for [[Performance|song]] and tropical climates. There's a decent number of them in [[Friedport]].
 
 ---
 ###### Notes

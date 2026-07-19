@@ -15,7 +15,7 @@ Here are some good articles you may start learning about Vendrith from:
 - [[War Over Haeven]] - the inciting incident of most recent stories in Vendrith.
 - [[Horiza]], [[Mogxa]], [[Canath]], [[Galae]], [[Ferweth]] and [[Vilhun]] - the most important lands of Vendrith.
 - [[Campaigns]] - the various games that have been or are preparing to be played in Vendrith.
-- [[Ancestries of Vendrith]] - of which many have twists compared to stock fantasy.
+- [[Ancestries]] - of which many have twists compared to stock fantasy.
 
 Alternatively check out the graph by clicking the button in the top right, or you can browse the tags at the top and bottom of this page!
 

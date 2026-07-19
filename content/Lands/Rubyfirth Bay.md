@@ -12,7 +12,7 @@ Rubyfirth can also be used to refer to a cultural-social set of groups. A series
 
 > For more in the Rubyfirth, see #places/rubyfirth
 
-The [[Rend Peoples]] are a series of [[Ancestries of Vendrith|peoples]] whom have traversed across and lived along the Rubyfirth bay and more. They can be considered precursors of the modern Rubyfirth culture, and despite their growing apart, still constitute a series of linked cultures across the shores of this sea.
+The [[Rend Peoples]] are a series of [[Ancestries|peoples]] whom have traversed across and lived along the Rubyfirth bay and more. They can be considered precursors of the modern Rubyfirth culture, and despite their growing apart, still constitute a series of linked cultures across the shores of this sea.
 
 
 ---

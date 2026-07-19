@@ -10,7 +10,7 @@ aliases:
 ---
 
 
-Goblins are a [[Ancestries of Vendrith|people]] in the [[Goblinoids|Goblinoid]] group, together with [[Hobgoblins]] with whom they share origins and a number of traits. Goblins likely make up the most plentiful population on Vendrith, only potentially rivalled by [[Humans]]. As such, goblins are found across all societies and lands. Due to social factors they tend to congregate in cities, and have gained much of their worst reputations as criminal or chaotic city-dwellers. The largest concentrations of Goblins are found in the big [[Canath|Canathi]] and [[Mogxa|Mogxan]] cities, especially [[Philosophia]]. 
+Goblins are a [[Ancestries|people]] in the [[Goblinoids|Goblinoid]] group, together with [[Hobgoblins]] with whom they share origins and a number of traits. Goblins likely make up the most plentiful population on Vendrith, only potentially rivalled by [[Humans]]. As such, goblins are found across all societies and lands. Due to social factors they tend to congregate in cities, and have gained much of their worst reputations as criminal or chaotic city-dwellers. The largest concentrations of Goblins are found in the big [[Canath|Canathi]] and [[Mogxa|Mogxan]] cities, especially [[Philosophia]]. 
 
 Goblinoids are found in many appearances, as they are born into various forms imitating certain animals (though many goblinoid characteristics remain stable). These are both based off the area a goblin is born and raised in (called Protean Evolution), though perhaps more importantly also which year they are born. 
 

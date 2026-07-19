@@ -3,7 +3,7 @@ aliases:
   - Heritages
   - heritage
 ---
-A number of [[Ancestries of Vendrith|people]] of Vendrith have not just a simple ancestry, but have mixed or even special and magical blood flowing through them- including from various  [[Creatures]]. The [[Dromaar]], [[Aiuvarin]] and [[Beastkin]], and even the noble [[Dragonbloods|Dragonbloods]], serve a normal enough place in society that they're rarely considered special heritages, however.
+A number of [[Ancestries|people]] of Vendrith have not just a simple ancestry, but have mixed or even special and magical blood flowing through them- including from various  [[Creatures]]. The [[Dromaar]], [[Aiuvarin]] and [[Beastkin]], and even the noble [[Dragonbloods|Dragonbloods]], serve a normal enough place in society that they're rarely considered special heritages, however.
 
 Some special heritages have a [[Monsters of Vendrith|monstrous heritage]]. This includes:
 - The [[Undead]] [[Dhampir]], related to [[Ferweth Vampyr|Vampyr]].

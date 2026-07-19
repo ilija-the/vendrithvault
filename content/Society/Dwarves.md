@@ -10,7 +10,7 @@ aliases:
   - Aspartic Dwarves
   - aspartic dwarves
 ---
-Dwarves are a stocky [[Ancestries of Vendrith|people]] that is said to have dug out of the ground one day, and appear like insectoid humanoids whose carapace is reminiscent of stone or metal. Many of their societies remain underground in holds, and spend much of their efforts in working stone, metals and carving glorious holds, statues and inscriptions into the landscape. When dwarves die their bodies harden instead of rotting away, becoming [[Dwarven Statues]] one may encounter in remote spots such as caves, groves and cliffsides.
+Dwarves are a stocky [[Ancestries|people]] that is said to have dug out of the ground one day, and appear like insectoid humanoids whose carapace is reminiscent of stone or metal. Many of their societies remain underground in holds, and spend much of their efforts in working stone, metals and carving glorious holds, statues and inscriptions into the landscape. When dwarves die their bodies harden instead of rotting away, becoming [[Dwarven Statues]] one may encounter in remote spots such as caves, groves and cliffsides.
 
 Dwarves were first reported in [[Galae]]. They have since congregated around the north coast stretching from Galae, through [[Mogxa]] and ending in [[Fenrunr]]. Some believe the runic Dwarven language is a written form of [[Skald Language|Skald]], and that it may even constitute the origins of the language of [[Arcane Magic]].
 
