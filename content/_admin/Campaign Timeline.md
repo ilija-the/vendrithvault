@@ -1,6 +1,7 @@
 > [!timeline|blue] Campaign Timeline
 > 0 ADc
-> The [[Draconic Concordat]] is signed.
+> The [[Draconic Empire]] is defeated, the [[Draconic Concordat]] is signed.
+> Dragons are no longer able to reproduce, but given the option to become [[Dragonbloods|Dragonblood]].
 > [[First Kobold Dynasty]] takes over the throne of [[Mogxa]].
 > 
 > 333 ADc
@@ -107,7 +108,7 @@
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
 > 
 >1266 ADc
->[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (x), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
+>[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (34), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
 >[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]] (1), [[Valeira|Val]] (20), [[Shzorzy]] (67), and [[Beirgit]] (46); and possibly [[Grokk]] (38), [[Treyl D'Jzari]] (x) and [[Ashe]] (x).
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
