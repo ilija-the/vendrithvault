@@ -24,14 +24,14 @@ The traditional [[Mythos of Vendrith]] has it that life on Vendrith was painted 
 
 In this tradition, all goblinoids are believed to be direct descendants of the monkey peoples (though the Vanara discredit them for losing their essence). Goblins remain the plurality population of Vendrith by a small margin, only being closely followed by [[Humans]].
 
-| Rarity                     | Ancestries                                                                                                                                                                                           |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Common                     | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                                   |
-| Uncommon                   | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaur]], [[Rabbitfolk]], [[G'Mayun]], [[Tripkee]], [[Athamaru]], [[Tengu]], [[Leshy]] |
-| Rare                       | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonblood]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]]                             |
-| On hold                    | [[Conrasu]], [[Strix]]                                                                                                                                                                               |
-| Not yet implemented        | Azarketi, Centaur, Fetchling, Merfolk, Nagaji, Samsarans, Wayang, Anadi, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                                               |
-| Unlikely to be implemented | Android                                                                                                                                                                                              |
+| Rarity                     | Ancestries                                                                                                                                                                          |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Common                     | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                  |
+| Uncommon                   | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaur]], [[G'Mayun]], [[Tripkee]], [[Athamaru]], [[Tengu]], [[Leshy]] |
+| Rare                       | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonblood]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]]            |
+| On hold                    | [[Conrasu]], [[Strix]], [[Rabbitfolk]]                                                                                                                                              |
+| Not yet implemented        | Azarketi, Centaur, Fetchling, Merfolk, Nagaji, Samsarans, Wayang, Anadi, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                              |
+| Unlikely to be implemented | Android                                                                                                                                                                             |
 An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however.
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.

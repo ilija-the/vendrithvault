@@ -11,7 +11,7 @@ aliases:
 [[Goblin evolution]]
 [[Ancestries of Vendrith]]
 
-Goblins make up one of, if not the, biggest population group on Vendrith - only potentially rivalled by humans.
+Goblins make up one of, if not the, biggest population group on Vendrith - only potentially rivalled by [[Humans|humans]].
 
 Goblinoids are found in many appearances, as they are born into various forms imitating certain animals (though many goblinoid characteristics remain stable). These are both based off the area a goblin is born and raised in (called Protean Evolution), though perhaps more importantly also which year they are born. 
 
