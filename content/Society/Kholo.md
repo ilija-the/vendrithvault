@@ -7,6 +7,6 @@ aliases:
   - kholo
   - gnoll
 ---
-One of the [[Ancestries of Vendrith]].
+The Kholo are a 
 
 [[Eydwin]] [[Galae]].
