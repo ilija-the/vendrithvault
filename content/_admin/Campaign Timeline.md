@@ -92,11 +92,15 @@
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
 >.
 >1257 ADc
->Bande Aparte attempts a heist for the [[Vestitur Relics]], is betrayed.
->Go
+>Bande Aparte attempts a heist for the [[Vestitur Relics]] in [[Kallea]], fails.
+>[[Auldwell Fareawel|Perckle d'Rits]], the supposed buyer, had betrayed Bande Aparte.
+>Bande Aparte's temporary comrade [[Goldsheen]] is killed for it, he flees alive.
 > 
 >1258 ADc
 >[[Boney]] born. 
+>
+>1260 ADc
+>Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
 > 
 >1263 ADc
 >[[Wereforged]] project begins.
@@ -107,6 +111,7 @@
 >[[Campaigns#Jadebreakers Circles|Circles]] campaign, including [[Sir Gordon|Gordon]] (1), [[Valeira|Val]] (20), [[Shzorzy]] (67), and [[Beirgit]] (46); and possibly [[Grokk]] (38), [[Treyl D'Jzari]] (x) and [[Ashe]] (x).
 >[[Jade the Just]]'s de facto direct rule of [[Philosophia]] ends.
 >The wereforged programme unravels.
+>Bande Aparte leaves yet again.
 >
 >1267 ADc
 >==[[Campaigns#Winters of Vön - A Land out of Time|Winters of Vön]] campaign?==
