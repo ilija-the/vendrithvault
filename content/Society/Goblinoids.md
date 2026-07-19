@@ -2,6 +2,7 @@
 tags:
   - ancestries
   - society
+  - ancestries/goblinoid
 aliases:
   - Protean Goblinoids
   - Protean Goblinoid
@@ -34,3 +35,12 @@ While the hobgoblins have the same environment taxonomies, they do not have the 
 - Boscage Hobgoblin (Hedgehog? Panda?)
 - Island Hobgoblin (Shark? Also became the shark orc heritage, and are another predator of the poor chicken gobs)
 - Field Hobgoblin (???)
+
+[[Humans]]
+[[Goblinoids]]
+[[Goblins]]
+[[Vanara]]
+[[Hobgoblins]]
+[[Creator Monkey]]
+[[First Ascended]] (not goblin, but reminiscent)
+[[Protean Evolution]]

@@ -9,5 +9,5 @@ aliases:
   - Vendrith Humans
 ---
 [[Ancestries of Vendrith]]
-[[Goblin evolution]]
+[[Goblinoids]]
 [[First Ascended]]
