@@ -22,4 +22,4 @@ Other special heritages include:
 - The Sylph, those whose bodies are imbued with the power of air.
 - The Talos, those whose bodies are imbued with the power of metal.
 - The Undine, those touched by the power of aquatic creatures and water.
-- The Reflecti
+- The [[Reflection|Reflections]], supposedly perfect copies of another person.
