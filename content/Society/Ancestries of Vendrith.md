@@ -18,11 +18,19 @@ aliases:
 In the absence of other information, you are free to assume ancestries are similar to their traditional/official pathfinder lore. If they turn out not to be - if you're in a game - you can always play it off as your character having a misconceived stereotype!
 
 ### Overview
-The ancestries of Vendrith, people, refers to the sapient and mostly humanoid species of Vendrith whom possess consciare capable of language. Those whom don't cleanly fit into this category whilst also not being mere [[Animals]] are usually called [[Monsters of Vendrith|Monsters]].
+The ancestries of Vendrith, people, refers to the sapient and mostly humanoid [[Creatures]] of Vendrith whom clearly possess consciousness and are capable of language. Those whom don't cleanly fit into this category whilst also not being mere [[Animals]] are usually called [[Monsters of Vendrith|Monsters]]. Whether [[Deity|Deities]] and other divine or primal beings remain people is an open question.
 
 The traditional [[Mythos of Vendrith]] has it that life on Vendrith was painted in the [[Creator Monkey|Creator Monkey's]] image, and it is thus assumed the first people alive were similar to anthropomorphic monkeys. Possibly supporting this theory is the fact that [[Vanara]], whom claim to be an offshoot that diverged from what would become [[Hobgoblins]], still retain an appearance remarkably similar to what these original people are believed to look like. 
 
 In this tradition, all goblinoids are believed to be direct descendants of the monkey peoples (though the Vanara discredit them for losing their essence). Goblins remain the plurality population of Vendrith by a small margin, only being closely followed by [[Humans]].
+
+|              | **Ancestries** |
+| ------------ | -------------- |
+| **Common**   |                |
+| **Uncommon** |                |
+| **Rare**     |                |
+| **N/A***     |                |
+. *N/A refers to ancestries which either haven't been implemented in the lore of Vendrith yet, perhaps won't be, or which are banned from play for other reasons.
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.
 
