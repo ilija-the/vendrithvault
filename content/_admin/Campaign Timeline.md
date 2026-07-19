@@ -23,6 +23,8 @@
 >
 >1193 ADc
 >[[War Over Haeven]] concludes and the Age of the [[The Great Silence|Great Silence]] begins.
+>The [[Sanitorium]] is declared and the last kobold emperor abdicates.
+>The [[Sanitine Wars]] begin.
 >
 >1199 ADc
 >[[Shzorzy]] born.
