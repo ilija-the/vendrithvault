@@ -1,9 +1,9 @@
 > [!timeline|blue] Timeline Title
-> Title
+> Title  
 > Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
 >
-> Holy Crap
+> Holy Crap  
 > Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
 >
-> It just goes on
+> It just goes on  
 > Lorem, ipsum dolor sit amet consectetur, adipisicing elit.

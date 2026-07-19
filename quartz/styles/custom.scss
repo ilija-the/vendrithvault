@@ -751,6 +751,11 @@ source: https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collecti
 	--timeline-item-frame-color: color-mix(in srgb, var(--secondary) 55%, transparent);
 	--timeline-item-frame-inset: 78%;
 
+	/* first line of each item, i.e. the item's title */
+	--timeline-item-title-size: 1.15em;
+	--timeline-item-title-weight: 600;
+	--timeline-item-title-color: var(--secondary);
+
 	--timeline-inner-line-width: 3px;
 	--timeline-inner-line-color: color-mix(in srgb, var(--gray) 60%, transparent);
 
@@ -903,6 +908,13 @@ source: https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collecti
 			background-size: 1px var(--timeline-item-frame-inset);
 			background-position: left center, right center;
 			background-repeat: no-repeat;
+
+			/* first line is the item title (needs a hard break after it) */
+			&::first-line {
+				font-size: var(--timeline-item-title-size);
+				font-weight: var(--timeline-item-title-weight);
+				color: var(--timeline-item-title-color);
+			}
 
 			/* connector stub from card edge to node */
 			&::before {
