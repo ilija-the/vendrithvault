@@ -47,23 +47,24 @@ Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancest
 Ancestral languages include:
 - Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili.
 - Goblin, spoken by the [[Goblinoids]]. [[Goblins]] themselves are concentrated around Canathi and Mogxan cities, whereas [[Hobgoblins]] spread the language more out into sparse areas.
+- Vanara, a language spoken by the [[Vanara]] who live in closed-off communes. It shares a common ancestor to the Goblin language, but it maintained a much more complex and 'finer' grammar and sound to it.
 - Gnomish, spoken by the mysterious [[Gnomes]]. It's wispy sounds are difficult for other ancestries to understand, let alone speak.
 - Halfling, spoken by the mysterious [[Halflings]]. It's written form is reminiscent of the hieroglyphic [[Halfling Markings]] that appear on their bodies.
 - Orcish, taught and spoken in the closed-off ethno-religious [[Orcs|Orcish]] community.
-- Kholo, an ancestral language of the [[Kholo]] from deeper [[Eydwin]] brought with the kholo who migrated north, primarily to [[Galae]]. Its far flung roots make it particularly unintelligble to other language speake
+- Kholo, an ancestral language of the [[Kholo]] from deeper [[Eydwin]] brought with the Kholo who migrated north, primarily to [[Galae]]. Its far flung roots make it particularly unintelligible to other language speakers around.
+- Ysoki, spoken by the [[Ysoki|Ratfolk]] often around the [[Tributary Coast]] and cities of [[Mogxa]]. It often coexists with Sakvroth, which it shares much of its sound with.
+- Iruxi, spoken by the [[Iruxi|Lizardfolk]] primarily centred on [[Veducia]] and [[The Rend]].
 - Elvish [Always Rare], 
 
 
 
 [[Elves]]
-[[Kholo]]
 [[Iruxi]]
 [[Amurrun]]
 [[Kitsune]]
 [[Dwarves]]
 [[Tripkee]]
 [[Ysoki]]
-[[Vanara]]
 [[Orcs]]
 
 > All special languages will have the Rare rarity.
