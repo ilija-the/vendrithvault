@@ -12,8 +12,8 @@ Nature is also essential to [[Ancestries|humanoid]] life, producing its nutritio
 Flora refers to the variety of plants and fungus that grow across the world.
 
 Some notable special types of flora-life include:
-- [[Fairy Lantern|Fairy Lanterns]]
-- [[Pric]]
+- [[Fairy Lanterns|Fairy Lanterns]]
+- [[Pricklybursts|Pricklybursts]]
 
 
 %%
