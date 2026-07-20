@@ -17,10 +17,13 @@ Common languages include:
 - Vili, the language of the common folk of [[Vilhun|Vilhun]], related to old Mogxan languages like Draconic.
 - Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Tributary Coast]] and [[The Rend]].
 - Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, and that both are progenitors of the "logical" language of [[Arcane Magic]].
-- Bay Pidgin, a common language formed as a mixture of the various peoples of the [[Rubyfirth Bay]] who went to of [[Horiza]]'s second wave of migration, centred on [[Adamsworth]]. 
-- Harza Pidgin, formed by the peoples of Horiza's third wave of migration
+- Bay Pidgin, a common language formed as a mixture of the various peoples of the [[Rubyfirth Bay]] who went to [[Horiza]] during the second wave of migration. Centred on [[Adamsworth]]. 
+- Harza Pidgin, formed by the peoples of Horiza's third wave of migration.
 
+Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancestry]] that it's assumed every member of said ancestry speaks it. This is usually correct when they grew up in their heartlands or nearby, or at least were born in a diaspora. A few however are so estranged from their homelands and people that they don't speak their 'own' language.
 
+Ancestral languages include:
+- Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with susp
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
@@ -44,19 +47,5 @@ Lost, magical, monster or outsider languages:
 
 
 
-Many languages are so deeply tied to an [[Ancestries|ancestry]] that it's commonly assumed every member of said ancestry speaks said language. This is usually correct about members of said ancestry which grew up in their heartlands or nearby, or at least came to somewhere else within a diaspora - though on a few occasions some are so estranged from their homelands and people that they don't speak their 'own' language.
 
-[[Goblins]]
-[[Gnomes]]
-[[Elves]]
-[[Halflings]]
-[[Kholo]]
-[[Iruxi]]
-[[Amurrun]]
-[[Kitsune]]
-[[Dwarves]]
-[[Tripkee]]
-[[Ysoki]]
-[[Vanara]]
-[[Orcs]]
-[[Dragons]]
+
