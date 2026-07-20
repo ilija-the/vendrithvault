@@ -2,7 +2,9 @@
 tags:
   - society
 ---
-Consists of [[Ancestral Languages]] as well as a number of Common Languages.
+Languages are spoken, written and emoted by a number of 
+
+Consists of [[Languages]] as well as a number of Common Languages.
 
 Regional common languages:
 [[Idurian]]
@@ -17,7 +19,7 @@ Regional languages:
 [[Bay Pidgin]]
 [[Harza Pidgin]]
 
-[[Ancestral Languages]]:
+[[Languages]]:
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
@@ -41,3 +43,19 @@ Lost, magical, monster or outsider languages:
 
 
 
+Many of the [[Languages|Languages of Vendrith]] are deeply tied to the [[Ancestries]]
+
+[[Goblins]]
+[[Gnomes]]
+[[Elves]]
+[[Halflings]]
+[[Kholo]]
+[[Iruxi]]
+[[Amurrun]]
+[[Kitsune]]
+[[Dwarves]]
+[[Tripkee]]
+[[Ysoki]]
+[[Vanara]]
+[[Orcs]]
+[[Dragons]]
