@@ -6,9 +6,12 @@ Many different languages are spoken, written and signed by the [[Ancestries|peop
 
 Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, spoken by courts across the territories he conquered across [[Canath]] and [[Mogxa]], as well as serving as a language for [[Mercantilism|merchants]], [[Adventurers|adventurers]] and other travellers.
 
-Regional common languages:
-[[Languages]]
-[[Encanuri]]
+Common languages include:
+- Idurian, spoken by all manner of courts and travellers across Mogxa, Canath and their neighbours.
+- Encanuri, a longstanding common language/dialect of Canath which served as the basis of Idurian.
+- Whetish, spoken by the common folk of [[Ferweth]] further from the capital.
+- Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. Possibly related to the Shoony language.
+
 [[Whetish]]
 [[Vili]]
 [[Sakvroth]]
