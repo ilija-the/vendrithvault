@@ -11,7 +11,7 @@ Much more common and accepted forms of slavery include what's instead called Ser
 
 Another form of common and accepted slavery is Impressment, the act of kidnapping people onto [[Ships]] just long enough they have no choice but to serve as a crewmate to survive - at which point they may simply accept their lot and become part of the crew. Ship crews treated badly however are also known to revolt against their captains.
 
-[[Gladiators]] have historically typically been a type of slave, often promised the possibility of freeing themselves if they are successful enough.
+	[[Gladiators]] have historically typically been a type of slave, often promised the possibility of freeing themselves if they are successful enough.
 
 The [[Titans|Titan]] called the [[Golden Heart]] is said to have started as a slave girl herself, and fought to free herself and her fellow slaves before reaching deityhood - though she is controversial for having possibly re-created the practice against those who she sought to punish.
 
