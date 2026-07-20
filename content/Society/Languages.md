@@ -4,10 +4,10 @@ tags:
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
-Common Languages are usually based on geography and [[Caste Systems|social standing]].  
+Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, 
 
 Regional common languages:
-[[Idurian]]
+[[Languages]]
 [[Encanuri]]
 [[Whetish]]
 [[Vili]]
@@ -43,7 +43,7 @@ Lost, magical, monster or outsider languages:
 
 
 
-Many languages are so deeply tied to an [[Ancestries|ancestry]] that it's commonly assumed every member of said ancestry speaks said language. This is usually correct about members of said ancestry which grew up in 
+Many languages are so deeply tied to an [[Ancestries|ancestry]] that it's commonly assumed every member of said ancestry speaks said language. This is usually correct about members of said ancestry which grew up in their heartlands or nearby, or at least came to somewhere else within a diaspora - though on a few occasions some are so estranged from their homelands and people that they don't speak their 'own' language.
 
 [[Goblins]]
 [[Gnomes]]
