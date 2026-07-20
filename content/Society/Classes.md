@@ -3,11 +3,11 @@ aliases:
 tags:
   - culture/adventurer
 ---
-Classes is a term used to divide up people into different roles - which is most commonly used to describe the various paths that [[Adventurers|adventurers]] take. which determines their abilities and tasks on and off the battlefield. While many adventurers fit the archetypical classes well, many are of a mixed nature (multi-classing), and even more (NPCs) find paths that are only reminiscent of the traditional classes.
+Classes is a term used to divide up people into different roles - which is most commonly used to describe the various paths that [[Adventurers|adventurers]] take. which determines their abilities and tasks on and off the battlefield. It also has many social meanings, implying where they ought to work, towards which purposes and ideals, and to which causes they typically align themselves. [[Druid|Druids]] for example are composed of orders that teach [[Primal]] magic and even a secret language, all towards the purpose of protecting different parts of [[Nature]] - and one might lose one's druid status if one violates it. Another example is [[Champion|Champions]] and [[Cleric|Clerics]], whom rather directly serve a [[Deity]]'s cause, and therefore must follow their While many adventurers fit the archetypical classes well, many are of a mixed nature (multi-classing), and even more (NPCs) find paths that are only reminiscent of the traditional classes.
 
 > The term class is on occasion used to refer to [[Caste Systems|Castes]] and levels of wealth and influence, but this should instead be referred to as one's Caste, Standing or at least "Social Class." 
 
-PC Classes:
+The classes that most (PCs) fit into are:
 [[Alchemist]]
 [[Animist]]
 [[Barbarian]]
