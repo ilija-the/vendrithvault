@@ -10,6 +10,6 @@ Two places unusual for their use of flying ships are [[Philosophia]] (inside the
 
 The sea-bound ships of [[Celene]], capable of mounting heavier [[Cannons|Copper Cannons]], are built to be able to shoot down hostile flying ships at low altitudes.
 
-Flying [[Piracy|pirates]] are a common feature of pirate stories. They have existed on at least some occasions throughout history, using their fear and surprise factor to their advantage.
+Flying [[Banditry|pirates]] are a common feature of pirate stories. They have existed on at least some occasions throughout history, using their fear and surprise factor to their advantage.
 
 Certain explorers have also made use of flying ships, though this requires large up-front investment.

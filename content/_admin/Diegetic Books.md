@@ -39,6 +39,6 @@ Here is a list of the known books of Vendrith:
 
 ### Stories
 
-**Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Piracy|Pirate]]'s terrifying exploits.
+**Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Banditry|Pirate]]'s terrifying exploits.
 
 **The Diary of a River Kingdom.** Fictional book about adventurers founding a kingdom in a vast land.
