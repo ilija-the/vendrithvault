@@ -11,3 +11,5 @@ It is said all titans were exiled from [[Materia]] with the destruction of the [
 
 [[Mantle]]
 [[Reverence]]
+
+Timeless Ti
