@@ -2,9 +2,9 @@
 tags:
   - society
 ---
-Languages are spoken, written and emoted by a number of 
+Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
-Consists of [[Languages]] as well as a number of Common Languages.
+Common Languages are usually based on geography and [[Caste Systems|social standing]].  
 
 Regional common languages:
 [[Idurian]]
@@ -43,7 +43,7 @@ Lost, magical, monster or outsider languages:
 
 
 
-Many of the [[Languages|Languages of Vendrith]] are deeply tied to the [[Ancestries]]
+Many languages are so deeply tied to an [[Ancestries|ancestry]] that it's commonly assumed every member of said ancestry speaks said language. This is usually correct about members of said ancestry which grew up in 
 
 [[Goblins]]
 [[Gnomes]]
