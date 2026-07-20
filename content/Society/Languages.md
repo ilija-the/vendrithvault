@@ -1,6 +1,8 @@
 ---
 tags:
   - society
+  - languages/common
+  - places/ferweth
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
@@ -10,12 +12,12 @@ Common languages include:
 - Idurian, spoken by all manner of courts and travellers across Mogxa, Canath and their neighbours.
 - Encanuri, a longstanding common language/dialect of Canath which served as the basis of Idurian.
 - Whetish, spoken by the common folk of [[Ferweth]] further from the capital.
-- Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. Possibly related to the Shoony language.
-
-[[Whetish]]
-[[Vili]]
-[[Sakvroth]]
-
+- Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. Po[[Languages]]ted to the Shoony language.
+- Geyli, a common language that once helped unify [[Galae|Galaens]] that fell out of favour, but is seeing some attempted revival.
+- Vili, the language of the common folk of [[Vilhun|Vilhun]], related to old Mogxan languages like Draconic.
+- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Tributary Coast]] and [[The Rend]].
+- Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, 
+- 
 Regional languages:
 [[Ylfi]]
 [[Skald]]
