@@ -4,7 +4,7 @@ tags:
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
-Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, 
+Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, spoken by courts across the territories he conquered across [[Canath]] and [[Mogxa]], as well as serving as a language for [[Mercantilism|merchants]], [[Adventurers|adventurers]] and other travellers.
 
 Regional common languages:
 [[Languages]]
