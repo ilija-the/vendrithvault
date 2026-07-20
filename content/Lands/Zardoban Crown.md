@@ -17,6 +17,6 @@ These expeditions usually arrived in the form of an escorted set of adventurers 
 
 One Zardoban Governor-King famously was addicted to Cacao Juice, and had set up an extensive trade network with the few places in [[Ferweth]] that grow the niche cocoa bean, such as [[Cocatun]].
 
-Galae has been particularly affected by the Zardobans, having had little going in terms of military or governance at the time. It was the only area that had sizeable landmasses directly occupied by Zardoban troops. The city of [[Cragmoor]] was founded by Zardobia.
+Galae has been particularly affected by the Zardobans, having had little going in terms of military or governance at the time. It was the only area that had sizeable landmasses directly occupied by Zardoban troops. The city of [[Cragmoore]] was founded by Zardobia.
 
 The Zardoban Crown was eventually (re-) integrated into the [[Kobold Throne]], though it retained a degree of autonomy over (especially with regards to its seas and commerce) under its unique Governorate status. The Zardobans were essentially self-governing under the late [[Western Kobold Dynasty]], and would stand its own grounds against the [[Sanitorium]] before the corrupt governor sold out his own populace, essentially putting an end to popular resistance by turning his own armies on them. Much of the city's gold structures have since been stripped by the Sanitorium and hauled off for other purposes.
