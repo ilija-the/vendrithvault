@@ -50,6 +50,8 @@ Ancestral languages include:
 - Gnomish, spoken by the mysterious [[Gnomes]]. It's wispy sounds are difficult for other ancestries to understand, let alone speak.
 - Halfling, spoken by the mysterious [[Halflings]]. It's written form is reminiscent of the hieroglyphic [[Halfling Markings]] that appear on their bodies.
 - Orcish, taught and spoken in the closed-off ethno-religious [[Orcs|Orcish]] community.
+- Kholo, an ancestral language of the [[Kholo]] from deeper [[Eydwin]] brought with the kholo who migrated north, primarily to [[Galae]]. Its far flung roots make it particularly unintelligble to other language speake
+- Elvish [Always Rare], 
 
 
 

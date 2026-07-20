@@ -13,4 +13,4 @@ Orcs are an ethno-religious [[Ancestries|people]] which follows the teachings of
 
 The Orcs are both a highly introspective people as well as curious about the workings of the world. They have, however, faced much persecution due to their closed off community and often nomadic travel around the world (though usually settling down in a location until the winds change). A number of Orcish holds exist in [[Mogxa]] despite the formal ban on Titan Worship, which the Promised Revealer by most accounts should fall under.
 
-Orcs tend to practice endogamy.
+Orcs tend to practice endogamy, marrying only within their community.
