@@ -3,4 +3,6 @@ tags:
   - places/horiza
 ---
 
-A series of islands in the [[Horiza]] home to the important harbour settlement of Friedport. Highly reliant on the Horizan Guild Association. Troubled by [[Piracy]].
+The Chocolate Islands are a series of islands in [[Horiza]], home to the first and perharbour settlement of Friedport. . Troubled by [[Piracy]].
+
+The largest island of the 
