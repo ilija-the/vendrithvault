@@ -65,8 +65,9 @@ Many languages have either been lost to time, are magical or mystical in nature,
 
 > As such, all of these special languages will have the Rare rarity.
 
-Secret languages include:
+Secret or coded languages include:
 - Wildsong, a language taught only to [[Druid|Druids]] which is highly forbidden to teach to anyone else.
+- Utopian, a language still not fully understood encoded in the written forms of the [[Utopian Promise]] documented in certain [[Temples|secret temples]].
 
 Forgotten languages include:
 - Elvish, spoken only by the very few still-remaining [[Elves]]. The language is like their ancestry endangered, and attempts to transcribe or learn it by others is usually describes as unsatisfactory and missing much nuance.
@@ -81,17 +82,17 @@ Elemental or similar languages include:
 Monster languages include:
 - Necril, something approximating a language uttered by certain [[Undead]].
 - Alghollthu, a language spoken only by the [[Aquatic|aquatic]] [[Alghollthu]].
-- Chtonian
 - Sphinx
 - Arboreal
 - Jotun, a language spoken by various [[Giants]], such as those in [[Ferweth|Far Ferweth]].
 
 Planar languages include:
-- Empyrean, the language formerly spoken in the hierarchy of [[Haeven]]. It is today only maintained by a few high officials in certain [[Temple|Churches]], such as those of [[Longdawn]].
-- Diabolic, a language spoken by [[Devil|Devils]] and [[Demon|Demons]], such as those in [[Crimson]].
+- Empyrean, the language formerly spoken in the hierarchy of [[Haeven]]. It is today only maintained by a few high officials in certain [[Temples|Churches]], such as those of [[Longdawn]].
+- Diabolic, formerly known as Fiendish, a language spoken by [[Devil|Devils]] and [[Demon|Demons]], such as those in [[Crimson]].
 - Daemonic, an older language like Diabolic spoken by the ancient [[Daemons]].
+- Chtonian, formerly known as Abyssal, is another ancient language like Diabolic spoken by certain fiends, perhaps those tied to Abbadon.
 - Requian, a language used to communicate with souls in the [[River of Death]].
-- Fey, a language spoken in the [[Feydark]] and by a variety of [[Fey]] creatures.
+- Fey, formerly known as Sylvan, is a language spoken in the [[Feydark]] and by a variety of [[Fey]] creatures.
 
 
 
