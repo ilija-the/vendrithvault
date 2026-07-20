@@ -34,7 +34,7 @@ Common languages include:
 - Encanuri, a longstanding common language/dialect of Canath which served as the basis of Idurian.
 - Maux Xi, a common language spoken across large parts of the [[Mogxa|Mogxan]] empire. It is related to old Draconic, and thus shares its roots with the Vili language.
 - Whetish, spoken by the common folk of [[Ferweth]] further from the capital.
-- Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. Po[[Languages]]ted to the Shoony language.
+- Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. It is speculated to be related to the Shoony language.
 - Geyli, a common language that once helped unify [[Galae|Galaens]] that fell out of favour, but is seeing some attempted revival.
 - Vili, the language of the common folk of [[Vilhun|Vilhun]], related to old Mogxan languages like Draconic.
 - Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Tributary Coast]] and [[The Rend]].

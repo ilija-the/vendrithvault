@@ -36,11 +36,11 @@ The [[Shoony]] people are uniquely tied to Ferweth, and are said to "come out of
 
 | Rarity   | Languages                                                                      |
 | -------- | ------------------------------------------------------------------------------ |
-| Common   | [[Languages\|Idurian]], [[Languages]], [[Ylfi]], [[Shoony]], [[Gnomes\|Gnomish]] |
+| Common   | [[Languages\|Idurian]], [[Languages]], [[Languages]], [[Shoony]], [[Gnomes\|Gnomish]] |
 | Uncommon | [[Empyrean]], [[Fey Language]]                                                 |
 | Rare     | [[Requian]], [[Necril]], [[Vanara]]%%, [[Jotun Language]]%%                    |
 
-Ferwethi merchants and travellers, as well as some village elders dependent on trade, speak the [[Languages#Idurian|Idurian]] language. The capital of Longdawn, and its immediate neighbours' courts, largely speaks the [[Ylfi]] language, which is considered a much finer version of the related common folk [[Languages|Whetish]] language used across much of the rest of Ferweth. Some claim the Ylfi language is related to or influenced by the [[Languages|Shoony Language]], which is also prevalent due to their presence. Gnomish and Vanara languages also exist.
+Ferwethi merchants and travellers, as well as some village elders dependent on trade, speak the [[Languages#Idurian|Idurian]] language. The capital of Longdawn, and its immediate neighbours' courts, largely speaks the [[Languages]] language, which is considered a much finer version of the related common folk [[Languages|Whetish]] language used across much of the rest of Ferweth. Some claim the Ylfi language is related to or influenced by the [[Languages|Shoony Language]], which is also prevalent due to their presence. Gnomish and Vanara languages also exist.
 
 Longdawn, a cathedral-city full of clergymen, also has a large presence of speakers of [[Empyrean]], the language used in the upper hierarchy of Titan churches, as well as some speaking the [[Requian]] language used to speak to undead souls in the [[River of Death]]. In addition, a smattering of necromancers and undead-hunters also "speak" (or at least understand) [[Necril]]. %%The tribes of "Far Ferweth" may speak Jotun.%%
 ## Geography
