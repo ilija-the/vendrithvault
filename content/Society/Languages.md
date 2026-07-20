@@ -11,6 +11,7 @@ Common Languages are usually based on geography and [[Caste Systems|social stand
 Common languages include:
 - Idurian, spoken by all manner of courts and travellers across Mogxa, Canath and their neighbours.
 - Encanuri, a longstanding common language/dialect of Canath which served as the basis of Idurian.
+- Maux Xi, a common language spoken across large parts of the [[Mogxa|Mogxan]] empire. It is related to old Draconic, and thus shares its roots with the Vili language.
 - Whetish, spoken by the common folk of [[Ferweth]] further from the capital.
 - Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. Po[[Languages]]ted to the Shoony language.
 - Geyli, a common language that once helped unify [[Galae|Galaens]] that fell out of favour, but is seeing some attempted revival.
@@ -23,7 +24,23 @@ Common languages include:
 Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancestry]] that it's assumed every member of said ancestry speaks it. This is usually correct when they grew up in their heartlands or nearby, or at least were born in a diaspora. A few however are so estranged from their homelands and people that they don't speak their 'own' language.
 
 Ancestral languages include:
-- Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with susp
+- Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili.
+- Goblin, spoken by the [[Goblinoids]]. [[Goblins]] themselves are concentrated around Canathi and Mogxan cities, whereas [[Hobgoblins]] spread the language more out into sparse areas.
+- Gnomish, spoken by the mysterious [[Gnomes]]. It's whispy sounds are difficult for other ancestries to 
+[[Gnomes]]
+[[Elves]]
+[[Halflings]]
+[[Kholo]]
+[[Iruxi]]
+[[Amurrun]]
+[[Kitsune]]
+[[Dwarves]]
+[[Tripkee]]
+[[Ysoki]]
+[[Vanara]]
+[[Orcs]]
+[[Dragons]]
+
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
