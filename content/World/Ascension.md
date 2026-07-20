@@ -6,4 +6,4 @@ tags:
 [[Titans]]
 [[Mantle]]
 [[Saint]]
-[[Demigods]]
+[[Demideities]]
