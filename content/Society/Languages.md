@@ -3,10 +3,18 @@ tags:
   - society
   - languages/common
   - places/ferweth
+aliases:
+  - language
+  - ancestral languages
+  - common languages
+  - ancestral language
+  - common langugae
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
 Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, spoken by courts across the territories he conquered across [[Canath]] and [[Mogxa]], as well as serving as a language for [[Mercantilism|merchants]], [[Adventurers|adventurers]] and other travellers.
+
+> Common languages will have the Common rarity if they're at home in a campaign's region, Uncommon if they're from elsewhere.
 
 Common languages include:
 - Idurian, spoken by all manner of courts and travellers across Mogxa, Canath and their neighbours.
@@ -23,11 +31,15 @@ Common languages include:
 
 Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancestry]] that it's assumed every member of said ancestry speaks it. This is usually correct when they grew up in their heartlands or nearby, or at least were born in a diaspora. A few however are so estranged from their homelands and people that they don't speak their 'own' language.
 
+> Ancestral languages will have the Rarity of their ancestry, based off the specific region and campaign, or in the absence of such, the [[Ancestries|general list]].
+
 Ancestral languages include:
 - Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili.
 - Goblin, spoken by the [[Goblinoids]]. [[Goblins]] themselves are concentrated around Canathi and Mogxan cities, whereas [[Hobgoblins]] spread the language more out into sparse areas.
-- Gnomish, spoken by the mysterious [[Gnomes]]. It's whispy sounds are difficult for other ancestries to 
-[[Gnomes]]
+- Gnomish, spoken by the mysterious [[Gnomes]]. It's wispy sounds are difficult for other ancestries to understand, let alone speak.
+
+
+
 [[Elves]]
 [[Halflings]]
 [[Kholo]]
@@ -41,6 +53,7 @@ Ancestral languages include:
 [[Orcs]]
 [[Dragons]]
 
+> All special languages will have the Rare rarity.
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
