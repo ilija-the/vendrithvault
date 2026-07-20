@@ -4,6 +4,8 @@ tags:
   - society
   - skills/society
   - admin
+aliases:
+  - Civilisation
 ---
 Society is the organisation of [[Ancestries|people]] into social structures, larger groups intended to be able to work together towards shared survival, stability and prosperity. Heavily intertwined to the organisation of society is [[Lore#Tradition|Tradition]] and [[Religion]].
 
