@@ -7,7 +7,7 @@ tags:
   - WIP
 ---
 >[!important] WIP
->The current is not to be considered implemented in lore yet, and is merely a placeholder or early work in progress.
+>The current is not to be considered implemented in lore yet, and is merely a placeholder, an early work in progress, or it is subject to a rework.
 
 The Strix are a rare humanoid sized bird-like [[Ancestries|people]] actually capable of limited, or with enough training even extensive, flight. They are known to be highly isolationist, like the [[Vanara]] and [[Orcs]], acting out suspicion and even hatred against other humanoid societies. While there are Strix that leave their nests, they need to take time to learn and integrate into 'civilised' society, have relatively short life-spans, and rarely manage to produce an off-spring - and as such they remain a rare sight. Their illustrious forms and capability to fly however, sometimes compared to [[Angels]], usually makes them quite the centre of attention when they do visit cities. The [[G'Mayun]] and [[Tengu]] may hold either contempt or awe for their larger flight-capable counterparts.
 
