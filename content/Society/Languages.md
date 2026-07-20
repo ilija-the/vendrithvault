@@ -65,24 +65,34 @@ Many languages have either been lost to time, are magical or mystical in nature,
 
 > As such, all of these special languages will have the Rare rarity.
 
-Special Languages include:
+Secret languages include:
+- Wildsong, a language taught only to [[Druid|Druids]] which is highly forbidden to teach to anyone else.
+
+Forgotten languages include:
 - Elvish, spoken only by the very few still-remaining [[Elves]]. The language is like their ancestry endangered, and attempts to transcribe or learn it by others is usually describes as unsatisfactory and missing much nuance.
-- Diabolic
-- Requian
-- Necril
-- Arboreal
-- Fey
-- Jotun
+
+Elemental languages include:
 - Petran, a language tied to [[Elementals|Earth Elementals]].
 - Pyric, a language tied to [[Elementals|Fire Elementals]].
-- Sussuran, a language tied to [[Elementals|Water Elementals]]
-- Thalassic
-- Alghollthu
-- Wildsong, a language taught only to [[Druid|Druids]] which is highly forbidden to teach to anyone else.
+- Sussuran, a language tied to [[Elementals|Air Elementals]].
+- Thalassic, a language tied to [[Elementals|Water Elementals]].
+
+Monster languages include:
+- Necril
+- Alghollthu, a languagespoken only by the 
 - Chtonian
+- Sphinx
+- Arboreal
+
+Planar languages include:
+- Empyrean, the language formerly spoken in the hierarchy of [[Haeven]]. It is today only maintained by a few high officials in certain [[Temple|Churches]], such as those of [[Longdawn]].
+- Diabolic, a language spoken by [[Devil|Devils]] and [[Demon|Demons]] 
+- Requian
+- Fey
+- Jotun
 - Daemonic
 - Protean
-- Sphinx
+
 
 
 
