@@ -16,15 +16,11 @@ Common languages include:
 - Geyli, a common language that once helped unify [[Galae|Galaens]] that fell out of favour, but is seeing some attempted revival.
 - Vili, the language of the common folk of [[Vilhun|Vilhun]], related to old Mogxan languages like Draconic.
 - Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Tributary Coast]] and [[The Rend]].
-- Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, 
-- 
-Regional languages:
-[[Ylfi]]
-[[Skald]]
-[[Bay Pidgin]]
-[[Harza Pidgin]]
+- Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, and that both are progenitors of the "logical" language of [[Arcane Magic]].
+- Bay Pidgin, a common language formed as a mixture of the various peoples of the [[Rubyfirth Bay]] who went to of [[Horiza]]'s second wave of migration, centred on [[Adamsworth]]. 
+- Harza Pidgin, formed by the peoples of Horiza's third wave of migration
 
-[[Languages]]:
+
 
 Lost, magical, monster or outsider languages:
 [[Ancient Elvish]]
