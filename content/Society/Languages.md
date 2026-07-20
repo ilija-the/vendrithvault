@@ -54,18 +54,13 @@ Ancestral languages include:
 - Kholo, an ancestral language of the [[Kholo]] from deeper [[Eydwin]] brought with the Kholo who migrated north, primarily to [[Galae]]. Its far flung roots make it particularly unintelligible to other language speakers around.
 - Ysoki, spoken by the [[Ysoki|Ratfolk]] often around the [[Tributary Coast]] and cities of [[Mogxa]]. It often coexists with Sakvroth, which it shares much of its sound with.
 - Iruxi, spoken by the [[Iruxi|Lizardfolk]] primarily centred on [[Veducia]] and [[The Rend]].
+- Tripkee, spoken by the [[Tripkee]] centred on [[Veducia]] and [[The Rend]].
+%%- Amurrun, a language that all [[Amurrun|Catfolk]] grow up learning as they grow up without even being taught it. Outsiders comment that it sounds like various other languages messily combined.%%
+- Kitsune, spoken by the [[Kitsune]] of [[Vilhun]].
+- Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]].
 - Elvish [Always Rare], 
 
-
-
-[[Elves]]
-[[Iruxi]]
-[[Amurrun]]
-[[Kitsune]]
-[[Dwarves]]
-[[Tripkee]]
-[[Ysoki]]
-[[Orcs]]
+Many languages h
 
 > All special languages will have the Rare rarity.
 
