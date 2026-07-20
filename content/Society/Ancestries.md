@@ -29,7 +29,7 @@ In this tradition, all goblinoids are believed to be direct descendants of the m
 | Common                      | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                       |
 | Uncommon                    | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaurs]], [[G'Mayun]], [[Tripkee]], [[Tengu]], [[Leshys]], [[Beastkin]]    |
 | Rare                        | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonbloods]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]], [[Athamaru]], |
-| On hold / To be implemented | [[Conrasu]], [[Strix]], [[Rabbitfolk]], [[Pnoll]], Anadi, Nagaji                                                                                                                         |
+| On hold / To be implemented | [[Conrasu]], [[Strix]], [[Rabbitfolk]], [[Pnoll]], [[Anadi]], [[Nagaji]]                                                                                                                 |
 | Not yet implemented         | Azarketi, Centaur, Fetchling, Merfolk, Samsarans, Wayang, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                                                  |
 | Unlikely to be implemented  | Android                                                                                                                                                                                  |
 An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however. Also see [[Special Heritages]].
