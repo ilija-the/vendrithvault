@@ -19,6 +19,9 @@
 >1072 ADc
 >[[Wick]] born.
 >
+>1185 ADc
+>[[Bishop the Peacemaker]] is born.
+>
 >1086 ADc
 >[[Wick]] meets their fate but becomes [[Undead]].
 >
@@ -128,6 +131,7 @@
 > 
 >1273 ADc
 >[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]] (24), [[Tricky]] (x), [[Nimbus]] (x) and [[Rex Stormwind|Rex]](x).
+>Meets their fate: [[Bishop the Peacemaker]] (88).
 >[[Gen]] created.
 > 
 >1274 ADc
