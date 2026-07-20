@@ -9,7 +9,7 @@ Classes is a term used to divide up people into different roles - which is most 
 
 While many adventurers fit the archetypical classes well, many are of a mixed nature (multi-classing), and even more (NPCs) find paths that are only reminiscent of the traditional classes.
 
-Classes are often divided between warriors, also called martials, and mages, also called spellcasters. Those who combine much of the two, like [[Magus|Magi]], are sometimes called a spellsword, or a "gish."
+Classes are often divided between warriors, also called martials, and mages, also called spellcasters. Those who combine much of the two, like [[Magus|Magi]], are sometimes called a spellsword or a "gish."
 
 The classes that most (PCs) fit into are:
 [[Alchemist]]
