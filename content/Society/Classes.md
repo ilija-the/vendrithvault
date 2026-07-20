@@ -1,5 +1,6 @@
 ---
 aliases:
+  - class
 tags:
   - culture/adventurer
 ---
