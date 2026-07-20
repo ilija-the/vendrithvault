@@ -1,6 +1,13 @@
 ---
 tags:
   - religion
+  - restricted
+aliases:
+  - Divinity
+  - Ascension
+  - Deity
+  - deity
+  - deities
 ---
 An extremely powerful creature or force. The most commonly known and worshipped form of deity used to be the [[Titans]]. 
 
@@ -24,3 +31,8 @@ Other more controversial ones are the [[Daydreaming Truth]], and the Wordless Fl
 
 ### Ascended Deities
 [[Mantle]]
+
+[[Titans]]
+[[Mantle]]
+[[Saint]]
+[[Demideities]]

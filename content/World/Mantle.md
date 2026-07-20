@@ -9,5 +9,5 @@ Mantles are mysterious [[Divine]] aspects that deities, or at least Ascended Dei
 [[Titans]]
 [[Trinities]]
 [[Reverence]]
-[[Deity]]
-[[Ascension]]
+[[Divinity]]
+[[Divinity]]

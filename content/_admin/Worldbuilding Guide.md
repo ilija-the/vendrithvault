@@ -109,7 +109,7 @@ These are topics with specific visions/rules that need to be kept in mind.
 
 1. Underdark-style realm. You are free to make specific underground areas, but avoid making sweeping implications for the underground of the world. There is no confirmed equivalent of an underdark in the current worldbuilding of Vendrith.
 2. Deities. Almost always have big implications, be cautious and do consult with Ilija.
-3. [[Ascension]] and [[Mantle|Mantles]]. Must remain mystical.
+3. [[Divinity]] and [[Mantle|Mantles]]. Must remain mystical.
 4. [[Firearms]]. Need to largely stay the domain of Crusaders, and any non-godpowder alternatives to them (redpowder, air-rifles) need to remain niche.
 5. [[The Great Silence]]. The Titans no longer communicate or interfere with the world directly. Miracles can and still happen, but there is still no confirmation that 1) the exiled Titans are watching, or 2) the exiled Titans can communicate with us still.
 6. [[World Fleece|The World Fleece]]. It must remain mysterious.

@@ -12,3 +12,5 @@ tags:
   - society
 ---
 Temples, also known as Churches, refers to both congregations of people with a similar [[Religion]] as well as the physical buildings they gather at. 
+
+[[Shrines]] are often related to them. [[Funeral Rites|Funerals]] and [[Gender, Relationship and Marriage Customs]]

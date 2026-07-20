@@ -18,7 +18,7 @@ aliases:
    In the absence of other information, you are free to assume ancestries are similar to their traditional/pathfinder lore. If they turn out not to be you can always play it off as your character having a misconceived stereotype!
 
 ## Overview
-The ancestries of Vendrith, people, refers to the sapient and mostly humanoid [[Creatures]] of Vendrith whom clearly possess consciousness and are capable of language. Those whom don't cleanly fit into this category whilst also not being mere [[Animals]] are usually called [[Monsters of Vendrith|Monsters]]. Whether [[Deity|Deities]] and other divine or primal beings remain people is an open question.
+The ancestries of Vendrith, people, refers to the sapient and mostly humanoid [[Creatures]] of Vendrith whom clearly possess consciousness and are capable of language. Those whom don't cleanly fit into this category whilst also not being mere [[Animals]] are usually called [[Monsters of Vendrith|Monsters]]. Whether [[Divinity|Deities]] and other divine or primal beings remain people is an open question.
 
 The traditional [[Mythos of Vendrith]] has it that life on Vendrith was painted in the [[Creator Monkey|Creator Monkey's]] image, and it is thus assumed the first people alive were similar to anthropomorphic monkeys. Possibly supporting this theory is the fact that [[Vanara]], whom claim to be an offshoot that diverged from what would become [[Hobgoblins]], still retain an appearance remarkably similar to what these original people are believed to look like. 
 
