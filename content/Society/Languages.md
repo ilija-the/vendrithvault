@@ -4,6 +4,7 @@ tags:
   - languages/common
   - places/ferweth
   - languages/special
+  - languages/ancestral
 aliases:
   - language
   - ancestral languages
