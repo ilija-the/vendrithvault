@@ -71,27 +71,27 @@ Secret languages include:
 Forgotten languages include:
 - Elvish, spoken only by the very few still-remaining [[Elves]]. The language is like their ancestry endangered, and attempts to transcribe or learn it by others is usually describes as unsatisfactory and missing much nuance.
 
-Elemental languages include:
+Elemental or similar languages include:
 - Petran, a language tied to [[Elementals|Earth Elementals]].
 - Pyric, a language tied to [[Elementals|Fire Elementals]].
 - Sussuran, a language tied to [[Elementals|Air Elementals]].
 - Thalassic, a language tied to [[Elementals|Water Elementals]].
+- Protean, a language tied to cosmic forces of chaos.
 
 Monster languages include:
-- Necril
-- Alghollthu, a languagespoken only by the 
+- Necril, something approximating a language uttered by certain [[Undead]].
+- Alghollthu, a language spoken only by the [[Aquatic|aquatic]] [[Alghollthu]].
 - Chtonian
 - Sphinx
 - Arboreal
+- Jotun, a language spoken by various [[Giants]], such as those in [[Ferweth|Far Ferweth]].
 
 Planar languages include:
 - Empyrean, the language formerly spoken in the hierarchy of [[Haeven]]. It is today only maintained by a few high officials in certain [[Temple|Churches]], such as those of [[Longdawn]].
-- Diabolic, a language spoken by [[Devil|Devils]] and [[Demon|Demons]] 
-- Requian
-- Fey
-- Jotun
-- Daemonic
-- Protean
+- Diabolic, a language spoken by [[Devil|Devils]] and [[Demon|Demons]], such as those in [[Crimson]].
+- Daemonic, an older language like Diabolic spoken by the ancient [[Daemons]].
+- Requian, a language used to communicate with souls in the [[River of Death]].
+- Fey, a language spoken in the [[Feydark]] and by a variety of [[Fey]] creatures.
 
 
 
