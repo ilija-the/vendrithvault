@@ -7,6 +7,6 @@ The Chocolate Islands are a series of islands in [[Horiza]], home to the first a
 
 Friedport sits on the largest and most central island of Everdry. Other settlements here include the Rum Hills and Meadport.
 
-
+The adjacent Cookiebatter Island is home to Saint Earlybird, which disputes Friedport's claim to being the first settlement of Horiza.
 
 The island of Loushea is home to the settlements of Loushea and Honeykiller.
