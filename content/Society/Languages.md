@@ -9,6 +9,17 @@ aliases:
   - common languages
   - ancestral language
   - common langugae
+  - Idurian language
+  - Encanuri language
+  - Maux Xi language
+  - Whetish language
+  - Ylfi language
+  - Geyli language
+  - Vili language
+  - Sakvroth language
+  - Skald language
+  - Bay Pidgin langugae
+  - Harza Pidgin language
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
 
@@ -37,11 +48,12 @@ Ancestral languages include:
 - Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili.
 - Goblin, spoken by the [[Goblinoids]]. [[Goblins]] themselves are concentrated around Canathi and Mogxan cities, whereas [[Hobgoblins]] spread the language more out into sparse areas.
 - Gnomish, spoken by the mysterious [[Gnomes]]. It's wispy sounds are difficult for other ancestries to understand, let alone speak.
+- Halfling, spoken by the mysterious [[Halflings]]. It's written form is reminiscent of the hieroglyphic [[Halfling Markings]] that appear on their bodies.
+- Orcish, taught and spoken in the closed-off ethno-religious [[Orcs|Orcish]] community.
 
 
 
 [[Elves]]
-[[Halflings]]
 [[Kholo]]
 [[Iruxi]]
 [[Amurrun]]
@@ -51,7 +63,6 @@ Ancestral languages include:
 [[Ysoki]]
 [[Vanara]]
 [[Orcs]]
-[[Dragons]]
 
 > All special languages will have the Rare rarity.
 
