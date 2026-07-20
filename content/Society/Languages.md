@@ -58,14 +58,13 @@ Ancestral languages include:
 %%- Amurrun, a language that all [[Amurrun|Catfolk]] grow up learning as they grow up without even being taught it. Outsiders comment that it sounds like various other languages messily combined.%%
 - Kitsune, spoken by the [[Kitsune]] of [[Vilhun]].
 - Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]].
-- Elvish [Always Rare], 
 
-Many languages h
+Many languages have either been lost to time, are magical or mystical in nature, or are only spoken by certain types of [[Monsters of Vendrith|Monster]] or other [[Creatures]]. These require intense study by most humanoids to learn, which would require access to old texts, archaeological findings, or perhaps even the creatures in question to do.
 
-> All special languages will have the Rare rarity.
+> As such, all of these special languages will have the Rare rarity.
 
-Lost, magical, monster or outsider languages:
-[[Ancient Elvish]]
+Special Languages include:
+- Elvish, spoken only by the very few still-remaining [[Elves]]. The language is like their ancestry endangered, and attempts to transcribe or learn it by others is usually describes as unsatisfactory and missing much nuance.
 [[Requian]]
 [[Empyrean]]
 [[Necril]]
