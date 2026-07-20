@@ -20,8 +20,9 @@ Vön's population is largely raised speaking an accent of the [[Encanuri]] langu
 
 The name Vön is thought to mean "rest" in the [[Proto-Philosophian Language]]. Oral retellings of the place's origin call it Vöncanat, which could mean something like can we rest," or in its transferred meaning - "place we rest" (the language uses questions in an unconventional way). It is believed this is where the name of [[Canath]] comes from. Another theory says Vön means "what we're used to," and Vöncanath essentially means "comfortable home."
 ## Geography
+The town of Riverside, built in the aftermath of the failure of the castle of [[Vestitur]], serves as the chief entry-point to Vön from the [[Celene]] parts of Canath, as well as where their influence and [[Mercantilism|trade]] flows in through. There is an opening towards the [[Rubyfirth Bay|Rubyfirth]] part however. The border with Nagonkor is generally impassable due to cliffs and harsh climate and terrain differences, which has caused 
 ## History
-Vön is largely the realm of the [[Kingdom of Vestitur]], famous for the myth of the [[Vestitur Relics]]. That Kingdom's once-capital of [[Riverside]] commonly marks the border of Vön and the rest of Encanath. Vön was also once known for training the [[Silver Couriers]] as the only runners capable of safely using the [[Silver Pass]], though they have long since began to fade into obscurity. The [[Town of Ire]] today houses their last headquarters.
+Vön is largely the realm of the [[Kingdom of Vestitur]], famous for the myth of the [[Vestitur]]. That Kingdom's once-capital of [[Riverside]] commonly marks the border of Vön and the rest of Encanath. Vön was also once known for training the [[Silver Couriers]] as the only runners capable of safely using the [[Silver Pass]], though they have long since began to fade into obscurity. The [[Town of Ire]] today houses their last headquarters.
 
 The Vöni are known to export warm winter clothes, but also certain materials such as [[Whittar]]. Obscure sources point to Vön as the once source of [[Blackice]].
 

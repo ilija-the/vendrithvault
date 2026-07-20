@@ -95,7 +95,7 @@ In short: the newcomers remembered him for having lead the [[Landcrab Plot]], co
 
 The first victim was [[Carlos Valenci]], found killed in the Portaupearl Crypts. Another victim which did not die was [[Develyn Barbie]], which he had scoped out as having a suitable arm replacement, which he stole with the help of Doctor Hallan. He was acquainted with [[Sister Amelie Kenton]], which he manipulated and pressured into helping him towards his greater plans. Half a dozen people were killed by him in the [[Haven#Haven Massacre|Haven Massacre]], including [[Sister Innocent]], which he lured away to a murder location under the disguise of being [[Brother Archangel]]. Lastly, he also killed a worker named Spit Furst at [[O' Captain]]'s mansion.
 
-Towards this end he had obtained the [[Vestitur Relics]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself using [[Campaigns/Winters of Vön/Entanglement Stones]] to a [[Labyrinthia|Labyrinthine]] plane.
+Towards this end he had obtained the [[Vestitur]] and prepared the local [[Leylines]] to essentially cast an enormous spell preventing the telling of lies over the city. This version of Karvi styled himself as "The Scurvymaster." In the end he was thwarted by the Newcomers, and exiled himself using [[Campaigns/Winters of Vön/Entanglement Stones]] to a [[Labyrinthia|Labyrinthine]] plane.
 
 ![[KarvisLastSmile.png]]
 *The Scurvymaster, admitting defeat before exiling himself.*

@@ -93,7 +93,7 @@
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
 >.
 >1257 ADc
->Bande Aparte attempts a heist for the [[Vestitur Relics]] in [[Kallea]], fails.
+>Bande Aparte attempts a heist for the [[Vestitur]] in [[Kallea]], fails.
 >[[Auldwell Fareawel|Perckle d'Rits]], the supposed buyer, had betrayed Bande Aparte.
 >Bande Aparte's temporary comrade [[Goldsheen]] is killed for it, he flees alive.
 > 

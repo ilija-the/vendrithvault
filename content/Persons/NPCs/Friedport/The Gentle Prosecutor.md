@@ -14,7 +14,7 @@ The Gentle Prosecutor was a [[Sanitorium|Sanitationist]] prosecutor and envoy to
 
 ![[Gentle_Prosector_Flashback.png]]
 
-He tried [[Bande Aparte]] for the grand theft of and smuggling of the [[Vestitur Relics]] under judge [[Titanaurk Kaesalver]], opposing the defence council consisting of [[Gator Grippli]], [[Ashur Holdok]] and [[Louen Leonceur]]. During the trial, [[Auldwell Fareawel]] was revealed as a [[Crusaders|Crusader]] agent, and the trial site was bombed in an attempt to free him and escape. The Gentle Prosecutor was pronounced to have died, his body taken by the river after said explosion.
+He tried [[Bande Aparte]] for the grand theft of and smuggling of the [[Vestitur]] under judge [[Titanaurk Kaesalver]], opposing the defence council consisting of [[Gator Grippli]], [[Ashur Holdok]] and [[Louen Leonceur]]. During the trial, [[Auldwell Fareawel]] was revealed as a [[Crusaders|Crusader]] agent, and the trial site was bombed in an attempt to free him and escape. The Gentle Prosecutor was pronounced to have died, his body taken by the river after said explosion.
 
 > 🎵 [Theme of Gentle Prosecution](https://youtu.be/79nwdK8xpks)
 

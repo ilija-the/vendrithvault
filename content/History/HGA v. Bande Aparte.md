@@ -5,7 +5,7 @@ tags:
   - campaigns/landcrab-plot
 ---
 
-HGA V. Bande Aparte was a trial between the [[Horizan Guild Association]] and its contracted prosecutor "[[The Gentle Prosecutor]]" versus [[Bande Aparte]] of the [[Newcomers of Friedport]]. Bande Aparte was charged with the grand theft and smuggling of the famously missing [[Vestitur Relics]], which the prosecution claimed he had stolen back in [[Canath]], smuggled to [[Friedport]], and then sold to an unknown third party in the streets of [[Crabraven]]. The trial took place on a riverboat used as a courthouse.
+HGA V. Bande Aparte was a trial between the [[Horizan Guild Association]] and its contracted prosecutor "[[The Gentle Prosecutor]]" versus [[Bande Aparte]] of the [[Newcomers of Friedport]]. Bande Aparte was charged with the grand theft and smuggling of the famously missing [[Vestitur]], which the prosecution claimed he had stolen back in [[Canath]], smuggled to [[Friedport]], and then sold to an unknown third party in the streets of [[Crabraven]]. The trial took place on a riverboat used as a courthouse.
 
 Witnesses included a [[Jade the Just Impersonator]], [[Old Crone|The Old Crone]], [[Beau Gaux]] and [[Bugs]] the clowns, [[Krescha]], and most importantly, [[Auldwell Fareawel]].
 
