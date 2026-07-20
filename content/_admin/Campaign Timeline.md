@@ -82,6 +82,7 @@
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
+>[[Mon Qi]] born.
 >==[[Campaigns#Galaen Wilds|Galaen Wilds]] campaign?==
 >Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
 > 
@@ -122,7 +123,7 @@
 >Meets their fate: [[Gourdon]] (x), [[Lieutenant]] (x).
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]] (x)
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]] (20)
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc

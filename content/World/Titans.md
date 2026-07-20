@@ -12,4 +12,4 @@ It is said all titans were exiled from [[Materia]] with the destruction of the [
 [[Mantle]]
 [[Reverence]]
 
-Timeless Ti
+"Timeless Titan" is a term used for the oldest of Titans that have still not undergone Reverence but still carry much weight in modern religion. 
