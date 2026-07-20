@@ -3,6 +3,7 @@ tags:
   - society
   - languages/common
   - places/ferweth
+  - languages/special
 aliases:
   - language
   - ancestral languages
@@ -21,8 +22,8 @@ aliases:
   - Bay Pidgin langugae
   - Harza Pidgin language
 ---
-Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages and Ancestral Languages.
-
+Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages, Ancestral Languages and Special Languages - though some may fit into multiple categories.
+## Common Languages
 Common Languages are usually based on geography and [[Caste Systems|social standing]]. The language used by commoners in an area, usually within the same realm, is often not the same as those used by merchants, the royal court or sometimes even the guards, army or city folk. The Idurian language today serves as an important common language, spoken by courts across the territories he conquered across [[Canath]] and [[Mogxa]], as well as serving as a language for [[Mercantilism|merchants]], [[Adventurers|adventurers]] and other travellers.
 
 > Common languages will have the Common rarity if they're at home in a campaign's region, Uncommon if they're from elsewhere.
@@ -39,7 +40,7 @@ Common languages include:
 - Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, and that both are progenitors of the "logical" language of [[Arcane Magic]].
 - Bay Pidgin, a common language formed as a mixture of the various peoples of the [[Rubyfirth Bay]] who went to [[Horiza]] during the second wave of migration. Centred on [[Adamsworth]]. 
 - Harza Pidgin, formed by the peoples of Horiza's third wave of migration.
-
+## Ancestral Languages
 Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancestry]] that it's assumed every member of said ancestry speaks it. This is usually correct when they grew up in their heartlands or nearby, or at least were born in a diaspora. A few however are so estranged from their homelands and people that they don't speak their 'own' language.
 
 > Ancestral languages will have the Rarity of their ancestry, based off the specific region and campaign, or in the absence of such, the [[Ancestries|general list]].
@@ -55,33 +56,33 @@ Ancestral languages include:
 - Ysoki, spoken by the [[Ysoki|Ratfolk]] often around the [[Tributary Coast]] and cities of [[Mogxa]]. It often coexists with Sakvroth, which it shares much of its sound with.
 - Iruxi, spoken by the [[Iruxi|Lizardfolk]] primarily centred on [[Veducia]] and [[The Rend]].
 - Tripkee, spoken by the [[Tripkee]] centred on [[Veducia]] and [[The Rend]].
+- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Tributary Coast]] and [[The Rend]].
 %%- Amurrun, a language that all [[Amurrun|Catfolk]] grow up learning as they grow up without even being taught it. Outsiders comment that it sounds like various other languages messily combined.%%
 - Kitsune, spoken by the [[Kitsune]] of [[Vilhun]].
 - Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]].
-
+## Special Languages
 Many languages have either been lost to time, are magical or mystical in nature, or are only spoken by certain types of [[Monsters of Vendrith|Monster]] or other [[Creatures]]. These require intense study by most humanoids to learn, which would require access to old texts, archaeological findings, or perhaps even the creatures in question to do.
 
 > As such, all of these special languages will have the Rare rarity.
 
 Special Languages include:
 - Elvish, spoken only by the very few still-remaining [[Elves]]. The language is like their ancestry endangered, and attempts to transcribe or learn it by others is usually describes as unsatisfactory and missing much nuance.
-[[Requian]]
-[[Empyrean]]
-[[Necril]]
-[[Diabolic]]
-[[Arboreal]]
-[[Fey Language]]
-[[Jotun Language]]
-[[Petran]]
-[[Pyric]]
-[[Sussuran]]
-[[Thalassic]]
-[[Alghollthu Language]]
-[[Wildsong]]
-[[Chtonian]]
-[[Daemonic]]
-[[Protean]]
-[[Sphinx]]
+- Diabolic
+- Requian
+- Necril
+- Arboreal
+- Fey
+- Jotun
+- Petran, a language tied to [[Elementals|Earth Elementals]].
+- Pyric, a language tied to [[Elementals|Fire Elementals]].
+- Sussuran, a language tied to [[Elementals|Water Elementals]]
+- Thalassic
+- Alghollthu
+- Wildsong, a language taught only to [[Druid|Druids]] which is highly forbidden to teach to anyone else.
+- Chtonian
+- Daemonic
+- Protean
+- Sphinx
 
 
 
