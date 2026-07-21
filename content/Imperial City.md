@@ -1,0 +1,1 @@
+The Imperial City was once the capital and court of the [[Western Kobold Dynasty]], before their defeat by the [[Sanitorium]] which is now mainly based up the road to the [[Sophine Hills]]. The Imperial City remains an
