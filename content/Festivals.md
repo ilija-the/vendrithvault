@@ -12,12 +12,16 @@ Festivals in [[Mogxa]] include:
 - Annual burning of effigies of the [[Kobold Throne]] in [[Houville]].
 - An annual festival amongst the [[Draconic Tribes of Mogxa|Draconic Tribes]] that was declared during the [[Western Kobold Dynasty]], as a way to value instead of suppress their draconic heritage. Controversial amongst outsiders, it's usually done where it can be kept exclusive and away from prying or easily offended eyes.
 
-Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[include:
+Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[Horiza]] include:
 - The [[Summer Games]], a publicly beloved tournament akin to free [[Gladiators|Gladiator fighting]]. It starts one day after the first rains of (later) summer begin, which itself is celebrated with a variety of dances and other build-up to the games.
 - The Flowering Ceremony, a time in which the arrival of most flora's flowering is celebrated by being used as decorations on people's clothes, around one's homes and shops, and as flower crowns.
 - The Great Public Alefeast, a celebration during which people move their tables and chairs outside, putting them together with others on the same street, and enjoying a meal together.
 
+%%
 Festivals in [[Vilhun]] include:
-- ==TBD?==
+- ==Annual Bell-song ceremony?==
+- ==Laying tribute at the foot of 
 
-Festivals in 
+Festivals in [[Ferweth]] include:
+- ==Celebrating the defeat of the [[Silver Wolf of Ferweth]]?==
+%%
