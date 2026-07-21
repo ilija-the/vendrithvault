@@ -37,7 +37,7 @@ Azurite
 Lapis Lazuli
 Malachite
 Fool's Gold (Pyrite)
-Cave Cotton
+Cave Cotton (Asbestos)
 Gypsum
 Jade
 
