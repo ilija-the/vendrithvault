@@ -1,1 +1,0 @@
-The Electrum Mountains are a mountain chain that occupies the central-western side of [[Mogxa]], lying between the city of [[Zardoba]] and [[Philosophia]]. It separates the lands of what's now known as "Imperial Mogxa" and the [[]]

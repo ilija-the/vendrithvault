@@ -1,0 +1,1 @@
+The Heavenly Wall is a highly fortified castle-settlement named after a series of large walls that divide it. It was constructed this way in order to guard the [[Mogxa|Mogxan continent]] from invasion across one of the two land-bridges to [[Galae]] - the [[Ivory Road]].
