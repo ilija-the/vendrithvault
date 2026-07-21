@@ -24,6 +24,6 @@ Festivals in [[Vilhun]] include:
 
 Festivals in [[Ferweth]] include:
 - ==Celebrating the defeat of the [[Silver Wolf of Ferweth]]?==
-- ==The Dark Hour, showing gratefullness to the light of [[Saint Ima]] by living in the dark for an hour?==
+- ==The Dark Hour, showing gratefulness to the light of [[Saint Ima]] by living in the dark for an hour?==
 - ==All-Saints Day?==
 %%
