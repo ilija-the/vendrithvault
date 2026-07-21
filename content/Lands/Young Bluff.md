@@ -1,6 +1,9 @@
 ---
 tags:
   - places/mogxa/steppe
+  - nature/cliff
+aliases:
+  - Old Bluff
 ---
 The Young Bluff is a large largely-contiguous cliff creating a large height difference between the western and eastern edge of the [[Mogxa|Mogxan Steppe]]. It's called young because it only gained its current form recently during an enormous earthquake and tectonic shift, often considered a part of the [[Disasters of the Silence]]. Cliffs existed along the line previously, but was less extreme and less contiguous, providing more slopes which could be climbed or descended down.
 
