@@ -1,0 +1,1 @@
+Meizhine is a large settlement that constitues part of [[Mogxa|Central Mogxa]]. It sits in an area with plentifully flat lands, much rather steppe-like. The [[Agriculture]] here requires intensive irrigation to function - which has indeed worked well over the centuries, and provided many innovations and an example in workforce discipline to the rest of Mogxa. Many 
