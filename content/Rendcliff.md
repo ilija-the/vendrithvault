@@ -1,0 +1,1 @@
+Rendcliff is a cliffy shore that is more hospitable than the [[Zardoba|Zardoban Desert]] around its southeast. While it has often 
