@@ -2,6 +2,7 @@
 tags:
   - society
   - ancestries/ysoki
+  - places/mogxa
 aliases:
   - ysoki
   - Ratfolk
