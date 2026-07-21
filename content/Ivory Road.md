@@ -1,0 +1,1 @@
+The Ivory Road is a long-standing trade route that stretches west-east through [[Galae]], starting around the slopes of the [[Galae#The High Plateau|]]landing in [[Mogxa]] through the southern of its two land bridges around [[The Scar]]. As its name implies, it was once known for carrying Galaen Ivory into those lands.
