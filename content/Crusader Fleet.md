@@ -1,1 +1,0 @@
-The [[Crusaders|Crusader]] cause is most known for its large [[Crusader Armies|Armies]], but it also maintains a sizeable fleet built along the southern coasts of [[Canath]] leading into the [[Rubyfirth Bay]]. This fleet is meant to project power into [[The Rend]] and the [[Sergetis|Mouth of Mogxa]], 
