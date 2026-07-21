@@ -6,4 +6,4 @@ Xialrey is a settlement on the [[Mogxa#Mogxan March|Mogxan March]], serving as t
 
 [[Titansfell]] lies nearby, which Xialrey's territory almost envelops. Other nearby settlements are [[Houville]] to the north, and [[Philosophia]] and [[Meizhine]] to the east.
 
-Xialrey can also access [[Avrantes]]
+Xialrey can also access [[Avrantes]] through a smaller road.
