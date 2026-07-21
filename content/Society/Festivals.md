@@ -20,8 +20,10 @@ Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[Hor
 %%
 Festivals in [[Vilhun]] include:
 - ==Annual Bell-song ceremony?==
-- ==Laying tribute at the foot of 
+- ==Laying tribute at the foot of Mount Hun?==
 
 Festivals in [[Ferweth]] include:
 - ==Celebrating the defeat of the [[Silver Wolf of Ferweth]]?==
+- ==The Dark Hour, showing gratefullness to the light of [[Saint Ima]] by living in the dark for an hour?==
+- ==All-Saints Day?==
 %%
