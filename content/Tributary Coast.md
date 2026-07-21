@@ -1,1 +1,1 @@
-The Tributary Coast refers to the peninsula at the south-western edge of [[Mogxa]], which has never had any large unified realms, has remained 
+The Tributary Coast refers to the peninsula at the south-western edge of [[Mogxa]], which has never had any large unified realms, and has remained rather rural, and thus has mostly had to swear allegiance and pay tribute to the larger [[Mogxan Empires]] neighbouring it.
