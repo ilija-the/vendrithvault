@@ -1,0 +1,3 @@
+The Young Bluff is a large largely-contiguous cliff creating a large height difference between the western and eastern edge of the [[Mogxa|Mogxan Steppe]]. It's called young because it only gained its current form recently during an enormous earthquake and tectonic shift, often considered a part of the [[Disasters of the Silence]]. Cliffs existed along the line previously, but was less extreme and less contiguous, providing more slopes which could be climbed or descended down.
+
+The Young Bluff also lies along what at one point was the effective end of [[Galae|Galaen]] influence, when their people rode on the steppe.
