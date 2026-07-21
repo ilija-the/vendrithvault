@@ -1,0 +1,1 @@
+Farxeau is a settlement that is often considered the end of [[Mogxa]] proper when riding west towards [[Galae]], and serves as an essential entry-point and hub city. 
