@@ -1,5 +1,6 @@
 ---
 tags:
+  - places/mogxa/march
 ---
 Farxeau is a settlement that is often considered the end of [[Mogxa]] proper when riding west towards [[Galae]], and serves as an essential entry-point and hub city. It is a thriving hub of [[Mercantilism]]. It also contains a large amount of descendants of the original [[War Over Haeven|Anti-Titan Army]], whom were granted lands here that were left owner-less after their peasants were killed by the [[Kobold Throne]] putting down a rebellion.
 
