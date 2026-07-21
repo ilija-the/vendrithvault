@@ -6,4 +6,4 @@ The Imperial City was once the capital and court of the [[Western Kobold Dynasty
 
 The city has gained a number of other nicknames since it ceased being the seat of the Empire, though none have decisively won out yet. It is common to joke about the irony of the "Imperial City with no Empire."
 
-The coastal city of [[Kathayle]] lies to the south, tying the 
+The Imperial City's citizens once wielded a total monopoly over access to and hunting in the [[Imperial Estates]], though this has been loosening up (much to the local's dismay). The coastal city of [[Kathayle]] lies to the south, tying Imperial Mogxa to the ocean of the [[Sergetis|Mouth of Mogxa]].
