@@ -1,0 +1,3 @@
+Xialrey is a settlement on the [[Mogxa#Mogxan March|Mogxan March]], serving as the the starting point of the march from central Mogxa towards the [[Guardian Districts]]. The settlement famously rebelled against their governor and imprisoned him so that they could surrender to the [[War Over Haeven|Anti-Deist Army]] during the War Over Haeven. 
+
+Other nearby settlements include 
