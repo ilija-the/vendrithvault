@@ -1,1 +1,0 @@
-Titansfell, formerly called Chenlieu, is a settlement in the [[Mogxa#Mogxan March|Mogxan March]] famous for having fielded a battle that [[Titans]] directly participated in, and lost, during the [[War Over Haeven]]. 
