@@ -61,7 +61,7 @@ Sergethis once constituted a much larger mass of land in its southern tip, thoug
 The [[Lakes of Life]] are a set of lakes, and a surrounding jungle that is extremely dense, dangerous and inhospitable, which sits on an enormously elevated plateau. It is completely impassable terrain for anyone but the most dedicated of small-group explorers, and thus has served as a natural barrier separating Eastern Mogxa from what today is Imperial Mogxa. Back when the east and Sergethine parts of the Mogxan Empires constituted its heartland, the Lakes of Life allowed for the concentration of defence in the north if push came to shove, a line which few hostile armies managed to cross.
 
 > [!important] **The Old Tributaries**
-> [[Fenrunr]], the [[Tributary Coast]] and [[Lorgun]] all can be considered part of the Mogxan imperial tradition to some degree or other.
+> [[Fenrunr]], the [[Hommagong]] and [[Lorgun]] all can be considered part of the Mogxan imperial tradition to some degree or other.
 
 ## History
 To be detailed:
