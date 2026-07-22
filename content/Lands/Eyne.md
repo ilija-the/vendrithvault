@@ -1,14 +1,8 @@
 ---
 tags:
   - magic
-  - places/canath
 aliases:
-  - Celesteyne
 ---
-Eyne is a term for floating, and sometimes moving, islands - which usually exist through [[Cosmology of Vendrith|planar]] man-made [[Magic|magical]] reasons. The most plentiful and well known of these are the [[Celesteyne]] of the [[Celene]]. There'
+Eyne is a term for floating, and sometimes moving, islands - which usually exist through [[Cosmology of Vendrith|planar]] man-made [[Magic|magical]] reasons. The most plentiful and well known of these are the [[Celesteyne]] of the [[Celene]]. The mega-city of [[Philosophia]] has a number of Eyne today held up by the [[Leylines|leylines]] the city runs on, such as [[Backbreaker Island]]. There's also a semi-mythological set of three Eyne over [[Vön]], though their presence is apparently always obscured by the eternal wintery clouds above.
 
-are a series of floating and sometimes moving islands  centred above and around the [[Celene|Celestarian]] sea of [[Canath]]. Due to their presence, this is one of the few areas in the world that makes use of costly and cumbersome [[Flying Ships]].
-
-Canathi mages have learned how to steer these Eyne, if slowly, over the centuries. The Eyne somewhat regularly touch down and just about float the waters of the Celene itself in order to re-fill supplies. This has to be done in a place and during a time that it is not vulnerable to attack, since it provides an ideal time for would-be conquerors to seize the otherwise highly-defendable islands.
-
-The Eyne move around the Celene but rarely cross over the land. Due to a peculiarity of the waters of the Celene, it breaks up falls from a much higher distance than regular water does before becoming as deadly as hitting hard ground. A small number of warriors and [[Adventurers|adventurers]] of Canath take advantage of this and learn to dive from extremely high distances into the Celene, which can allow surprise attacks or rapid reinforcements of naval or coastal battles.
+Eyne remain rare outside of the few places they're known to exist, and are highly expensive and usually impractical to make and maintain in all but the fewest cases.
