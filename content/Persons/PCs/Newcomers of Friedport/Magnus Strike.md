@@ -17,7 +17,7 @@ Magnus eventually travelled to [[Friedport]] to continue his research. On the sh
 
 After helping fight off strange creatures of light or vitality spawned by Leylines, Magnus joined the [[Newcomers of Friedport]], helped stop the [[Landcrab Plot|Landcrab Plot]], and won the [[Summer Games]], gaining the title of [[Herō of Friedport]]. As part of this he uncovered a leyline map created by the [[Horizan Precursors]].
 
-At the end of these events, he (unwittingly) helped summon his mysterious sponsor, the [[Magus in the High Tower]] (and his tower-town) to [[Horiza|Horiza]] using [[Campaigns/Winters of Vön/Entanglement Stones|secret teleportation techniques]].
+At the end of these events, he (unwittingly) helped summon his mysterious sponsor, the [[Magus in the High Tower]] (and his tower-town) to [[Horiza|Horiza]] using [[Entanglement Stones|secret teleportation techniques]].
 
 ![[fishooe magnus kitty.webp|left|300]] After the events of the Landcrab Plot he has resumed his research under the wing of his [[Magus in the High Tower|sponsor]] and developed an interest in transmutation magic, inspired by how [[Disability|common grafts]] are in [[Horiza]].
 
