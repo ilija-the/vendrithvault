@@ -7,6 +7,6 @@ aliases:
   - Rustyard of Dreams
 ---
 #cosmos
-[[Cosmology of Vendrith]]
+[[Cosmology]]
 
 Possibly connected to [[Feydark]] and [[Deep Gray]].

@@ -13,7 +13,7 @@ Some special heritages have a [[Monsters of Vendrith|monstrous heritage]]. This 
 - The Suli, carrying the mixed blood of various elemental [[Genies]].
 
 Other special heritages include:
-- The Aphorites, those touched by the powers of [[Cosmology of Vendrith|cosmic]] order.
+- The Aphorites, those touched by the powers of [[Cosmology|cosmic]] order.
 - The Ardande, those whose bodies are imbued with the power of [[Nature]].
 - The Duskwalkers, a type of creature tied to the [[River of Death]].
 - The Ganzi, those touched by the powers of cosmic chaos.

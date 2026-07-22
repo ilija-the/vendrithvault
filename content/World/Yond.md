@@ -5,4 +5,4 @@ The much smaller [[Moons of Vendrith]] interact with it strangely, seeming to av
 
 Often connected to the (non-titanic) deity called the [[Daydreaming Truth]]
 
-[[Cosmology of Vendrith]]
+[[Cosmology]]

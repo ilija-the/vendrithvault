@@ -40,7 +40,7 @@ aliases:
 
 A 
 
-[[Cosmology of Vendrith]]
+[[Cosmology]]
 
 **Pantheon** Orcish, Mewji
 
