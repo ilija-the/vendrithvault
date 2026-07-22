@@ -1,6 +1,8 @@
 ---
 aliases:
   - translocation
+tags:
+  - magic
 ---
 Teleportation is a specific kind of magical effect where an entity is transported through space (and possibly time) without having to do the act of travelling from point A to point B. 
 
@@ -8,7 +10,7 @@ The term Teleportation Magic is also broadly used to refer to a study of [[magic
 
 Teleportation Magic is an advanced and as such uncommon form of magic, only used regularly by prestigious adventurers and courts in situations where speed is of the essence.
 
-The difficulty of teleporting scales proportionally with distance skipped and effective area of the teleported entities. As such it is way more common for spellcasters to teleport one person at a time, even if it ends up being less efficient, due to the increased complexity of attempting to do it in multitudes. Entire areas can also be teleported at great expense, and failure while doing so can result in catastrophic repercussions on both origin and destination, one prime example being the [[Paradox Area]]. Failure at smaller scale teleportation (e.g. a person) in comparison either produces minor 'kickback' effects, such as confusion, disorientation, and nausea, or not produce any side effects. There are also other possible issues with teleportation, such as misplacement, but are considered known and broadly regarded as a skill issue.
+The difficulty of teleporting scales proportionally with distance skipped and effective area of the teleported entities. As such it is way more common for spellcasters to teleport one person at a time, even if it ends up being less efficient, due to the increased complexity of attempting to do it in multitudes. Entire areas can also be teleported at great expense, and failure while doing so can result in catastrophic repercussions on both origin and destination, one prime example being the [[Paradox Area]] and newly discovered [[Spellburn]] phenomena. Failure at smaller scale teleportation (e.g. a person) in comparison either produces minor 'kickback' effects, such as confusion, disorientation, and nausea, or not produce any side effects. There are also other possible issues with teleportation, such as misplacement, but are considered known and broadly regarded as a skill issue.
 ## Teleportation Circles
 
 The difficulty associated with distance and proportion thus has caused development of teleportation circles, permanent structures that can be either activated temporarily or be always active, producing an area which teleports anything that enters to a pre-determined location. This location is often arranged prior to the circles activation.
