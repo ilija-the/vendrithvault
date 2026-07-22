@@ -2,7 +2,7 @@
 tags:
   - places/mogxa/march
 ---
-Xialrey is a settlement on the [[Mogxa#Mogxan March|Mogxan March]], serving as the the starting point of the march from central Mogxa towards the [[Guardian Districts]]. The settlement famously rebelled against their governor and imprisoned him so that they could surrender to the [[War Over Haeven|Anti-Deist Army]] during the War Over Haeven. 
+Xialrey is a settlement on the [[Mogxa#Mogxan March|Mogxan March]], serving as the the starting point of the march from central Mogxa towards the [[Mogxa]]. The settlement famously rebelled against their governor and imprisoned him so that they could surrender to the [[War Over Haeven|Anti-Deist Army]] during the War Over Haeven. 
 
 [[Titansfell]] lies nearby, which Xialrey's territory almost envelops. Other nearby settlements are [[Houville]] to the north, and [[Philosophia]] and [[Meizhine]] to the east.
 

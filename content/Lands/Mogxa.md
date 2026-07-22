@@ -2,6 +2,7 @@
 tags:
   - important
   - places
+  - places/mogxa
 aliases:
   - Mogxan
 ---
@@ -41,6 +42,10 @@ The relatively central strip of Mogxa that runs down the western edge of the Lak
 The Mogxan March is a strip of land following the road from Central and Imperial Mogxa towards the Guardian Districts and [[Galae]]. It is home to the settlements of [[Houville]], [[Xialrey]] and [[Farxeau]]. 
 #### Guardian Districts
 The Frontier Armies and Settlements of Mogxa push its influence north-west, into [[Galae]] and towards [[The Scar]]. Its most important site is the [[Heavenly Wall]] city, which guards the [[Ivory Road]], one of only two roads that allow for passage east-west between Mogxa and Galae. It is also home to the Guardian Lake city, and a number of both mobile and more permanent military bases. A grouping of culturally Galaen tribes co-exist with the Mogxans here, occupying the least desired Badlands.
+
+The Guardian Districts is an area that lies to the south of [[Galae#Craggy and Eastern Galae|Eastern Galae]] and has become the furthest west outpost of [[Mogxan Empire]] influence. Its most important settlement is the [[Heavenly Wall]], which guards the [[Mogxa|Mogxan Continent]] from invasion through the [[Ivory Road]] of Galae.
+
+The districts contains a large lake and a mountain range not far from it. It is bordered by the [[Zardoba#Zardoban Desert|Zardoban Desert]] to the south. To its northeast is a badlands which various Galaen tribes inhabit - the officials of the Guardian Districts often maintain close eyes on their leaders in order to ensure no invasion comes from there.
 #### Zardoba, Golden Mogxa
 The grand city of [[Zardoba]] and its surrounding realm has been an autonomous part of [[Mogxa]] roughly since the end of the [[Zardoban Crown|Zardoban Empire]].  It is a port city that sits on [[The Rend]] on the western edge of Mogxa, and has used those seas well for both warfare and commerce. Its governed territories also extend inland along the Silver River and much of the Electrum mountains. It also once stretched further south towards the Tributary Coast, though its territories here have been re-shuffled into other hands. 
 
