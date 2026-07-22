@@ -1,6 +1,8 @@
 ---
 tags:
   - places/canath/celene
+  - magic
+  - nature/islands
 ---
 The Celesteyne are a series of Eye, floating and moving islands, that are centred above and around the [[Celene|Celestarian]] sea of [[Canath]]. Due to their presence, this is one of the few areas in the world that makes use of costly and cumbersome [[Flying Ships]].
 
