@@ -25,8 +25,11 @@ Canath is vast and diverse, and must be divided into a number of areas in order 
 - [[Heroa]], or Heroic Canath, covering much of the southern Celene coast.
 - [[Tower Canath]], or Tower Canath, covering the edge of Canath east of the Celene.
 - [[Painted Canath]], or Painted Canath, covering the northern edge of Canath beyond the Celene. Borders the wilds of [[Ferweth|Far Ferweth]] but sees little contact with them.
-- Forbidden Canath also on the north shore of the Celene, but stretching out west towards the [[Brinkforth]] - and in reality having very few settlements.
+- Forbidden Canath also on the north shore of the Celene, but stretching out west towards the [[Brinkforth]] - and in reality having very few settlements. North of Monastery Canath.
 - [[Rough Canath]], or Rough Canath, further inland of Heroa and lacking any coasts.
+- Dark Canath, to the west of Heroa and Rough Canath.
+- Monastery Canath, on the rocky peninsula that separates the Celene from the narrower passage out towards Brinkforth, also south of Forbidden Canath.
+- Ruby Canath, south of Rough Canath and Vön, covering the northern coast of the [[Ruby]]
 
 > [!important] Vöncanath?
 > The snowy lands of [[Vön]] to the east has long been under Canathi influence in terms of culture and language, despite their unique identity and climate. The lands of Vön can perfectly be considered a part of Canath, though one can also make just as well of an argument to separate it out. For the time being though, Vön remains under official Canathi protection - usually administered through the ruler of [[Vestitur]]-[[Riverside]].
