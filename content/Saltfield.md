@@ -1,0 +1,1 @@
+Saltfield is a recently growing settlement on the eastern edge of [[Mogxa|Central Mogxa]], constructed in order to harvest a 
