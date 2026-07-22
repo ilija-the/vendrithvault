@@ -43,11 +43,11 @@ The grand city of [[Zardoba]] and its surrounding realm has been an autonomous p
 Zardoba was once known as the "City of Gold." Due to its strategic position, size and wealth is has been viewed as the only city capable of seriously threatening the Imperial Heartlands of Mogxa, though in practice it has never managed to do this and more recently it has lost much of its influence to corruption.
 
 Zardoba's north is guarded by an arid desert that few bother to traverse, separating Zardoba from the Frontier Settlements area.
-#### Frontier Settlements
+#### Guardian Districts
 The Frontier Armies and Settlements of Mogxa push its influence north-west, into [[Galae]] and towards [[The Scar]]. Its most important site is the [[Heavenly Wall]] city, which guards the [[Ivory Road]], one of only two roads that allow for passage east-west between Mogxa and Galae. It is also home to the Guardian Lake city, and a number of both mobile and more permanent military bases. A grouping of culturally Galaen tribes co-exist with the Mogxans here, occupying the least desired Badlands.
-#### The Old Steppe
+#### Mogxan Steppe
 Stretching east from [[Galae]] and through a strip of land in the general northern stretch of Mogxa (though its coast is not included), the Old Steppe was once occupied by nomadic peoples considered part of the Galaen people. A number of Dwarves also made lived here and exchanged with the Galaens, perhaps leading to their minority of Dwarves today. The traditional nomadic population is essentially gone today, though some of its mount-riding techniques live on today with rural Mogxans. Besides the rural Mogxans of this extremely sparse land, there exist a few large and heavily urbanised cities in the few good spots for it - creating a very stark distinction between the cities and the general lands they occupy. These cities and their roads connect all of Mogxa together, especially along the West-East axis.
-#### Northern Shore
+#### Mogxan Shore
 The northern shore of Mogxa has long been considered rather unimportant and uneventful, and has been allowed to cultivate a quiet, rural and peaceful culture of fishing. It is also through here all ties and trade with [[Vilhun]] pass through, though this has been relatively little in number depending on time period. The Pearl Fortress is an important military installation for the empire however, guarding the northern-most frontier of Mogxa from Cragrock. The islands of [[Enui]] have become a site of conflict with [[Crusaders|Crusaders]] in recent times.
 #### Lakes of Mogxa
 The Lake area of Mogxa make up the region's northeast. Home to a number of mining operations, it is somewhat more important than the Northern Shore, and is home to a decent number of settlements and historical conflicts. The area is somewhat wild and hard to control however, and has a history of struggling against monsters. It also makes up large part of the border with [[Fenrunr]]. 
