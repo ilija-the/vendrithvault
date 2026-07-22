@@ -1,0 +1,3 @@
+The Fendur Mountains are a mountain-range separating the lands of [[Fenrunr]] from the rest of [[Mogxa]], which has historically established a rather firm and uncontested border. The exception remains in the south, where the mountains give way for the [[Reivlands]].
+
+The Fendur Mountains are hard to pass besides a few passes, along which many have Mountain Holds built by the [[Dwarves]]. The [[Greyhold]] in the north is one such example. Other smaller tunnels and tunnel-like openings through the mountains exist, which during a c
