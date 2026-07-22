@@ -1,0 +1,1 @@
+Yinlak is a settlement and area in the [[Mogxa|Mogxan Lakes]], not far from the [[Fendur Mountains]] of [[Fenrunr]]. The area is filled with various rivers 
