@@ -21,6 +21,9 @@ Canath is perhaps the most diverse corner of the world still considered part of 
 
 ## Geography
 Canath is vast and diverse, and must be divided into a number of areas in order to make sense of it. The areas of Canath include:
-- 
+- All coasts of the [[Celene]] needs to be considered as part of an area, even if it overlaps with other area categorisations.
+- [[Heroa]], or Heroic Canath, covering much of the southern Celene coast.
+- Tower Canath, covering the edge of Canath east of the Celene.
+- Rough Canath, further inland of Heroa and lacking any coasts.
 
 ## History
