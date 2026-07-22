@@ -47,10 +47,10 @@ Longdawn, a cathedral-city full of clergymen, also has a large presence of speak
 The largest and safest settlements of Ferweth all find themselves on its northern edge. The capital, [[Longdawn]], sits safely in a corner far away from any potential rivals and as such as long served as the sovereign of the Ferwethi polities. The Ferwethi heartland around Longdawn is traditionally reached with the northern road, roughly following a bit inlands of the northern coast. Starting in the [[Galae#Borderland Marches|Galaen Borderlands]], it connects to a couple of smaller settlements like the coastal [[Piketown]] and forested [[Cocatun]]. More importantly however, it passes through the [[Rabarb]] and its iconic bridge, necessary to cross the turbulent river.
 
 Starting at the eastern edge of the coastal road and going west, Ferweth can be divided into:
-- Blissmarch
-- Rabarbmarch
-- Blightmarch and Shademarch
-- Dawnmarch, the 'heartland' centred on Longdawn occupying the nort
+- Blissmarch, containing the borderlands with Galae.
+- Rabarbmarch, starting at the river with Rabarb.
+- Blightmarch and Shademarch, one towards the coast and one further inland.
+- Dawnmarch, the 'heartland' centred on Longdawn occupying the northwestern edge of Ferweth.
 
 The north of Ferweth is often considered the safest, but that doesn't mean the coastal waters themselves are. The ocean of Ferweth is actually largely avoided due to a mix of actually difficult navigation, the ebb and flow of the Fog, and the prevalence of myths and monsters living under the surface or in coastal caves. Very few dare to sail to Longdawn unless it absolutely has to be done, and even then it is only done by those well-funded, well-paid and well-equipped. Most normal sailing stops at Piketown, which connects to the Northern Road through Cocatun, though a few risk-willing merchants dare to venture to Rabarb.
 
