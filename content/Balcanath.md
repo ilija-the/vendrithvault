@@ -1,0 +1,1 @@
+Balcanath is hilly and mostly wild countryside once home to a number of mining settlements before they ran dry. While it stays unimportant, it 
