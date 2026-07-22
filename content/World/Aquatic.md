@@ -6,4 +6,4 @@ Aquatic creates encompass life that is primarily adapted to life underwater, com
 
 There is an unknown depth and variety of aquatic creatures, as the depths of the sea remain a difficult to penetrate and survive frontier of exploration.
 
-The deep seas are thought to be a [[Cosmology of Vendrith|Plane]] in itself, and likely home to the [[Ocean King]] if he exists. The lowest plane in the [[Great Flow]], [[Abbadon]], is compared to the deep ocean floor.
+The deep seas are thought to be a [[Cosmology|Plane]] in itself, and likely home to the [[Ocean King]] if he exists. The lowest plane in the [[Great Flow]], [[Abbadon]], is compared to the deep ocean floor.

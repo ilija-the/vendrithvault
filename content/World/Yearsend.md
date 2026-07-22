@@ -3,4 +3,4 @@ A season of the [[Calendar of Vendrith]] in which the night sky of Vendrith move
 
 A central part of it is the [[Sun of Vendrith]] temporarily disappearing behind [[Yond]].
 
-[[Cosmology of Vendrith]].
+[[Cosmology]].

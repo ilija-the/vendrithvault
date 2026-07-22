@@ -2,7 +2,7 @@
 tags:
   - cosmos
 ---
-A theory relating to the [[Cosmology of Vendrith]]. Closely connected with the four traditions of magic. Simultaneously embraces but also challenges the tradition of the [[Trinities]].
+A theory relating to the [[Cosmology]]. Closely connected with the four traditions of magic. Simultaneously embraces but also challenges the tradition of the [[Trinities]].
 
 Goes something like this: 
 First world, a dot - something surrounded by nothing - there is only something - something can't exist without nothing - unstable, collapse.

@@ -1,0 +1,7 @@
+---
+tags:
+  - places/mogxa/east
+---
+Mouzhe is a settlement in the many rivers that separates most of [[Mogxa|Eastern Mogxa]] and the [[Reivlands]] that blur the line between Mogxa and [[Fenrunr]]. Its many river outlets lead out into a bay that also has a number of smaller islands around. It mostly engages in fishing, but a bit of trade and even [[Banditry|Piracy]] also exists in these waters.
+
+While Mouzhe is older than that of [[Singsong]], it has since been eclipsed in size. The settlement has been raided by Fenruni raiders through certain parts of history.

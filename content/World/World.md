@@ -4,7 +4,7 @@ tags:
   - magic
   - cosmos
 ---
-The World of Vendrith consists of many things. Whereas it does contain [[Ancestries|people]], the [[Society|society]] and [[History|history]] they make, and the mundane [[Lands|lands]] they inhabit - some take an interest in more fundamental [[Nature|Natural]], [[Alchemy|Alchemical]], [[Magic|Magical]] and [[Cosmology of Vendrith|Cosmological]] matters that can explain reality.
+The World of Vendrith consists of many things. Whereas it does contain [[Ancestries|people]], the [[Society|society]] and [[History|history]] they make, and the mundane [[Lands|lands]] they inhabit - some take an interest in more fundamental [[Nature|Natural]], [[Alchemy|Alchemical]], [[Magic|Magical]] and [[Cosmology|Cosmological]] matters that can explain reality.
 
 > In the folder structure of the vviki, the World folder contains #Magic, #Cosmology, #Nature and #Creatures (living things that aren't people), as well as Deities and other forces of nature or existence.
 

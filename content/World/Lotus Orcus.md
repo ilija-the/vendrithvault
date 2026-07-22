@@ -1,1 +1,1 @@
-Often found in far-flung [[Cosmology of Vendrith]].
+Often found in far-flung [[Cosmology]].

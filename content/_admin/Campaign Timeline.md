@@ -76,7 +76,7 @@
 > 
 >1250 ADc
 >[[Cardinal Rackawn]] born.
->[[Ergruff Ward]] born.
+>[[Ergruff Ward]] born, found and taken in by [[Chatwood]].
 >[[Kai]] born.
 > 
 >1251 ADc
