@@ -1,0 +1,1 @@
+Amos is a settlement on the [[Celene]] of [[Canath]], famously enveloped by the cliffs of an essentially impassable bluff around them guarding them from land invasion. While it has attempted to use this advantage by building a sizeable navy, it has many times lost it and had to retreat to taking defensive positions. It has built a
