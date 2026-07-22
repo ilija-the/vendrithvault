@@ -32,21 +32,7 @@ Due to the stark division between coast and inland, pretty much all of the perma
 The three biggest and most important settlements of Horiza are [[Friedport]], [[Adamsworth]] and [[Newshore]], founded in that order. Each of these contain a fortress that doubles as the settlement's granary and stockpile of all goods they can't easily get - heavily fortified due to the fear and suspicion that others in the lands would raid it given the opportunity. Lesser settlements have been subject to this, and often rely on hiding their stockpiles, often underground or somewhere outside the actual settlement.
 
 #### Chocolate Isles
-[[Chocolate Isles|Main article here]]
-Friedport sits on the Chocolate Isles, a relatively plentiful area due to its abundance of coastline and fishing. It is also home to a number of pirates whom hide away in its geography however, and sometimes stark class divisions due to its longer history (such as the [[Landcrabs|Landcrab]]-Guild divide in Friedport). 
-
-![[Pasted image 20260701213928.png]]
-*The Chocolate Isles are a relatively green part of Horiza. It is also home to some edible foods, as well as wildlife that sometimes imitates the food or terrain.*
-
-The Chocolate isles largely speak [[Languages#Idurian|Idurian]]. The main islands of the Chocolate Isles include:
-- Everydry, the biggest island, home to Friedport and its immediately surrounding Raltron and Mahanbamville. Other settlements include the Rum Hills, Thymesville, Shadebay and Meadport. At the centre of the island is a slumbering volcano called "Mt. Chalkstone" by the locals.
-- Hershrin, a small isle right across the bay of Friedport. Home to Tuntontown, and a sacred secular temple.
-- Cookiebatter Island, east of Everdry, home to [[Saint Earlybird]].
-- The Cockathrees, three to four small isles between Cookiebatter and Everdry.
-- Damesland, south and west to Everdry, home to Loushea. 
-- Fistacuff, a smaller isle just across from Loushea. Home to a prison fort.
-- The Foolsnuggets, the Flurries, and the Whirlwinds; sparsely settled island chains north of Fistacuff.
-- Greenskvat, Bightraun, and Smallthraun (in order of smallest to largest) are three unsettled and thickly jungled islands to the north of Everdry and Cookiebatter.
+![[Chocolate Isles]]
 #### The Mainland
 Adamsworth and Newshore, just a bit into inland on the mainland, have both taken an increasingly important role as the population balloons and the desire to explore (and perhaps importance of exploring) the Horizon only continues to grow. These settlements have to make do with less available ocean food, and have only gained a limited success in certain forms of agriculture - and thus are highly reliant on their exchanges with the homeland in order to be fed. The Mainland speaks Idurian only for business, with the common folk's day to day language being either [[Languages]] or [[Languages]].
 
