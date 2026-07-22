@@ -6,7 +6,7 @@ tags:
 aliases:
   - Encanath
 ---
-Canath is a large region encompassing a variety of peoples and geographies, though its core can be said to be the [[Celene|Celestarian]] sea and the floating island [[Eyne]] that navigate around it. 
+Canath, also known as Encanath, is a large region encompassing a variety of peoples and geographies, though its core can be said to be the [[Celene]] sea and the floating island of [[Eyne]] that navigate around it. 
 
 > [!important] Encanath v Brincanath?
 > The term "Encanath" is sometimes used for Canath in order to separate it from the similarly named western region of "[[Brincanath]]," which in reality is quite culturally distant and hostile. Only some few people use the term Canath to refer to both, usually as a normative claim the west for conquest and settlement. Here in the wiki, the term Canath and Encanath will be used synonymously unless otherwise stated.
