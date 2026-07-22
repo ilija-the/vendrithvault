@@ -38,12 +38,11 @@ The relatively central strip of Mogxa that runs down the western edge of the Lak
 
 > Philosophia is so large and unique it is often necessary to separate it out from the province it exists in in most discussions. See the main article for more.
 #### Central Mogxa
-Central Mogxa is one of the areas of [[Mogxa]], encompassing the settlements of [[Meizhine]], [[Pezhu]], [[Poli]]; and sometimes [[Cavalma]] depending on whether [[Steppe Mogxa]] is considered. It contains a decent amount of relatively flat lands compared to the otherwise extreme terrain of the continent, though is still home to a number of rolling hills, smaller cliffs, caves, smaller lakes and lighter woods. 
+Central Mogxa is one of the areas of Mogxa, encompassing the settlements of [[Meizhine]], [[Pezhu]], [[Poli]]; and sometimes [[Cavalma]] depending on whether Steppe Mogxa is considered. It contains a decent amount of relatively flat lands compared to the otherwise extreme terrain of the continent, though is still home to a number of rolling hills, smaller cliffs, caves, smaller lakes and lighter woods. 
 
-Central Mogxa is essential for tying together east and west, south and north. To the north is Steppe Mogxa and [[North Mogxa]]. To its south is [[Philosophia]] and [[Imperal Mogxa]]. 
+Central Mogxa is essential for tying together east and west, south and north. To the north is Steppe Mogxa and the Mogxan Shore. To its south is [[Philosophia]] and Imperial Mogxa.
 #### Mogxan March
-The Mogxan March is a strip of land following the road from Central and Imperial Mogxa towards the Guardian Districts and [[Galae]]. It is home to the settlements of [[Houville]], [[Xialrey]], 
-
+The Mogxan March is a strip of land following the road from Central and Imperial Mogxa towards the Guardian Districts and [[Galae]]. It is home to the settlements of [[Houville]], [[Xialrey]] and [[Farxeau]]. 
 #### Guardian Districts
 The Frontier Armies and Settlements of Mogxa push its influence north-west, into [[Galae]] and towards [[The Scar]]. Its most important site is the [[Heavenly Wall]] city, which guards the [[Ivory Road]], one of only two roads that allow for passage east-west between Mogxa and Galae. It is also home to the Guardian Lake city, and a number of both mobile and more permanent military bases. A grouping of culturally Galaen tribes co-exist with the Mogxans here, occupying the least desired Badlands.
 #### Zardoba
