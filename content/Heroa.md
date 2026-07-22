@@ -1,0 +1,1 @@
+Heroa is an area of [[Canath]] encompassing much of the southern coast of the [[Celene]], but

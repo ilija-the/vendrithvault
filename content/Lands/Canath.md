@@ -13,7 +13,14 @@ Canath, sometimes called as Encanath, is a large region encompassing a variety o
 
 > For more in Canath, see #places/canath 
 
-Encanath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges. The [[Resting Crown|God-King Idur]] was a hero from Encanath that managed to unite a large army and realm, and even conquer the throne of the [[Mogxa|Mogxan Empire]] - helping foster some elements of shared court and business culture, such as the [[Languages#Idurian|Idurian Language]] (really an adaptation of the [[Languages#Encanuri|Encanuri Language]] to make it easier for Mogxans to learn).  
+Canath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges. The [[Resting Crown|God-King Idur]] was a hero from Canath that managed to unite a large army and realm, and even conquer the throne of the [[Mogxa|Mogxan Empire]] - helping foster some elements of shared court and business culture, such as the [[Languages#Idurian|Idurian Language]] (really an adaptation of [[Languages|Encanuri]] made suited for Mogxans).  
 
 Canath is perhaps the most diverse corner of the world still considered part of a greater cultural union, home to countless polities, peoples, castes, languages and more. Canath is often divided into the [[Canathi City States|City States]] and [[Canathi Kingdoms|Kingdoms and Duchies]].
 
+## Culture
+
+## Geography
+Canath is vast and diverse, and must be divided into a number of areas in order to make sense of it. The areas of Canath include:
+- 
+
+## History
