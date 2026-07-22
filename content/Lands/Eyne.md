@@ -13,6 +13,6 @@ A set of smaller Eyne over Mogxa, with some rare light settlement on it.
 Eyne remain rare outside of the few places they're known to exist, and are highly expensive and usually impractical to make and maintain in all but the fewest cases.
 
 ![[Pasted image 20260722170702.png]]
-Wild Eyne during a [[Planar Storm]].
+A set of Wild Eyne during a [[Planar Storm]].
 
 A few stories of [[Far Isles]] describe floating islands, sometimes called Far Eyne.
