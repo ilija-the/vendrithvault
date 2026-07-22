@@ -11,6 +11,7 @@ Festivals in [[Mogxa]] include:
 - Annual celebrations of the victory over the [[Titans]], especially important in [[Titansfell]].
 - Annual burning of effigies of the [[Kobold Throne]] in [[Houville]].
 - An annual festival amongst the [[Draconic Tribes of Mogxa|Draconic Tribes]] that was declared during the [[Western Kobold Dynasty]], as a way to value instead of suppress their draconic heritage. Controversial amongst outsiders, it's usually done where it can be kept exclusive and away from prying or easily offended eyes.
+- An annual [[Cannons|Cannon]]-firing on top of a fortress in [[Dreyus]], celebrating the military engineer
 
 Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[Horiza]] include:
 - The [[Summer Games]], a publicly beloved tournament akin to free [[Gladiators|Gladiator fighting]]. It starts one day after the first rains of (later) summer begin, which itself is celebrated with a variety of dances and other build-up to the games.
