@@ -1,0 +1,1 @@
+Shirelock is a settlement in [[Hommagong]], not far down the road from [[Wedu]]. It serves as a [[Feudalism]]
