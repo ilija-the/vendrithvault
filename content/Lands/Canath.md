@@ -24,6 +24,7 @@ Canath is vast and diverse, and must be divided into a number of areas in order 
 - All coasts of the [[Celene]] needs to be considered as part of an area, even if it overlaps with other area categorisations.
 - [[Heroa]], or Heroic Canath, covering much of the southern Celene coast.
 - Tower Canath, covering the edge of Canath east of the Celene.
+- Painted Canath, covering the northern edge of Canath beyond the Celene. Borders the wilds of [[Ferweth|Far Ferweth]] but sees little contact with them.
 - Rough Canath, further inland of Heroa and lacking any coasts.
 
 ## History

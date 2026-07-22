@@ -1,0 +1,1 @@
+Twinvale is a long valley on the border between the [[Canath|Painted Canath]] north of the [[Celene]] and [[Ferweth]]. It is home to [[Twinvale City]]. The smaller settlement of [[Twinberry]] sits atop a deep part of the vale, where the distance between the sides is small enough a rope bridge usually extends across it. While they can b
