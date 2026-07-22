@@ -22,6 +22,24 @@ aliases:
   - Skald language
   - Bay Pidgin langugae
   - Harza Pidgin language
+  - Draconic Language
+  - Goblin Language
+  - Vanara Language
+  - Gnomish Language
+  - Halfling Language
+  - Orcish Language
+  - Kholo Language
+  - Ysoki Language
+  - Iruxi Language
+  - Tripkee Language
+  - Sakvroth Language
+  - Wildsong Language
+  - Utopian Language
+  - Elvish Language
+  - Petran Language
+  - Pyric Language
+  - Sussuran Language
+  - Thalassic Language
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages, Ancestral Languages and Special Languages - though some may fit into multiple categories.
 ## Common Languages
