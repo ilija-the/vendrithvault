@@ -23,8 +23,11 @@ Canath is perhaps the most diverse corner of the world still considered part of 
 Canath is vast and diverse, and must be divided into a number of areas in order to make sense of it. The areas of Canath include:
 - All coasts of the [[Celene]] needs to be considered as part of an area, even if it overlaps with other area categorisations.
 - [[Heroa]], or Heroic Canath, covering much of the southern Celene coast.
-- Tower Canath, covering the edge of Canath east of the Celene.
-- Painted Canath, covering the northern edge of Canath beyond the Celene. Borders the wilds of [[Ferweth|Far Ferweth]] but sees little contact with them.
-- Rough Canath, further inland of Heroa and lacking any coasts.
+- [[Tower Canath]], or Tower Canath, covering the edge of Canath east of the Celene.
+- [[Painted Canath]], or Painted Canath, covering the northern edge of Canath beyond the Celene. Borders the wilds of [[Ferweth|Far Ferweth]] but sees little contact with them.
+- [[Rough Canath]], or Rough Canath, further inland of Heroa and lacking any coasts.
+
+> [!important] Vöncanath
+> Vön has long been under Canathi influence in terms of culture and language, despite their unique identity and climate. The lands of Vön can perfectly be considered a part of Canath, though one can also make just as well of an argument to separate it out. For the time being though, Vön remains under official Canathi protection.
 
 ## History

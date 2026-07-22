@@ -6,4 +6,4 @@ Twinvale is a long valley on the border between the [[Canath|Painted Canath]] no
 
 Residents of Twinvale have on occasions sent complaints by courier to Twinberry regarding bodies and trash being dropped down the vale, but it is unknown if these have ever reached Twinberry. It is a common myth in Twinvale City that the backwards folk of Twinberry execute criminals by throwing them off the bridge.
 
-%% Some Crusader military theorists have stated that, if need be, it would not be too difficult to gather a flying royal guard to take Twinberry from below and thus block off the Long Road of Ferweth. %%
+%% A crusader general once stated that, if need be, it should not be too difficult to gather a flying royal guard to take Twinberry from below - and thus block off the Long Road of Ferweth. %%
