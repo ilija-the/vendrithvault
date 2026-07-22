@@ -9,7 +9,7 @@ Mogxa (by some pronounced more like "Meau Xi") is a densely populated subcontine
 
 To the north lies the island region of [[Vilhun]], which has inherited a variety of Mogxan culture and has taken in much of its former [[Dragons]], but which is largely shut off to the rest of the world. To the south-east lies the [[Lorgun]] islands, which are rarely visited but rely on Mogxa for trade and connectivity to the rest of the world.
 
-Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haeven]] by taking over the Kobold Throne. The Fenruni coast on its north-eastern edge, the Ruby Peninsula to the west and the Galaen border contains many smaller states which serve as [[Tributaries]].
+Mogxa is dominated by the Sanitorium, the state formed after the [[War Over Haeven]] by taking over the Kobold Throne. The Fenruni coast on its north-eastern edge, the Ruby Peninsula to the west and the Galaen border contains many smaller states which serve as [[Feudalism|Tributaries]].
 
 > For more in Mogxa, see #places/mogxa 
 
@@ -63,8 +63,8 @@ The east of Mogxa was once its most important lands, only losing influence when 
 The Sergetine Bay or "Crescent" is the historical home of the [[Dragons]] of the [[Draconic Empire]], which is considered either the earliest Mogxan Empire or at least its precursor. Since the [[Draconic Concordat]] the region has slowly lost influence, and has seen a large depopulation as the remaining true Dragons left, people move elsewhere in Mogxa, and some have gone to the islands of [[Lorgun]] across the ocean to its east. Those who remain are primarily of the [[Draconic Tribes of Mogxa|Draconic Tribes]], which attempt to keep the Dragons' legacy alive through practicing its language and culture. The western coast of Sergetis makes up only a short sea-trip to the coast of Imperial Mogxa.
 
 Sergetis once constituted a much larger mass of land in its southern tip, though the [[Sinking of Sergetis]] saw much of it disappear into the sea. This is often considered a [[Disasters of the Silence|Disaster of the Silence]].
-#### Shengi Mountains and Lakes of Life
-The [[Lakes of Life]] are a set of lakes, and a surrounding jungle that is extremely dense, dangerous and inhospitable, which sits on an enormously elevated plateau. The mountains and plateau are called the [[Shenghi Mountains|Shenghi]]. It is completely impassable terrain for anyone but the most dedicated of small-group explorers, and thus has served as a natural barrier separating Eastern Mogxa from what today is Imperial Mogxa. Back when the east and Sergethine parts of the Mogxan Empires constituted its heartland, the Lakes of Life allowed for the concentration of defence in the north if push came to shove, a line which few hostile armies managed to cross.
+#### Shengi Break
+The [[Shenghi Break|Shenghi Lakes]], also known as the Lakes of Life, are a set of lakes, and a surrounding jungle that is extremely dense, dangerous and inhospitable, which sits on an enormously elevated plateau. The mountains and plateau are called the Shenghi Mountains. It is completely impassable terrain for anyone but the most dedicated of small-group explorers, and thus has served as a natural barrier separating Eastern Mogxa from what today is Imperial Mogxa. Back when the east and Sergethine parts of the Mogxan Empires constituted its heartland, the Lakes of Life allowed for the concentration of defence in the north if push came to shove, a line which few hostile armies managed to cross.
 
 > [!important] **The Old Tributaries**
 > [[Fenrunr]], the [[Hommagong]] and [[Lorgun]] all can be considered part of the Mogxan imperial tradition to some degree or other.
