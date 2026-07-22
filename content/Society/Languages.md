@@ -40,6 +40,18 @@ aliases:
   - Pyric Language
   - Sussuran Language
   - Thalassic Language
+  - Protean Language
+  - Necril Language
+  - Alghollthu Language
+  - Sphinx Language
+  - Arboreal Language
+  - Jotun Language
+  - Empyrean Language
+  - Diabolic Language
+  - Daemonic Language
+  - Chtonian Language
+  - Requian Language
+  - Fey Language
 ---
 Many different languages are spoken, written and signed by the [[Ancestries|people]] of Vendrith throughout the [[History]] of [[Society|Civilisation]]. They are today broadly divided into Common Languages, Ancestral Languages and Special Languages - though some may fit into multiple categories.
 ## Common Languages
@@ -101,20 +113,16 @@ Elemental or similar languages include:
 Monster languages include:
 - Necril, something approximating a language uttered by certain [[Undead]].
 - Alghollthu, a language spoken only by the [[Aquatic|aquatic]] [[Alghollthu]].
-- Sphinx
-- Arboreal
+%%- Sphinx%%
+- Arboreal, known to be spoken by some animated trees.
 - Jotun, a language spoken by various [[Giants]], such as those in [[Ferweth|Far Ferweth]].
 
 Planar languages include:
 - Empyrean, the language formerly spoken in the hierarchy of [[Haeven]]. It is today only maintained by a few high officials in certain [[Temples|Churches]], such as those of [[Longdawn]].
 - Diabolic, formerly known as Fiendish, a language spoken by [[Devil|Devils]] and [[Demon|Demons]], such as those in [[Crimson]].
-- Daemonic, an older language like Diabolic spoken by the ancient [[Daemons]].
-- Chtonian, formerly known as Abyssal, is another ancient language like Diabolic spoken by certain fiends, perhaps those tied to Abbadon.
+%%- Daemonic, an older language like Diabolic spoken by the ancient [[Daemons]].%%
+%%- Chtonian, formerly known as Abyssal, is another ancient language like Diabolic spoken by certain fiends, perhaps those tied to Abbadon.%%
 - Requian, a language used to communicate with souls in the [[River of Death]].
 - Fey, formerly known as Sylvan, is a language spoken in the [[Feydark]] and by a variety of [[Fey]] creatures.
-
-
-
-
 
 
