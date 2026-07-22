@@ -10,4 +10,4 @@ Canathi mages have learned how to steer these Eyne, if slowly, over the centurie
 
 The Eyne move around the Celene but rarely cross over the land. Due to a peculiarity of the waters of the Celene, it breaks up falls from a much higher distance than regular water does before becoming as deadly as hitting hard ground. A small number of warriors and [[Adventurers|adventurers]] of Canath take advantage of this and learn to dive from extremely high distances into the Celene, which can allow surprise attacks or rapid reinforcements of naval or coastal battles.
 
-Some Celesteyne have met grim fates, losing their control or float and crashing down into the Celene, 
+Some Celesteyne have met grim fates, losing their control or float and crashing down into the Celene before sinking to the ocean floor - creating [[Aquatic|underwater ruins]].
