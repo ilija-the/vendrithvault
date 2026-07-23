@@ -5,6 +5,6 @@ tags:
 ---
 Source of the legend of the [[Vestitur]], which were made when the castle near [[Riverside]] briefly was the capital.
 
-Occasionally exports [[Whittar]]. Rumoured to be a source of [[Blackice]]. 
+Occasionally exports [[Whittar]]. Rumoured to be a source of [[Brackeis]]. 
 
 Recently had its monarch and heir presumptive both go missing in the [[Silver Pass]], prompting a succession crisis. Has been overtaken by the distantly related [[Goblin King]].
