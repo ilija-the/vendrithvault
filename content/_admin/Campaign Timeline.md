@@ -19,7 +19,7 @@
 >1072 ADc
 >[[Wick]] born.
 >
->1185 ADc
+>1085 ADc
 >[[Bishop the Peacemaker]] is born.
 >
 >1086 ADc
@@ -95,7 +95,7 @@
 >1255 ADc
 >[[Sheppie]] born.
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
->.
+>
 >1257 ADc
 >Bande Aparte attempts a heist for the [[Vestitur]] in [[Kallea]], fails.
 >[[Auldwell Fareawel|Perckle d'Rits]], the supposed buyer, had betrayed Bande Aparte.
