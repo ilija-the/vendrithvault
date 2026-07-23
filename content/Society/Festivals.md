@@ -22,6 +22,8 @@ Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[Hor
 Festivals in [[Vilhun]] include:
 - ==Annual Bell-song ceremony?==
 - ==Laying tribute at the foot of Mount Hun?==
+- ==A festival celebrating dragons in some way?==
+- ==A festival dedicated to the guardian spirits and yokai in some way?==
 
 Festivals in [[Ferweth]] include:
 - ==Celebrating the defeat of the [[Silver Wolf of Ferweth]]?==
