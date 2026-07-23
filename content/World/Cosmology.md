@@ -13,6 +13,8 @@ aliases:
   - plane of Vendrith
   - Cosmological
   - Cosmology of Vendrith
+  - Cosmos
+  - cosmos
 ---
 The Cosmology of Vendrith is the study of how not just the mundane, [[Materia|Material Plane]] of Vendrith's [[Lands|lands]] exist, but how greater forces of existence - and their ties to [[Magic]] - connect together. Important is the existence of various Planes of Existence, referring in a way to a sort of region that exists separately to the mundane world, but which is still connected to and influences it. Contrary to the typical misconception of commoners, planes are not entirely separate worlds that are only narrowly connected through small portals - but rather overlap and border each other in various ways.
 
