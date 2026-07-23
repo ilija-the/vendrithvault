@@ -19,6 +19,7 @@ Consists of:
 Has also been accompanied on their journey by:
 [[Captain Doherty]] (totally spelled Dorothy)
 [[Kelvin]] the Gnome Crafter (whose name Ilija forgot)
+[[Abe Venstock]] a freaky little guy
 
 Other notable characters include, categorized by location:
 - Cocoton
