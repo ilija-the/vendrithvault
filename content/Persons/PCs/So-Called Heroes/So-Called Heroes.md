@@ -38,4 +38,4 @@ Other notable characters include, categorized by location:
 
 
 ###### Alternate names
-The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians, the penal battalion, the tomb raiders, the bridge builders, the elite couriers
+The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians, the penal battalion, the tomb raiders, the friends forever, the bridge-builders, the mailmen
