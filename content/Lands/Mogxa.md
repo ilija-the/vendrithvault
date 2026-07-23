@@ -39,7 +39,7 @@ Mogxa has historically spoken variants of the [[Languages|Draconic Language]] in
 Mogxa is a large and therefore varied region, but has some commonalities. The terrain is characterised by stark differences in elevation, with frequent cliffs and canyons, sometimes combined with heavy vegetation and bodies of water that make traversal outside of the common roads difficult. The central jungle of Mogxa contains some of if not the highest mountains on Vendrith.
 
 ![[Pasted image 20260723204114.png]]
-Typical Mogxan terrain has dense foliage, height differences, and lot. By @abigrock.bsky.social
+Typical Mogxan terrain has dense foliage, height differences, and lots of water. By @abigrock.bsky.social
 
 #### Imperial Mogxa
 The relatively central strip of Mogxa that runs down the western edge of the Lakes of Life today are known as "Imperial Mogxa." It has been home to the latest [[Western Kobold Dynasty|Kobold Dynasty]], its Imperial City, the highly productive farmlands around its enormous rivers, and last but not least, the autonomous super-city of [[Philosophia]]. 
@@ -93,6 +93,7 @@ To be detailed:
 - Modern Philosophia
 - War Over Haeven and destruction of the Rainbow Bridge
 - Founding of the Sanitorium
+- [[Sanitine Wars]]
 - Adventurer Crisis
 - Rise of Singsong and reinforced Sanitorium
 
