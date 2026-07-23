@@ -1,0 +1,1 @@
+The Mogxan Pretender Period, also known as the [[Dragonbloods|Dragonblood]] Pretender Period, was a time towards the end of the [[Eastern Kobold Dynasty]] but before 
