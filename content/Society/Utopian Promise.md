@@ -4,7 +4,7 @@ tags:
   - religion
   - cosmos
 ---
-When people [[Death|die]], their souls usually pass onto the [[River of Death]] and other lower-lying planes in the [[Great Flow]], slowly losing their memories and form. While the promise of death has always been a cornerstone of existence and a motivation to truly live, it has likewise also been caught up in humanoid anxieties and existential crisis. This has amongst other things led to the creation of [[Necromancy]].   
+When people [[Death|die]], their souls usually pass onto the [[River of Death]] and other lower-lying planes in the [[Great Flow]], slowly losing their memories and form. While the promise of death has always been a cornerstone of existence and a motivation to truly live, it has likewise also been caught up in humanoid anxieties and existential crisis. This has amongst other things led to the creation of [[Necromancer]].   
 
 There is a rumour that at a certain point, the [[Titans]] began quietly promising their most virtuous and loyal adherents that they would be granted an after-life after death. Like most things with regards to deities and higher planes, little is known for certain or understood completely, but it is commonly believed that this did happen to a select few people. In the popular imagination, the Titans had created a heavenly bureaucracy and army.
 

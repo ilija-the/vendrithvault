@@ -1,5 +1,0 @@
-[[Necromancy]]
-[[Undead]]
-[[Icen Maiden]]
-[[Diamond Crisis]]
-[[Slavery]]

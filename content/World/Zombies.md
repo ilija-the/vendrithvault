@@ -1,1 +1,1 @@
-A type of [[Undead]] creature known for brute strength, slow movement, and being very tough. A favourite of practitioners of [[Necromancy]] as cannon fodder.
+A type of [[Undead]] creature known for brute strength, slow movement, and being very tough. A favourite of practitioners of [[Necromancer]] as cannon fodder.

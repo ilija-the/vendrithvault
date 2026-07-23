@@ -7,7 +7,7 @@ Medicine and treatment encompasses a wide variety of methods and traditions for 
 
 Some medicinal schools follow a more [[Nature]]-oriented methodology, claiming that what's natural is usually best for people. Some parts of medicine have evolved alongside [[Society/Warfare]] for purposes of humanitarian aid or battle-readiness. 
 
-The school of [[Necromancy]] is taboo over most of the world, but can be considered its own form of medicine.
+The school of [[Necromancer]] is taboo over most of the world, but can be considered its own form of medicine.
 
 ### Spiritual Health
 

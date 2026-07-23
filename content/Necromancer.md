@@ -1,5 +1,10 @@
+---
+tags:
+  - classes
+  - magic/occult
+---
 [[Diamond Crisis]]
-[[Lichen System]]
+[[Liches]]
 [[River of Death]]
 [[Undead]]
 [[Great Flow]]
