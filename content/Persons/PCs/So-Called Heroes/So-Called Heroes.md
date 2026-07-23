@@ -22,7 +22,7 @@ Has also been accompanied on their journey by:
 [[Abe Venstock]] a freaky little guy
 
 Other notable characters include, categorized by location:
-- Cocoton
+- Cocatun
 	- [[Boubo]] & [[Kicky]]
 	- [[Malachai]]
 	- [[Mayor Bombask]] (deceased)
