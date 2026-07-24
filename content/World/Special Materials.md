@@ -12,7 +12,7 @@ Unlike [[Mundane Materials]], Special Materials are those possessing mystical, m
 Anbar (Meteoric Metal)
 [[Holy Oil]]
 [[Whittar]]
-[[Blackice]]
+[[Brackeis]]
 [[Goldwax]]
 [[Enchanted Copper]]
 [[Enchanted Bronze]]

@@ -15,7 +15,7 @@ Temples, also known as Churches or Cathedrals, refers to both congregations of p
 
 Temples are either open to the public, to their members, or are highly exclusive to a specific ring or cult. Some are intentionally hard to reach or hidden, acting as Monasteries or hidden temples. Some guard secrets or artefacts, and as such are defended by various warriors, [[Creatures]] and traps of both mundane and [[Magic|Magical]] nature.
 
-[[Funeral Rites|Funerals]] and [[Gender, Relationship and Marriage Customs|Marriages]] are often performed at temples. Many temples have either graveyards next to them or catacombs under them, often to protect the dead from grave robbing or [[Necromancy]].
+[[Funeral Rites|Funerals]] and [[Gender, Relationship and Marriage Customs|Marriages]] are often performed at temples. Many temples have either graveyards next to them or catacombs under them, often to protect the dead from grave robbing or [[Necromancer]].
 
 [[Shrines]] of a religious nature are often related to temples.
 

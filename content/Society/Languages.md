@@ -77,7 +77,7 @@ Ancestral Languages are those languages so deeply tied to an [[Ancestries|ancest
 > Ancestral languages will have the Rarity of their ancestry, based off the specific region and campaign, or in the absence of such, the [[Ancestries|general list]].
 
 Ancestral languages include:
-- Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili.
+- Draconic, spoken by [[Dragons]], [[Dragonbloods|Dragonblood]], and the [[Kobolds]] of [[Mogxa]]. It is still the exclusive language of the [[Draconic Tribes of Mogxa|Draconic Tribes]], whom maintain its honour as a way to remain tied to the legacy of their legacy. It is viewed with suspicion by some in Mogxa's government, but due to the prevalence of influential kobolds raised in it it's difficult to suppress it. The language is certainly related to Maux Xi and Vili. Its written script was likely inspired by the Dwarven script.
 - Goblin, spoken by the [[Goblinoids]]. [[Goblins]] themselves are concentrated around Canathi and Mogxan cities, whereas [[Hobgoblins]] spread the language more out into sparse areas.
 - Vanara, a language spoken by the [[Vanara]] who live in closed-off communes. It shares a common ancestor to the Goblin language, but it maintained a much more complex and 'finer' grammar and sound to it.
 - Gnomish, spoken by the mysterious [[Gnomes]]. It's wispy sounds are difficult for other ancestries to understand, let alone speak.
@@ -90,7 +90,7 @@ Ancestral languages include:
 - Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Hommagong]] and [[The Rend]].
 %%- Amurrun, a language that all [[Amurrun|Catfolk]] grow up learning as they grow up without even being taught it. Outsiders comment that it sounds like various other languages messily combined.%%
 - Kitsune, spoken by the [[Kitsune]] of [[Vilhun]].
-- Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]].
+- Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]]. Its written script is likely inspired by the Skaldic language, and is perhaps the originator of the [[Arcane Magic|Arcane]] language. The Draconic language's written script also seems to have come from Dwarven.
 ## Special Languages
 Many languages have either been lost to time, are magical or mystical in nature, or are only spoken by certain types of [[Monsters of Vendrith|Monster]] or other [[Creatures]]. These require intense study by most humanoids to learn, which would require access to old texts, archaeological findings, or perhaps even the creatures in question to do.
 

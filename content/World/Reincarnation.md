@@ -4,7 +4,7 @@ tags:
   - cosmos
 ---
 [[Resurrection]]
-[[Necromancy]]
+[[Necromancer]]
 [[Occult]]
 [[Primal]]
 [[Seeing Societies]]

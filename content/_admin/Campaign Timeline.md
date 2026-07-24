@@ -19,7 +19,7 @@
 >1072 ADc
 >[[Wick]] born.
 >
->1185 ADc
+>1085 ADc
 >[[Bishop the Peacemaker]] is born.
 >
 >1086 ADc
@@ -85,7 +85,7 @@
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
->[[Mon Qi]] born.
+>[[Monlan Qiproth]] born.
 >==[[Campaigns#Galaen Wilds|Galaen Wilds]] campaign?==
 >Bande Aparte leads and wins a siege in the [[March of the Corpse Flowers]].
 > 
@@ -95,7 +95,7 @@
 >1255 ADc
 >[[Sheppie]] born.
 >Bande Aparte is almost killed after investigating [[General Architrave|Architrave]], disappears.
->.
+>
 >1257 ADc
 >Bande Aparte attempts a heist for the [[Vestitur]] in [[Kallea]], fails.
 >[[Auldwell Fareawel|Perckle d'Rits]], the supposed buyer, had betrayed Bande Aparte.
@@ -126,7 +126,7 @@
 >Meets their fate: [[Gourdon]] (x), [[Lieutenant]] (x).
 >The cult town of [[Veridica]] disappears.
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
->[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Mon Qi]] (20)
+>[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (26), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Monlan Qiproth]] (20)
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
 > 
 >1273 ADc

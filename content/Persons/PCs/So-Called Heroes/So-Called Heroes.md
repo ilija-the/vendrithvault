@@ -15,13 +15,15 @@ Consists of:
 [[Cantro]], a dragonblood cold-blooded barbarian.
 [[Kai]], an amurrun investigator.
 [[Valentine Volmari|Valentine]], an eerie shoony rogue.
+[[Monlan Qiproth]], a Vanara monk.
 
 Has also been accompanied on their journey by:
 [[Captain Doherty]] (totally spelled Dorothy)
 [[Kelvin]] the Gnome Crafter (whose name Ilija forgot)
+[[Abe Venstock]] a freaky little guy
 
 Other notable characters include, categorized by location:
-- Cocoton
+- Cocatun
 	- [[Boubo]] & [[Kicky]]
 	- [[Malachai]]
 	- [[Mayor Bombask]] (deceased)
@@ -36,4 +38,4 @@ Other notable characters include, categorized by location:
 
 
 ###### Alternate names
-The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians, the penal battalion, the tomb raiders
+The bogdrainers, the firefighters, the churchbreakers, the prototypes, the custodians, the penal battalion, the tomb raiders, the friends forever, the bridge-builders, the mailmen

@@ -6,7 +6,6 @@ aliases:
   - orcs
   - Orc
   - orc
-  - Lotus Orcs
   - Lotus-Eaters
 ---
 Orcs are an ethno-religious [[Ancestries|people]] which follows the teachings of the [[Promised Revealer]]. They ritualistically collect and consume the rare [[Lotus Orcus]] which turns them a shade of blue and supposedly elevates their minds - which is likely what created their lineage to begin with. Those who fail to partake in the flower for a long period of time, or whom are only off-spring of Orcs that don't themselves partake during childhood, become [[Dromaar]]. The Dromaar have a reputation of being bandits and warmongers, which has been erroneously transferred to orcs themselves.

@@ -9,4 +9,4 @@ tags:
 [[Valeira|Val]]
 [[Jade the Just]]
 [[Diamond Crisis]]
-[[Necromancy]]
+[[Necromancer]]

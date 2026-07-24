@@ -23,7 +23,7 @@ A smaller but equally important side of the Crusaders are the [[Crusader Sects|S
 
 Some Crusaders around coastlines and islands partake in decentralised [[Banditry]]. While various decrees allow Crusaders free reign to pirate Sanitorium ships, these pirates don't necessarily discriminate as they are supposed to. The [[Firearms]] that this new pirate threat wields has become an infamous symbol of their kind. There are rumours of a few crusader pirates gaining access to the rare [[Flying Ships]] of Canath.
 
-Other very infamous Crusaders are the [[Desecrators]] of the [[Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancy]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
+Other very infamous Crusaders are the [[Desecrators]] of the [[Horiza]]. Disorganised and poorly equipped (as they struggle to smuggle goods to the continent), these crusaders often act more like bandits than holy warriors. Some have even accused them of using [[Necromancer]], which is a strict taboo amongst most Crusaders. These Crusaders are said to hunt for the fabled [[Continental Army]].
 
 ![[DesecratorCrusader.png]]
 *A desecrator crusader, in their makeshift cloth armour. Note their covered faces.* 

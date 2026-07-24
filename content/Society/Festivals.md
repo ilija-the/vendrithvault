@@ -7,7 +7,7 @@ Festivals, events and holidays are a way in which various settlements and people
 Festivals across many parts of the world include:
 - Celebration of the [[Draconic Concordat]], though dates vary a bit between areas due to disagreements over exact dates.
 
-Festivals in [[Mogxa]] include:
+In Mogxa, many festivals and celebrations see the release of flying Sky Lanterns, as well as the use of Fireworks. Festivals in [[Mogxa]] include:
 - Annual celebrations of the victory over the [[Titans]], especially important in [[Titansfell]].
 - Annual burning of effigies of the [[Kobold Throne]] in [[Houville]].
 - An annual festival amongst the [[Draconic Tribes of Mogxa|Draconic Tribes]] that was declared during the [[Western Kobold Dynasty]], as a way to value instead of suppress their draconic heritage. Controversial amongst outsiders, it's usually done where it can be kept exclusive and away from prying or easily offended eyes.
@@ -22,6 +22,8 @@ Festivals in [[Friedport]], the [[Chocolate Isles]], and sometimes rest of [[Hor
 Festivals in [[Vilhun]] include:
 - ==Annual Bell-song ceremony?==
 - ==Laying tribute at the foot of Mount Hun?==
+- ==A festival celebrating dragons in some way?==
+- ==A festival dedicated to the guardian spirits and yokai in some way?==
 
 Festivals in [[Ferweth]] include:
 - ==Celebrating the defeat of the [[Silver Wolf of Ferweth]]?==

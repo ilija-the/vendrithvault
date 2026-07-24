@@ -8,4 +8,16 @@ aliases:
   - the divine
   - divine
 ---
+Divine [[Magic]] is deeply tied to the [[Divinity]], as a type of power that can be distributed by deities and demi-deities to those with faith, though which also to a lesser extent can be performed from the ground-up through strong conviction. Working Divine Magic is often described as doing Miracle Work.
 
+Most who practice and preach the divine tend to be in a [[Religion|religious]] organisation and hierarchy:
+- Priests and bishops
+- [[Cleric|Clerics]] 
+- [[Champion]]
+
+Some don't necessarily belong to a religious organisation or serve a specific deity or religion, though still often do:
+- [[Oracle]]
+
+Some are divine beings themselves:
+- Demi-Deities
+- Deities

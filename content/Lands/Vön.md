@@ -28,7 +28,7 @@ The Galaen mountains to the north are home to the [[Silver Pass]], a passage onc
 ## History
 Vön is largely the realm of the [[Kingdom of Vestitur]], famous for the myth of the [[Vestitur]]. That Kingdom's once-capital of [[Riverside]] commonly marks the border of Vön and the rest of Encanath. Vön was also once known for training the [[Silver Couriers]] as the only runners capable of safely using the [[Silver Pass]], though they have long since began to fade into obscurity. The [[Town of Ire]] today houses their last headquarters.
 
-The Vöni are known to export warm winter clothes, but also certain materials such as [[Whittar]]. Obscure sources point to Vön as the once source of [[Blackice]].
+The Vöni are known to export warm winter clothes, but also certain materials such as [[Whittar]]. Obscure sources point to Vön as the once source of [[Brackeis]].
 
 Due to their low population, the few [[Crusader Armies]] that are stationed here make up a considerable part of the non-permanent population of Vön. A lack of supplies and experience with cold climates once made the [[Camp Conflict]] of Vön tense, though tensions have eased as the Crusaders there have gotten less assertive.
 
