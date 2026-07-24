@@ -30,7 +30,7 @@ The makeup of the Vili society closely resembles that of the Hun Lords, with Kit
 | -------- | ---------------------------------------------- |
 | Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]] |
 | Uncommon | [[Kitsune]], [[Automatons]], [[Dragonbloods]]  |
-| Rare     | -                                              |
+| Rare     | Elf                                            |
 
 ## Deities
 
