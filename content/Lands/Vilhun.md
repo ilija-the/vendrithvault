@@ -7,7 +7,7 @@ aliases:
 ---
 ![[vilhun.png]]
 
-Part of [[Iduria]], Vilhun is an island-chain north of [[Galae]] and [[Mogxa]].
+Part of [[Iduria]], Vilhun is an island-chain archipelago north of [[Galae]] and [[Mogxa]]. These islands include, in a loose order of relevance: the [[Isle of Flod]], [[Dragonbreath Island]], [[Challenge Isles]], [[Scalendia]], [[Greenkleks]], and the surrounding [[Wan Islets]].
 
 > For more in Vilhun, see #places/vilhun 
 
@@ -26,11 +26,11 @@ The wide spanning archipelago has a history of many natural disasters, now attri
 ## Ancestries
 The makeup of the Vili society closely resembles that of the Hun Lords, with Kitsune, Automatons, and Dragonblood being notable minorities due to history. There may be a slightly larger amount of Elves than elsewhere on the continent due to proximity to the now-sunken [[Hightower Civilisation|hightowers]].
 
-| Rarity   | Ancestries                                                         |
-| -------- | ------------------------------------------------------------------ |
-| Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]]                     |
-| Uncommon | [[Kitsune]], [[Automatons]], [[Dragonbloods]], remaining ancestries |
-| Rare     | [[Elves]]                                                          |
+| Rarity   | Ancestries                                     |
+| -------- | ---------------------------------------------- |
+| Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]] |
+| Uncommon | [[Kitsune]], [[Automatons]], [[Dragonbloods]]  |
+| Rare     | -                                              |
 
 ## Deities
 

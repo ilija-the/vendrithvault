@@ -3,6 +3,7 @@ aliases:
   - Flod
 tags:
   - places/vilhun
+  - nature/islands
 ---
 ![[MappaFlodi_1.2.3_B.webp]]
 

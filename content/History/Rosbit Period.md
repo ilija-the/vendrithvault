@@ -5,7 +5,7 @@ tags:
 aliases:
   - Vilhi Succession Crisis
 ---
-With the death of its previous long-lived Sultan, Vilhun has underwent a long-since done [[The Vilhi Sultanate|election of the noble families]]. 
+With the (suspicious) death of its previous long-lived Sultan, Vilhun has underwent a long-since done [[The Vilhi Sultanate|election of the noble families]]. 
 
 The [[Free Lord]] families have been mostly out of the picture, having bureaucratic experience but ultimately having no eligible candidates. The [[Horde Lord]] families had elected the khan of the [[Suli Clan]], which was then immediately rebuked by [[Steel Lord]] families emir of the [[Hagane Clan]].
 
