@@ -14,9 +14,10 @@ Its members include:
 - [[Ciraxi]]
 - [[Raskiff]]
 
-Notable characters to the party include:
+Notable player characters outside of the party include:
+- [[Haru Lockneed]]
+- [[Hanya]]
 
+Notable non-player characters outside of the party include:
 - [[Sora Lockneed]]
 - [[Snix]]
-- [[Haru Lockneed]]
-- 
