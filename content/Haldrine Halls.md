@@ -1,0 +1,1 @@
+The Haldrine Halls is a settlement akin to a monastery f
