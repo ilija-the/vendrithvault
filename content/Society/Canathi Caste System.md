@@ -14,9 +14,11 @@ Those on top of the Caste System become something known pejoratively as "Untouch
 
 Religious hierarchy, and especially those who more directly did tasks on behalf of [[Titans]] or took their messages, are at least in the middle to upper castes.
 
-Those born outside of Canath or at least Canathi families are outside of the Caste System, which makes you highly lacking in the protection of the law besides the utmost basics. Some exceptions have been made for foreign merchants in certain towns, which have given them more extensive specific protections. Others have merely allowed for outsider merchants to earn their place in a Canathi merchant caste, which over time opened the door for more people of various walks of life to do so. Some foreign adventurers have joined and then risen through the ranks, for example.
+Those born far outside of Canath or at least outside a Canathi family are outside of the Caste System, which makes you highly lacking in the protection of the law besides the utmost basics. Some exceptions have been made for foreign merchants in certain towns, which have given them more extensive specific protections. Others have merely allowed for outsider merchants to earn their place in a Canathi merchant caste, which over time opened the door for more people of various walks of life to do so. Some foreign adventurers have joined and then risen through the ranks, for example.
 
-Tribes or those in the borderlands of Canath, often considered hostile to Canathi civilisation, are both 
+Tribes or those in the borderlands of Canath, often considered hostile to Canathi civilisation, have a special denomination akin to a wooden caste. This gives them some rights in the wilds, but restricts them in the cities and even makes them an easier legitimate target in battle. Those of this semi-caste have been given wooden tokens by certain border settlements as a way to prove their rights to, for example, hunt in nature. [[Mercenaries|Mercenary]] types of the grimmer variety have taken to hunting tribesmen, and then collecting their tokens back, as a way of proving their deed 'clearing' the lands.
+
+> The element above is that of ethnic discrimination and cleansing, 
 
 
 [[Trinities]]
