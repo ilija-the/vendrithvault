@@ -1,1 +1,5 @@
-Up the road from the settlement of [[Shahmeli]].
+---
+tags:
+  - places/canath/painted
+---
+Up the road from the settlement of [[Gaonmeli]] and [[Shahale]], not 
