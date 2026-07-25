@@ -4,6 +4,8 @@ tags:
 ---
 [[Canath]] is a region with a pervasive and expansive [[Caste Systems|Caste System]], a classification of social hierarchy along various groups, the castes, each with their own social roles as well as [[Law|laws]] and privileges. While rising in the hierarchy generally grants one more privilege and opportunity, the lower castes retain a number of specific protections against abuses by those above them.
 
+Caste differences are somewhat less important in the cities of Canath, as it benefits from offering a wider variety
+
 The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. %% WIP WIP WIP The ranks are as follows:
 - Untouchable Tier
 - Platinum Tier
@@ -38,4 +40,4 @@ Tribes or those in the borderlands of Canath, often considered hostile to Canath
 
 > The element above is highly characteristic of real life ethnic discrimination and cleansing, and thus needs to be treated carefully. Make sure your players are comfortable and on board before using this in your games, and if not, leave it out.
 ## History
-The Canathi Caste system has ancient roots, but has changed and evolved over millennia. The most recent form of the system can be said to have started under the Western Governors of the [[Idurian Empire]], which envisioned it as a way to keep the order and hoped to implement it across [[Mogxa]] society too (partially to break up their [[Societies of Mogxa|Societies]], and even the [[Philosop]]) 
+The Canathi Caste system has ancient roots, but has changed and evolved over millennia. The most recent form of the system can be said to have started under the Western Governors of the [[Idurian Empire]], which envisioned it as a way to keep the order and hoped to implement it across [[Mogxa]] society too (partially to break up their [[Societies of Mogxa|Societies]], and even the [[Guilds of Philosophia]]). While it was not implemented across the eastern lands, it ensured social stratification across Canath - and particularly intensified after the abdication of [[Resting Crown|Idur]] and the fragmentation of the empire. Since the former governors feared losing their fiefs, they used it to sow division amongst the common folk, and to reward the powerful local aristocrats with near legal immunity.
