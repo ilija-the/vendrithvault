@@ -5,6 +5,7 @@ tags:
 [[Canath]] is a region with a pervasive and expansive [[Caste Systems|Caste System]], a classification of social hierarchy along various groups, the castes, each with their own social roles as well as [[Law|laws]] and privileges. While rising in the hierarchy generally grants one more privilege and opportunity, the lower castes retain a number of specific protections against abuses by those above them.
 
 The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. %% WIP WIP WIP The ranks are as follows:
+Ruler Class
 - Untouchable Tier
 - Platinum Tier
 - Golden Tier
