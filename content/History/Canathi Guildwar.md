@@ -1,6 +1,3 @@
-The Guildwar is an ongoing rivalry and conflict between three factions of guilds with diverging political views and aesthetic tastes around Canath, whose rivalry and polarisation often delves into the absurd. The Guildwar paused and seemed like it might be able to end during the [[War Over Haeven]], but it got revitalised as it settled along different lines in terms of their 
+The Guildwar is an ongoing rivalry and conflict between three factions of guilds with diverging political views and aesthetic tastes around [[Canath]], whose rivalry and polarisation often delves into the absurd. The Guildwar paused and seemed like it might be able to end during the [[War Over Haeven]], but it got revitalised as it settled along different lines in terms of their stance on the [[Eternal Crusade]]. 
 
-
-[[Canath]]
-
-[[Horizan Guild Association]]
+There's rarely more than two of the factions in each settlement in Canath. Ones allegiance is signalled with colours, symbols and a variety of other fashion statements. While the status is rarely that of outright battle, one is more likely to be jumped if one struts down the wrong street with the wrong symbols. One wil
