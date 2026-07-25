@@ -13,7 +13,7 @@ Canath, sometimes called as Encanath, is a large region encompassing a variety o
 
 > For more in Canath, see #places/canath 
 ## Culture
-Canath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges.
+Canath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges. It is also embroiled in a separately ongoing [[Canathi Guildwar|Guildwar]].
 
 Canath is perhaps the most diverse corner of the world still considered part of a greater cultural union, home to countless polities, peoples, castes, languages and more. Canath is often divided into the [[Canathi City States|City States]] and [[Canathi Kingdoms|Kingdoms and Duchies]].
 
