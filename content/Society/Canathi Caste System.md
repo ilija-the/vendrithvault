@@ -8,9 +8,13 @@ While one is born into a caste, there are pathways to gain or lose rank. Rising 
 
 > The caste system of Canath is also complicated by the ongoing [[Canathi Guildwar]], in which two to three broad factions of guilds in the cities have an intense rivalry and vie to suppress their opponents. If a Caste Elder is sympathetic to an enemy faction of yours for example, you're likely to get assigned a much harder trial.
 
+Those on top of the Caste System become something known as "Untouchables," whom are immune to essentially all laws of Canathi realms except those of war or those which can be enforced by religious hierarchy.
+
+> Note that in real life "untouchables" are the complete opposite, those considered beneath the entire system whom do 'dirty' work and 
+
 Religious hierarchy, and especially those who more directly did tasks on behalf of [[Titans]] or took their messages, are at least in the middle to upper castes.
 
-Those completely outside the Ca
+Those completely outside the Caste System 
 [[Trinities]]
 
 [[Titans]]
