@@ -8,9 +8,9 @@ While one is born into a caste, there are pathways to gain or lose rank. Rising 
 
 > The caste system of Canath is also complicated by the ongoing [[Canathi Guildwar]], in which two to three broad factions of guilds in the cities have an intense rivalry and vie to suppress their opponents. If a Caste Elder is sympathetic to an enemy faction of yours for example, you're likely to get assigned a much harder trial.
 
-Those on top of the Caste System become something known as "Untouchables," whom are immune to essentially all laws of Canathi realms except those of war or those which can be enforced by religious hierarchy.
+Those on top of the Caste System become something known pejoratively as "Untouchables," whom are immune to essentially all laws of Canathi realms. The exceptions are those of war, they can still be captured in a battle they fight for example, or those contexts in which laws can be enforced by the religious hierarchy, such as for desecration while on their property. While popular heroes can hold this title, it is a status often looked down upon by the common folk as something that protects criminal elites - and thus is often rejected by folk heroes. Commoners are taught growing up to not interact with people of this status, for fear of what they c
 
-> Note that in real life "untouchables" are the complete opposite, those considered beneath the entire system whom do 'dirty' work and 
+> Note that in real life "untouchables" are the complete opposite, those considered beneath the entire system whom do 'dirty' work and thus shouldn't even be interacted with.
 
 Religious hierarchy, and especially those who more directly did tasks on behalf of [[Titans]] or took their messages, are at least in the middle to upper castes.
 
