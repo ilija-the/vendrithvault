@@ -1,0 +1,1 @@
+Gulmfort is a fortress settlement inland of [[Auchiton]] and the [[Celene]] coast of [[Canath]], sitting atop a hilly area.
