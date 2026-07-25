@@ -1,0 +1,1 @@
+Aramtun is a settlement in the centre of the [[Painted Canath|Painted Province]] of [[Canath]], on the [[Celene]] coast. Aramtun can reach the [[Tallface]] and 
