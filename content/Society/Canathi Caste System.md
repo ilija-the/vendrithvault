@@ -33,7 +33,7 @@ WIP WIP WIP
 
 While one is born into a caste, there are pathways to gain or lose rank. Rising the ranks is usually bound to accomplishing great deeds, usually in the form of specific trials, which need to be recognised by three Caste Elders - one from the Caste you're graduating from, one from the Caste you're graduating to, and one from an unrelated and neutral third caste. The types of deeds required as well as the difficulties in getting the approval of all the Caste Elders required, thus makes rising in the hierarchy mostly for [[Adventurers|adventurers]].
 
-The culture of [[Vön]] takes the intense stratification less to heart, and tend to simplify it down to only a few ranks. Many are of the opinion their elders guard the castes too weakly, and thus that rising the ranks in Vön accounts to a cheat and an illegitimate rank.
+The culture of [[Vön]] takes the intense stratification less to heart, and tend to simplify it down to only a few ranks. Many are of the opinion their elders guard the castes too weakly, and thus some think that rising the ranks in Vön accounts to a cheat and an illegitimate rank.
 
 > The caste system of Canath is also complicated by the ongoing [[Canathi Guildwar]], in which two to three broad factions of guilds in the cities have an intense rivalry and vie to suppress their opponents. If a Caste Elder is sympathetic to an enemy faction of yours for example, you're likely to get assigned a much harder trial.
 
