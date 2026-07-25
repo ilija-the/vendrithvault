@@ -13,5 +13,5 @@ Notable locations in Painted Canath include:
 - [[Haldrine Halls]]
 - [[Shahale]]
 - [[Elaidotel Wall]]
-- [[Kiltox]]
+- [[Fort Kiltox]]
 - [[Gaonmeli]]
