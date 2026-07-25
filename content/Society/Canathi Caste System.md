@@ -5,7 +5,6 @@ tags:
 [[Canath]] is a region with a pervasive and expansive [[Caste Systems|Caste System]], a classification of social hierarchy along various groups, the castes, each with their own social roles as well as [[Law|laws]] and privileges. While rising in the hierarchy generally grants one more privilege and opportunity, the lower castes retain a number of specific protections against abuses by those above them.
 
 The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. %% WIP WIP WIP The ranks are as follows:
-Ruler Class
 - Untouchable Tier
 - Platinum Tier
 - Golden Tier
@@ -14,9 +13,13 @@ Ruler Class
 - Bronze Tier
 - Iron Tier
 - Copper Tier
-- Wood Tier
+- Wood Tier 
 
-The 
+The three columns that divide the middle are:
+- Protector
+- Creator
+- Leader
+WIP WIP WIP
 %%
 
 While one is born into a caste, there are pathways to gain or lose rank. Rising the ranks is usually bound to accomplishing great deeds, usually in the form of specific trials, which need to be recognised by three Caste Elders - one from the Caste you're graduating from, one from the Caste you're graduating to, and one from an unrelated and neutral third caste. The types of deeds required as well as the difficulties in getting the approval of all the Caste Elders required, thus makes rising in the hierarchy mostly for [[Adventurers|adventurers]].
@@ -34,3 +37,5 @@ Those born far outside of Canath or at least outside a Canathi family are outsid
 Tribes or those in the borderlands of Canath, often considered hostile to Canathi civilisation, have a special denomination akin to a wooden caste. This gives them some rights in the wilds, but restricts them in the cities and even makes them an easier legitimate target in battle. Those of this semi-caste have been given wooden tokens by certain border settlements as a way to prove their rights to, for example, hunt in nature. [[Mercenaries|Mercenary]] types of the grimmer variety have taken to hunting tribesmen, and then collecting their tokens back, as a way of proving their deed 'clearing' the lands.
 
 > The element above is highly characteristic of real life ethnic discrimination and cleansing, and thus needs to be treated carefully. Make sure your players are comfortable and on board before using this in your games, and if not, leave it out.
+## History
+The Canathi Caste system has ancient roots, but has changed and evolved over millennia. The most recent form of the system can be said to have started under the Western Governors of the [[Idurian Empire]], which envisioned it as a way to keep the order and hoped to implement it across [[Mogxa]] society too (partially to break up their [[Societies of Mogxa|Societies]], and even the [[Philosop]]) 
