@@ -4,7 +4,7 @@ tags:
 ---
 [[Canath]] is a region with a pervasive and expansive [[Caste Systems|Caste System]], a classification of social hierarchy along various groups, the castes, each with their own social roles as well as [[Law|laws]] and privileges. While rising in the hierarchy generally grants one more privilege and opportunity, the lower castes retain a number of specific protections against abuses by those above them.
 
-Caste differences are somewhat less important in the cities of Canath, as it benefits from offering a wider variety
+Caste differences are somewhat less important in the cities of Canath, even if it still exists there, as it benefits from offering a wider variety of services and taking a wider variety of employees than that of the countryside.
 
 The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. %% WIP WIP WIP The ranks are as follows:
 - Untouchable Tier
@@ -21,6 +21,13 @@ The three columns that divide the middle are:
 - Protector
 - Creator
 - Leader
+
+The protections give to lower castes includes:
+- Rights to the wilds for the wooden tribes
+- Rights to ones land for the farmers
+- Rights to residence and family for labourers
+- Rights to trade secrets and business for craftsmen
+- Rights to travel and association for merchants
 WIP WIP WIP
 %%
 
