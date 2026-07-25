@@ -1,1 +1,1 @@
-The Celtwix is a channel and a strait on its wes
+The Celtwix is a channel that connects the [[Brinkforth]] sea with the [[Celene]] of [[Canath]], which famously enjoys little traffic due to the lack of interesting locations to its west combined with its difficult tides and many whirlpools. The eastern edge of the channel is also home to the Celtwix Strait, which roughly spans between the shore of [[Kiltox]] and the peninsular-island settlement [[Isthram Setu]].

@@ -1,0 +1,1 @@
+Isthram Setu is a settlement on the western edge of the [[Celene]] of [[Canath]], which famously guards the [[Celtwix|Celtwix Strait]]
