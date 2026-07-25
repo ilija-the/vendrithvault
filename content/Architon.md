@@ -1,0 +1,1 @@
+Architon is a settlement on the eastern edge of the [[Celene]] of [[Canath]]. It is shielded by the Arches Mountains just inland of it, around and beyond which lie a number of old mines which once neighbours the other centres of [[Twinvale]] to the north-west and [[Gulmfort]] to the south-east.
