@@ -8,8 +8,10 @@ Painted Canath, also called Painted Canath, makes up the northern edge of [[Cana
 
 Notable locations in Painted Canath include:
 - [[Twinvale]]
+- [[Sharghei's Landing]]
 - [[Aramtun]]
-- [[Gaonmeli]]
 - [[Haldrine Halls]]
 - [[Shahale]]
-- [[Sharghei's Landing]]
+- [[Elaidotel Wall]]
+- [[Kiltox]]
+- [[Gaonmeli]]
