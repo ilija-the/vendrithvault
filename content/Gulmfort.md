@@ -1,1 +1,1 @@
-Gulmfort is a fortress settlement inland of [[Auchiton]] and the [[Celene]] coast of [[Canath]], sitting atop a hilly area.
+Gulmfort is a fortress settlement inland of [[Auchiton]] and the [[Celene]] coast of [[Canath]], sitting atop a central hilly area with great control over land passages north-west and south-east. It touches lake Gyila to its south, where some ao
