@@ -4,7 +4,7 @@ tags:
 ---
 Twinvale is a long valley on the border between the [[Canath|Painted Canath]] north of the [[Celene]] and [[Ferweth]], as well as a settlement of the same name within it. The steep cliffs that make it up on its innermost parts are known as the Valecliffs, which are impassable to all but the most dedicated climbers, or those with flight.
 
-Twinvale is in a bit of a rivalry with the similarly sized settlement of [[Shargei's Landing]] towards the western end of Painted Canath.
+Twinvale is in a bit of a rivalry with the similarly sized settlement of [[Sharghei's Landing]] towards the western end of Painted Canath. The central settlement of [[Aramtun]] is often drawn into this rivalry.
 ## Culture
 The settlement of Twinvale is in the Painted Province of Canath, once conquered from a number of tribes not of Canathi language or origin. Whereas much of the rest of the province has adopted certain practices inspired by the old tribes, the settlement of Twinvale retains a unique culture somewhat separate from those, likely helped by their geographical isolation from them because of the Twin Forest. Twinvale attempts to exert influence over Auchiton and the Haldrine Halls. 
 
