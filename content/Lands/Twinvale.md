@@ -2,9 +2,9 @@
 tags:
   - places/canath/painted
 ---
-Twinvale is a long valley on the border between the [[Canath|Painted Canath]] north of the [[Celene]] and [[Ferweth]], as well as a settlement of the same name within it. 
+Twinvale is a long valley on the border between the [[Canath|Painted Canath]] north of the [[Celene]] and [[Ferweth]], as well as a settlement of the same name within it. The cliffs that l
 ## Culture
-The settlement of Twinvale is in the 
+The settlement of Twinvale is in the Painted Province of Canath, once conquered from a number of tribes not of Canathi language or origin. Whereas much of the rest of the province has adopted certain practices inspired by the old tribes, the settlement of Twinvale retains a unique culture somewhat separate from those, likely helped by their geographical isolation from them because of the Twin Forest. Twinvale attempts to exert influence over Auchiton and the Haldrine Halls. 
 
 The valley, thought in Ferwethi tradition to have been carved by an enormous worm, has been identified with a Canathi event or story called the Battle of a Hundred Heroes. In it, a settlement threatened with total extinction made a call out for those willing and able to defend it against an enormous beast - whom arrived just in time to battle for an entire evening just to convince this monster to turn around to where it came from.
 ## Geography
