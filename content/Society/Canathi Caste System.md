@@ -6,7 +6,7 @@ tags:
 
 > The caste system of Canath is also complicated by the ongoing [[Canathi Guildwar]], in which two to three broad factions of guilds in the cities have an intense rivalry and vie to suppress their opponents. If a Caste Elder is sympathetic to an enemy faction of yours for example, you're likely to get assigned a much harder trial.
 
-The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. %% WIP WIP WIP The ranks are as follows:
+The castes are plentiful and vary by areas in Canath, but are categorised into a series of ranks and columns. The specific castes have and can change their positions during the course of [[History]]. %% WIP WIP WIP The ranks are as follows:
 - Untouchable Tier
 - Platinum Tier
 - Golden Tier
