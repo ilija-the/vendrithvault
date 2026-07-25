@@ -5,11 +5,12 @@ tags:
 ---
 The Guildwar is an ongoing rivalry and conflict between three factions of guilds with diverging political views and aesthetic tastes around [[Canath]], whose rivalry and polarisation often delves into the absurd. It is mainly found in cities and larger towns, and is seen as unwelcome in the countryside and villages. 
 
-%% The Guildwar factions are:
-- The Yellows, which tend to favour city state independence under tradition and aristocrats.
-- The Blues, which more militaristically support the [[Crusaders]] and the church hierarchies.
+%% WIP WIP WIP 
+The Guildwar factions are:
+- The Yellows, which tend to favour city state independence under tradition, aristocrats, and patrons, as well as local heroes.
+- The Blues, which more militaristically support the [[Crusaders]] and the church hierarchies, and promotes the creation of cross-Canathi heroes.
 - The Purples, the smaller of the three factions, which support the restoration of an empire akin to that of [[Resting Crown|Idur]], or in its absence, the creation of various cross-Canathi systems and communities. Disagrees with the Blue's desire to waste troops on "foreign conquest" until they've unified a proper realm.
-- The Unaligned
+- The unaligned meanwhile face suspicion and mistrust from those who are involved, and can even be accused of acting as spies.
 %%
 
 The Guildwar paused and seemed like it might be able to end during the [[War Over Haeven]], but it got revitalised as it settled along different lines in terms of their stance on the [[Eternal Crusade]]. 
