@@ -8,7 +8,7 @@ The Guildwar is an ongoing rivalry and conflict between three factions of guilds
 %% The Guildwar factions are:
 - The Yellows, which tend to favour city state independence under tradition and aristocrats.
 - The Blues, which more militaristically support the [[Crusaders]] and the church hierarchies.
-- The Purples, the smaller of the three factions, which support the restoration of an empire akin to that of [[Resting Crown|Idur]], or in its absence, the creation of various cross-Canathi systems and communities.
+- The Purples, the smaller of the three factions, which support the restoration of an empire akin to that of [[Resting Crown|Idur]], or in its absence, the creation of various cross-Canathi systems and communities. Disagrees with the Blue's desire to waste troops on "foreign conquest" until they've unified a proper realm.
 - The Unaligned
 %%
 
