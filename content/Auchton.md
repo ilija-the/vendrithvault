@@ -1,0 +1,7 @@
+---
+tags:
+  - places/canath/tower
+---
+Auchton is a settlement on the eastern edge of the [[Celene]] of [[Canath]], making up the northern part of [[Tower Canath]]. It is shielded by the Auchi Mountains just inland of it, around and beyond which lie a number of old mines which were once a world supplier of [[Mundane Materials|tin]] but now which lie at minimal capacity or completely abandoned. Auchton neighbours the other centres of [[Twinvale]] to the north-west and [[Gulmfort]] to the south-east, and also has access to the Old Passage to [[Galae]] and [[Ferweth]] through the [[Crimson Desert|Red Desert]]. This passage has also already seen its glory days pass by, with the metal trade having dried up and the desert having become even more uninhabitable.
+
+It is believed the word "tonne" (sometimes spelled ton) comes from the historical metal trade of Auchton.
