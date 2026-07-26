@@ -9,7 +9,6 @@ Status: Missing
 aliases:
   - Gentle Prosecutor
 ---
-
 The Gentle Prosecutor was a [[Sanitorium|Sanitationist]] prosecutor and envoy to the city of [[Friedport]]. His job was to maintain relations between the [[Horizan Guild Association]] in Horiza and the Sanitorium, but also given the authority to prosecute crimes, he effectively was a tool keeping HGA in line. As a young, accomplished and handsome man, he was known to enjoy parties and charming people in his spare time.
 
 ![[Gentle_Prosector_Flashback.png]]
