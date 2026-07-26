@@ -5,6 +5,6 @@ tags:
 ---
 ![[Kaya_Venstock.webp|right|300]]
 
-Kaya Venstock, owner of the Vennstock Pot tavern.
+Kaya Venstock is the owner of the Vennstock Pot tavern.
 
-Kidnapped by [[Beast King Luca]] prior to bloodrain falling upon [[Twinberry]] as a means of drawing out the [[So-Called Heroes]]. Successfully rescued and reunited with her brother [[Abe Venstock]].
+She widnapped by [[Beast King Luca]] prior to bloodrain falling upon [[Twinberry]] as a means of drawing out the [[So-Called Heroes]]. Successfully rescued and reunited with her brother [[Abe Venstock]].
