@@ -11,4 +11,4 @@ The Good Doctor has made devil deals with:
 - [[Gator Grippli]]
 - [[Princess Ionelle]]
 
-The Good Doctor Failed to get a deal with [[Louen Leonceur]], whom refused to taint his principles and soul and chose to embrace his
+The Good Doctor Failed to get a deal with [[Louen Leonceur]], whom refused to surrender his principles and chose to embrace his death, fighting for the party, over sacrificing his soul.
