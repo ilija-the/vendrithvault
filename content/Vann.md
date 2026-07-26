@@ -1,0 +1,1 @@
+Vann is or was a [[Goblins|Goblin]] [[Underworld|criminal]] of the [[Bemdali Fireworks]] in [[Philosophia]]. Old but wise, Vann 

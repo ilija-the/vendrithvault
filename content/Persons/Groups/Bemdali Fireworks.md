@@ -10,7 +10,7 @@ They were previously lead by a trio of Goblin Brothers known as "The Shattered" 
 
 Their main rival is [[Yellow the Goblin]] and his gang.
 
-Other members include:
+Others whom are or have been members include:
 - [[Vann]]
 - [[Jjeen]]
 - [[Beirgit]]
