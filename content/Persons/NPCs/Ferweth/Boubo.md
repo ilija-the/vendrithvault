@@ -1,0 +1,1 @@
+Boubou is a [[Vanara]] of [[Cocatun]], in [[Ferweth]]. He is inseparable from [[K]]

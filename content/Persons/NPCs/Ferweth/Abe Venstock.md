@@ -5,4 +5,4 @@ tags:
 ---
 ![[Abe_Venstock.webp|right|300]]
 
-Once-missing brother of [[Kaya Venstock]]. Found hiding in a crypt taken over by vampirs led by [[Beast King Luca]].
+Abe Venstock is the once-missing brother of [[Kaya Venstock]]. Found hiding in a crypt taken over by vampirs led by [[Beast King Luca]].
