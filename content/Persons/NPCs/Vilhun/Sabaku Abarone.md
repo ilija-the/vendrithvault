@@ -5,6 +5,5 @@ tags:
   - ancestries/goblin
   - people/npc
 ---
-First son of [[Abu'Sabaku Abarone]]. Brother to [[Hachiko]] and [[Uraokra]].
+Sabaku Abarone is the first son of [[Abu'Sabaku Abarone]], and heir presumptive of House Abarone. He's the brother of [[Hachiko]] and [[Uraokra]].
 
-Heir presumptive of House Abarone.
