@@ -11,7 +11,7 @@ This possible proximity to upper echelons of power is also one of the few merit-
 > *The alchemists employed by the major houses tend to be more interested by inserting themselves into politics and furthering their political interests than actually practicing alchemy.*
 
 There are few noteworthy academe that Alchemists are proud to hail from:
-- [[Academie Peripherie Philosophia]] of Mogxia (Alchemy Wing)
+- [[Academie Peripherie]] of Mogxia (Alchemy Wing)
 - Alkahestral College of Vilhun
 
 > [!note]- Inspirations:
