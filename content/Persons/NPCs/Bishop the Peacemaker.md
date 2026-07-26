@@ -8,4 +8,4 @@ Birth: 1185 ADc
 Fate: 1273 ADc
 Status: Dead
 ---
-Bishop the Peacemaker was an old dwarf that was known as the last leader of the [[Peacemakers]], a faction of nominal [[Crusaders]] seeking to end the [[Eternal Crusade]]. He died after a kidnapping incident committed by [[Desecrators]] in the [[Ivory Crown Plateau]].
+Bishop the Peacemaker was an old dwarf that was known as the last leader of the [[Peacemakers]], a faction of nominal [[Crusaders]] seeking to end the [[Eternal Crusade]]. He died after a kidnapping incident committed by [[Desecrators]] in the [[Ivory Crown Plateau]], as lead by [[Cardinal Rackawn]].
