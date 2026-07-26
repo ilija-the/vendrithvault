@@ -3,7 +3,7 @@ tags:
   - people/npc
   - campaigns/landcrab-plot
 ---
-A powerful figure that appears akin to a tiger-like [[Amurrun]] (though it is uncertain if he is one), that is most known for his collection of historical, magical and otherwise prestigious artefacts. He is of quite a bit of influence in [[Talvas]], in which he has multiple times been appointed the [[Rajistrate]] of [[Rraka]], and he has a palace to go with said title. His mansions are known to be gaudy and full of symbols of his endless wealth and curiosity for artefacts.
+The Fat Tiger is a powerful figure that appears akin to a tiger-like [[Amurrun]] (though it is uncertain if he is one), that is most known for his collection of historical, magical and otherwise prestigious artefacts. He is of quite a bit of influence in [[Talvas]], in which he has multiple times been appointed the [[Rajistrate]] of [[Rraka]], and he has a palace to go with said title. His mansions are known to be gaudy and full of symbols of his endless wealth and curiosity for artefacts.
 
 ![[Fat_Tiger_Lastsummer.png]]
 

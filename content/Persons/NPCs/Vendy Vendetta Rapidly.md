@@ -7,7 +7,7 @@ tags:
   - people/npc
   - secrets
 ---
- Vendy "Vendetta" Rapidly is an [[Aiuvarin]] cat-burglar from [[Philosophia]], where she is highly wanted for a series of burglaries and heists she is thought to have committed alone as a kid and teen. Some time after escaping the city, she is thought to have began operating as a duo with [[Gozi Windaji]], and has spread out to also doing archaeology and exploration towards the end of gathering artefacts. She managed to sneak herself into [[Horiza|Horiza]], her last known location being [[Friedport]].
+Vendy "Vendetta" Rapidly is an [[Aiuvarin]] cat-burglar from [[Philosophia]], where she is highly wanted for a series of burglaries and heists she is thought to have committed alone as a kid and teen. Some time after escaping the city, she is thought to have began operating as a duo with [[Gozi Windaji]], and has spread out to also doing archaeology and exploration towards the end of gathering artefacts. She managed to sneak herself into [[Horiza|Horiza]], her last known location being [[Friedport]].
 
 > 🎵 [Theme of the City Thief](https://youtu.be/uzG5JFreTWQ)
 

@@ -8,9 +8,7 @@ aliases:
   - Belladonna
   - Belle Belladonna
 ---
-
-
-A fabled [[Witch]] often spoken in hushed tones about by commonfolk, though known by many influential figures of the last century. She is feared for a number of great exercised of magical power during the last century, though none have happened since the [[Witch Concordat]], which she signed. While it's hard not to feel warm and comfortable in her presence, there's still an air of something more behind her words.
+The Witch in Yellow is a fabled [[Witch]] often spoken in hushed tones about by commonfolk, whom has gotten close to many influential figures of the last century. She is feared for a number of great exercises of magical power throughout her life, though none have happened since the [[Witch Concordat]], which she signed. While it's hard not to feel warm and comfortable in her presence, there's still an air of something more behind her words.
 
 ![[Belle.cutout.png| center | 800]]
 
