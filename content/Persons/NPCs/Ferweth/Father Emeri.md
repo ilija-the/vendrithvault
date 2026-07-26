@@ -4,4 +4,4 @@ tags:
   - ancestries/amurrun
   - people/npc
 ---
-An inventor of [[Vanderkact]] from a lineage descended from [[Saint Clover]].
+Father Emeri is an [[Inventor|inventor]] of [[Vanderkact]], from a lineage descended from [[Saint Clover]].
