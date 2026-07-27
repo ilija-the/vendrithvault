@@ -2,7 +2,7 @@ Transmutation Engines are [[Alchemy|alchemical]] machines capable of automating 
 
 These three primary uses are how [[Vilhun]] is managing to stopgap its precarious industry sector, refining its otherwise poor quality ore, as well as mass produce otherwise labor-intensive substances such as [[Redpowder]].
 
-The invention of the engines has been sponsored by the previous [[The Vilhi Sultanate|Vilhi Sultanate]] in collaboration with [[Cragmoore]] officials and inventors. This attributed to a growth in a [[Cragmoore]] diaspora in the nation, primarily trained [[Alchemist|alchemists]] and [[Inventor|inventors]] capable of operating these machines.
+The invention of the engines has been sponsored by the previous [[The Vilhi Sultanate|Vilhi Sultanate]] in collaboration with [[Cragmoore]] officials and inventors, notably [[Borgrumm Holdok]] for designing the clockwork machinery. This has also attributed to a growth in a [[Cragmoore]] diaspora in the nation, primarily trained [[Alchemist|alchemists]] and [[Inventor|inventors]] capable of operating these machines who wanted to get out of underneath [[Magistrate of Cragrock|Magistrates]] boot.
 
 A relatively recent invention, transmutation engines have so far not spread to the rest of the world on account of being somewhat of a trade secret, requiring specialized training, and a very sophisticated fuel apparatus.
 
