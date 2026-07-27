@@ -11,7 +11,7 @@ Part of [[Iduria]], Vilhun is an island-chain archipelago north of [[Galae]] and
 
 > For more in Vilhun, see #places/vilhun 
 
-Home to a staunchly independent people, as well as a notable number of [[Dragons]] and their offspring. *Although as per the [[Draconic Concordat]], all of those offspring being humanoid.*
+Home to a staunchly independent people, as well as a notable number of [[Dragons]] and their offspring.^[Although as per the [[Draconic Concordat]], all of those offspring being humanoid.] It also has half a dozen of diasporas within its borders.
 
 Primary regional deities of note are the [[Hun Lords]], with the multiple noble families, and all dynasties, being associated with their divine lineage.
 
@@ -30,7 +30,7 @@ The makeup of the Vili society closely resembles that of the Hun Lords, with Kit
 | -------- | ---------------------------------------------- |
 | Common   | [[Humans]], [[Goblins]], [[Iruxi]], [[Gnomes]] |
 | Uncommon | [[Kitsune]], [[Automatons]], [[Dragonbloods]]  |
-| Rare     | Elf                                            |
+| Rare     | Elf                                            
 
 ## Deities
 
@@ -41,6 +41,13 @@ See [[Hun Lords]] for information as to the Hun Lords, but they are not the only
 | Common   | [[Hun Lords\|The Hun Lords]], [[Awaited Architect]], [[Bombastic Peace]], [[Cosmic Guide]], [[Luminous Idea]][^1], [[Devil Queen of Crimson\|Oathbound Firestorm]][^2], [[Relentless Pen]], [[Resting Crown]], [[Wheel of Death]], [[Wordless Fleece]] |
 | Uncommon | [[Ancient Survivor]], [[Hooded Saviour]], [[Macabre Maelstrom]], [[Masked Showrunner]], [[Primordial Shepherd]]                                                                                                                                        |
 | Rare     | [[Icen Maiden]], [[Twotailed Drake]]                                                                                                                                                                                                                   |
+
+## Industry
+
+Vilhun has a limited set of industries due to its geography, primarily consisting of fishing, subsistence farming, agriculture for the wealthy, and lumber mills. As such, for everything else they are highly reliant on imports, making for a rather precarious economic situation. 
+
+While widely regarded as excellent craftsmen, this necessity for quality is predicated on the fact that quality material is scarce, especially in metallurgy where creating a half-decent sword or armor requires a lot of effort. As such, the previous sultan has heavily invested in [[magic|magical]] and [[alchemy|alchemical]] industries in an effort to be able to transmute metals on large scale, either by improving the refining process, or literally turning metals into other metals. One of his withstanding achievements has been the invention of [[Transmutation Engines]].
+
 
 [^1]: Often adjacent to the [[Steel Lord]].
 

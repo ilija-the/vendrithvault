@@ -8,7 +8,7 @@ tags:
 
 A mild red powder made from dessicated [[Elixir of Life|Elixirs of Life]]. 
 
-Like the elixirs, it causes a hot burning sensation upon touch or taste, which many find to have a pleasing, pain-relieving and invigorating effect, but consumed raw it does not havea any healing properties. 
+Like the elixirs, it causes a hot burning sensation upon touch or taste, which many find to have a pleasing, pain-relieving and invigorating effect, but consumed raw it does not have any healing properties. 
 
 When a flask of [[Elixir of Life]] has dried out or otherwise expired, the redpowder is the largest residue of the liquid. That powder then is either recycled or more often than not, thrown as an improvised explosive by the alchemist. Much to the glassworkers dismay of where all those flasks are going.
 

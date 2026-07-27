@@ -19,7 +19,7 @@ The most well known usage of alchemy involves simply combining premade vials of 
 
 While in the past alchemists were limited by their environment in regards to what reagents they can prepare, now practically any common materiel can be dissolved into a lower state of matter and then recombined into different substances or polymers.[^1] As such, Alchemists will be hardly found without any reagents on them, lest you forcefully confiscate them and their tools so they cannot reprepare.
 
-One of the more revolutionary innovations in the field of Alchemy have been [[transmutation engines]]. While requiring constant supervision, these alembics can automagically transmute one material to another, often used by particularly savvy alchemists to prepare their daily repertoire and improve efficiency at manufactories. But as with any new technology, the rate of incidents is high, with a variety of implosions and explosions being common due to miscalculations or still-experimental runes. This often renders the engine irrecoverable.
+One of the more revolutionary innovations in the field of Alchemy have been [[Transmutation Engines]]. While requiring constant supervision, these alembics can automagically transmute one material to another, often used by particularly savvy alchemists to prepare their daily repertoire and improve efficiency at manufactories. But as with any new technology, the rate of incidents is high, with a variety of implosions and explosions being common due to miscalculations or still-experimental runes. This often renders the engine irrecoverable.
 
 Particularly legendary alchemists have also been known for using homunculi and constructs to do their alchemical chores.
 
