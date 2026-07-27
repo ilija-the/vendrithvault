@@ -1,6 +1,6 @@
 #events 
 
 [[Yellow the Goblin]] 
-[[The Shattered]]
+[[Bemdali Fireworks]]
 [[Bemdali Fireworks]]
 [[Jjeen]]

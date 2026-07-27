@@ -5,6 +5,6 @@ tags:
   - ancestries/goblin
   - people/npc
 ---
-Full name is Uraokra bin Abusabaku Abarone, also known as "The Wolf."
+Urakroa, whose full name is Uraokra bin Abusabaku Abarone, is also known as "The Wolf."
 
-Second son of [[Abu'Sabaku Abarone]], brother of [[Sabaku Abarone|Sabaku]] and [[Hachiko]].
+He is the second son of [[Abu'Sabaku Abarone]], brother of [[Sabaku Abarone|Sabaku]] and [[Hachiko]].

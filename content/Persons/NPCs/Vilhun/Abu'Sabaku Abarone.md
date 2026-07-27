@@ -5,9 +5,7 @@ tags:
 aliases:
   - Father Abarone
 ---
-Abarone, Father of [[Sabaku Abarone|Sabaku]].
-
-Politician and familial head of House Abarone.
+Abu'Sabaku Abarone is the family head of House Abarone. His current first name means "father of [[Sabaku Abarone|Sabaku]]," which is his first son and heir-presumptive.
 
 Prominent children include:
 - [[Sabaku Abarone|Sabaku]], from whom he has his namesake Abu'Sabaku (Father of Sabaku)

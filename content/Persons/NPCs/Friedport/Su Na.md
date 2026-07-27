@@ -9,7 +9,6 @@ tags:
 Birth: 1236 ADc
 Status: Alive
 ---
-
 Su Na is a water-[[Druid]] and [[Monk]] from [[Friedport]], and a close friend and aide of [[The Prince]]. He appears standoffish and doesn't talk much, but is known to make up much of the work behind the scenes propping up The Prince. He is known to personally work towards preservation of animals and nature, and popularly, the cleanliness of the city.
 
 ![[Su_Na_the_third_1.2.png]]

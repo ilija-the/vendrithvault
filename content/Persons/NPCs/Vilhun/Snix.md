@@ -6,4 +6,4 @@ tags:
 aliases:
   - Snack
 ---
-A [[Vilhun|Vili]] red-scaled kobold warehouse clerk, saved by the [[Regent's Legation]] from a fire.
+Snix is a [[Vilhun|Vili]] red-scaled kobold warehouse clerk, saved by the [[Regent's Legation]] from a fire.
