@@ -6,13 +6,12 @@ tags:
 aliases:
   - Sanitationist
 ---
-The Sanitorium (officially the Principalities of Mogxa) is a term encompassing both the government and state created in [[Mogxa]] by the victorious anti-deist faction of the [[War Over Haeven]]. Those in government or whom are philosophically aligned with it are called Sanitationists. The Sanitorium have remained in varying states of conflict with the [[Crusaders]] since, as part of the [[Eternal Crusade]].
-
+The Sanitorium is the informal name of the government of the [[Mogxan Empire]], founded by the victorious anti-deist faction of the [[War Over Haeven]]. Those in government or whom are philosophically aligned with it are called Sanitationists. The Sanitorium have remained in varying states of conflict with the [[Crusaders]] since, as part of the [[Eternal Crusade]].
 
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "_admin/Ink/Writing/2026.2.17 - 22.04pm.writing"
+	"filepath": "_admin/Ink/2026.2.17 - 22.04pm.writing"
 }
 ```
 *A kobold sanitationist leads a meeting of the round. He wears Mogxan commander's armour.*
