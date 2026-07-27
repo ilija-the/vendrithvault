@@ -12,7 +12,6 @@ Status: Dead
 Birth: 1206 ADc
 pronouns: She/Her
 ---
-
 Captain Damia was a [[Ysoki]] of eastern [[Mogxa]] origin, which migrated to and became a leading guard and political figure in [[Friedport]]. Here, she cultivated a "family" of guards helping keep the city under control which she named her [[Patrollers]]. These Patrollers were not entirely committed to the law, acting much like a mafia at times, but valued community and stability over all else. With this power base behind her, Damia eventually earned a spot on the council of three ruling Friedport, together with [[Kiam Lockneed]] and [[General Kard]]. She briefly served as the city's governor, before stepping down in favour of Kiam.
 
 ![[Damia_DrinkOfPower_1.0.png]]

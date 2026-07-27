@@ -12,4 +12,4 @@ When [[Magnus Strike]] attempted to tap into [[Leylines]] in [[Horiza|Horiza]] a
 
 ![[Pasted image 20260701225430.png]]
 
-These creatures have so far been reported to the [[Academie Peripherie Philosophia]], though none have been able to identify the creatures or corroborate their existence. 
+These creatures have so far been reported to the [[Academie Peripherie]], though none have been able to identify the creatures or corroborate their existence. 

@@ -5,5 +5,6 @@ tags:
 ---
 ![[Father_Sullivan.webp|right|300]]
 
-Father Sullivan, a leader figure and priest. His teachings are that of [[Saint Jonathan]].
-Brandishes silver weapons, wears garlic, and has skeletal hands.
+Father Sullivan is a leader figure and priest of [[Twinberry]]. His teachings were long that of [[Saint Jonathan]], but he is overseeing the settlement's return to [[Saint Rowan]].
+
+He brandishes silver weapons, wears garlic, and has skeletal hands.

@@ -9,4 +9,4 @@ Chaucer was an [[Amurrun]] agent of [[Sanitorium]] ideology, infamous for having
 
 Chaucer was formerly an [[Adventurers|adventurer]] that sided with the Sanitorium during the [[Adventurer Crisis]], contributing to its ultimate victory in the standoff.
 
-After the [[Espionage Crisis]], Chaucer was captured in an ambush and many of those around him killed in order to get to and secure Chaucer. He was transported off by the crusaders in all the way to [[Veridica]], though his current status since the fall of said village is unclear. It is here Chaucer met [[Chatwood]] and [[Ergruff Ward]].
+After the [[Espionage Crisis]], Chaucer was captured in an ambush called the [[March of the Roses]] (as organised by [[Bande Aparte]]) and many of those around him killed in order to get to and secure Chaucer. He was transported off by the crusaders in all the way to [[Veridica]], though his current status since the fall of said village is unclear. Chaucer here met [[Chatwood]] and [[Ergruff Ward]].

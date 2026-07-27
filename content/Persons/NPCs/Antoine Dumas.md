@@ -5,6 +5,6 @@ tags:
 Status: Unknown
 pronouns: He/Him
 ---
-A person formerly of power in [[Cragmoore|Cragmoor]]. After attempting to stand by his acquaintance [[Borgrumm Holdok]] during an onslaught of accusations and character assassination, he lost much of his reputation. He was accused of having helped organise resistance and criminal escapes from the city after Borgrumm was murdered.
+Antoine Dumas is a human formerly of power in [[Cragmoore|Cragmoor]]. After attempting to stand by his acquaintance [[Borgrumm Holdok]] during an onslaught of accusations and character assassination, he lost much of his reputation. He was accused of having helped organise resistance and criminal escapes from the city after Borgrumm was murdered, and was likely punished for it.
 
 Together with [[Sister Amelie Kenton|Amelie Kenton]], he did play a role in helping [[Ashur Holdok]] escape the city.

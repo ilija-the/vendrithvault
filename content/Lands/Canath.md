@@ -13,9 +13,11 @@ Canath, sometimes called as Encanath, is a large region encompassing a variety o
 
 > For more in Canath, see #places/canath 
 ## Culture
-Canath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges.
+Canath was home to many of the [[Titans]], and is today the home of the [[Crusaders|Crusaders]]. It has a [[Canathi Caste System|Caste]] and [[Patronage]] system that encourages individualistic brave and heroic acts in order to earn fame, glory and privileges. It is also embroiled in a separately ongoing [[Canathi Guildwar|Guildwar]].
 
 Canath is perhaps the most diverse corner of the world still considered part of a greater cultural union, home to countless polities, peoples, castes, languages and more. Canath is often divided into the [[Canathi City States|City States]] and [[Canathi Kingdoms|Kingdoms and Duchies]].
+
+While Canath can said to have originated around the Celene, it has spread its influence and expended the region known as Canath massively over centuries of military marches and settlements. The concept of gathering up a population of settlers, soldiers and their supplies and then to march inland towards some land or other to claim is known as a Landmarch. Perhaps the most ambitious Landmarch was that of the [[City of the Gate]]. The [[Forbidden Coast]] meanwhile has had most of its attempts fail.
 ## Geography
 Canath is vast and diverse, and must be divided into a number of areas in order to make sense of it. The areas of Canath include:
 - All coasts of the [[Celene]] needs to be considered as part of an area, even if it overlaps with other area categorisations.

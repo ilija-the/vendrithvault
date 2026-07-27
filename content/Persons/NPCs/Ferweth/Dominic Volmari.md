@@ -4,6 +4,6 @@ tags:
   - campaigns/road-to-longdawn
   - ancestries/shoony
 ---
-Shoony in a (polyamorous) marriage with [[Valentine Volmari]]. 
+Dominic Volmari is a [[Shoony|shoony]] in a [[Gender, Relationship and Marriage Customs|polyamorous marriage]] with [[Valentine Volmari]]. 
 
 ![[Dominic_ref_crop.png]]

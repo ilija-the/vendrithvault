@@ -10,7 +10,7 @@ aliases:
   - Innocent
   - Innocent Princess
 ---
-Innocent Princess was a fellow sister and humanitarian of [[Sister Amelie Kenton|Amelie Kenton's]] network ensuring the safe passage of refugees, in particular through the [[Labyrinthia|Labyrinthine]] gateway of [[Haven]]. Innocent was timid and quietly spoken, but always viewed as a sweetheart by those around her. She was sweet on [[Brother Archangel]], whom may or may not have reciprocated.
+Innocent Princess, also called Sister Innocent, was a fellow sister and humanitarian of [[Sister Amelie Kenton|Amelie Kenton's]] network ensuring the safe passage of refugees, in particular through the [[Labyrinthia|Labyrinthine]] gateway of [[Haven]]. Innocent was timid and quietly spoken, but always viewed as a sweetheart by those around her. She was sweet on [[Brother Archangel]], whom may or may not have reciprocated.
 
 
 ![[Innocent_Princess_1.0.png]]
