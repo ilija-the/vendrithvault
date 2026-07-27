@@ -1,8 +1,12 @@
 ---
 aliases:
   - Mogxan Empires
+  - Principalities of Mogxa
+tags:
+  - history
+  - places/mogxa
 ---
-The Mogxan Empire has existed in man
+The Mogxan Empire has existed in many forms, but is today ran by the [[Sanitorium]] and officially called the "Principalities of [[Mogxa]]."
 
 While many Mogxan Empire have existed throughout [[History]], it is a remarkable constant that there almost always is a Mogxan Empire of sorts that dominates most of the peninsula. The few exceptions are those in times of civil conflict, such as the [[Mogxan Interregnum]]. 
 
