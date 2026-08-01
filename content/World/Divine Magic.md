@@ -5,8 +5,8 @@ tags:
   - religion
 aliases:
   - Divine Magic
-  - the divine
-  - divine
+  - Divine
+"":
 ---
 Divine [[Magic]] is deeply tied to the soul as well as [[Divinity]]. The ability to perform divine miracles is often granted to those who serve a deity or demi-deity, but it can also be performed from the ground-up through strong conviction. Working Divine Magic is often described as doing Miracle Work.
 

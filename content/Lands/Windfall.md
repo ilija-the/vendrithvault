@@ -6,7 +6,7 @@ Windfall Commune is a small farming community in the [[Friedport#Phyrraumid|Phyr
 
 ![[Windfall_Farm_Rooftops.png]]
 
-Windfall commune has been the site of a mysterious [[Divine|divine]] fire likely related to the [[Devil Queen of Crimson|Oathbound Firestorm]]. They have also experienced an attack by [[Leyline Creatures]], after [[Magnus Strike]] attempted to tap into local [[Leylines]].
+Windfall commune has been the site of a mysterious [[Divine Magic|divine]] fire likely related to the [[Devil Queen of Crimson|Oathbound Firestorm]]. They have also experienced an attack by [[Leyline Creatures]], after [[Magnus Strike]] attempted to tap into local [[Leylines]].
 
 #### People of Windfall:
 [[Spelter]]
