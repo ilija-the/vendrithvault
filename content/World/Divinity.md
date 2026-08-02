@@ -9,11 +9,12 @@ aliases:
   - deity
   - deities
 ---
-Divinity regards divine creatures, including Deities and Demi-Deities. Demi-Deities are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes living [[Saint|Saints]]
+Divinity regards divine creatures, including Deities and Demi-Deities. Demi-Deities are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes living [[Saint|Saints]], as well as a number of [[Nature Spirits]] and other [[Creatures|creatures]] blurring the line of the earthly and divine like [[Yokai]]. Deities on the other hand exist on a level above that of [[Ancestries|people]] and what they can comprehend fully. 
 
-Deities are in
+hey need another main realm to exist in
 
-The most commonly known and worshipped form of deity used to be the [[Titans]]. 
+
+The most commonly known and worshipped form of Deity is still the [[Titans]]. 
 
 > While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance. In one mostly abandoned tradition, the Divine was created by balancing the Arcane, Primal and Occult - turning the [[3+1 Theorem]] on its head with Divinity as a sacred fourth. This is shunned today however.
 
