@@ -9,7 +9,9 @@ aliases:
   - deity
   - deities
 ---
-Divinity regards divine creatures, including Deities and Demi-Deities. Demi-Deities are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. Proper 
+Divinity regards divine creatures, including Deities and Demi-Deities. Demi-Deities are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes living [[Saint|Saints]]
+
+Deities are in
 
 The most commonly known and worshipped form of deity used to be the [[Titans]]. 
 
