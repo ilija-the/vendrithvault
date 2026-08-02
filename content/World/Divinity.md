@@ -11,6 +11,8 @@ aliases:
 ---
 An extremely powerful creature or force. The most commonly known and worshipped form of deity used to be the [[Titans]]. 
 
+> While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance.
+
 Many religions don't consider their deities to be titans, though the term titan is sometimes applied to them anyways when they appear to be similar.
 
 A non-titanic deity (that is still sometimes called a titan) is the One and Only.
