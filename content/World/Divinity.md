@@ -17,7 +17,7 @@ aliases:
   - ur-god
   - ur-gods
 ---
-Divinity regards divine creatures, whom are often bound to higher planes and grant blessings and [[Divine Magic]] to their followers below. **Demi-Deities** are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes:
+Divinity regards divine creatures, whom are often bound to higher planes and grant or are able to perform blessings and [[Divine Magic]]. **Demi-Deities** are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes:
 - Living [[Saint|Saints]] and [[Exemplar|Exemplars]].
 - [[Nature|Nature Deities and Spirits]], like [[Yokai]].
 - Other [[Creatures|creatures]] blurring the line of the earthly and divine.
