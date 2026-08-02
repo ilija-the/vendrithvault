@@ -29,13 +29,11 @@ Deities include:
 
 > While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance. In one mostly abandoned tradition, the Divine was created by balancing the Arcane, Primal and Occult - turning the [[3+1 Theorem]] on its head with Divinity as a sacred fourth. This is shunned today however.
 
-The term **God** has been used for Deities, though some claim it should refer to something a
-
-though it is an ancient term which some believe refers to something too mystical, mythological and mighty to apply to mere Titans. The term God has been used for deities like:
+The term **God** has been used for Deities, though some claim it should refer to something above a mere Titan or the like. Some say God is more fitting for Deities which have undergone [[Reverence]], that is to say ascended even further above in the planar order. **Ur-God** is a more precise term for this, which has been used for Deities and forces of the universe like:
 - The [[Sibling Dragons]], [[Creator Monkey]] or [[First Ascended]], whom appear in the [[Mythos of Vendrith]].
-- The [[Daydreaming Truth]], [[Wordless Fleece]] and [[Macabre Maelstrom]] 
-
-Those who primarily serve the, perhaps use the term God more than others. More controversially, theare called Gods by their followers as well. A more precise term for these could be that of Ur-Gods.
+- The [[Daydreaming Truth]], identified with the planet of [[Yond]] in the [[Sky|Night Sky]].
+- The [[Wordless Fleece]], a personification of the [[World Fleece]].
+- The [[Macabre Maelstrom]], a personification or force of the universe representing inevitable entropy and decay.
 
 ### Originator Gods
 
