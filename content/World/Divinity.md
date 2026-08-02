@@ -9,9 +9,11 @@ aliases:
   - deity
   - deities
 ---
-An extremely powerful creature or force. The most commonly known and worshipped form of deity used to be the [[Titans]]. 
+Divinity regards divine creatures, including Deities and Demi-Deities. Demi-Deities are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. Proper 
 
-> While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance.
+The most commonly known and worshipped form of deity used to be the [[Titans]]. 
+
+> While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance. In one mostly abandoned tradition, the Divine was created by balancing the Arcane, Primal and Occult - turning the [[3+1 Theorem]] on its head with Divinity as a sacred fourth. This is shunned today however.
 
 Many religions don't consider their deities to be titans, though the term titan is sometimes applied to them anyways when they appear to be similar.
 
