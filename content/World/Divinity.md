@@ -17,11 +17,14 @@ aliases:
   - ur-god
   - ur-gods
 ---
-Divinity regards divine creatures. **Demi-Deities** are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes:
+Divinity regards divine creatures, whom are often bound to higher planes and grant blessings and [[Divine Magic]] to their followers below. **Demi-Deities** are simply put those who still maintain a strong tie to the realm of [[Materia]], and can often materialise into a comprehensible form. This includes:
 - Living [[Saint|Saints]] and [[Exemplar|Exemplars]].
-- Other [[Creatures|creatures]] blurring the line of the earthly and divine, like [[Yokai]] and [[Nature|Nature Spirits and Nature Deities]]. 
+- [[Nature|Nature Deities and Spirits]], like [[Yokai]].
+- Other [[Creatures|creatures]] blurring the line of the earthly and divine.
 
 **Deities** on the other hand exist on a level above that of [[Ancestries|people]] and what they can comprehend fully. While they escape being comprehensively understood because of this, it is believed they need need to be bound to a realm above Materia in the [[Great Flow]]. While intervening in the plane below, they can take on a number of forms known as [[Icon|Icons]] - of which also may appear differently to different people. Many Deities are **Ascended** - meaning they existed as a lesser being on the plane of Materia but then found a way to rise above.
+
+Fiendish creatures like [[Demon|Demons]] and [[Devil|Devils]] are usually thought to inhabit lower level planes, but can become similar to deities. While being bound to a higher or lower plane than Materia seems to be a prerequisite to deityhood, it is not the case that all creatures from other planes are deities still.
 
 Deities include:
 - The [[Titans]], whom had a large pantheon and were worshipped and recognised across large swathes of [[Iduria]]. Their home plane was [[Haeven]], and their Icons usually appeared as humanoids with animal heads. They had to claim a [[Mantle]] in order to ascend to deityhood, which defines their domains. Mantles are thought to be moulded over time by the deity which wields it, but the mantle too influences the deity in return.
@@ -34,13 +37,3 @@ The term God has been used for Deities, though some claim it should refer to som
 - The [[Daydreaming Truth]], identified with the planet of [[Yond]] in the [[Sky|Night Sky]].
 - The [[Wordless Fleece]], a personification of the [[World Fleece]].
 - The [[Macabre Maelstrom]], a personification or force of the universe representing inevitable entropy and decay.
-
-### Originator Gods
-
-### Ur-Gods
-
-### Nature Deities
-
-### The Shape of Worship - Icons
-
-### Ascended Deities
