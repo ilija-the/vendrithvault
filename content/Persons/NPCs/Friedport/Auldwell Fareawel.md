@@ -5,9 +5,9 @@ tags:
   - secrets
   - society/crusaders/blackout
 aliases:
-  - Perckle d'Rits
   - Auldwell
   - Auldwell Fareawell
+  - Perckle d'Ritz
 ---
 Auldwell Farewel was once a respected merchantman in [[Friedport]], founding an auction-house, starting and running a tavern and inn called Auldwell's Inn, and then also starting up a second tavern in the Philosophiastreet part of Crabraven. The tavern was known by many locals as a safe haven for worshipping [[Titans]] in secret, offering up shrines to them in the rooms of those who requested it subtly. After standing as a witness in the [[HGA v. Bande Aparte]], it turned out he'd attempted to frame [[Bande Aparte]], and he was revealed to be a secret [[Crusaders|Crusader]] leader conspiring against the city. 
 
@@ -26,7 +26,7 @@ After the captain took issue with Fritz and a number of other sailors who'd made
 
 Having earned a great resource with the heist, Fritz moved on to avoid the law and began to see to a greater ambition. Learning about and joining the to-be [[Blackout Crusaders]] organised by [[General Architrave]], Fritz would soon go to [[Horiza]], and more specifically, [[Friedport]]. For this next chapter Fritz had set up a new identity - that of Auldwell Fareawel, a businessman with a passing interest in relics for their sale values. He first established an auctionhouse in Friedport, but also decided to start a tavern and inn he could run himself as a better cover (The Auldwell Tavern). At the same time, Auldwell had manoeuvred politically at the Blackout Crusader camp, and after leadership began to slip from Architrave's brother, [[Doctor Hallan Aerf|Hallan Aerf]], Auldwell seized the opportunity and became the real leader. [[Saint Karvi Massiri|Karvi]], having been essentially promised the role by Hallan, was furious, but was kept in check by the dirt Auldwell had on him, as well as his strategic emotional manipulation. Auldwell kept a diary with notes on the psychological profiles of each of the Blackout Crusaders. He'd also started to lose the support of [[The Architect (Friedport)|The Architect]] and the [[The Hand of the Architect|Hand of the Architect]], which had otherwise put their trust in him as a strategic genius.
 
-``CW: Choosing suicide over imprisonment.``
+``CW: suicide, choosing that over imprisonment.``
 
 After the arrival of the [[Newcomers of Friedport]], Auldwell recognised Bande Aparte and realised he could threaten his false identity (though Bande Aparte hadn't had a good enough look or listen to Perkle d'Ritz to recognise him, on first contact, at least). Having recently pawned off the Vestitur Relics through the [[Ragnil Veldaks|Shadow of Friedport]], Auldwell intended to have Bande Aparte take the blame for that to kill two birds with one stone. He set up a situation in which Bande Aparte was framed for the sale, as well as the murder of a halfling involved in it. This started the trial of [[HGA v. Bande Aparte]], of which Auldwell eventually needed to be a witness to. In it, the defence team unravelled the framing and eventually honed in on Auldwell as involved due to the importance of the second tavern of his the crime had taken place outside of. The team finally correctly deduced that ==something== was still in the tavern, confirmed after finding his secret safe behind a painting. With his identity inevitable going to be revealed, he activated his plan B of having the courtroom boat bombed (with a bomb smuggled in hiding as a piece of evidence), and some Crusader to attack in the hopes of extracting Auldwell in the chaos. With the Newcomers fighting back against the Crusaders however, Auldwell realised he'd be re-captured and chose to end his own life.
 
