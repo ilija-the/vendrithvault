@@ -61,7 +61,6 @@
 >[[Gator Grippli]] (and possibly [[Schnappi]]) born.
 >
 >1246 ADc
->[[Cantro]] born.
 >[[Valeira]] born.
 > 
 >1248 ADc
@@ -71,6 +70,7 @@
 >1249 ADc
 >[[Louen Leonceur]] born.
 >[[Minky]] born.
+>[[Cantro]] born.
 >The [[Espionage Crisis]] leads to the [[March of the Roses]].
 >Bande Aparte makes a name for himself helping capture [[Chaucer]].
 > 
