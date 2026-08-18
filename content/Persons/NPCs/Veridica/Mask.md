@@ -3,6 +3,7 @@ tags:
   - people/npc
   - campaigns/fool-me-once
   - secrets
+  - places/ferweth/veridica
 ---
 Mask was a council member of [[Veridica]], and essentially its unofficial leader. 
 

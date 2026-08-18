@@ -2,6 +2,8 @@
 tags:
   - ancestries/goblin
   - people/npc
+  - places/vilhun
+  - campaigns/hunts-of-vilhun
 aliases:
   - Father Abarone
 ---

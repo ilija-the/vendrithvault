@@ -4,6 +4,8 @@ aliases:
 tags:
   - ancestries/goblin
   - people/npc
+  - places/vilhun
+  - campaigns/hunts-of-vilhun
 ---
 Urakroa, whose full name is Uraokra bin Abusabaku Abarone, is also known as "The Wolf."
 

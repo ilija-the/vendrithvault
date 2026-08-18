@@ -3,6 +3,7 @@ tags:
   - people/npc
   - ancestries/kobold
   - campaigns/hunts-of-vilhun
+  - places/vilhun
 aliases:
   - Snack
 ---
