@@ -5,7 +5,9 @@ aliases:
   - campaign
 ---
 
-Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have villains, and themes.
+Campaigns are the many stories of games that have taken place in Vendrith. Some are short, sometimes called oneshots, whereas others can last as long as years. Most campaigns have a party of adventurers, villains, and themes.
+
+ > In the folder structure of the vviki, the Campaigns folder contains all notes documenting specific campaigns and oneshots (as listed here), the player characters that played in them, the parties they formed, 
 
 > 🎵[Theme of Preparing for a new Campaign](https://youtu.be/p7KFYl8slq8), [Theme of Scheming](https://zachtronics.bandcamp.com/track/de-re-metallica)
 
