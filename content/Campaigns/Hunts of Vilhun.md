@@ -5,6 +5,7 @@ tags:
   - campaigns/hunts-of-vilhun
 ---
 The envoys haven't yet arrived and have already experienced the reality of the war-torn island. Harassed by privateers and ending up in a besieged city, their work have only just begun. ([[#Session 1]]) Docking to port, they are met with a fire to put out, as they watch lizardfolk mercenaries flee the guards and dive into the waters. ([[#Session 2]])
+
 ## Session 1 — Intercepted at First Step
 
 **Recording:** [Link](https://www.youtube.com/watch?v=2yNmbWVkB80&list=PLnMZjPuKUkwfxFUkMkvkh8sVd6LisLH88)
