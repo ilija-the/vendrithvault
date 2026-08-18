@@ -1,9 +1,9 @@
 ---
 tags:
   - classes/summoner
-  - campaigns/call-of-the-cardinal
   - people/pc
   - ancestries/kobold
+  - campaigns/call-of-the-cardinals
 pronouns: He/Him
 Status: Alive
 player: Neldu

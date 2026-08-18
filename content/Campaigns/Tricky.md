@@ -7,9 +7,9 @@ aliases:
   - Trickebris "Tricky" Qruadnuac
 tags:
   - classes/sorcerer
-  - campaigns/call-of-the-cardinal
   - ancestries/gnome
   - people/pc
+  - campaigns/call-of-the-cardinals
 player: Lycoris
 Status: Alive
 pronouns: Any?

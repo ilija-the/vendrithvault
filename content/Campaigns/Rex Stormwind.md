@@ -5,9 +5,9 @@ aliases:
 tags:
   - dragon
   - classes/bard
-  - campaigns/call-of-the-cardinal
   - people/pc
   - ancestries/dragonblood
+  - campaigns/call-of-the-cardinals
 player: Chrysanthos
 pronouns: He/Him
 Status: Alive
