@@ -1,7 +1,0 @@
----
-tags:
-  - places/ferweth/cocatun
-  - campaigns/road-to-longdawn
-  - ancestries/vanara
----
-Kicky is a [[Vanara]] of [[Cocatun]], in [[Ferweth]]. He is inseparable from [[Boubo]].
