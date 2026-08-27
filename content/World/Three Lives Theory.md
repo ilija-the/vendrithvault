@@ -1,1 +1,1 @@
-[[Occult]]
+[[Occult Magic]]

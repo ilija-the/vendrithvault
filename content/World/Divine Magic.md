@@ -1,0 +1,25 @@
+---
+tags:
+  - magic/divine
+  - cosmos
+  - religion
+aliases:
+  - Divine Magic
+  - Divine
+"":
+---
+Divine [[Magic]] is deeply tied to the soul as well as [[Divinity]]. The ability to perform divine miracles is often granted to those who serve a deity or demi-deity, but it can also be performed from the ground-up through strong conviction. Working Divine Magic is often described as doing Miracle Work.
+
+> While there are [[Trinities]] and focuses on balance across all forms of magic, they're particularly important with divinity and divine magic. Divine guidance and [[Law|laws]] are often about finding righteous balance. In one mostly abandoned tradition, the Divine was created by balancing the Arcane, Primal and Occult - turning the [[3+1 Theorem]] on its head with Divinity as a sacred fourth. This is shunned today however.
+
+Most who practice and preach the divine tend to be in a [[Religion|religious]] organisation and hierarchy:
+- Priests and bishops
+- [[Cleric|Clerics]] 
+- [[Champion]]
+
+Some don't necessarily belong to a religious organisation or serve a specific deity or religion, though still often do:
+- [[Oracle]]
+
+Some are divine beings themselves:
+- Demi-Deities
+- Deities
