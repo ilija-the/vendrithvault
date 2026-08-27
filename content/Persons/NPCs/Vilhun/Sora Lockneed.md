@@ -19,6 +19,6 @@ Usually seen wearing a large shawl of various colors and patterns, she conceals 
 
 Sora came to power during a turbulent time after the rebellion in [[Kantby]] deposed its previous incompetent governorship. Through a combination of her status as a dragonblood, populist rhetoric, and weak opposition, she gained respect amongst the remaining citizens of Kantby and soon after been unofficially titled the Baron of Kantby.
 
-She has since managed Kantby for 7 years unopposed.
+She has since managed Kantby for many years unopposed.
 
 Sister of [[Haru Lockneed]]. *A distant relative of [[Kiam Lockneed]].*
