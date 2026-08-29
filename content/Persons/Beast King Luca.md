@@ -2,6 +2,8 @@
 aliases:
   - D'arby Luca Sullivan Jr
   - Luca
+  - D'ar
+  - D'ar Luca
 tags:
   - campaigns/road-to-longdawn
   - people/npc
