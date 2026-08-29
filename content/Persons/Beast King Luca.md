@@ -4,6 +4,7 @@ aliases:
   - Luca
   - D'ar
   - D'ar Luca
+  - Dar
 tags:
   - campaigns/road-to-longdawn
   - people/npc
