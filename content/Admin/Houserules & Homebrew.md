@@ -8,31 +8,35 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 
 
 # Houserules
+### Common Houserules.
+These are Houserules that are active in multiple, if not all, campaigns.
+
+- **Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
 
 ### Possible Houserules
-**[[Essence Casting|Essence Magic]]**
-**Stamina**.
-**Support Moves** - call in special actions in boss fights from allies you've prepared.
-**Crews** - smaller than a troop, a crew is four enemies working together as one.
-**Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
-**Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
-**Formulas.** 
-**Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
-**Hunlords and House Spirits.**
-**Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
-**Boss Monsters with multiple turns.** 
-**Resonance.** 
-**Levelling Items.**
-**Battlezoo Monster Carving & Crafting.**
-**Reworked Materials.**
-**Weapon and Armour Maintenance.**
+- **[[Essence Casting|Essence Magic]]**
+- **Stamina**.
+- **Support Moves** - call in special actions in boss fights from allies you've prepared.
+- **Crews** - smaller than a troop, a crew is four enemies working together as one.
+- **Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
+- **Formulas.** 
+- **Guide Books.** Finding a tome on a certain topic
+- **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
+- **Hunlords and House Spirits.**
+- **Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
+- **Boss Monsters with multiple turns.** 
+- **Resonance.** 
+- **Levelling Items.**
+- **Battlezoo Monster Carving & Crafting.**
+- **Reworked Materials.**
+- **Weapon and Armour Maintenance.**
 
 ### Houserules in Progress
 In need of finishing, testing and/or a rework.
 
-[[Ilija's Slow Healing]].
+**Slow Healing.**
 **Simple Stamina.** Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina. Slow healing is intended to make use of this too.
-[[Ilija's Node Travel]].
+**Node Travel.**
 
 # Homebrew
 In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
@@ -53,7 +57,7 @@ Necklace of Knives → Necklace of Miniature Swords. Symbol of the Grand Scheme 
 
 Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost for the latter is 2 and the DC is 17.
 
-Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power, giving an unusually large number of Temporary Hit Points but threatening everyone's safety if the supercharged character goes down.
+Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power, giving an unusually large number of Temporary Hit Points but threatening everyone's safety if the supercharged character loses these temporary hit points, or worse, goes down and becomes dying.
 
 Old Sea Dog's Corset. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
 
