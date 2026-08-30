@@ -8,7 +8,6 @@ aliases:
 tags:
   - admin
 ---
-
 Sometimes there are books in Vendrith. While they are not as commonplace as a modern mind might expect (no full bookshelves everywhere a la Skyrim), there are still a number of notable works from important authors that are reproduced by hand or mage hand.
 
 Note that while magic streamlines the process of copying books, it is still not quite as efficient as printing presses in our real world (which there is little if any demand for in Vendrith). In addition, [[Ink]] is a rare material in Vendrith and it tends to be prioritised for [[Arcane Magic|Arcane]] Academia as well as [[Divine Magic|Religious]] Texts.
@@ -33,7 +32,7 @@ Here is a list of the known books of Vendrith:
 
 **A. Plumbus Collection.** Highly acclaimed series on farming, written for low-literacy readers, now collected in one intimidatingly large book. The book functions as an improvised weapon that deals 1d4 bludgeoning damage and has the backswing trait.
 
-**The Codex of Alchemical Engineering** A heavy-bound encyclopedia of alchemical recipes, known for its lengthy indexes categorizing recipes alphabetically, chronologically, and by author. Ending at a hefty 20 tomes, its the most comprehensive collection of alchemical knowledge, one that any alchemist wishes they could copy from, but not necessarily own. As such, its printing has been ended in favor of the shorter form [[Diegetic Books#^alchemical-journal|Journal of Alchemical Engineering]]. ^alchemical-codex
+**The Codex of Alchemical Engineering** A heavy-bound encyclopedia of alchemical recipes, known for its lengthy indexes categorizing recipes alphabetically, chronologically, and by author. Ending at a hefty 20 tomes, its the most comprehensive collection of alchemical knowledge, one that any alchemist wishes they could copy from, but not necessarily own. As such, its production has been ended in favor of the shorter form [[Diegetic Books#^alchemical-journal|Journal of Alchemical Engineering]] and became even more valuable. ^alchemical-codex
 
 **The Journal of Alchemical Engineering** A periodical continuation of the [[#^alchemical-codex|Codex of Alchemical Engineering]]. The much shorter form scientific journal publishes new innovations in the realms of alchemy, as well as celebrating accomplishments of renowned alchemists. Volumes of journals are often themed around a specific topic, such as *A Time of Medicinal Advances*, *The Discovery of Quintessence*, *Alchemy for the Home*, or *Collected Works of Independent Research*.  ^alchemical-journal
 
