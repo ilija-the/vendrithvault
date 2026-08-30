@@ -51,6 +51,8 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Weapon and Armour Maintenance.**
 - **Raid Zones.**
 - **Auction Houses**.
+- **Sieges.**
+- **Bases.**
 
 ## Houserules in Progress
 In need of finishing, testing and/or a rework.
@@ -67,8 +69,11 @@ In need of finishing, testing and/or a rework.
 	**Others?** For Slow Healing. Hero Points may allow for taking the action Second Wind.
 - **Simple Stamina.** Intended for Slow Healing, but can be used standalone too. Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina.
 - **Node Travel.**
-
-
+- **Base Upgrades.** Potentially mergable with the ones from that other book.
+![[Pasted image 20260830145729.png]]
+![[Pasted image 20260830145746.png]]![[Pasted image 20260830145759.png]]![[Pasted image 20260830145809.png]]
+![[Pasted image 20260830145821.png]]
+![[Pasted image 20260830145836.png]]
 # Homebrew
 In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
 
