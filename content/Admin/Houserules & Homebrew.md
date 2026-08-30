@@ -13,6 +13,8 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
 - **Formulas.** Formulas can be found as loot just as they can be bought. A character can learn it by spending downtime with it, but the item doesn't just disappear when it does (even if that would be convenient game design). The formula can be sold on a treasure item for full value (GM's need to consider it as part of the loot value they give out). Creating a copy of a formula is possible, but uses the rules for Crafting and Earning Income to build up to the items price, as no formula is a simple schematic, and is often in fact encoded so crafters can keep control over their inventions.
 - **Godpowder vs Redpowder.** 
+- **Feats+ Basic Pack.** Avoided in campaigns with completely new players, but commonly used otherwise. Adds a slight bit more options for character building without going all the way of Free Archetype. Gain a bonus Level 1 Class Feat, Level 2 Class Feat, and a Level 1 General feat.
+- **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat.
 
 ## Possible Houserules
 - **[[Essence Casting|Essence Magic]]**
