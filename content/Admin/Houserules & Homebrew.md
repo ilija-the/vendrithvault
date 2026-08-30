@@ -154,11 +154,13 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 	Shaker Bolt.
 	Springrazor Bolt.
 	Timed Bomb Bolt.
+- Thistlevolt.
 - Good Doctor's Spellgun.
 ![[Pasted image 20260830145217.png]]
 
-### Rituals and Spells.
+### Rituals, Spells and other effects.
 - **Spiritual Refreshment** and **Supercharging Ritual**. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power, giving an unusually large number of Temporary Hit Points but threatening everyone's safety if the supercharged character loses these temporary hit points, or worse, goes down and becomes dying.
+- **Burning on Both Ends.** Here for a heroic time, not a long time. You have a +1 or +2 bonus to attack rolls, but are Doomed and have a -1 penalty to AC and saving throws. Intended for temporary characters. Can be modified for saving throw DCs, class DCs, etc.
 
 
 
