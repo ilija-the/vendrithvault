@@ -11,8 +11,9 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 These are Houserules that are active in multiple, if not all, campaigns.
 
 - **Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
-- **Formulas.** ~~Formulas can be found as loot just as they can be bought. A character can learn it by spending downtime with it, but the item doesn't just disappear when it does (even if that would be convenient game design). The formula can be sold on a treasure item for full value (GM's need to consider it as part of the loot value they give out). Creating a copy of a formula is possible, but uses the rules for Crafting and Earning Income to build up to the items price, as no formula is a simple schematic, and is often in fact encoded so crafters can keep control over their inventions.~~
 - **Godpowder vs Redpowder.** 
+- **Backstory Lore.** In addition to the Lore training granted by your background, you get training in another Lore relevant to your character's backstory, decided in concord with the GM.
+- **Scaling Lores.** The lores you gain from your Background, and from the Backstory Lore if active, are gained as the "Additional Lore" skill feat. This means they automatically scale to Expert at level 3, Master at level 7
 - **Feats+ Basic Pack.** Avoided in campaigns with completely new players, but commonly used otherwise. Can also be added later on. Adds a slight bit more options for character building without going all the way of Free Archetype. Gain a bonus Level 1 Class Feat, Level 2 Class Feat, and a Level 1 General feat.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat.
 
@@ -24,6 +25,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
 - **Guide Books.** Finding a tome on a certain topic can provide an item bonus to downtime activities relevant to the book, for activities in which consulting a book throughout is possible and convenient. The Item Bonus can easily be at least 1 over what general items of the party's level can get due to its specificity, like an early game book offering a +2 bonus to crafting a certain item or set of items.
 - **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
+- **Formulas.** ~~Formulas can be found as loot just as they can be bought. A character can learn it by spending downtime with it, but the item doesn't just disappear when it does (even if that would be convenient game design). The formula can be sold on a treasure item for full value (GM's need to consider it as part of the loot value they give out). Creating a copy of a formula is possible, but uses the rules for Crafting and Earning Income to build up to the items price, as no formula is a simple schematic, and is often in fact encoded so crafters can keep control over their inventions.~~
 - **Hunlords and House Spirits.**
 - **Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
 - **Boss Monsters with multiple turns.** 
@@ -61,8 +63,8 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 
 ### New Skill, Ancestry and other Class Feats
 - **Project Reality.** For Ashur Holdok's construct companion, allowed it to record its vision into a short film. Inventor-y replacement for Share Senses.
-- **Rushed Setup.** Prerequisite Master in Crafting, level 7 skill feat. You have learned to setup crafting jobs with ease. Your setup time for items is 1 day, or 4 hours with a formula (allowing you to do so during an adventuring day if you have access to your tools and materials). You can choose to increase the Craft DC by +5 to rush even faster, doing the setup in only 4 hours normally, or 2 hours with a formula.
-  If you're Legendary in Crafting, you can increase the DC by +10 to do the setup in 2 hours normally, or 1 hour with the formula. When you increase the Craft DC by rushing a permanent item, you have to succeed a DC 5 flat check (DC 10 for the legendary rush) or the item gains a quirk.
+- **Rushed Setup.** Prerequisite Master in Crafting, level 7 skill feat. You have learned to setup crafting jobs with ease. Your setup time for items is 1 day, or 4 hours with a formula (allowing you to do so during an adventuring day if you have access to your tools and materials). You can choose to increase the Craft DC by +5 to rush even faster, doing the setup in only 4 hours normally, or 2 hours with a formula. If you're Legendary in Crafting, you can increase the DC by +10 to do the setup in 2 hours normally, or 1 hour with the formula. 
+  When you increase the Craft DC by rushing a permanent item, you have to succeed a DC 5 flat check (DC 10 for the legendary rush) or the item gains a quirk.
 - **Chocolatery.** Level 1, requires Crafting. Allows making facsimiles of other items out of chocolate, can be used to deceive others, whom have to roll against your Crafting DC instead of Deception.
 - **Wired Bomb.** 
   Rare level 2 alchemist class feat, additive trait. 
