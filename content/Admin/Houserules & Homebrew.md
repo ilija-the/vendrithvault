@@ -19,8 +19,8 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Support Moves** - call in special actions in boss fights from allies you've prepared.
 - **Crews** - smaller than a troop, a crew is four enemies working together as one.
 - **Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
-- **Formulas.** 
-- **Guide Books.** Finding a tome on a certain topic
+- **Formulas.** Formulas can be found as loot just as they can be bought. A character can learn it by spending downtime with it, but the item doesn't just disappear when it does (even if that would be convenient game design). The formula can be sold on a treasure item for full value (GM's need to consider it as part of the loot value they give out). Creating a copy of a formula is possible, but uses the rules for 
+- **Guide Books.** Finding a tome on a certain topic can provide an item bonus to downtime activities relevant to the book, for activities in which consulting a book throughout is possible and convenient. The Item Bonus can easily be at least 1 over what general items of the party's level can get due to its specificity, like an early game book offering a +2 bonus to crafting a certain item or set of items.
 - **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
 - **Hunlords and House Spirits.**
 - **Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
