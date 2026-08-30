@@ -15,7 +15,7 @@ Note that while magic streamlines the process of copying books, it is still not 
 
 Central to the history of writing is the [[War over Writing]]. This conflict revolved around whether writing should be accepted (which clashed with much of culture, philosophy and religion at the time), and involved (amongst others) the [[Relentless Pen]], the [[Blackwhite Warriors]], and the [[Painter Societies]].
 
-Some books have small mechanical benefits, such as item bonuses to downtime activities that would be helped by hav
+Some books have small mechanical benefits, such as item bonuses to downtime activities that would be helped by having a book to consult.
 
 Here is a list of the known books of Vendrith:
 
@@ -35,7 +35,7 @@ Here is a list of the known books of Vendrith:
 
 **A. Plumbus Collection.** Highly acclaimed series on farming, written for low-literacy readers, now collected in one intimidatingly large book. The book functions as an improvised weapon that deals 1d4 bludgeoning damage and has the backswing trait.
 
-**The Codex of Alchemical Engineering** A heavy-bound encyclopedia of alchemical recipes, known for its lengthy indexes categorizing recipes alphabetically, chronologically, and by author. Ending at a hefty 20 tomes, its the most comprehensive collection of alchemical knowledge, one that any alchemist wishes they could copy from, but not necessarily own. As such, its printing has been ended in favor of the shorter form [[Diegetic Books#^alchemical-journal|Journal of Alchemical Engineering]]. ^alchemical-codex
+**The Codex of Alchemical Engineering** A heavy-bound encyclopaedia of alchemical recipes, known for its lengthy indexes categorizing recipes alphabetically, chronologically, and by author. Ending at a hefty 20 tomes, its the most comprehensive collection of alchemical knowledge, one that any alchemist wishes they could copy from, but not necessarily own. As such, its printing has been ended in favour of the shorter form [[Diegetic Books#^alchemical-journal|Journal of Alchemical Engineering]]. ^alchemical-codex
 
 **The Journal of Alchemical Engineering** A periodical continuation of the [[#^alchemical-codex|Codex of Alchemical Engineering]]. The much shorter form scientific journal publishes new innovations in the realms of alchemy, as well as celebrating accomplishments of renowned alchemists. Volumes of journals are often themed around a specific topic, such as *A Time of Medicinal Advances*, *The Discovery of Quintessence*, *Alchemy for the Home*, or *Collected Works of Independent Research*.  ^alchemical-journal
 
@@ -46,3 +46,5 @@ Here is a list of the known books of Vendrith:
 **The Diary of a River Kingdom.** Fictional book about adventurers founding a kingdom in a vast land.
 
 **Skylords of Imandrel.** An amateurish story about hunting down a kidnapped maiden that turned surprisingly popular, but which the author never finished.
+
+**A Single Spark.** A fiction book depicting the city of [[Philosophia]] fall into a civil war between the guilds, characterised by the destructive battles of various [[Adventurers|Heroes]] of the city fighting each other.
