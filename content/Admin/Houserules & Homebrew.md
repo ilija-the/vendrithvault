@@ -128,6 +128,8 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 	Shaker Bolt.
 	Springrazor Bolt.
 	Timed Bomb Bolt.
+- Good Doctor's Spellgun.
+![[Pasted image 20260830145217.png]]
 
 ### Rituals and Spells.
 - **Spiritual Refreshment** and **Supercharging Ritual**. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power, giving an unusually large number of Temporary Hit Points but threatening everyone's safety if the supercharged character loses these temporary hit points, or worse, goes down and becomes dying.
