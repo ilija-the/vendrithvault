@@ -10,7 +10,7 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 ## Common Houserules.
 These are Houserules that are active in multiple, if not all, campaigns.
 
-- **Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
+- **Modified Aid**. Also known as Friedport Aid. The DC is 20 again instead of 15, but the tiers of success are more favourable. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
 - **Godpowder vs Redpowder.** 
 - **Backstory Lore.** In addition to the Lore training granted by your background, you get training in another Lore relevant to your character's backstory, decided in concord with the GM.
 - **Scaling Lores.** The lores you gain from your Background, and from the Backstory Lore if active, are gained as the "Additional Lore" skill feat. This means they automatically scale to Expert at level 3, Master at level 7 and Legendary at level 13.
@@ -18,7 +18,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat.
 - **Premaster Clarifications**. The remaster Pathfinder 2e has set some new standards, but not all content has been re-printed or erratad to use them yet. Here's some clarifications:
 	Talismans no longer have a Skill Proficiency prerequisite - if you see one with it, you can ignore it.
-- **Crafting Clarifications**. We use the remastered crafting rules, where setup is 2 days normally but 1 day with a formula. Elements of downtime crafting events and critical crafting may make appearances. In addition, there's a new feat called Rushed Setup that replaces Quick Setup.
+- **Crafting Clarifications**. We use the remastered [crafting](https://2e.aonprd.com/Actions.aspx?ID=2385) rules, where setup is 2 days normally but 1 day with a formula. Elements of [downtime crafting events](https://2e.aonprd.com/Rules.aspx?ID=1920) and [critical crafting](https://2e.aonprd.com/Rules.aspx?ID=1921) may make appearances. In addition, there's a new feat called [[Houserules & Homebrew#New Skill, Ancestry and other Class Feats|Rushed Setup]] that replaces [Quick Setup](https://2e.aonprd.com/Feats.aspx?ID=4085). Rushed Setup opens the avenue for crafted items receiving [Item Quirks](https://2e.aonprd.com/Rules.aspx?ID=1083) (GM may use their own table or decide on a quirk).
 
 ## Possible Houserules
 - **[[Essence Casting|Essence Magic]]**
