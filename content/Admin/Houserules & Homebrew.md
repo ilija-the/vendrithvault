@@ -49,6 +49,8 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Battlezoo Monster Carving & Crafting.**
 - **Reworked Materials.**
 - **Weapon and Armour Maintenance.**
+- **Raid Zones.**
+- **Auction Houses**.
 
 ## Houserules in Progress
 In need of finishing, testing and/or a rework.
@@ -108,6 +110,7 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 - Invested Holy Symbols:
 	**Sun Pendant** ← Sun Wheel.
 	**Primordial Shepperd Pendant** ← Broken Tusk Pendant.
+	![[Pasted image 20260830145316.png]]
 	**Necklace of Miniature Swords** ← Necklace of Knives. Symbol of the Grand Scheme and his infinite armoury.
 - **Crusader Cult Cards**. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost for the latter is 2 and the DC is 17.
 - **Old Sea Dog's Corset**. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
