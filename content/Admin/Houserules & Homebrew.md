@@ -50,12 +50,14 @@ The homebrew 'content' we have made for Vendrith. Also includes a list of rename
 - Good Doctor's Disciple Archetype.
 - Fat Tiger's Pet Archetype.
 - Construct Beastmaster - obsolete, [[Ashur Holdok]] eventually embraced having his second companion as a Construct Familiar instead of two mutually exclusive companions.
+- Twin Duo Archetype. Allows playing as two characters using many mechanics from the Simulacric Spellcraft thesis (Wizards+). Share actions but get access to a special act together, perhaps modified based on your class. Shares class abilities and resources. Health is shared, but only the character hit "goes down" when taken to 0 - the other remains at 1 but gains the Fleeing Condition and can only run away or run to try to stabilise the twin.
 
 ### Skill, Ancestry and other Class Feats
 
 - Project Reality. For Ashur Holdok's construct companion, allowed it to record its vision into a short film. Inventor-y replacement for Share Senses.
 - Rushed Setup. For Ashur Holdok, allows less downtime spent on Crafting.
 - Chocolatery. Level 1, requires Crafting. Allows making facsimiles of other items out of chocolate, can be used to deceive others, whom have to roll against your Crafting DC instead of Deception.
+- 
 
 ### Items
 - Clan Pistol → Sect Pistol. A pistol that shows allegiance to a specific [[Crusader Sects|Crusader Sect]], which is considered a great humiliation and disservice to your faith to lose.
