@@ -24,10 +24,11 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **[[Essence Casting|Essence Magic]]**
 - **Stamina**.
 - **Hero Point uses**. The few uses of hero points may be modified in a campaign, or added to. In the Landcrab Plot, the uses were:
-> 1 Hero Point can be spent to Re-Roll a check. This can result in a worse outcome.
-> 2 Hero Points can be spent while dying to either stabilize or regain 1 HP.
-   3 Hero Points can be spent for a hint that would drive the story forward. This can be paid collectively!
-- **Hero Point sour**
+	1 Hero Point can be spent to Re-Roll a check. This can result in a worse outcome.
+	2 Hero Points can be spent while dying to either stabilize or regain 1 HP.
+	3 Hero Points can be spent for a hint that would drive the story forward. This can be paid collectively!
+- **Hero Point sources**. Hero Points can be gained from a variety of sources like fulfilling in-game objectives, but we usually add some more consistent "meta" sources as well. In the Landcrab Plot, this was spelled out as:
+	You start each session with 1 hero point. One player gains 1 for doing the recap. One player gains 1 from the "heroic star" (choose between yourselves in ⁠🦀lcp-swishes). One player gains 1 at break-time, choose between yourselves during the break. More can be earned through play when you complete medium and long-term objectives, and other types of play worthy of reward.
 - **Soften Blow.** If you hit a would-be lethal attack, you can use a Reaction to retroactively make it nonlethal (with the attack penalty). Spell attack rolls can also be made nonlethal with no feat required, though with the -2 circumstance penalty as for normal weapon attacks.
 - **Downed but not Out.** When you gain the Dying condition you may remain nominally conscious for roleplay (unless specifically knocked out by the enemy). You still gain all other drawbacks of the Dying and Unconscious conditions, and can't act (your mind too cloudy to even Recall Knowledge). If you would die, you may get some last words in.
 - **Support Moves** - call in special actions in boss fights from allies you've prepared.
