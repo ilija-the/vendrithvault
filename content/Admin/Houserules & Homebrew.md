@@ -54,23 +54,32 @@ The homebrew 'content' we have made for Vendrith. Also includes a list of rename
 
 ### Skill, Ancestry and other Class Feats
 
-- Project Reality. For Ashur Holdok's construct companion, allowed it to record its vision into a short film. Inventor-y replacement for Share Senses.
-- Rushed Setup. For Ashur Holdok, allows less downtime spent on Crafting.
-- Chocolatery. Level 1, requires Crafting. Allows making facsimiles of other items out of chocolate, can be used to deceive others, whom have to roll against your Crafting DC instead of Deception.
-- Wired Bomb. Rare level 2 alchemist class feat, additive trait. 
-- This One's Got a Fuse!
+- **Project Reality.** For Ashur Holdok's construct companion, allowed it to record its vision into a short film. Inventor-y replacement for Share Senses.
+- **Rushed Setup.** For Ashur Holdok, allows less downtime spent on Crafting.
+- **Chocolatery.** Level 1, requires Crafting. Allows making facsimiles of other items out of chocolate, can be used to deceive others, whom have to roll against your Crafting DC instead of Deception.
+- **Wired Bomb.** 
+  Rare level 2 alchemist class feat, additive trait. 
+  Requires Chemical Poliorcetica. When you place or attach a bomb instead of Striking with it, you can arm it with a manual detonation method. Designate a trigger. The bomb no longer detonates from a creature moving through its space or using an action with a manipulate trait on it. If the trigger you designated occurs before the start of your next turn, you can detonate the bomb as a reaction. 
+  If a creature was in the bombs space while activated, it takes damage as if you had made a successful Strike with the bomb. Creatures in a 5-foot emanation around the space take the bombs damage with a DC 22 Basic Reflex save against your class DC
+- **This One's Got a Fuse!** 
+  Rare level 6 alchemist class feat, additive 1 trait. 
+  Requires Chemical Poliorcetica. 
+  You introduce more combustible material into a bomb that takes time to reach its full saturation. The bomb doesn't explode on contact. Instead, a fuse will forcibly explode it in its space after 1 to 4 turns, decided by you when you create the bomb. You can have only one bomb affected by this feat at a time. 
+  The bomb explodes in a 10-foot burst, and for each round after the first, this radius increaes by 10 feet. After two rounds, it explodes in a 20-foot burst, 30-foot burst after three rounds, and 40-foot burst after four rounds. 
+  Creatures in the burst take the bombs damage with a DC 22 Basic Reflex save against your class DC. Creatures within 5 feet of the bomb decrease their degree of success by one step lower. 
+  A creature adjacent to the bomb can spend an Interact action to attempt to put out the fuse. This normally requires a melee attack or survival check, against the Inventor's class DC + 4, but the GM can also rule another appropriate action or use of an item applies. On a critical failure, the bomb immediately explodes.
 
 ### Items
-- Clan Pistol → Sect Pistol. A pistol that shows allegiance to a specific [[Crusader Sects|Crusader Sect]], which is considered a great humiliation and disservice to your faith to lose.
+- **Sect Pistol** ← Clan Pistol. A pistol that shows allegiance to a specific [[Crusader Sects|Crusader Sect]], which is considered a great humiliation and disservice to your faith to lose.
 - Invested Holy Symbols:
-	Sun Wheel → Sun Pendant.
-	Broken Tusk Pendant → Primordial Shepperd Pendant.
-	Necklace of Knives → Necklace of Miniature Swords. Symbol of the Grand Scheme and his infinite armoury.
-- Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost for the latter is 2 and the DC is 17.
-- Old Sea Dog's Corset. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
-- Shroud of Humanitarianism. Used to shield fallen soldiers until they can receive assistance.
-- Dainty Umbrella. A magic item often carried by Leshys, they are made of bamboo and can slow ones fall.
-- Van and Foggle. In adventures where Stamina (see [[Houserules & Homebrew]]) plays a role, these serve as easy ways to regain stamina points. Vanberries restore 1 per berry but give you a -1 circumstance penalty to actions that require precise hand movements for 1 hour. Vanberry juice regains 5 stamina. Enchanted vanberries remove the penalty and recover 2 per berry. A fogglefruit recovers 1d8+2 and a Foggledrink Energiser recovers 2d8+4, but both also give you a -1 circumstance penalty against Sickened for 1 hour.
+	**Sun Pendant** ← Sun Wheel.
+	**Primordial Shepperd Pendant** ← Broken Tusk Pendant.
+	**Necklace of Miniature Swords** ← Necklace of Knives. Symbol of the Grand Scheme and his infinite armoury.
+- **Crusader Cult Cards**. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost for the latter is 2 and the DC is 17.
+- **Old Sea Dog's Corset**. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
+- **Shroud of Humanitarianism**. Used to shield fallen soldiers until they can receive assistance.
+- **Dainty Umbrella**. A magic item often carried by Leshys, they are made of bamboo and can slow ones fall.
+- **Van and Foggle**. In adventures where Stamina (see [[Houserules & Homebrew]]) plays a role, these serve as easy ways to regain stamina points. Vanberries restore 1 per berry but give you a -1 circumstance penalty to actions that require precise hand movements for 1 hour. Vanberry juice regains 5 stamina. Enchanted vanberries remove the penalty and recover 2 per berry. A fogglefruit recovers 1d8+2 and a Foggledrink Energiser recovers 2d8+4, but both also give you a -1 circumstance penalty against Sickened for 1 hour.
 - Ashur's Inventions:
 	Alarm Bolt.
 	Cloud Bolt.
