@@ -27,14 +27,14 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 **Reworked Materials.**
 **Weapon and Armour Maintenance.**
 
-### Untested/unsolved Houserules
+### Houserules in Progress
+In need of finishing, testing and/or a rework.
 
 [[Ilija's Slow Healing]].
-Simple Stamina. Stamina except there is no resource involved, you can just always recover half of your health. Slow healing is intended to make use of this too.
+**Simple Stamina.** Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina. Slow healing is intended to make use of this too.
 [[Ilija's Node Travel]].
 
 # Homebrew
-
 In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
 
 ### Vendrith Homebrew
@@ -51,9 +51,9 @@ Sun Wheel → Sun Pendant.
 Broken Tusk Pendant → Primordial Shepperd Pendant.
 Necklace of Knives → Necklace of Miniature Swords. Symbol of the Grand Scheme and his infinite armoury.
 
-Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost is 2 and the DC is 17.
+Crusader Cult Cards. Similar to cantrip cards, usually comes in packs of 6 and can cast Guidance or Evil Eye (the latter costs 2 cards, as you have to overlay two cards in a specific way to see the eye). The action cost for the latter is 2 and the DC is 17.
 
-Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power.
+Spiritual Refreshment and Supercharging Ritual. Crusader sect rituals from Veridica that infuse a suitable vessel creature with leyline power, giving an unusually large number of Temporary Hit Points but threatening everyone's safety if the supercharged character goes down.
 
 Old Sea Dog's Corset. Once a day reduces your wounded by 1 and gives a +2 to your first recovery check, but only works on the salty seas.
 
