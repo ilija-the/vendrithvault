@@ -13,7 +13,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
 - **Godpowder vs Redpowder.** 
 - **Backstory Lore.** In addition to the Lore training granted by your background, you get training in another Lore relevant to your character's backstory, decided in concord with the GM.
-- **Scaling Lores.** The lores you gain from your Background, and from the Backstory Lore if active, are gained as the "Additional Lore" skill feat. This means they automatically scale to Expert at level 3, Master at level 7
+- **Scaling Lores.** The lores you gain from your Background, and from the Backstory Lore if active, are gained as the "Additional Lore" skill feat. This means they automatically scale to Expert at level 3, Master at level 7 and Legendary at level 13.
 - **Feats+ Basic Pack.** Avoided in campaigns with completely new players, but commonly used otherwise. Can also be added later on. Adds a slight bit more options for character building without going all the way of Free Archetype. Gain a bonus Level 1 Class Feat, Level 2 Class Feat, and a Level 1 General feat.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat.
 
@@ -26,6 +26,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Guide Books.** Finding a tome on a certain topic can provide an item bonus to downtime activities relevant to the book, for activities in which consulting a book throughout is possible and convenient. The Item Bonus can easily be at least 1 over what general items of the party's level can get due to its specificity, like an early game book offering a +2 bonus to crafting a certain item or set of items.
 - **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
 - **Formulas.** ~~Formulas can be found as loot just as they can be bought. A character can learn it by spending downtime with it, but the item doesn't just disappear when it does (even if that would be convenient game design). The formula can be sold on a treasure item for full value (GM's need to consider it as part of the loot value they give out). Creating a copy of a formula is possible, but uses the rules for Crafting and Earning Income to build up to the items price, as no formula is a simple schematic, and is often in fact encoded so crafters can keep control over their inventions.~~
+- **Craftable Lores.** Potentially more of a clarification than a homebrew. So long as you meet the prerequisites in Crafting to Craft an item otherwise, you can use a Lore like "glassworking" or even "metalworking" or "alchemy" lore to craft said item, gaining a reduction in the DC for it. Types like glassworking or "healing alchemy"
 - **Hunlords and House Spirits.**
 - **Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
 - **Boss Monsters with multiple turns.** 
