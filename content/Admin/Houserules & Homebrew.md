@@ -73,7 +73,13 @@ In need of finishing, testing and/or a rework.
 ![[Pasted image 20260830145729.png]]
 ![[Pasted image 20260830145746.png]]![[Pasted image 20260830145759.png]]![[Pasted image 20260830145809.png]]
 ![[Pasted image 20260830145821.png]]
-![[Pasted image 20260830145836.png]]
+![[Pasted image 20260830145836.png]]![[Pasted image 20260830145849.png]]![[Pasted image 20260830145858.png]]
+![[Pasted image 20260830145907.png]]
+
+And ones the party never got:
+![[Pasted image 20260830150123.png]]
+![[Pasted image 20260830150143.png]]
+
 # Homebrew
 In this house we love team+. You can usually expect their Common content to be confirmed by the GM so long as you ask. 
 
