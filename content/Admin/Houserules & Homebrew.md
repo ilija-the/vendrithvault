@@ -15,10 +15,10 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Backstory Lore.** In addition to the Lore training granted by your background, you get training in another Lore relevant to your character's backstory, decided in concord with the GM.
 - **Scaling Lores.** The lores you gain from your Background, and from the Backstory Lore if active, are gained as the "Additional Lore" skill feat. This means they automatically scale to Expert at level 3, Master at level 7 and Legendary at level 13.
 - **Feats+ Basic Pack.** Avoided in campaigns with completely new players, but commonly used otherwise. Can also be added later on. Adds a slight bit more options for character building without going all the way of Free Archetype. Gain a bonus Level 1 Class Feat and General Feat, as well as a Level 2 Class Feat when you reach it!
-> The Level 2 Class Feat is often useful for taking an Archetype, which is an option to consider if you want a more 
+> The Level 2 Class Feat is often useful for taking an Archetype, which is an option to consider if you want a more specific, complex or multi-faceted character.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat. 
 > The Vendrith Booster Pack is likely the last bonus feats you get, 5 is already a lot! Campaigns may also choose to leave out one or both in case they want to give out Bonus Feats as rewards from plot points, and the GM thinks it may create too much combined with the packs.
-- **Premaster Clarifications**. The remaster Pathfinder 2e has set some new standards, but not all content has been re-printed or erratad to use them yet. Here's some clarifications:
+- **Premaster Clarifications**. The remaster Pathfinder 2e has set some new standards, but not all content has been re-printed or errata'd to use them yet. Here's some clarifications:
 	Talismans no longer have a Skill Proficiency prerequisite - if you see one with it, you can ignore it.
 - **Crafting Clarifications**. We use the remastered [crafting](https://2e.aonprd.com/Actions.aspx?ID=2385) rules, where setup is 2 days normally but 1 day with a formula. Elements of [downtime crafting events](https://2e.aonprd.com/Rules.aspx?ID=1920) and [critical crafting](https://2e.aonprd.com/Rules.aspx?ID=1921) may make appearances. In addition, there's a new feat called [[Houserules & Homebrew#New Skill, Ancestry and other Class Feats|Rushed Setup]] that replaces [Quick Setup](https://2e.aonprd.com/Feats.aspx?ID=4085). Rushed Setup opens the avenue for crafted items receiving [Item Quirks](https://2e.aonprd.com/Rules.aspx?ID=1083) (GM may use their own table or decide on a quirk).
 
@@ -53,7 +53,9 @@ These are Houserules that are active in multiple, if not all, campaigns.
 ## Houserules in Progress
 In need of finishing, testing and/or a rework.
 
-**Slow Healing**
+**Slow Healing**. Splits healing into 3 types - circumstance (medicine skill treatment), status (magic) and item (alchemical and consumable). When you get healed for one type, you gain it as a condition whose number of healing you note down. If you were to get healed for the same type again, you subtract the amount of healing from the source you already had, essentially only allowing you to "increase" the amount gained and not "add" to it. Whatever new source of healing you overrides your condition. This means you can only be healed so much from each type
+**Consu**
+**Overhealing.**
 **Simple Stamina.** Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina. Slow healing is intended to make use of this too.
 **Node Travel.**
 
