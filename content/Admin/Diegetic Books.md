@@ -48,3 +48,5 @@ Here is a list of the known books of Vendrith:
 **Skylords of Imandrel.** An amateurish story about hunting down a kidnapped maiden that turned surprisingly popular, but which the author never finished.
 
 **A Single Spark.** A fiction book depicting the city of [[Philosophia]] fall into a civil war between the guilds, characterised by the destructive battles of various [[Adventurers|Heroes]] of the city fighting each other.
+
+**Brass and Redpowder.** Story of a strange city of clockwork near a desert, home to corruption, firearms and inventions, and vigilantes and criminals around every corner. In it, a ysoki detective tries to solve the mystery of his missing father figure, and is pulled into all manner of explosive hijinks through it.
