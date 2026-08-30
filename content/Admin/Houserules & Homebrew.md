@@ -10,18 +10,22 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 # Houserules
 
 ### Possible Houserules
-[[Essence Casting|Essence Magic]]
-Stamina.
-Support Moves - call in special actions in boss fights from allies you've prepared.
-[[Crews]] - smaller than a troop, a crew is four enemies working together as one.
-Friedport Aid - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gi
-Boss Actions - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
-Formulas.
-Plentiful Deities.
-Hunlords and House Spirits.
-Battlezoo Monster Carving & Crafting.
-Mooks.
-Boss Monsters with multiple turns.
+**[[Essence Casting|Essence Magic]]**
+**Stamina**.
+**Support Moves** - call in special actions in boss fights from allies you've prepared.
+**Crews** - smaller than a troop, a crew is four enemies working together as one.
+**Friedport Aid** - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gives a -1. Being a Master in the skill increases each tiers bonus by 1, including nullifying critical failure into doing nothing.
+**Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
+**Formulas.** 
+**Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
+**Hunlords and House Spirits.**
+**Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
+**Boss Monsters with multiple turns.** 
+**Resonance.** 
+**Levelling Items.**
+**Battlezoo Monster Carving & Crafting.**
+**Reworked Materials.**
+**Weapon and Armour Maintenance.**
 
 ### Untested/unsolved Houserules
 
