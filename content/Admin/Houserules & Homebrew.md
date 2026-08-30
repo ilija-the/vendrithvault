@@ -47,11 +47,13 @@ The homebrew 'content' we have made for Vendrith. Also includes a list of rename
 ### Subclasses and Archetypes
 - **Shrieking Frailty.** Hybrid study for the Magus, domain of [[Elianza]].
 - **Crusader Archetype.** Might be split into more specific crusader sects, but a general one might be good still. Grant access to Godpowder, Firearms crafting and maintenance, and a limited selection of firearm feats. Grant access to Cleric Spells from your deity through archetype spellcasting.
+- **Landcrab Archetype.**
 - **Good Doctor's Disciple Archetype.** From making a devil deal with the Good Doctor.
 - **Fat Tiger's Pet Archetype.** From being bound to serve the Fat Tiger's interests.
 - **Construct Beastmaster Archetype** - obsolete, [[Ashur Holdok]] eventually embraced having his second companion as a Construct Familiar instead of two mutually exclusive companions.
-- **Twin Duo Archetype.** Allows playing as two characters using many mechanics from the Simulacric Spellcraft thesis (Wizards+). Share actions but get access to a special act together, perhaps modified based on your class. Shares class abilities and resources. Health is shared, but only the character hit "goes down" when taken to 0 - the other remains at 1 but gains the Fleeing Condition and can only run away or run to try to stabilise the twin. The GM may allow taking feats from the Sniping Duo, Mystic Duo or even Summoner, modified if need be.
-
+- **Twin Duo Archetype.** Allows playing as two characters using many mechanics from the Simulacric Spellcraft thesis (Wizards+). Share actions but get access to a special act together, perhaps modified based on your class (example below). Shares class abilities and resources. Health is shared, but only the character hit "goes down" when taken to 0 - the other remains at 1 but gains the Fleeing Condition and can only run away or run to try to stabilise the twin. The GM may allow taking feats from the Sniping Duo, Mystic Duo or even Summoner, modified if need be.
+  > **Simulacrous Alchemy.** Tandem. You and your eidolon perform an action in tandem. Either you or your eidolon use Quick Alchemy, and the other takes a single action. As long as you are within 20 feet of each other, you can freely pass items around as part of these actions, including drawing new items to then pass or use.
+  
 ### Feat Buffs or Reworks
 Mainly Skill Feats, a number of which could do with some loving to actually be useful in our (or any) campaigns.
 
@@ -67,7 +69,7 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
   Rare level 6 alchemist class feat, additive 1 trait. 
   Requires Chemical Poliorcetica. 
   You introduce more combustible material into a bomb that takes time to reach its full saturation. The bomb doesn't explode on contact. Instead, a fuse will forcibly explode it in its space after 1 to 4 turns, decided by you when you create the bomb. You can have only one bomb affected by this feat at a time. 
-  The bomb explodes in a 10-foot burst, and for each round after the first, this radius increaes by 10 feet. After two rounds, it explodes in a 20-foot burst, 30-foot burst after three rounds, and 40-foot burst after four rounds. 
+  The bomb explodes in a 10-foot burst, and for each round after the first, this radius increases by 10 feet. After two rounds, it explodes in a 20-foot burst, 30-foot burst after three rounds, and 40-foot burst after four rounds. 
   Creatures in the burst take the bombs damage with a DC 22 Basic Reflex save against your class DC. Creatures within 5 feet of the bomb decrease their degree of success by one step lower. 
   A creature adjacent to the bomb can spend an Interact action to attempt to put out the fuse. This normally requires a melee attack or survival check, against the Inventor's class DC + 4, but the GM can also rule another appropriate action or use of an item applies. On a critical failure, the bomb immediately explodes.
 
