@@ -144,16 +144,16 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 	Vanberries restore 1 per berry but give you a -1 circumstance penalty to actions that require precise hand movements for 1 hour. Vanberry juice regains 5 stamina. Enchanted vanberries remove the penalty and recover 2 per berry. 
 	A fogglefruit recovers 1d8+2 and a Foggledrink Energiser recovers 2d8+4, but both also give you a -1 circumstance penalty against Sickened for 1 hour.
 - **Ashur's Inventions:**
-	Alarm Bolt.
-	Cloud Bolt.
-	Heavy Bolas Bolt.
-	Jolt Bolt.
-	Kindling Bolt.
-	Knockback Bolt.
-	Rattler Bolt.
-	Shaker Bolt.
-	Springrazor Bolt.
-	Timed Bomb Bolt.
+	He ended up not using these much at all, so we might re-lore them to be someone else's inventions tbh lmao. Good example of the amount of homebrew I am willing to work with a player to make to fit a character type they wanna play though!
+	![[Pasted image 20260830151459.png]]
+	![[Pasted image 20260830151507.png]]
+	![[Pasted image 20260830151534.png]]
+	![[Pasted image 20260830151600.png]]![[Pasted image 20260830151608.png]]![[Pasted image 20260830151615.png]]
+	![[Pasted image 20260830151625.png]]
+	![[Pasted image 20260830151637.png]]
+	![[Pasted image 20260830151647.png]]
+	![[Pasted image 20260830151657.png]]
+	![[Pasted image 20260830151705.png]]
 - Thistlevolt.
 - Good Doctor's Spellgun.
 ![[Pasted image 20260830145217.png]]
