@@ -55,9 +55,10 @@ In need of finishing, testing and/or a rework.
 
 **Slow Healing**. Splits healing into 3 types - circumstance (medicine skill treatment), status (magic) and item (alchemical and consumable). When you get healed for one type, you gain it as a condition whose number of healing you note down. If you were to get healed for the same type again, you subtract the amount of healing from the source you already had, essentially only allowing you to "increase" the amount gained and not "add" to it. Whatever new source of healing you overrides your condition. This means you can only be healed so much from each type before you need downtime to start a fresh.
 The conditions are removed either during a Rest or during a Safe Rest, which can only be done in a town or otherwise safe base (but not while travelling). 
-	**Consistent Healing.** For Slow Healing. All healing sources have their dice taken out of them and are turned into a flat number instead. Allows for more consistency and less re-rolling to try to get better results.
+	**Consistent Healing.** For Slow Healing. All healing sources have their dice taken out of them and are turned into a flat number instead. Allows for more consistency and easier math when  and less re-rolling to try to get better results.
 	**Consumable Healing Doubled.** For Slow Healing. To make consumable healing items more worthwhile when they can't be used again and again, they provide twice the amount of healing they usually do.
-	**Overhealing.** For Slow Healing. In order to make healing not 
+	**Overhealing.** For Slow Healing. Meant to to make limited healing not potentially "wasted" if done while at high health (or stamina if using simple stamina as below), incentivising use early on instead of when already grievously injured. If you receive healing that takes you up to max HP (and stamina), you only list the amount of healing up to reach that number as your condition. However if the healing source was status or item, the points that went above that you receive as Temporary Hit Points that last 1 round.
+	**Others?** For Slow Healing. Hero Points may allow for taking the action Second Wind.
 **Simple Stamina.** Intended for Slow Healing, but can be used standalone too. Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina.
 **Node Travel.**
 
