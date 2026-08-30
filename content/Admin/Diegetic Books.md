@@ -15,6 +15,8 @@ Note that while magic streamlines the process of copying books, it is still not 
 
 Central to the history of writing is the [[War over Writing]]. This conflict revolved around whether writing should be accepted (which clashed with much of culture, philosophy and religion at the time), and involved (amongst others) the [[Relentless Pen]], the [[Blackwhite Warriors]], and the [[Painter Societies]].
 
+Some books have small mechanical benefits, such as item bonuses to downtime activities that would be helped by hav
+
 Here is a list of the known books of Vendrith:
 
 ### Academia
@@ -27,7 +29,7 @@ Here is a list of the known books of Vendrith:
 
 **The Philosophised Downfall of Mogxa.** Book critical of the Philosophian system that makes grand and oddly specific claims about its eventual doomsday. Said to have been [[Jade the Just]]'s favourite book.
 
-**Treatise on Healing.** Old Mogxan book central to the knowledge of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]].
+**Treatise on Healing.** Old Mogxan book central to the knowledge of [[Elixir of Life|Elixirs of Life]] and [[Redpowder]], grants a +2 item bonus to crafting said items.
 
 **Understanding the Great Flow.** Relatively modern interpretation and summary the theories of the [[Great Flow]]. Lacks a lot of the references to specific planes of older books.
 
@@ -42,3 +44,5 @@ Here is a list of the known books of Vendrith:
 **Terror of the Salty Sea Crusaders.** Adorned telling of an infamous [[Crusaders|Crusader]] [[Banditry|Pirate]]'s terrifying exploits.
 
 **The Diary of a River Kingdom.** Fictional book about adventurers founding a kingdom in a vast land.
+
+**Skylords of Imandrel.** An amateurish story about hunting down a kidnapped maiden that turned surprisingly popular, but which the author never finished.
