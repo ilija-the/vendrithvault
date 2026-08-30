@@ -14,8 +14,8 @@ Note: We use the term homebrew to refer to 'content' such as player options, and
 Stamina.
 Support Moves - call in special actions in boss fights from allies you've prepared.
 [[Crews]] - smaller than a troop, a crew is four enemies working together as one.
-Friedport Aid - DC is 20, but tiers are different.
-Boss Actions.
+Friedport Aid - DC is 20, but tiers are different. Critical success gives +3, success gives +2, failure gives a +1 instead of nothing, and a critical failure still gi
+Boss Actions - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
 Formulas.
 Plentiful Deities.
 Hunlords and House Spirits.
@@ -26,6 +26,7 @@ Boss Monsters with multiple turns.
 ### Untested/unsolved Houserules
 
 [[Ilija's Slow Healing]].
+Simple Stamina. Stamina except there is no resource involved, you can just always recover half of your health. Slow healing is intended to make use of this too.
 [[Ilija's Node Travel]].
 
 # Homebrew
