@@ -20,6 +20,8 @@ Formulas.
 Plentiful Deities.
 Hunlords and House Spirits.
 Battlezoo Monster Carving & Crafting.
+Mooks.
+Boss Monsters with multiple turns.
 
 ### Untested/unsolved Houserules
 
