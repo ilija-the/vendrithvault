@@ -153,7 +153,7 @@ Mainly Skill Feats, a number of which could do with some loving to actually be u
 	![[Pasted image 20260830151637.png]]
 	![[Pasted image 20260830151647.png]]
 	![[Pasted image 20260830151657.png]]
-	![[Pasted image 20260830151705.png]]
+	
 - Thistlevolt.
 - Good Doctor's Spellgun.
 ![[Pasted image 20260830145217.png]]
