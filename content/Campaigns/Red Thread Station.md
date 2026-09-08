@@ -2,7 +2,7 @@
 tags:
   - campaigns
 ---
-**Setting** Friedport and Chocolate Isles of Horiza, 1274-1275 ADc. 
+**Setting** Yondspace, looking down upon Vendrith.
 **Players** Niko, Donna and Lucky.
 **Time** 1 session.
 
