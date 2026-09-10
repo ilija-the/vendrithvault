@@ -7,7 +7,7 @@ tags:
 > This is a potential homebrew system that may one day get to see play in Vendrith (or not, you never know how these things will turn out). Contributors are free to edit the article to add ideas or correct or clean up things, and anyone interested are free to come with suggestions themselves through the discord!
 
 ### Introduction
-Circles of Magic is the tentative name for a potential [[Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic system but suited for Pathfinder 2e, and ideally, also work with [[Essence Casting|Essence Magic]]. It simply put replaces the way spells are normally selected from huge spell lists with more focused categories of spellcasting and related abilities, and may develop into the vibe of "skill trees" for magic using "magic feats."
+Circles of Magic is the tentative name for a potential [[Houserules & Homebrew|Homebrew]] system intended to imitate the Pathfinder RPG Spheres of Magic system but suited for Pathfinder 2e, and ideally, also work with [[Essence Casting|Essence Magic]]. It simply put replaces the way spells are normally selected from huge spell lists with more focused categories of spellcasting and related abilities, and may develop into the vibe of "skill trees" for magic using "magic feats."
 
 ##### Intentions:
 - Prevent the selection paralysis of having to learn and look through potentially hundreds of spells.

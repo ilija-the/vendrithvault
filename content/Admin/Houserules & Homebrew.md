@@ -1,6 +1,9 @@
 ---
 tags:
   - admin
+aliases:
+  - Homebrew
+  - Houserules
 ---
 [[index|Click here to return to the index.]]
 > [!note]
@@ -24,7 +27,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 > The Level 2 Class Feat is often useful for taking an Archetype, which is an option to consider if you want a more specific, complex or multi-faceted character.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat. 
 > The Vendrith Booster Pack is likely the last bonus feats you get, 5 is already a lot! Campaigns may also choose to leave out one or both in case they want to give out Bonus Feats as rewards from plot points, and the GM thinks it may create too much combined with the packs.
-- **[[Essence Casting|Essence Magic]]**
+- **[[Essence Casting|Essence Magic]]**.
 - **Stamina**.
 - **Hero Point uses**. The few uses of hero points may be modified in a campaign, or added to. In the Landcrab Plot, the uses were:
 	1 Hero Point can be spent to Re-Roll a check. This can result in a worse outcome.
