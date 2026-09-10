@@ -16,3 +16,5 @@ Another form of common and accepted slavery is Impressment, the act of kidnappin
 The [[Titans|Titan]] called the [[Golden Heart]] is said to have started as a slave girl herself, and fought to free herself and her fellow slaves before reaching deityhood - though she is controversial for having possibly re-created the practice against those who she sought to punish.
 
 [[Dragons]] have been notorious slavers throughout history. The lands of [[Lorgun]] are populated by the successful rebels of a Slave Revolt against Dragons.
+
+In a twist of fate, [[Dragonbloods]] are often kept in [[Slavery]] and sold on the [[Underworld|Black Market]] by [[Mogxa|Mogxan]] [[Kobolds]]. This is a practice that has come about through the Kobolds' need to keep a powerful draconic creature in their hatcheries, in order to ensure their offspring maintain the perfect draconic appearance. ^DragonbloodSlaves
