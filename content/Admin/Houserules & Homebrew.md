@@ -27,6 +27,9 @@ These are Houserules that are active in multiple, if not all, campaigns.
 > The Level 2 Class Feat is often useful for taking an Archetype, which is an option to consider if you want a more specific, complex or multi-faceted character.
 - **Vendrith Booster Pack.** A follow-up to the Basic Pack that campaigns which reach level 10+ may use. Gives a bonus level 10 Class Feat, and Level 11 General Feat. 
 > The Vendrith Booster Pack is likely the last bonus feats you get, 5 is already a lot! Campaigns may also choose to leave out one or both in case they want to give out Bonus Feats as rewards from plot points, and the GM thinks it may create too much combined with the packs.
+- **Natural Pack.** Was available in Hunts of Vilhun. All ancestries gain access to the versatile human heritage and the natural ambition human feat in addition to their normal feats. Humans can choose one ancestry other than their own instead of gaining a heritage. They gain access to that ancestries’ feats 1st-level feats in addition to their own feats.
+- **Caster Level Incapacitation.*** The Incapacitation trait only improves failures and scales off of casters level, rather than spell rank.
+- **Stronger Incapacitation.** The Incapacitation trait only makes creatures above the required threshold immune to critically failing, only upping that result to a failure instead.
 - **[[Essence Casting|Essence Magic]]**.
 - **Stamina**.
 - **Hero Point uses**. The few uses of hero points may be modified in a campaign, or added to. In the Landcrab Plot, the uses were:
@@ -37,8 +40,8 @@ These are Houserules that are active in multiple, if not all, campaigns.
 	You start each session with 1 hero point. One player gains 1 for doing the recap. One player gains 1 from the "heroic star". One player gains 1 at break-time, choose between yourselves during the break. More can be earned through play when you complete medium and long-term objectives, and other types of play worthy of reward.
 - **Soften Blow.** If you hit a would-be lethal attack, you can use a Reaction to retroactively make it nonlethal (with the attack penalty). Spell attack rolls can also be made nonlethal with no feat required, though with the -2 circumstance penalty as for normal weapon attacks.
 - **Downed but not Out.** When you gain the Dying condition you may remain nominally conscious for roleplay (unless specifically knocked out by the enemy). You still gain all other drawbacks of the Dying and Unconscious conditions, and can't act (your mind too cloudy to even Recall Knowledge). If you would die, you may get some last words in.
-- **Support Moves** - call in special actions in boss fights from allies you've prepared.
-- **Crews** - smaller than a troop, a crew is four enemies working together as one.
+- **Support Moves** - call in special actions in boss fights from allies or traps you've prepared.
+- **Crews** - smaller and more coordinated than a troop, a crew is four enemies working together as one.
 - **Boss Actions** - actions that certain monsters have, which have a tell and a way to be either stopped or mitigated. The action is taken on one turn, and then the main effect doesn't happen until the monster's next turn. Untested how it would interact with Boss Monsters with multiple turns.
 - **Guide Books.** Finding a tome on a certain topic can provide an item bonus to downtime activities relevant to the book, for activities in which consulting a book throughout is possible and convenient. The Item Bonus can easily be at least 1 over what general items of the party's level can get due to its specificity, like an early game book offering a +2 bonus to crafting a certain item or set of items.
 - **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
@@ -47,6 +50,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 > This allows you to specialise your Crafter a bit more. Also stacks neatly with the Specialty Crafting feat itself.
 - **Hunlords and House Spirits.**
 - **Mooks.** Weaker creatures that need to fight in numbers to matter, usually alongside a stronger leader. Have only 2 actions.
+- **Mook Nexuses.** Spa
 - **Boss Monsters with multiple turns.** 
 - **Resonance.** 
 - **Levelling Items.**
