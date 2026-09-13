@@ -154,7 +154,7 @@ Sessions:
 - 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
 - 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
 ### Last Summer, First Rains
-
+The party returns to Friedport, prepares for the climax coming at the Summer Games. Almost robbed off a Vestitur Relic by the thieves Vendy and Gozi, the party strikes a deal to help them free themselves of the Fat Tiger's control. The party is also shocked to discover their old friend Doctor Hallan has under mysterious circumstances been found responsible for serial murd
 
 Sessions:
 - 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
@@ -165,7 +165,7 @@ Sessions:
 
 ## Act 5 - Resolution
 ### The Summer Games
-The long-awaited Landcrab games finally begin. The party is caught in the Scurvymaster's trap immediately, as he tries to kill them off in a pocket-dimension before they even arrive on the island, which momentarily leaves them stranded in a dark plane. The party gets out and faces the Prince, Su Na, and Yarvis and Avexe's theatrical attempt to prove themselves.
+The long-awaited Landcrab games finally begin. The party is caught in the Scurvymaster's trap immediately, as he tries to kill them off in a pocket-dimension before they even arrive on the island, which momentarily leaves them stranded in a dark plane. The party gets out and faces the Prince, Su Na, and Yarvis and Avexe's theatrical attempt to prove themselves. Crossing from Smallthraun to Bigthraun, the party finds the remains of a sneaky naval attack by the Iron Brothers. Boarding their ship, Roslyn and the rest finally get their revenge and defeat the brothers, handing them off to the Queen of Grog. The party are soon to catch up to the end portal, but must prove themselves against the so-preemtively called "Heroes of Friedport," now united as one again.
 
 Sessions:
 - 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
