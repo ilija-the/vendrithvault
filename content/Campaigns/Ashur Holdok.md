@@ -9,7 +9,7 @@ Birth: 1252 ADc
 Status: Alive
 pronouns: He/Him
 ---
-A well-known rabbitfolk inventor with mechanical limbs, and the adoptive son of the equally famous inventor [[Borgrumm Holdok]]. After he was framed for Borgrumm's murder he fled the city of [[Cragmoore]] with the aid of [[Antoine Dumas]] and [[Sister Amelie Kenton|Amelie Kenton]], eventually safely reaching [[Friedport]]. Here he met [[Bande Aparte]] and [[Gator Grippli]] with whom he formed the [[Newcomers of Friedport]].
+A well-known rabbitfolk inventor with mechanical limbs, and the adoptive son of the equally famous inventor [[Borgrumm Holdok]]. After he was framed for Borgrumm's murder he fled the city of [[Cragmoore]] with the aid of [[Antoine Dumas]] and [[Sister Amelie Kenton|Amelie Kenton]], eventually safely reaching [[Friedport]]. Here he met [[Bande Aparte]] and [[Gator Grippli]] with whom he formed the [[The Landcrab Plot]].
 
 Ashur met his end to an agent of the [[Ocean King]] in the city, but was eventually [[Reincarnation|reincarnated]] with the help of his companions, as well as a returned Amelie Kenton, the Mage Hero [[Zcaldon]] and the mysterious local primal entity the [[Reedmother]]. As a result of this he gained the body of an [[Iruxi]], but eventually restored his rabbitfolk body with the help of both his inventiveness and his companions' talent for magic.
 

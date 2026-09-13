@@ -12,4 +12,4 @@ The paradox area is a mysteriously inhospitable area that may not too far away f
 
 ![[Paradox_Area1.png]]
 
-The [[Newcomers of Friedport]] know this area to contain the lost [[Crusader Sects|cult]] village of [[Veridica]].
+The [[The Landcrab Plot]] know this area to contain the lost [[Crusader Sects|cult]] village of [[Veridica]].

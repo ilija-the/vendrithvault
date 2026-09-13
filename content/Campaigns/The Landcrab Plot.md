@@ -1,9 +1,29 @@
+---
+tags:
+  - parties
+  - campaigns/landcrab-plot
+aliases:
+  - Newcomers
+  - The Newcomers
+  - Newcomers of Friedport
+  - Landcrab Plot Campaign
+---
+# Overview
 **Setting** Friedport and Chocolate Isles of Horiza, 1274-1275 ADc. 
 **Players** Niko, Donna, Lucky, Aeon, Vauxs, and Beelze. 
 **Time** 4 sessions, spanning July 2023 to August 2025 (2 years).
 
-The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy arriving in the spring of 1274 ADc. It followed the [[Newcomers of Friedport]] as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
+The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy in 1274 ADc. It followed the [[Newcomers of Friedport]] as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
 
+# Party - The Newcomers
+A group of adventurers originally consisting of [[Ashur Holdok]], [[Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Landcrab Plot|Landcrab Plot]] and stop [[Operation Blackout]]. Sebastian Faust parted ways with the group as he left Friedport for Galae through the [[Haven|Haven]] portal. Louen died in the line of duty before the plot was fully unravelled in Mahambanville. Gator, Ashur, Roslyn, Magnus and Cardinal all participated in the [[Summer Games]], which earned them the titles (unofficially, in the case of Cardinal) of [[Herō of Friedport]]. 
+
+![[Newcomers_Final_Token_Temp2_ZOOMED.png]]
+> 🎵 [Theme of Newcomers](https://youtu.be/hZtgRcz_d2g)
+
+After these events Ashur pushed for government reform and settled down making a successful tinkershop in Friedport, whilst the rest would mostly go on their separate ways. Roslyn ended sailing with the [[Queen of Grog]], Magnus working for the [[Magus in the High Tower]], Bande Aparte returned (and likely retired) to his home region of Canath through the Haven portal, whilst Gator and Cardinal would go on to travel the world together.
+
+# Campaign summary
 The campaign has been divided into 5 act, based on the koshentenko method but with an exploratory step added at the beginning - so the 5 acts represent:
 - (1) Exploration - we try to find out what the party and Friedport are like, and what the campaign will be about. A party member dies, setting the stakes.
 - (2) Concept - a concept, a hook, appears. The party looks for a way to bring their party member back. A mysterious killer is introduced, as well as murder mystery and conspiracy themes and mechanics.
@@ -17,12 +37,11 @@ Session 1 — Quiet Beginnings
 Session 2 — Amberhole Turnabouts
 Session 3 — Road to Rags
 Session 4 — Forgotten Findings
-### Waterlogg Street
 Session 5 — Metal-Tipped Tiptoes
 Session 6 — Song and Dance
 Session 7 — Innocent Whistles
 Session 8 — Drinks all Around
-### Enter the Labyrinth
+### Enter the Labyrinths
 Session 9 — Leaves in the Wind
 Session 10 — Light against Darkness
 Session 11 — Fireflies' Lament
