@@ -79,20 +79,20 @@ Session 61 — Song of the Voiceless
 Session 62 — Friend in Need
 Session 63 — Treasure Hunt
 Session 64 — Caught in the Web
-Session 65 — Their Realm (Recording)
-Session 66 — The Devil you Know
-Session 67 — Escape from Bigthraun!
-Session 68 — Return to Friedport
-Session 69 — Pact to the Future
-Session 70 — Newcomers no More
-Session 71 — Last Summer
-Session 72 — Signs of Rain
+Session 65 — Their Realm ([Recording](https://youtu.be/NYvUHZy4Wsc))
+Session 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
+Session 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
+Session 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
+Session 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
+Session 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
+Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
+Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
 # Act 5
-Session 73 — Summer Games
-Session 74 — Son of the Hero
-Session 75 — Heroes of Friedport
-Session 76 — Under the Righteous Sun
-Session 77 — Truth at Last
-Session 78 — Great Revival
+Session 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
+Session 74 — Son of the Hero (Recording)
+Session 75 — Heroes of Friedport (Recording)
+Session 76 — Under the Righteous Sun (Recording)
+Session 77 — Truth at Last (Recording)
+Session 78 — Great Revival (Recording)
 FINALE — Farewell Friedport
 Post Campaign Oneshots
