@@ -101,7 +101,7 @@ Sessions:
 
 ## Act 3 - Advance
 ### Turnabout Crusaders
-
+A shocking letter informs the party Ashur's auntie Amelie has been kidnapped and can only be retrieved alive if they rush to the Philosophian Party Street riverside. Arriving here, Bande Aparte is accused of having stolen the great 
 
 Sessions:
 - 37 — Heelturn Turnabout
@@ -111,7 +111,7 @@ Sessions:
 - 41 — Countdown till Truth
 
 ### Philosophian Party
-
+In the aftermath of the trial, some Crusader agent and the Old Hag are likely to be found in the Philosophian Party Street. Exploring the place, the party finds not just this, but also the performance troupe of one Mistress Crimtone.
 
 Sessions:
 - 42 — The Party's Started
