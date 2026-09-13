@@ -119,7 +119,7 @@ Sessions:
 - 44 — Call of the Masters
 
 ### Truth in Mahambanville
-
+Bande Aparte has gone missing, and the signs point to an investigation of his into Mahambanville. Infiltrating the manor of the eclectic Mayor O' Captain, the party is locked into a trap of their quarry as the enormous basement-archive they find themselves in is sealed and yet slowly filling with ocean water. Pulling every clue they can together, the party unravels almost every thread of the various cases remaining, including solving that of Bande Aparte's untimely death, and the ultimate identity of the killer at large. 
 
 Sessions:
 - 45 — Bande Aparte
