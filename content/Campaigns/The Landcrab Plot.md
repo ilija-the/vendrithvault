@@ -12,18 +12,22 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
 ## Act 1 - Exploration
+### Newcomers in a New Land
 Session 1 — Quiet Beginnings
 Session 2 — Amberhole Turnabouts
 Session 3 — Road to Rags
 Session 4 — Forgotten Findings
+### Waterlogg Street
 Session 5 — Metal-Tipped Tiptoes
 Session 6 — Song and Dance
 Session 7 — Innocent Whistles
 Session 8 — Drinks all Around
+### Enter the Labyrinth
 Session 9 — Leaves in the Wind
 Session 10 — Light against Darkness
 Session 11 — Fireflies' Lament
 Session 12 — After the Firestorm
+### Blood and Comradery
 Session 13 — Diving Right In
 Session 14 — Night of the Idiots
 Session 15 — Threads Entwined
@@ -81,7 +85,7 @@ Session 55 — It Looms...
 Session 56 — Megagigantica
 
 ## Act 4 - Twist
-### Paradox
+### Paradoxus
 Session 57 — The Last Newcomers
 Session 58 — The Paradox Zone
 Session 59 — Condinuum Conundrum
@@ -94,6 +98,7 @@ Session 64 — Caught in the Web
 Session 65 — Their Realm ([Recording](https://youtu.be/NYvUHZy4Wsc))
 Session 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
 Session 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
+### Last Summer, First Rains
 Session 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
 Session 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
 Session 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
@@ -101,11 +106,15 @@ Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
 Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
 
 ## Act 5 - Resolution
+### Summer Games
 Session 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
 Session 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
 Session 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
 Session 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
+### The Scurvymaster
 Session 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
 Session 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
+### Epilogue
 FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
-Post Campaign Oneshots
+### Post-Campaign Oneshots
+?????
