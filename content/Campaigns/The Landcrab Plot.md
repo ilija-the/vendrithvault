@@ -165,7 +165,7 @@ Sessions:
 
 ## Act 5 - Resolution
 ### The Summer Games
-
+The long-awaited Landcrab games finally begin. The party is caught in the Scurvymaster's trap immediately, as he tries to kill them off in a pocket-dimension before they even arrive on the island, which momentarily leaves them stranded in a dark plane. The party gets out and faces the Prince, Su Na, and Yarvis and Avexe's theatrical attempt to prove themselves.
 
 Sessions:
 - 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
@@ -173,13 +173,13 @@ Sessions:
 - 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
 - 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
 ### The Scurvymaster
-
+The party finally catches up to the Scurvymaster near the end-portal of the games. They fight through his wicked golem creations named after his parents, and then stop the Minotaur once and for all.
 
 Sessions:
 - 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
 - 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
 ### Epilogue
-The Newcomers stand victorious on top of the Starfish and look upon the new dawn rising over the city.
+The Newcomers stand victorious on top of the Starfish and look upon the new dawn rising over the city. They reflect upon the journey that has been, and decide where they go next - ultimately seeing most everyone go their own ways.
 
 Sessions:
 - FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
