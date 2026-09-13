@@ -11,7 +11,7 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
-## Act 1
+## Act 1 - Exploration
 Session 1 — Quiet Beginnings
 Session 2 — Amberhole Turnabouts
 Session 3 — Road to Rags
@@ -30,7 +30,8 @@ Session 15 — Threads Entwined
 Session 16 — Beating Hearts
 Session 17 — Problem Evolution
 Session 18 — Natural order of Things
-## Act 2
+
+## Act 2 - Concept
 ### Trail of a killer
 Session 19 — Black Cat
 Session 20 — Ruins of the Ruin City
@@ -53,28 +54,33 @@ Session 34 — Rabbit's Paw pt.1
 Session 35 — Rabbit's Paw pt.2
 Session 36 — Winds of Change
 
-## Act 3
+## Act 3 - Advance
+### Turnabout Crusaders
 Session 37 — Heelturn Turnabout
 Session 38 — Turnabout Crusaders
 Session 39 — Riseagain Exhibition
 Session 40 — Shadows over Friedport
 Session 41 — Countdown till Truth
+### Philosophian Party
 Session 42 — The Party's Started
 Session 43 — Philosophian Problems
 Session 44 — Call of the Masters
+### Truth in Mahambanville
 Session 45 — Bande Aparte
 Session 46 — Too Close
 Session 47 — Depths of the Conspiracy
 Session 48 — Time for Truth
 Session 49 — The Master at Last
 Session 50 — Louen
+### Loose Threads
 Session 51 — In your Hearts
 Session 52 — Alliance
 Session 53 — Final Farewells
 Session 54 — Funeralpyre of Heroes
 Session 55 — It Looms...
 Session 56 — Megagigantica
-# Act 4
+
+## Act 4 - Twist
 Session 57 — The Last Newcomers
 Session 58 — The Paradox Zone
 Session 59 — Condinuum Conundrum
@@ -91,7 +97,8 @@ Session 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
 Session 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
 Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
 Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
-# Act 5
+
+## Act 5 - Resolution
 Session 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
 Session 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
 Session 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
