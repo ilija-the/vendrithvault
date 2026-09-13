@@ -31,7 +31,13 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
-The campaign took on a murder mystery and detective-work theme for a large part of it. In order to understand the tapestry of how everything connected, a number of related but distinct cases were given 
+The campaign took on a murder mystery and detective-work theme for a large part of it. In order to understand the tapestry of how everything connected, a number of related but distinct cases were given separately coloured threads to be represented with:
+- Bloody Thread - The family in the shadows, the three women bound by blood.
+- Blue Thread - Overgrown animals, the depths of the ocean and the Ocean King.
+- Green Thread - The warriors with hatred in their hearts, the Blackout Crusaders.
+- Golden Thread - Long disappeared relics of invaluable power, Vestitur Relics.
+- White Thread - A holy connection, Haven and Amelie's part.
+- Black Thread - The killer, the mastermind, the man behind it all.
 
 ## Act 1 - Exploration
 ### Newcomers in a New Land
