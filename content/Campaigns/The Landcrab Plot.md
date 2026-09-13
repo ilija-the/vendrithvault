@@ -31,9 +31,11 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
+The campaign took on a murder mystery and detective-work theme for a large part of it. In order to understand the tapestry of how everything connected, a number of related but distinct cases were given 
+
 ## Act 1 - Exploration
 ### Newcomers in a New Land
-
+A new party of adventurers form as they search for a place in this new home of theirs, taking on jobs to clear out an overgrown garden, 'cleaning up' a haunted manor for its valuables, and infiltrating the Landcrab-controlled Waterlogg street on the looks for a friend of the good Doctor Hallan.  
 
 Sessions:
 - 1 — Quiet Beginnings
@@ -46,7 +48,7 @@ Sessions:
 - 8 — Drinks all Around
 
 ### Enter the Labyrinths
-
+The party clears out a mushroom-controlled Minotaur in a labyrinth, and then fight for their lives as they purify a field infested with the root source of the fungi.
 
 Sessions:
 - 9 — Leaves in the Wind
@@ -55,7 +57,7 @@ Sessions:
 - 12 — After the Firestorm
 
 ### Blood and Comradery
-The party stops a blood cult and attempts to put an end to the tyranny of 
+The party stops a blood cult and attempts to put an end to the tyranny of the Prince and Su Na over Waterlogg street - but instead find Ashur's death in a subterranean pool full of primal monsters.
 
 Sessions:
 - 13 — Diving Right In
