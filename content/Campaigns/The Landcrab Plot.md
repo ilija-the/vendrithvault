@@ -89,10 +89,10 @@ Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
 Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
 # Act 5
 Session 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
-Session 74 — Son of the Hero (Recording)
-Session 75 — Heroes of Friedport (Recording)
-Session 76 — Under the Righteous Sun (Recording)
-Session 77 — Truth at Last (Recording)
-Session 78 — Great Revival (Recording)
-FINALE — Farewell Friedport
+Session 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
+Session 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
+Session 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
+Session 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
+Session 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
+FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
 Post Campaign Oneshots
