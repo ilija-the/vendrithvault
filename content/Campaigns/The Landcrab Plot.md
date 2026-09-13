@@ -140,5 +140,5 @@ FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
 Ideas:
 - Delving into the Starfish to defeat the twisted Doctor Hallan
 - Alternate finale, fighting to liberate the city under the grasp of a Scurvymaster who succeeded in activating the ley-lines
-- Friedport Time Travel:
-- InvestiGator Investigations: Bande Aparte and Gator Grippli take on one last case before they aprt 
+- Friedport Time Travel: Noncanon oneshot where Magnus and Ashur make a time machine and explore the early days of Friedport.
+- InvestiGator Investigations: Bande Aparte and Gator Grippli take on one last case in the city of Friedport before they part ways.
