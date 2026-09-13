@@ -33,94 +33,95 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 
 ## Act 1 - Exploration
 ### Newcomers in a New Land
-Session 1 — Quiet Beginnings
-Session 2 — Amberhole Turnabouts
-Session 3 — Road to Rags
-Session 4 — Forgotten Findings
-Session 5 — Metal-Tipped Tiptoes
-Session 6 — Song and Dance
-Session 7 — Innocent Whistles
-Session 8 — Drinks all Around
+Sessions:
+- 1 — Quiet Beginnings
+- 2 — Amberhole Turnabouts
+- 3 — Road to Rags
+- 4 — Forgotten Findings
+- 5 — Metal-Tipped Tiptoes
+- 6 — Song and Dance
+- 7 — Innocent Whistles
+- 8 — Drinks all Around
 ### Enter the Labyrinths
-Session 9 — Leaves in the Wind
-Session 10 — Light against Darkness
-Session 11 — Fireflies' Lament
-Session 12 — After the Firestorm
+- 9 — Leaves in the Wind
+- 10 — Light against Darkness
+- 11 — Fireflies' Lament
+- 12 — After the Firestorm
 ### Blood and Comradery
-Session 13 — Diving Right In
-Session 14 — Night of the Idiots
-Session 15 — Threads Entwined
-Session 16 — Beating Hearts
-Session 17 — Problem Evolution
-Session 18 — Natural order of Things
+- 13 — Diving Right In
+- 14 — Night of the Idiots
+- 15 — Threads Entwined
+- 16 — Beating Hearts
+- 17 — Problem Evolution
+- 18 — Natural order of Things
 
 ## Act 2 - Concept
 ### Trail of a killer
-Session 19 — Black Cat
-Session 20 — Ruins of the Ruin City
-Session 21 — Anyone, anywhere
-Session 22 — Hypokrite Connection
-Session 23 — Trail of Haven
-Session 24 — No Wrong Moves
-Session 25 — Arm's Length
-Session 26 — Lighthouse of Hope
+- 19 — Black Cat
+- 20 — Ruins of the Ruin City
+- 21 — Anyone, anywhere
+- 22 — Hypokrite Connection
+- 23 — Trail of Haven
+- 24 — No Wrong Moves
+- 25 — Arm's Length
+- 26 — Lighthouse of Hope
 ### Hilltop Journey
-Session 27 — Six Months Later
-Session 28 — Road of Desecration
-Session 29 — Desolate Hearts
-Session 30 — Truth Behind Tombs
-Session 31 — Triple Moon, Death Ray
-Session 32 — Fly Broken Wings
+- 27 — Six Months Later
+- 28 — Road of Desecration
+- 29 — Desolate Hearts
+- 30 — Truth Behind Tombs
+- 31 — Triple Moon, Death Ray
+- 32 — Fly Broken Wings
 ### Haven at Last
-Session 33 — Haven at Last ([Recording](https://youtu.be/HWx5sqh1YHI))
-Session 34 — Rabbit's Paw pt.1 
-Session 35 — Rabbit's Paw pt.2
-Session 36 — Winds of Change
+- 33 — Haven at Last ([Recording](https://youtu.be/HWx5sqh1YHI))
+- 34 — Rabbit's Paw pt.1 
+- 35 — Rabbit's Paw pt.2
+- 36 — Winds of Change
 
 ## Act 3 - Advance
 ### Turnabout Crusaders
-Session 37 — Heelturn Turnabout
-Session 38 — Turnabout Crusaders
-Session 39 — Riseagain Exhibition
-Session 40 — Shadows over Friedport
-Session 41 — Countdown till Truth
+- 37 — Heelturn Turnabout
+- 38 — Turnabout Crusaders
+- 39 — Riseagain Exhibition
+- 40 — Shadows over Friedport
+- 41 — Countdown till Truth
 ### Philosophian Party
-Session 42 — The Party's Started
-Session 43 — Philosophian Problems
-Session 44 — Call of the Masters
+- 42 — The Party's Started
+- 43 — Philosophian Problems
+- 44 — Call of the Masters
 ### Truth in Mahambanville
-Session 45 — Bande Aparte
-Session 46 — Too Close
-Session 47 — Depths of the Conspiracy
-Session 48 — Time for Truth
-Session 49 — The Master at Last
-Session 50 — Louen
+- 45 — Bande Aparte
+- 46 — Too Close
+- 47 — Depths of the Conspiracy
+- 48 — Time for Truth
+- 49 — The Master at Last
+- 50 — Louen
 ### Loose Threads
-Session 51 — In your Hearts
-Session 52 — Alliance
-Session 53 — Final Farewells
-Session 54 — Funeralpyre of Heroes
-Session 55 — It Looms...
-Session 56 — Megagigantica
+- 51 — In your Hearts
+- 52 — Alliance
+- 53 — Final Farewells
+- 54 — Funeralpyre of Heroes
+- 55 — It Looms...
+- 56 — Megagigantica
 
 ## Act 4 - Twist
 ### Paradoxus
-Session 57 — The Last Newcomers
-Session 58 — The Paradox Zone
-Session 59 — Condinuum Conundrum
-Session 60 — Castaways
-Session 61 — Song of the Voiceless
+- 57 — The Last Newcomers
+- 58 — The Paradox Zone
+- 59 — Condinuum Conundrum
+- 60 — Castaways
+- 61 — Song of the Voiceless
 ### Treasure of Bigthraun Island
-Session 62 — Friend in Need
-Session 63 — Treasure Hunt
-Session 64 — Caught in the Web
-Session 65 — Their Realm ([Recording](https://youtu.be/NYvUHZy4Wsc))
-Session 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
-Session 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
+- 62 — Friend in Need
+- 63 — Treasure Hunt
+- 64 — Caught in the Web
+- 65 — Their Realm ([Recording](https://youtu.be/NYvUHZy4Wsc))
+- 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
+- 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
 ### Last Summer, First Rains
-Session 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
-Session 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
-Session 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
+- 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
+- 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
+- 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
 Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
 Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
 
