@@ -130,19 +130,23 @@ Sessions:
 - 50 — Louen
 
 ### Loose Threads
-
+Discovering the truth in Mahambanville came at great costs, and the party prepare for what's next. As the bodies of Bande Aparte and Louen are stolen by Crusaders, a furious party finally tracks down and raids their base. Here they find the Old Hag and the ghost of Auldwell Farewel organising things, whom they put a final end to as the entire base is burnt to the ground and the remaining Crusaders scatter and desert.
 
 Sessions:
 - 51 — In your Hearts
 - 52 — Alliance
 - 53 — Final Farewells
 - 54 — Funeralpyre of Heroes
+
+### Underwater Temple
+The long-mysterious problem of animals growing larger has at last been solved, and its source as a special salt rising from the depths of the ocean tracked down. The party makes a dive down to see what they find, which includes a temple base where 
+
 - 55 — It Looms...
 - 56 — Megagigantica
 
 ## Act 4 - Twist
 ### Paradoxus
-Magnus and Roslyn join the newcomers as the former researches strange occurrences relating to Ley-Lines in these lands. This takes them to a strange area not far from Friedport, dubbed the Paradox Zone, in which a spell-burning aura makes the land dangerous to traverse, and the alien 
+Magnus and Roslyn join the newcomers as the former researches strange occurrences relating to Ley-Lines in these lands. This takes them to a strange area not far from Friedport, dubbed the Paradox Zone, in which a spell-burning aura makes the land dangerous to traverse, and the alien flora makes the place seem transposed from somewhere else entirely.
 
 Sessions:
 - 57 — The Last Newcomers
