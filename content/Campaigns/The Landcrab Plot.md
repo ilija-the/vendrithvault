@@ -33,6 +33,8 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 
 ## Act 1 - Exploration
 ### Newcomers in a New Land
+
+
 Sessions:
 - 1 — Quiet Beginnings
 - 2 — Amberhole Turnabouts
@@ -43,11 +45,17 @@ Sessions:
 - 7 — Innocent Whistles
 - 8 — Drinks all Around
 ### Enter the Labyrinths
+
+
+Sessions:
 - 9 — Leaves in the Wind
 - 10 — Light against Darkness
 - 11 — Fireflies' Lament
 - 12 — After the Firestorm
 ### Blood and Comradery
+
+
+Sessions:
 - 13 — Diving Right In
 - 14 — Night of the Idiots
 - 15 — Threads Entwined
@@ -57,6 +65,9 @@ Sessions:
 
 ## Act 2 - Concept
 ### Trail of a killer
+
+
+Sessions:
 - 19 — Black Cat
 - 20 — Ruins of the Ruin City
 - 21 — Anyone, anywhere
@@ -66,6 +77,9 @@ Sessions:
 - 25 — Arm's Length
 - 26 — Lighthouse of Hope
 ### Hilltop Journey
+
+
+Sessions:
 - 27 — Six Months Later
 - 28 — Road of Desecration
 - 29 — Desolate Hearts
@@ -73,6 +87,9 @@ Sessions:
 - 31 — Triple Moon, Death Ray
 - 32 — Fly Broken Wings
 ### Haven at Last
+
+
+Sessions:
 - 33 — Haven at Last ([Recording](https://youtu.be/HWx5sqh1YHI))
 - 34 — Rabbit's Paw pt.1 
 - 35 — Rabbit's Paw pt.2
@@ -80,16 +97,25 @@ Sessions:
 
 ## Act 3 - Advance
 ### Turnabout Crusaders
+
+
+Sessions:
 - 37 — Heelturn Turnabout
 - 38 — Turnabout Crusaders
 - 39 — Riseagain Exhibition
 - 40 — Shadows over Friedport
 - 41 — Countdown till Truth
 ### Philosophian Party
+
+
+Sessions:
 - 42 — The Party's Started
 - 43 — Philosophian Problems
 - 44 — Call of the Masters
 ### Truth in Mahambanville
+
+
+Sessions:
 - 45 — Bande Aparte
 - 46 — Too Close
 - 47 — Depths of the Conspiracy
@@ -97,6 +123,9 @@ Sessions:
 - 49 — The Master at Last
 - 50 — Louen
 ### Loose Threads
+
+
+Sessions:
 - 51 — In your Hearts
 - 52 — Alliance
 - 53 — Final Farewells
@@ -106,12 +135,18 @@ Sessions:
 
 ## Act 4 - Twist
 ### Paradoxus
+
+
+Sessions:
 - 57 — The Last Newcomers
 - 58 — The Paradox Zone
 - 59 — Condinuum Conundrum
 - 60 — Castaways
 - 61 — Song of the Voiceless
 ### Treasure of Bigthraun Island
+
+
+Sessions:
 - 62 — Friend in Need
 - 63 — Treasure Hunt
 - 64 — Caught in the Web
@@ -119,23 +154,35 @@ Sessions:
 - 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
 - 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
 ### Last Summer, First Rains
+
+
+Sessions:
 - 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
 - 69 — Pact to the Future ([Recording](https://youtu.be/0mCJc9PJ6fQ))
 - 70 — Newcomers no More ([Recording](https://youtu.be/sDnMFKBKn2Y))
-Session 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
-Session 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
+- 71 — Last Summer ([Recording](https://youtu.be/gD4sxrht--E))
+- 72 — Signs of Rain ([Recording](https://youtu.be/8Uy8uSflXKI))
 
 ## Act 5 - Resolution
-### Summer Games
-Session 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
-Session 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
-Session 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
-Session 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
+### The Summer Games
+
+
+Sessions:
+- 73 — Summer Games ([Recording](https://youtu.be/j5cOpiN11MY))
+- 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
+- 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
+- 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
 ### The Scurvymaster
-Session 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
-Session 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
+
+
+Sessions:
+- 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
+- 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
 ### Epilogue
-FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
+The Newcomers stand victorious on top of the Starfish and look upon the new dawn rising over the city.
+
+Sessions:
+- FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
 
 ## Post-Campaign Oneshots
 Ideas:
