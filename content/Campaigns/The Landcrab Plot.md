@@ -44,6 +44,7 @@ Sessions:
 - 6 — Song and Dance
 - 7 — Innocent Whistles
 - 8 — Drinks all Around
+
 ### Enter the Labyrinths
 
 
@@ -52,6 +53,7 @@ Sessions:
 - 10 — Light against Darkness
 - 11 — Fireflies' Lament
 - 12 — After the Firestorm
+
 ### Blood and Comradery
 
 
@@ -76,6 +78,7 @@ Sessions:
 - 24 — No Wrong Moves
 - 25 — Arm's Length
 - 26 — Lighthouse of Hope
+
 ### Hilltop Journey
 
 
@@ -86,6 +89,7 @@ Sessions:
 - 30 — Truth Behind Tombs
 - 31 — Triple Moon, Death Ray
 - 32 — Fly Broken Wings
+
 ### Haven at Last
 
 
@@ -105,6 +109,7 @@ Sessions:
 - 39 — Riseagain Exhibition
 - 40 — Shadows over Friedport
 - 41 — Countdown till Truth
+
 ### Philosophian Party
 
 
@@ -112,6 +117,7 @@ Sessions:
 - 42 — The Party's Started
 - 43 — Philosophian Problems
 - 44 — Call of the Masters
+
 ### Truth in Mahambanville
 
 
@@ -122,6 +128,7 @@ Sessions:
 - 48 — Time for Truth
 - 49 — The Master at Last
 - 50 — Louen
+
 ### Loose Threads
 
 
@@ -143,8 +150,9 @@ Sessions:
 - 59 — Condinuum Conundrum
 - 60 — Castaways
 - 61 — Song of the Voiceless
-### Treasure of Bigthraun Island
 
+### Treasure of Bigthraun Island
+Magnus receives a letter from his academic friend asking to help him off a predicament on Bigthraun Island. The party goes there and realises the Queen of Grog's pirates is on the hunt for a great treasure there, and is putting a dungeon under siege there, presumably with Magnus' penmate inside. 
 
 Sessions:
 - 62 — Friend in Need
@@ -153,8 +161,9 @@ Sessions:
 - 65 — Their Realm ([Recording](https://youtu.be/NYvUHZy4Wsc))
 - 66 — The Devil you Know ([Recording](https://youtu.be/rkLD32G2EVk))
 - 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
+
 ### Last Summer, First Rains
-The party returns to Friedport, prepares for the climax coming at the Summer Games. Almost robbed off a Vestitur Relic by the thieves Vendy and Gozi, the party strikes a deal to help them free themselves of the Fat Tiger's control. The party is also shocked to discover their old friend Doctor Hallan has under mysterious circumstances been found responsible for serial murd
+The party returns to Friedport, prepares for the climax coming at the Summer Games. Almost robbed off a Vestitur Relic by the thieves Vendy and Gozi, the party strikes a deal to help them free themselves of the Fat Tiger's control. The party is also shocked to discover their old friend Doctor Hallan has under mysterious circumstances been found responsible for serial murder, and is hanged before the party can intervene.
 
 Sessions:
 - 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
@@ -172,12 +181,14 @@ Sessions:
 - 74 — Son of the Hero ([Recording](https://youtu.be/ZGDwcVPLTWE))
 - 75 — Heroes of Friedport ([Recording](https://youtu.be/o4G9P-eaBqE))
 - 76 — Under the Righteous Sun ([Recording](https://youtu.be/bIEXIBxVzIQ))
+
 ### The Scurvymaster
 The party finally catches up to the Scurvymaster near the end-portal of the games. They fight through his wicked golem creations named after his parents, and then stop the Minotaur once and for all.
 
 Sessions:
 - 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
 - 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
+
 ### Epilogue
 The Newcomers stand victorious on top of the Starfish and look upon the new dawn rising over the city. They reflect upon the journey that has been, and decide where they go next - ultimately seeing most everyone go their own ways.
 
