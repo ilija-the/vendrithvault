@@ -11,7 +11,7 @@ aliases:
 # Overview
 **Setting** Friedport and Chocolate Isles of Horiza, 1274-1275 ADc. 
 **Players** Niko, Donna, Lucky, Aeon, Vauxs, and Beelze. 
-**Time** 4 sessions, spanning July 2023 to August 2025 (2 years).
+**Time** 79 sessions, spanning July 2023 to August 2025 (2 years).
 
 The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy in 1274 ADc. It followed the Newcomers of Friedport as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
 
@@ -31,13 +31,13 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
-The campaign took on a murder mystery and detective-work theme for a large part of it. In order to understand the tapestry of how everything connected, a number of related but distinct cases were given separately coloured threads to be represented with:
-- Bloody Thread - The family in the shadows, the three women bound by blood.
-- Blue Thread - Overgrown animals, the depths of the ocean and the Ocean King.
-- Green Thread - The warriors with hatred in their hearts, the Blackout Crusaders.
-- Golden Thread - Long disappeared relics of invaluable power, Vestitur Relics.
-- White Thread - A holy connection, Haven and Amelie's part.
-- Black Thread - The killer, the mastermind, the man behind it all.
+The campaign took on a murder mystery and detective-work theme for a large part of it. In order to understand the tapestry of how everything connected, a number of related but distinct cases were given separately coloured threads to be represented with. These were discovered by Bande Aparte and his "mind palace"-like moments interacting with the Daydreaming Truth:
+- Bloody Red Thread - The family in the shadows, the three women bound by blood.
+- Wet Blue Thread - Overgrown animals, the depths of the ocean and the Ocean King.
+- Sickly Green Thread - The warriors with hatred in their hearts, the Blackout Crusaders.
+- Shimmering Golden Thread - Long disappeared relics of invaluable power, Vestitur Relics.
+- Holy White Thread - A holy connection, Haven and Amelie's part.
+- Nondescript Black Thread - The killer, the mastermind, the man behind it all.
 
 ## Act 1 - Exploration
 ### Newcomers in a New Land
