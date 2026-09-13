@@ -55,7 +55,7 @@ Sessions:
 - 12 — After the Firestorm
 
 ### Blood and Comradery
-
+The party stops a blood cult and attempts to put an end to the tyranny of 
 
 Sessions:
 - 13 — Diving Right In
@@ -67,7 +67,7 @@ Sessions:
 
 ## Act 2 - Concept
 ### Trail of a killer
-
+The party catches whiff of a murderer at large.
 
 Sessions:
 - 19 — Black Cat
@@ -80,7 +80,7 @@ Sessions:
 - 26 — Lighthouse of Hope
 
 ### Hilltop Journey
-
+In order to recruit the help of Zcaldon the Mage Hero, the party travel to the hilltops overlooking Friedport to look for an old friend of his.
 
 Sessions:
 - 27 — Six Months Later
@@ -91,7 +91,7 @@ Sessions:
 - 32 — Fly Broken Wings
 
 ### Haven at Last
-
+As the days since Ashur Holdok was last alive drag on, the party finally find the last puzzle piece to bring him back and gain some answers and refuge - that of Haven.
 
 Sessions:
 - 33 — Haven at Last ([Recording](https://youtu.be/HWx5sqh1YHI))
@@ -101,7 +101,7 @@ Sessions:
 
 ## Act 3 - Advance
 ### Turnabout Crusaders
-A shocking letter informs the party Ashur's auntie Amelie has been kidnapped and can only be retrieved alive if they rush to the Philosophian Party Street riverside. Arriving here, Bande Aparte is accused of having stolen the great 
+A shocking letter informs the party Ashur's auntie Amelie has been kidnapped and can only be retrieved alive if they rush to the Philosophian Party Street riverside. Arriving here, Bande Aparte is accused of having stolen the great Vestitur Relics, smuggled them to Friedport, sold them off to a third party, and killed a witness to the event. The party defends him in court.
 
 Sessions:
 - 37 — Heelturn Turnabout
