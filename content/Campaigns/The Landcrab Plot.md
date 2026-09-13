@@ -5,11 +5,12 @@
 The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy arriving in the spring of 1274 ADc. It followed the [[Newcomers of Friedport]] as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
 
 The campaign has been divided into 5 act, based on the koshentenko method but with an exploratory step added at the beginning - so the 5 acts represent:
-- (1) Exploration - we try to find out what the party and Friedport are like, and what the campaign will be about.
-- (2) Concept - a concept, a hook, appears. The killer is introduced, murder mystery and conspiracy themes and mechanics are introduced.
-- (3) Advance - the concept is taken farther and intensified, the stakes rise, starting with the attempt by the leader of the Blackout Crusaders trying to put a party member behind bars at a trial, and ending with said member being 'killed' and the killer being revealed.
+- (1) Exploration - we try to find out what the party and Friedport are like, and what the campaign will be about. A party member dies, setting the stakes.
+- (2) Concept - a concept, a hook, appears. The party looks for a way to bring their party member back. A mysterious killer is introduced, as well as murder mystery and conspiracy themes and mechanics.
+- (3) Advance - the concept is taken farther and intensified, the stakes rise, starting with the attempt by the leader of the Blackout Crusaders trying to put a party member behind bars at a trial, the 'death' of a party member, and ending with the Crusaders being destroyed and the killer and ultimate mastermind being revealed being revealed.
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
+
 # Act 1
 Session 1 — Quiet Beginnings
 Session 2 — Amberhole Turnabouts
@@ -78,7 +79,7 @@ Session 61 — Song of the Voiceless
 Session 62 — Friend in Need
 Session 63 — Treasure Hunt
 Session 64 — Caught in the Web
-Session 65 — Their Realm
+Session 65 — Their Realm (Recording)
 Session 66 — The Devil you Know
 Session 67 — Escape from Bigthraun!
 Session 68 — Return to Friedport
