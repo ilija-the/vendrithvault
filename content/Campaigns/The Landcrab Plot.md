@@ -130,7 +130,7 @@ Sessions:
 - 50 — Louen
 
 ### Loose Threads
-Discovering the truth in Mahambanville came at great costs, and the party prepare for what's next. As the bodies of Bande Aparte and Louen are stolen by Crusaders, a furious party finally tracks down and raids their base. Here they find the Old Hag and the ghost of Auldwell Farewel organising things, whom they put a final end to as the entire base is burnt to the ground and the remaining Crusaders scatter and desert.
+Discovering the truth in Mahambanville came at great costs, and the party prepare for what's next. Cardinal Rackawn, a former acquaintance of Louen, finds the party just too late to reunite with his 'old friend.' As the bodies of Bande Aparte and Louen are stolen by Crusaders, a furious party finally tracks down and raids their base. Here they find the Old Hag and the ghost of Auldwell Farewel organising things, whom they put a final end to as the entire base is burnt to the ground and the remaining Crusaders scatter and desert.
 
 Sessions:
 - 51 — In your Hearts
@@ -139,7 +139,7 @@ Sessions:
 - 54 — Funeralpyre of Heroes
 
 ### Underwater Temple
-The long-mysterious problem of animals growing larger has at last been solved, and its source as a special salt rising from the depths of the ocean tracked down. The party makes a dive down to see what they find, which includes a temple base where 
+The long-mysterious problem of animals growing larger has at last been solved, and its source as a special salt rising from the depths of the ocean tracked down. The party makes a dive down to see what they find, which includes a temple base where the salts were gathered, and an enormous sentient fish-monster the party slays in self-defence - which turns out to have been the long lost fourth theatre friend, Etcetera.
 
 - 55 — It Looms...
 - 56 — Megagigantica
@@ -205,3 +205,4 @@ Ideas:
 - Alternate finale, fighting to liberate the city under the grasp of a Scurvymaster who succeeded in activating the ley-lines
 - Friedport Time Travel: Noncanon oneshot where Magnus and Ashur make a time machine and explore the early days of Friedport.
 - InvestiGator Investigations: Bande Aparte and Gator Grippli take on one last case in the city of Friedport before they part ways.
+- Roslyn and crew pirate adventures
