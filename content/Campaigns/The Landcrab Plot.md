@@ -142,7 +142,7 @@ Sessions:
 
 ## Act 4 - Twist
 ### Paradoxus
-
+Magnus and Roslyn join the newcomers as the former researches strange occurrences relating to Ley-Lines in these lands. This takes them to a strange area not far from Friedport, dubbed the Paradox Zone, in which a spell-burning aura makes the land dangerous to traverse, and the alien 
 
 Sessions:
 - 57 — The Last Newcomers
@@ -152,7 +152,7 @@ Sessions:
 - 61 — Song of the Voiceless
 
 ### Treasure of Bigthraun Island
-Magnus receives a letter from his academic friend asking to help him off a predicament on Bigthraun Island. The party goes there and realises the Queen of Grog's pirates is on the hunt for a great treasure there, and is putting a dungeon under siege there, presumably with Magnus' penmate inside. 
+Magnus receives a letter from his academic friend asking to help him off a predicament on Bigthraun Island. The party goes there and realises the Queen of Grog's pirates is on the hunt for a great treasure there, and is putting a dungeon under siege there, presumably with Magnus' penmate inside. Two nymphs on the island prove helpful, at least initially.
 
 Sessions:
 - 62 — Friend in Need
@@ -163,7 +163,7 @@ Sessions:
 - 67 — Escape from Bigthraun! ([Recording](https://youtu.be/PI4lQxqjTp0))
 
 ### Last Summer, First Rains
-The party returns to Friedport, prepares for the climax coming at the Summer Games. Almost robbed off a Vestitur Relic by the thieves Vendy and Gozi, the party strikes a deal to help them free themselves of the Fat Tiger's control. The party is also shocked to discover their old friend Doctor Hallan has under mysterious circumstances been found responsible for serial murder, and is hanged before the party can intervene.
+The party returns to Friedport, prepares for the climax coming at the Summer Games. Almost robbed off a Vestitur Relic by the thieves Vendy and Gozi, the party strikes a deal to help them free themselves of the Fat Tiger's control. The party is also shocked to discover their old friend Doctor Hallan has under mysterious circumstances been found responsible for serial murder, and is hanged before the party can intervene. The party learns of his involvement in stealing Davelyn Barbie's arm with the Scurvymaster, and Hallan's identity as the half-brother of General Architrave.
 
 Sessions:
 - 68 — Return to Friedport ([Recording](https://youtu.be/SxyCDHID2GE))
