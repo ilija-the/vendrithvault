@@ -11,7 +11,7 @@ The campaign has been divided into 5 act, based on the koshentenko method but wi
 - (4) Twist - new party members are introduced, and a magical side of things is added to the conspiracy the party has been uncovering with the Vestitur Relics and leylines. 
 - (5) Resolution - everything built up before comes to the front, and to a close.
 
-# Act 1
+## Act 1
 Session 1 — Quiet Beginnings
 Session 2 — Amberhole Turnabouts
 Session 3 — Road to Rags
@@ -30,7 +30,8 @@ Session 15 — Threads Entwined
 Session 16 — Beating Hearts
 Session 17 — Problem Evolution
 Session 18 — Natural order of Things
-# Act 2
+## Act 2
+### Trail of a killer
 Session 19 — Black Cat
 Session 20 — Ruins of the Ruin City
 Session 21 — Anyone, anywhere
@@ -39,17 +40,20 @@ Session 23 — Trail of Haven
 Session 24 — No Wrong Moves
 Session 25 — Arm's Length
 Session 26 — Lighthouse of Hope
+### Hilltop Journey
 Session 27 — Six Months Later
 Session 28 — Road of Desecration
 Session 29 — Desolate Hearts
 Session 30 — Truth Behind Tombs
 Session 31 — Triple Moon, Death Ray
 Session 32 — Fly Broken Wings
+### Haven at Last
 Session 33 — Haven at Last ([Recording](https://youtu.be/HWx5sqh1YHI))
 Session 34 — Rabbit's Paw pt.1 
 Session 35 — Rabbit's Paw pt.2
 Session 36 — Winds of Change
-# Act 3
+
+## Act 3
 Session 37 — Heelturn Turnabout
 Session 38 — Turnabout Crusaders
 Session 39 — Riseagain Exhibition
