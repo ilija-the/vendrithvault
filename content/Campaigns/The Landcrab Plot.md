@@ -13,7 +13,7 @@ aliases:
 **Players** Niko, Donna, Lucky, Aeon, Vauxs, and Beelze. 
 **Time** 4 sessions, spanning July 2023 to August 2025 (2 years).
 
-The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy in 1274 ADc. It followed the [[Newcomers of Friedport]] as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
+The Landcrab Plot was a [[Campaigns|campaign]] that ran from July of 2023 to August of 2025. It started with the players of Niko and Donna, long-time players in Ilija's games, and the new addition of Lucky. Over time the campaign also included Aeon, Vauxs and Beelze. The campaign was set in [[Friedport]], starting as the party arrived there in [[Horiza]] for the first time on an [[Horizan Guild Association|HGA]] convoy in 1274 ADc. It followed the Newcomers of Friedport as they got engrained with and familiar with the city, and how they eventually needed to uncover a secret murderer and leader of a planned rebellion, with crusader backing and a plan to mind-control the populace. 
 
 # Party - The Newcomers
 A group of adventurers originally consisting of [[Ashur Holdok]], [[Bande Aparte]] and [[Gator Grippli]]. Over time they would also be joined by [[Louen Leonceur]], [[Sebastian Faust]], [[Cardinal Rackawn]], [[Magnus Strike]] and [[Suite Feul]]. They are known for having worked to uncover the [[Landcrab Plot|Landcrab Plot]] and stop [[Operation Blackout]]. Sebastian Faust parted ways with the group as he left Friedport for Galae through the [[Haven|Haven]] portal. Louen died in the line of duty before the plot was fully unravelled in Mahambanville. Gator, Ashur, Roslyn, Magnus and Cardinal all participated in the [[Summer Games]], which earned them the titles (unofficially, in the case of Cardinal) of [[Herō of Friedport]]. 
@@ -135,5 +135,10 @@ Session 77 — Truth at Last ([Recording](https://youtu.be/xjxsB-Mj034))
 Session 78 — Great Revival ([Recording](https://youtu.be/T-Jei149wic))
 ### Epilogue
 FINALE — Farewell Friedport ([Recording](https://youtu.be/xV4EHc5vFmE))
-### Post-Campaign Oneshots
-?????
+
+## Post-Campaign Oneshots
+Ideas:
+- Delving into the Starfish to defeat the twisted Doctor Hallan
+- Alternate finale, fighting to liberate the city under the grasp of a Scurvymaster who succeeded in activating the ley-lines
+- Friedport Time Travel:
+- InvestiGator Investigations: Bande Aparte and Gator Grippli take on one last case before they aprt 
