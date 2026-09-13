@@ -81,11 +81,13 @@ Session 55 — It Looms...
 Session 56 — Megagigantica
 
 ## Act 4 - Twist
+### Paradox
 Session 57 — The Last Newcomers
 Session 58 — The Paradox Zone
 Session 59 — Condinuum Conundrum
 Session 60 — Castaways
 Session 61 — Song of the Voiceless
+### Treasure of Bigthraun Island
 Session 62 — Friend in Need
 Session 63 — Treasure Hunt
 Session 64 — Caught in the Web
