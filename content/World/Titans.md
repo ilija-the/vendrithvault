@@ -13,3 +13,12 @@ It is said all titans were exiled from [[Materia]] with the destruction of the [
 [[Reverence]]
 
 "Timeless Titan" is a term used for the oldest of Titans that have still not undergone Reverence but still carry much weight in modern religion. 
+
+The Titanic Pantheon consists/consisted of:
+- [[Astral Guide]]
+- [[Awaited Architect]]
+- [[Bombastic Peace]]
+- [[Devil Queen of Crimson|Oathbound Firestorm]]
+- [[Golden Heart]]
+- [[Grand Scheme]]
+- 
