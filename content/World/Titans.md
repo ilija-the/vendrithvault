@@ -32,4 +32,6 @@ The Titanic Pantheon consists/consisted of:
 - [[Promised Revealer]]
 - [[Relentless Pen]]
 - [[Resting Crown]]
-- [[]
+- [[Triumphant Successor]]
+- [[Twotailed Drake]]
+- [[Wheel of Death]]
