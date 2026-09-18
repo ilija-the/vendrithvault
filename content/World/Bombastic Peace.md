@@ -10,6 +10,7 @@ aliases:
 The Bombastic Peace is a [[Titans|Titan]].
 
 ### Detailed Description
+**Category** Titans of Canath.
 **Summary** Volcanoes destroy, yet also lay fertile ash. Cannons destroy, yet also deters attackers in the first place. 
 **Base of Worship** Many near volcanoes, in city states, or in order regions (especially walled ones) see the Bombastic Peace as their protector.
 **Appearance, Items and Powers.** Sometimes described as having the head of an anteater.
