@@ -22,6 +22,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 	Talismans no longer have a Skill Proficiency prerequisite - if you see one with it, you can ignore it.
 - **Crafting Clarifications**. We use the remastered (but not complex) [crafting](https://2e.aonprd.com/Actions.aspx?ID=2385) rules, where setup is 2 days normally but 1 day with a formula. Elements of [downtime crafting events](https://2e.aonprd.com/Rules.aspx?ID=1920) and [critical crafting](https://2e.aonprd.com/Rules.aspx?ID=1921) may make appearances if the GM desires. In addition, there's a new feat called [[Houserules & Homebrew#New Skill, Ancestry and other Class Feats|Rushed Setup]] that replaces [Quick Setup](https://2e.aonprd.com/Feats.aspx?ID=4085). Rushed Setup opens the avenue for crafted items receiving [Item Quirks](https://2e.aonprd.com/Rules.aspx?ID=1083) (GM may use their own table or decide on a quirk).
 - **Plentiful Deities.** Vendrith deities have cleric spells for every rank 1-9th, instead of only three spells.
+- **Weapons Drawn?** More of a clarification on assumptions than a houserule. We do not assume you start with your weapons drawn in every encounter. Your character can be expected to wield their weapon ahead of time when in a dangerous environment or situation, but not just about whenever. If you are caught by surprise or in a place where wielding a weapon isn't  
 
 ## Possible Houserules
 - **Feats+ Basic Pack.** Avoided in campaigns with completely new players, but commonly used otherwise. Can also be added later on. Adds a slight bit more options for character building without going all the way of Free Archetype. Gain a bonus Level 1 Class Feat and General Feat, as well as a Level 2 Class Feat when you reach it!
@@ -33,6 +34,7 @@ These are Houserules that are active in multiple, if not all, campaigns.
 - **Stronger Incapacitation.** The Incapacitation trait only makes creatures above the required threshold immune to critically failing, only upping that result to a failure instead.
 - **[[Essence Casting|Essence Magic]]**.
 - **Stamina**.
+- **Quick Draw, Not Quick Release.** When using Quick Draw, you can also put a weapon away as part of the interact action to draw a new weapon. Active in the Vilhun campaign. 
 - **Hero Point uses**. The few uses of hero points may be modified in a campaign, or added to. In the Landcrab Plot, the uses were:
 	1 Hero Point can be spent to Re-Roll a check. This can result in a worse outcome.
 	2 Hero Points can be spent while dying to either stabilize or regain 1 HP.
