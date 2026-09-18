@@ -28,6 +28,8 @@ Crossing a Titan may have dire consequences, even though they have been exiled a
 
 
 # Icon of the Guide of the Lost
+The form of the Astral Guide that helps seaman and wayfarers.
+
 ### Commandments
 - **Areas of Concern** 
 - **Edicts** 
@@ -48,4 +50,4 @@ Crossing a Titan may have dire consequences, even though they have been exiled a
 # Icon of the Destiny in the Stars
 
 
-# Icon of the Midnight Embrace
+# Icon of the Calm Embrace of Midnight
