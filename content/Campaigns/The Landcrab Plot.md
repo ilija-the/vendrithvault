@@ -37,7 +37,8 @@ The campaign took on a murder mystery and detective-work theme for a large part 
 - Sickly Green Thread - The warriors with hatred in their hearts, the Blackout Crusaders.
 - Shimmering Golden Thread - Long disappeared relics of invaluable power, Vestitur Relics.
 - Holy White Thread - A holy connection, Haven and Amelie's part.
-- Nondescript Black Thread - The killer, the mastermind, the man behind it all.
+- Patched-up Gray Thread - The Stitcher, the golems.
+- Nondescript Black Thread - The Master, the killer, the man behind it all.
 
 ## Act 1 - Exploration
 ### Newcomers in a New Land
