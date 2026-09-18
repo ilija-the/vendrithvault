@@ -6,14 +6,18 @@ aliases:
   - The Guide
 ---
 # Overview
-The Astral Guide is a [[Titans|Titan]] 
+The Astral Guide is a [[Titans|Titan]].
 
 
 ### Detailed Description
 - **Summary** The Astral Guide serves as a guiding light to those whom are lost.
 - **Base of Worship** He finds much of his support amongst sailors and explorers, but also sometimes fortune tellers, or people of power seeking guidance on how to lead. Anyone may turn to the Guide when lost.
-- **Appearance, Items and Powers.** He's been described as having the head of a bird and a cloak. When inverted, the cloak turns starry and allows him to become hidden. The Astral Guide is thought to traverse the planes above easier than anyone. Some have identified [[Cloudrealm]] as his most liked and suited domain. He is known to enjoy the clarity and calm of the night.
+- **Appearances Items and Powers.** He's been described as having the head of a bird and a cloak. When inverted, the cloak turns starry and allows him to become hidden. The Astral Guide is thought to traverse the planes above easier than anyone. Some have identified [[Cloudrealm]] as his most liked and suited domain. He is known to enjoy the clarity and calm of the night.
 - **Relations, History and Forms.** The Astral Guide once served in the Trinity of Paths and Destinies with the [[Relentless Pen]] and the [[Resting Crown]]. While he views the Crown as too directionless, he sees the Pen as too rigid because the Pen believes everyone's paths are set.
+
+### Boons and Curses
+Crossing a Titan may have dire consequences, even though they have been exiled and 'blinded' to this world - similarly though, serving their teachings may bless your soul. 
+
 
 # Icon of the Guide of the Lost
 ### Commandments
