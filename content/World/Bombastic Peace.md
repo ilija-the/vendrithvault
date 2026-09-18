@@ -38,17 +38,8 @@ Crossing a Titan may have dire consequences, even though they have been exiled a
 **Attribute** Constitution
 **Font** [Healing](https://2e.aonprd.com/Spells.aspx?ID=1554).
 **Sanctify** Can Holy
-**Weapons** [Hand Cannon](https://2e.aonprd.com/Weapons.aspx?ID=523)
-**Spells**
-(1) [Flourishing Flora](https://2e.aonprd.com/Spells.aspx?ID=1401)
-**(2)** [Ash Cloud](https://2e.aonprd.com/Spells.aspx?ID=865)
-(3) [Fireworks Blast](https://2e.aonprd.com/Spells.aspx?ID=1284)
-(4) [Mountain Resilience](https://2e.aonprd.com/Spells.aspx?ID=1610)
-**(5)** [Wall of Stone](https://2e.aonprd.com/Spells.aspx?ID=1751)
-(6) [Elemental Confluence](https://2e.aonprd.com/Spells.aspx?ID=903)
-**(7)** [Volcanic Eruption](https://2e.aonprd.com/Spells.aspx?ID=1746)
-(8) [Earthquake](https://2e.aonprd.com/Spells.aspx?ID=1507)
-(9) [Resplendent Mansion](https://2e.aonprd.com/Spells.aspx?ID=2018)
+**Weapons** [Hand Cannon](https://2e.aonprd.com/Weapons.aspx?ID=523) 
+**Spells** (1) [Flourishing Flora](https://2e.aonprd.com/Spells.aspx?ID=1401) - (2) [Ash Cloud](https://2e.aonprd.com/Spells.aspx?ID=865) - (3) [Fireworks Blast](https://2e.aonprd.com/Spells.aspx?ID=1284) - (4) [Mountain Resilience](https://2e.aonprd.com/Spells.aspx?ID=1610) - (5) [Wall of Stone](https://2e.aonprd.com/Spells.aspx?ID=1751) - (6) [Elemental Confluence](https://2e.aonprd.com/Spells.aspx?ID=903) - (7) [Volcanic Eruption](https://2e.aonprd.com/Spells.aspx?ID=1746) - (8) [Earthquake](https://2e.aonprd.com/Spells.aspx?ID=1507) - (9) [Resplendent Mansion](https://2e.aonprd.com/Spells.aspx?ID=2018)
 
 # Icon of the City States
 
