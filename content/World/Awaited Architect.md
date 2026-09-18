@@ -6,10 +6,10 @@ tags:
 aliases:
   - The Architect
 ---
-# Story
+# Overview
 
 
-# Description
+### Detailed Description
 **Summary** Arbiter and creator of time, or another form time takes on, magic. Has yet to exist, yet is watching all. Said to have inherited the analytical side of the [[Creator Monkey|Creator Monkey's]] personality.
 **Base of Worship** Elves, librarians and high mages.
 **Appearance, Items and Powers.** Depicted with a unique staff containing both an hourglass and an endless scroll.
