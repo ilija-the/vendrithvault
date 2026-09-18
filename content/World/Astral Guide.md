@@ -14,17 +14,17 @@ The Astral Guide is a [[Titans|Titan]].
 - **Base of Worship** He finds much of his support amongst sailors and explorers, but also sometimes fortune tellers, or people of power seeking guidance on how to lead. Anyone may turn to the Guide when lost.
 - **Appearances Items and Powers.** He's been described as having the head of a bird and a cloak. When inverted, the cloak turns starry and allows him to become hidden. The Astral Guide is thought to traverse the planes above easier than anyone. Some have identified [[Cloudrealm]] as his most liked and suited domain. He is known to enjoy the clarity and calm of the night.
 - **Relations, History and Forms.** The Astral Guide once served in the Trinity of Paths and Destinies with the [[Relentless Pen]] and the [[Resting Crown]]. While he views the Crown as too directionless, he sees the Pen as too rigid because the Pen believes everyone's paths are set.
+- **New Creed** 
 
 ### Intercessions
 Crossing a Titan may have dire consequences, even though they have been exiled and 'blinded' to this world - similarly though, serving their teachings may bless your soul. The Astral Guide is known to have blessed and cursed people with:
 
-- Boon 3 -
-- Boon 2 -
-- Boon 1 -
+- Boon 3 - 
+- Boon 2 - 
+- Boon 1 - 
 - Curse 1 - You get lost easier.
-- Curse 2
+- Curse 2 - 
 - Curse 3 - A freak weather phenomenon affects your next travel - leading you astray, diverting you off course completely and likely destroys any vehicle you're on or scatters any group with which you travel. If you survive, you may end up impossibly far away from where you started.
-
 
 
 # Icon of the Guide of the Lost
@@ -32,7 +32,6 @@ Crossing a Titan may have dire consequences, even though they have been exiled a
 - **Areas of Concern** 
 - **Edicts** 
 - **Anathema** 
-- **New Creed** 
 
 ### Devotee Benefits
 - **Domains** [Travel](https://2e.aonprd.com/Domains.aspx?ID=93), [Luck](https://2e.aonprd.com/Domains.aspx?ID=81), [Moon](https://2e.aonprd.com/Domains.aspx?ID=84), [Cold](https://2e.aonprd.com/Domains.aspx?ID=103.)
