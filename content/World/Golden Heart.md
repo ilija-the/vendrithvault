@@ -41,4 +41,6 @@ aliases:
 (8) [Boil Blood](https://2e.aonprd.com/Spells.aspx?ID=874)
 (9) [Upheaval](https://2e.aonprd.com/Spells.aspx?ID=660)
 
-# Icon of the Heart of Gold
+# Icon of the Gold-Hearted Maiden
+
+# Icon of the Kingdom of Gold

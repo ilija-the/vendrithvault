@@ -5,10 +5,10 @@ tags:
 aliases:
   - The Scheme
 ---
-# Story
+# Overview
 
 
-# Description
+### Detailed Description
 **Summary** The Grand Scheme is the brother of strategy, sibling of the [[Triumphant Successor]]. A well stocked-supply of weapons, morale, logistics, all means to victory.
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,8 +18,10 @@ aliases:
 **Edicts** Let your enemy tire themselves out, plan two steps ahead
 **Anathema** Show your hand too early, run out of supplies
 
----
-# Mechanical Details
+### Intercessions
+
+
+# Icon of the Commander of Heaven
 **Domains** [Healing](https://2e.aonprd.com/Domains.aspx?ID=78), [Metal](https://2e.aonprd.com/Domains.aspx?ID=112), [Secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71).
 **Alternate** [Fate](https://2e.aonprd.com/Domains.aspx?ID=75), [Swarm](https://2e.aonprd.com/Domains.aspx?ID=120).
 **Skill** Medicine.
