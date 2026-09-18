@@ -25,7 +25,7 @@ tags:
 
 
 
-# Mechanical Details
+# Icon of the Firestorm
 **Domains** [Duty](https://2e.aonprd.com/Domains.aspx?ID=108), [Zeal](https://2e.aonprd.com/Domains.aspx?ID=100), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76), [Dust](https://2e.aonprd.com/Domains.aspx?ID=107).
 **Alternate** [Naga](https://2e.aonprd.com/Domains.aspx?ID=113), [Destruction](https://2e.aonprd.com/Domains.aspx?ID=71), Judgement (Clerics+).
 **Skill** Diplomacy.
@@ -43,3 +43,5 @@ tags:
 (7) [Control Sand](https://2e.aonprd.com/Spells.aspx?ID=652)
 (8) [Burning Blossoms](https://2e.aonprd.com/Spells.aspx?ID=878)
 (9) [Linnorm Sting](https://2e.aonprd.com/Spells.aspx?ID=828)
+
+# Icon of the Fallen Angel
