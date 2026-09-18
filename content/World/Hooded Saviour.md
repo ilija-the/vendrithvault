@@ -20,7 +20,7 @@ aliases:
 
 ### Intercessions
 
-# Icon of the So
+# Icon of the Sorrowful Betrayer
 **Domains** [Trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Introspection](https://2e.aonprd.com/Domains.aspx?ID=110), [Darkness]([Introspection](https://2e.aonprd.com/Domains.aspx?ID=110))
 **Alternate** [Death](https://2e.aonprd.com/Domains.aspx?ID=70), [Sorrow](https://2e.aonprd.com/Domains.aspx?ID=117).
 **Skill** Thievery.
