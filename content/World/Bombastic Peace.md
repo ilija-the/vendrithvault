@@ -49,3 +49,9 @@ Crossing a Titan may have dire consequences, even though they have been exiled a
 **(7)** [Volcanic Eruption](https://2e.aonprd.com/Spells.aspx?ID=1746)
 (8) [Earthquake](https://2e.aonprd.com/Spells.aspx?ID=1507)
 (9) [Resplendent Mansion](https://2e.aonprd.com/Spells.aspx?ID=2018)
+
+# Icon of the City States
+
+
+
+# Icon of the Hanging Garden
