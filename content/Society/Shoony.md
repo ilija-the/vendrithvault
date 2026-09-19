@@ -95,7 +95,23 @@ Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chose
 #### Non-Bipedal
 
 ### Ancestry Feats 5
+#### Shoony Paddle
 
+#### To Deny a Shoony
+
+#### Catch!
+
+#### Tough Tumbler
+
+#### Loyal Empath
+
+#### Ghostly Hover
+
+#### I've Chosen my Side
+
+#### Sickly Bite
+
+#### 
 
 ### Ancestry Feats 9
 
