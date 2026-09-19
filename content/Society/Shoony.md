@@ -165,27 +165,48 @@ You gain a +2 circumstance bonus to Perception checks attempted as initiative ro
 
 ### Ancestry Feats 9
 #### Predator's Growl
+**Prerequisites** expert in [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7)  
+**Trigger** You successfully [Seek](https://2e.aonprd.com/Actions.aspx?ID=2301) a [hidden](https://2e.aonprd.com/Conditions.aspx?ID=79) or [undetected](https://2e.aonprd.com/Conditions.aspx?ID=96) creature.  
+You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature you just found. You don't take the –4 penalty for not sharing a language with the creature.
 
 #### Handy with your Mouth
+You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
 
 #### Greater Curse
+Prerequisite: Shoony's Curse.
+The curse's circumstance bonus increases to +4.
 
 #### Ghostly Leaps
+Prerequisite: Ghostly Hover.
+Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
 #### At Home with Death
+Prerequisite: Already Dead.
+Gain the advanced undead benefits.
 
 #### Skeletal Resistance
+Prerequisite: Skulldog Shoony.
+Your body becomes resistant, your hardened bones deflecting weapons and other forms of damage. You gain resistance 2 to [cold](https://2e.aonprd.com/Traits.aspx?ID=27), [electricity](https://2e.aonprd.com/Traits.aspx?ID=56), [fire](https://2e.aonprd.com/Traits.aspx?ID=72), piercing, and slashing damage. This resistance increases to 3 at 13th level and 4 at 17th level.
 
 #### Sodbuster
+Prerequisite: Dig Quickly.
+You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
 
 #### Poison Mouth
+Prerequisite: Sickly Bite.
+You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison, but gain a bonus to saves against all poisons.
 
 ### Ancestry Feats 13
 #### Return to Fog
+Innate ability to create concealment.
 
 #### Curse you All
+Prerequisite: To Deny a Shoony.
+You can hold a grudge against 3 creatures. This increases to 5 at level 15.
 
 #### Steadfast Ally
+Prerequisite: Loyal Empath.
+You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
 #### Phase Through
 
