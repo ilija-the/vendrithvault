@@ -48,17 +48,14 @@ Vendrith Shoony share much of the core but get access to different benefits and 
 ### Heritages
 #### Watchdog Shoony
 You have particularly creepy eyes. Gain Darkvision.
-
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
 You move in erratic ways, and can rush forward in disturbingly swift bursts. Your can move as if your speed was 5 feet faster if you have two free hands.
-
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things.
-
 > Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
@@ -68,12 +65,10 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 
 #### Lost Puppy (Uncommon)
 You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
-
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
 Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
-
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
@@ -94,13 +89,11 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 
 #### Dig Quickly
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
-
 > Leads to... Sodbuster (9).
 
 #### Scamper Underfoot
 **Prerequisites** Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
-
 > Leads to... Tough Tumbler (5).
 
 #### Ectoplasmic Shield
@@ -112,9 +105,8 @@ Gain a special version of the Shield cantrip as an innate spell, really working 
 Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You can cast the spell as a free action instead. When you activate it, you can choose to emit only dim light up to its full radius. You can Sustain the spell to change between the two modes, or Dismiss the spell as usual.
 
 #### Already Dead
-**Prerequisites** Ghost Shoony or Skulldog Shoony.
+**Prerequisites** Ghostly Shoony or Skulldog Shoony.
 Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a third of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
-
 > Leads to... At Home with Death (9).
 
 #### Play Dead
@@ -143,13 +135,11 @@ Your movement ends only when you critically fail an [Acrobatics](https://2e.aon
 #### Loyal Empath
 **Prerequisites** Lost Puppy.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
-
 > Leads to... Steadfast Ally (13).
 
 #### Ghostly Hover
-**Prerequisites** Ghost Shoony.
+**Prerequisites** Ghostly Shoony.
 Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
-
 > Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite
@@ -185,7 +175,7 @@ The curse's circumstance bonus increases to +4.
 Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
 #### At Home with Death
-Prerequisite: Already Dead.
+**Prerequisites** Already Dead.
 Gain the advanced undead benefits.
 
 #### Skeletal Resistance
@@ -213,7 +203,7 @@ You can hold a grudge against 3 creatures. This increases to 5 at level 15.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
 #### Phase Through
-Prerequisite: Ghost Shoony.
+**Prerequisites** Ghostly Shoony.
 Once per day. Attempt an Acrobatics check to phase through an object. Move through on a success, you cannot end your turn inside the object. On a failure your movement ends, and you trigger reactions as if you moved out of the square you started in.
 
 ### Ancestry Feats 17
