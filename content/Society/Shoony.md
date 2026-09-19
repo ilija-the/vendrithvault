@@ -42,35 +42,57 @@ Vendrith Shoony however are Medium-sized by default, and don't get the Blunt Sno
 #### Watchdog Shoony
 You have particularly creepy eyes. Gain Darkvision. Once per day you can perform an eery stare as a free action to gain a +1 circumstance bonus to an Intimidation check (the check gains the visual trait). If the [[Shoony#Creepy Smile|Creepy Smile]] feat would apply, you instead increase the circumstance bonus by one.
 
-Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13)
+Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
 You move in erratic ways, and can rush forward in disturbingly swift bursts. Your can move as if your speed was 5 feet faster if you have two free hands.
 
-Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5)
+Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things.
 
-Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9)
+Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
 You have bits and pieces of exoskeleton, usually in the form of a skull over your head. You gain 8 ancestry hit points instead of 6, and gain the Diehard general feat.
 
-Leads to... Play Dead (1), Already Dead (1), I've Chosen my Side (5), At Home with Death (9), Skeletal Resistance (9)
+Leads to... Play Dead (1), Already Dead (1), I've Chosen my Side (5), At Home with Death (9), Skeletal Resistance (9).
 
 #### Lost Puppy (Uncommon)
-You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. You're Small instead of Medium. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
+You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
 
-Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13)
+Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
 Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
 
-Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chosen my Side (5), Ghostly Hover (5), G
+Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chosen my Side (5), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
+#### Sensitive Nose
 
+#### Pierce the Darkness
+
+#### Shoony Courage
+
+#### Creepy Smile
+
+#### Invited by other Means
+
+#### Dig Quickly
+
+#### Scamper Underfoot (1)
+
+#### Ectoplasmic Shield
+
+#### Eerie Glow
+
+#### Already Dead
+
+#### Play Dead
+
+#### Non-Bipedal
 
 ### Ancestry Feats 5
 
