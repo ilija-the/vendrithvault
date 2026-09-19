@@ -7,6 +7,7 @@ aliases:
   - gnomes
   - gnome
 ---
+# Overview
 Gnomes are a [[Ancestries|people]] of short stature, usually known to have dressed up everything except their faces. Underneath the clothes, their bodies appear like a void of shadow, which can visibly exude from their body like a shadowy gas. As an unusual looking people, many ancestries and cultures have superstitions about gnomes. Gnomes therefore tend to remain either isolated in small groups of gnomes, or to go on their lonesome as lone gnomes that attempt to earn the trust and love of non-gnome settlements. The archetype of a successful city gnome is usually that of a somewhat shy but eccentric tinkerer, artist or even performer. Gnomes can be found in somewhat greater quantities in [[Ferweth]] and [[Canath]].
 
 Traditional gnome culture spells their names without any vowels, though more and more gnomes have began to write their names with them to integrate better with other ancestries.
@@ -21,3 +22,36 @@ It is however possible for Gnomes to control their form, still appearing as figu
 Many gnomes tell of learning to control their form, or finding the shape in which they prefer to keep it, as an important journey of their lives. Perhaps due to gnomes being identified with fairy tales, theatre and other arts - many gnomes take on forms and personalities that are comparable to characters from stories. It is perhaps from here gnomes have a reputation of being eccentric and particular in their ways.
 
 Gnomes have a natural inclination towards shadow and dream magic, contributing further to the theory they originate from the [[Feydark]] and/or the [[Deep Gray]]. If a gnome has a connection to a kind of magic, their bodies often have markings or traits related to that magic, such as particularly strong flame- or fog-like emanations, their bodies being star-spangled, or their body drip down rather than exude outwards.
+
+### You might...
+-
+-
+-
+### Others probably...
+-
+-
+-
+### Physical Description
+
+### Society
+
+### Beliefs
+
+### Adventurers
+
+### Names
+
+
+---
+
+# Mechanics
+
+
+### Heritages
+
+### Ancestry Feats
+
+
+---
+###### Notes
+<small>If homebrew is pulled from somewhere, credit it.</small> <p align="right">— Ilija</p>
