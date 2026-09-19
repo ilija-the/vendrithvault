@@ -13,7 +13,7 @@ aliases:
   - Ancestries
 ---
 > [!important] With a Twist!
-> Multiple of the ancestries of Vendrith may seem quite different, at least in appearance, to their traditional fantasy namesakes. This is particularly true of Elves, Halflings, Dwarves, Gnomes and Orcs. All of them however are meant to still be reminiscent of their originals, merely with a twist.
+> Multiple of the ancestries of Vendrith may seem quite different, at least in appearance, to their traditional fantasy namesakes. This is particularly true of Elves, Halflings, Dwarves, Gnomes and Orcs. All of them however are meant to still be reminiscent of their originals, but with a twist.
 > 
    In the absence of other information, you are free to assume ancestries are similar to their traditional/pathfinder lore. If they turn out not to be you can always play it off as your character having a misconceived stereotype!
 
@@ -24,14 +24,14 @@ The traditional [[Mythos of Vendrith]] has it that life on Vendrith was painted 
 
 In this tradition, all goblinoids are believed to be direct descendants of the monkey peoples (though the Vanara discredit them for losing their essence). Goblins remain the plurality population of Vendrith by a small margin, only being closely followed by [[Humans]].
 
-| Rarity                                       | Ancestries                                                                                                                                                                              |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Common                                       | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                      |
-| Uncommon                                     | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaurs]], [[Tripkee]], [[Tengu]], [[Leshys]], [[Beastkin]]                |
-| Rare                                         | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonbloods]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]], [[Athamaru]] |
-| On hold / To be implemented                  | [[Conrasu]], [[Strix]], [[Rabbitfolk]]³, [[Pnoll]]³, [[Anadi]], [[Nagaji]], [[Yroometji]]³, [[Nashi]]³, [[G'Mayun]]³                                                                    |
-| Not yet implemented / May not be implemented | Azarketi, Centaur, Fetchling, Merfolk, Samsarans, Wayang, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                                                 |
-| Unlikely / Will not be implemented           | Android                                                                                                                                                                                 |
+| Rarity                                | Ancestries                                                                                                                                                                              |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Common                                | [[Goblins]], [[Kobolds]], [[Humans]], [[Kholo]], [[Amurrun]], [[Iruxi]], [[Ysoki]]                                                                                                      |
+| Uncommon                              | [[Hobgoblins]], [[Vanara]], [[Orcs]], [[Dromaar]], [[Halflings]], [[Gnomes]], [[Dwarves]], [[Aiuvarin]], [[Minotaurs]], [[Tripkee]], [[Tengu]], [[Leshys]], [[Beastkin]]                |
+| Rare                                  | [[Automatons]], [[Elves]], [[Kashrishi]], [[Dragonbloods]], [[Kitsune]], [[Tanuki]], [[Shoony]], [[Poppets]], [[Awakened Animals]], [[Fleshwarp]], [[Animated Skeletons]], [[Athamaru]] |
+| On hold / To be implemented           | [[Conrasu]], [[Strix]], [[Rabbitfolk]]³, [[Pnoll]]³, [[Anadi]], [[Nagaji]], [[Yroometji]]³, [[Nashi]]³, [[G'Mayun]]³                                                                    |
+| Not yet  / May not be implemented     | Azarketi, Centaur, Fetchling, Merfolk, Samsarans, Wayang, Dragonet, Ghoran, Goloma, Jotunborn, Sarangay, Shisk, Sprites, Surki, Yaoguai                                                 |
+| Unlikely to / Will not be implemented | Android                                                                                                                                                                                 |
 An overview of the ancestries of Vendrith and their aggregate rarities - specific regions will vary however. Also see [[Special Heritages]]. Homebrew from published non-paizo sources marked with "³".
 
 The origin of humans is somewhat unclear, though they are most commonly believed to be descendants of goblinoids that were imbued with [[Divine Magic|divine]] aesthetics. Some speculate the [[First Ascended]], the first leader of the [[Flock of Man]] and creator of [[Titans|Titanhood]], also created humanity - though there are no known reliable records of the peoples of this time and before it. Some humans claim their own supremacy due to this supposedly divine character of theirs.
