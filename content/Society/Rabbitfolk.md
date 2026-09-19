@@ -14,4 +14,4 @@ The "Rabbitfolk" are a rabbit-like [[Ancestries|people]] mostly inhabiting the [
 
 ---
 ###### Notes
-<small>Rabbitfolk are from 3rd party homebrew by Luis Loza.</small> <p align="right">— Ilija</p>
+<small>Rabbitfolk is 2nd party content by Luis Loza.</small> <p align="right">— Ilija</p>

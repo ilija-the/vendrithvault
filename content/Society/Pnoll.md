@@ -12,4 +12,4 @@ The Pnoll are a possum-like [[Ancestries|people]] possibly related to [[Rabbitfo
 
 ---
 ###### Notes
-<small>Pnolls are 3rd party content for PF2e published by Logan Bonner.</small> <p align="right">— Ilija</p>
+<small>Pnolls are 2nd party content published by Logan Bonner.</small> <p align="right">— Ilija</p>
