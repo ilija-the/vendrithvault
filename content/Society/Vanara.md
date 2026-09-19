@@ -5,6 +5,40 @@ tags:
 aliases:
   - vanara
 ---
+# Overview
 Vanara are a [[Ancestries|people]] with a monkey-like appearance, which usually lives in closed-off communes in isolated places practicing the arts and monasticism. They share a common ancestor with the [[Hobgoblins]], which served as [[Slavery|servants]] of the [[Hightower Civilisation]] - the Vanara today consider themselves the inheritors of the best of [[Elves|Elven]] culture, which they use to continue to honour the [[Creator Monkey]] they resemble. They maintain a rivalry with hobgoblins to this day.
 
 > Those born to a hobgoblin and a Vanara may form a Hobbner (a Half-Hobgoblin). This is generally considered taboo amongst both of said ancestries.
+
+### You might...
+-
+-
+-
+### Others probably...
+-
+-
+-
+### Physical Description
+
+### Society
+
+### Beliefs
+
+### Adventurers
+
+### Names
+
+
+---
+
+# Mechanics
+
+
+### Heritages
+
+### Ancestry Feats
+
+
+---
+###### Notes
+<small>If homebrew is pulled from somewhere, credit it.</small> <p align="right">— Ilija</p>

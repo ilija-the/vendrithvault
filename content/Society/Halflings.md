@@ -24,6 +24,36 @@ Due to the strange nature of where halflings come from, much speculation has bee
 
 Some who believe the halfling connection to Truth insist that halfling eggs must drop from the sky, when Yond is high in the [[Sky|Night Sky]].
 
+### You might...
+-
+-
+-
+### Others probably...
+-
+-
+-
+### Physical Description
+
+### Society
+
+### Beliefs
+
+### Adventurers
+
+### Names
+
+
+---
+
+# Mechanics
+
+
+### Heritages
+
+### Ancestry Feats
+
+
+
 ---
 ###### Notes
 <small>Considering using Nephilim feats for Halflings, as many of them would cover the ground of the Halflings' 'random' features such as tails, horns and hooves. 
