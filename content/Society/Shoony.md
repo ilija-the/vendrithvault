@@ -40,19 +40,42 @@ Vendrith Shoony however are Medium-sized by default, and don't get the Blunt Sno
 
 ### Heritages
 #### Watchdog Shoony
-You have particularly creepy eyes. Get Darkvision. Once per day you can perform an eery stare as a free action to gain a +1 circumstance bonus to an Intimidation check (the check gains the visual trait). If the [[Shoony#Creepy Smile|Creepy Smile]] feat would apply, you instead increase the circumstance bonus by one.
+You have particularly creepy eyes. Gain Darkvision. Once per day you can perform an eery stare as a free action to gain a +1 circumstance bonus to an Intimidation check (the check gains the visual trait). If the [[Shoony#Creepy Smile|Creepy Smile]] feat would apply, you instead increase the circumstance bonus by one.
+
+Leads to...
 
 #### Inescapable Shoony
 You move in erratic ways, and can rush forward in disturbingly swift bursts. Your can move as if your speed was 5 feet faster if you have two free hands.
 
-
+Leads to...
 
 #### Rabid Shoony
-People aren't sure if you're quite healthy, and 
+People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things.
+
+Leads to...
 
 #### Skulldog Shoony
 
+Leads to...
+
 #### Lost Puppy (Uncommon)
 
+Leads to...
 
 #### Ghostly Shoony (Rare)
+
+Leads to...
+
+### Ancestry Feats 1
+
+
+### Ancestry Feats 5
+
+
+### Ancestry Feats 9
+
+
+### Ancestry Feats 13
+
+
+### Ancestry Feats 17
