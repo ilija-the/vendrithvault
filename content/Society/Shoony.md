@@ -36,7 +36,7 @@ Vendrith Shoony however are Medium-sized by default, and don't get the Blunt Sno
 >**Shoony's Curse**
 >You see yourself fit to invite yourself into places, and bring wrath upon those who would turn you away. 
 >
- Free Action, once a day. Trigger: you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
+ Free Action, once a day. **Trigger:** you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
 
 ### Heritages
 #### Watchdog Shoony
@@ -90,7 +90,7 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 
 Leads to... Sodbuster (9).
 
-#### Scamper Underfoot (1)
+#### Scamper Underfoot
 Prerequisite: Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
 
