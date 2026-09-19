@@ -60,11 +60,12 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 Leads to...
 
 #### Lost Puppy (Uncommon)
-You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. Gain a skill training in a C
+You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. You're Small instead of Medium. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
 
 Leads to...
 
 #### Ghostly Shoony (Rare)
+Parts of your body 
 
 Leads to...
 
