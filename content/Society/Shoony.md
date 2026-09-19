@@ -17,7 +17,7 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 ### You might...
 - Use the superstition and fear surrounding your kind to your advantage.
 - Become loyal to those who take you in, and watch over them.
-- Get too excited in the heat of things.
+- Try to keep an aura of composure generally, but get too excited in the heat of things.
 ### Others probably...
 - Fear, and perhaps try to hide their reaction to, your presence.
 - Try to appease you without letting you too close, hoping you move on.
