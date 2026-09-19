@@ -149,14 +149,19 @@ Once per day. As an action, start levitating just off the ground for 1 minute. B
 Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite
+Prerequisite: Rabid Shoony.
 Apply a disease to those you bite. Gain resistance against diseases.
 
 #### Rabid Sprint
+Prerequisite: Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
 #### Canine Training
+Prerequisite: Inescapable Shoony or Watchdog Shoony.
+When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1. In addition, you gain a +2 circumstance bonus to checks to [Aid](https://2e.aonprd.com/Actions.aspx?ID=2292), and your allies gain a +2 circumstance bonus to checks to Aid you.
 
 #### Ambush Awareness
+You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 ### Ancestry Feats 9
 #### Predator's Growl
