@@ -17,8 +17,25 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 
 ### Physical Description
 
+### Society
+
+### Beliefs
+
+### Adventurers
+
+### Names
 
 
 # Mechanics
-Vendrith Shoony get access to different benefits and options.
+Vendrith Shoony share much of the core but get access to different benefits and options.
 
+Hit points (6), Speed (25), Attribute Boosts (Dexterity, Charisma, Free), Attribute Flaw (Constitution), Languages (Common, Shoony) and Low-Light vision remain unchanged.
+
+Vendrith Shoony however are Medium-sized by default, and don't get the Blunt Snout feature. Instead they gain:
+
+>**Shoony's Curse**
+>You see yourself fit to invite yourself into places, and bring wrath upon those who would turn you away. 
+>
+ Free Action, once a day. Trigger: you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
+
+### Heritages
