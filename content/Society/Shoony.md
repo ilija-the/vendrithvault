@@ -125,19 +125,34 @@ Your speed if you don't have at least 1 hand free however is 5 feet slower.
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### To Deny a Shoony
+Prerequisite: Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
 #### Catch!
+Allies within 20 feet can always successfully throw an item to you (unless there are obstacles in the way), as long as you spend a reaction catching it. You need a free hand, as while you catch it with your mouth, you need to immediately transfer it to a hand or you'll drop it on the ground. You can keep the item in your mouth if you have the Handy with your Mouth feat.
 
 #### Tough Tumbler
+Prerequisite: Scamper Underfoot.
+Your movement ends only when you critically fail an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) check to [Tumble Through](https://2e.aonprd.com/Actions.aspx?ID=29) an enemy’s space (or when you don’t have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.
 
 #### Loyal Empath
+Prerequisite: Lost Puppy.
+You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
+
+Leads to... Steadfast Ally (13).
 
 #### Ghostly Hover
+Prerequisite: Ghost Shoony.
+
+Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
+
+Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite
+Apply a disease to those you bite. Gain resistance against diseases.
 
 #### Rabid Sprint
+2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
 #### Canine Training
 
