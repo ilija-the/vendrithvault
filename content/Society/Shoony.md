@@ -57,7 +57,7 @@ Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 #### Skulldog Shoony
 You have bits and pieces of exoskeleton, usually in the form of a skull over your head. You gain 8 ancestry hit points instead of 6, and gain the Diehard general feat.
 
-Leads to... Play Dead (1), Already Dead (1), I've Chosen my Side (5), At Home with Death (9), Skeletal Resistance (9).
+Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
 
 #### Lost Puppy (Uncommon)
 You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
@@ -67,7 +67,7 @@ Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfas
 #### Ghostly Shoony (Rare)
 Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
 
-Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chosen my Side (5), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
+Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
 #### Sensitive Nose
@@ -101,21 +101,31 @@ Prerequisite: Ghost Shoony.
 Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage.
 
 #### Eerie Glow
+Prerequisite: Ghost Shoony.
 Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You can cast the spell as a free action instead. When you activate it, you can choose to emit only dim light up to its full radius. You can Sustain the spell to change between the two modes, or Dismiss the spell as usual.
 
 #### Already Dead
-Rare. Gain a weakness to holy damage and vitality damage equal to a quarter of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
+Prerequisite: Ghost Shoony or Skulldog Shoony.
+Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a third of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
+
+Leads to... At Home with Death (9).
 
 #### Play Dead
-
+Prerequisites: Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
+Lie and pretend to be dead, others have to Seek or RK against your Deception DC to realise you are alive.
 
 #### Non-Bipedal
+Prerequisite: Inescapable Shoony.
+You're not a big fan of the whole 'walking on two legs' thing. Your base speed is increased to 30 feet, and if you have two free hands your speed is increased by 10 instead of 5. 
 
+Your speed if you don't have at least 1 hand free however is 5 feet slower.
 
 ### Ancestry Feats 5
 #### Shoony Paddle
+You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### To Deny a Shoony
+You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
 #### Catch!
 
@@ -124,8 +134,6 @@ Rare. Gain a weakness to holy damage and vitality damage equal to a quarter of y
 #### Loyal Empath
 
 #### Ghostly Hover
-
-#### I've Chosen my Side
 
 #### Sickly Bite
 
