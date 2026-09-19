@@ -209,12 +209,22 @@ Prerequisite: Loyal Empath.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
 #### Phase Through
+Prerequisite: Ghost Shoony.
+Once per day. Attempt an Acrobatics check to phase through an object. Move through on a success, you cannot end your turn inside the object. On a failure your movement ends, and you trigger reactions as if you moved out of the square you started in.
 
 ### Ancestry Feats 17
 #### Strength of Eight Legions
+You meditate for 24 hours in a one-time ceremony within a forest or cave; after your seclusion, your frame and limbs swell with warlike might to enact your vows. You permanently gain the effects of [_enlarge_](https://2e.aonprd.com/Spells.aspx?ID=1514), and your maximum Hit Points increase by your level. The ceremony transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size can’t transform, at the GM’s discretion).
 
 #### The Cycle Continues
+**Frequency** once per day  
+**Trigger** You are reduced to 0 Hit Points and would gain the [dying](https://2e.aonprd.com/Conditions.aspx?ID=69) condition or would otherwise die.  
+You prevent yourself from [dying](https://2e.aonprd.com/Conditions.aspx?ID=69) and regain Hit Points equal to 6d8 plus half your level. If the cause of your death was a condition or effect that would still cause you to die after regaining Hit Points, such as a high value on the [doomed](https://2e.aonprd.com/Conditions.aspx?ID=67) condition, you suppress that effect for 1 minute.
 
 #### Divine Declaration
+Once per day, you can cast [_divine decree_](https://2e.aonprd.com/Spells.aspx?ID=82) as a 7th-rank divine [innate spell](https://2e.aonprd.com/Rules.aspx?ID=279).
 
 #### See You in Hell
+**Frequency** once per day  
+**Trigger** You’re reduced to 0 Hit Points by a creature but not immediately killed.  
+A blast of spiritual energy lashes out from the depths of your soul, targeting the creature who attacked you. The creature takes spirit damage equal to the amount that reduced you to 0 Hit Points ([basic](https://2e.aonprd.com/Rules.aspx?ID=2297) Will save with a DC equal to your class DC or spell DC, whichever is higher).
