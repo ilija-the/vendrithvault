@@ -77,25 +77,40 @@ Lineage. Gain 30ft imprecise scent.
 Gain darkvision, but only see in black and white.
 
 #### Shoony Courage
-Successes against fear effects become critical successes. +1 circ bonus to will saves against fear, +2 if demoralise.
+Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
 
 #### Creepy Smile
+Gain intimidating glare. When done from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
 
 #### Invited by other Means
+Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
 #### Dig Quickly
+2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
+
+Leads to... Sodbuster (9).
 
 #### Scamper Underfoot (1)
+Prerequisite: Lost Puppy, Small size. 
+Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
+
+Leads to... Tough Tumbler (5).
 
 #### Ectoplasmic Shield
+Prerequisite: Ghost Shoony.
+Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage.
 
 #### Eerie Glow
+Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You can cast the spell as a free action instead. When you activate it, you can choose to emit only dim light up to its full radius. You can Sustain the spell to change between the two modes, or Dismiss the spell as usual.
 
 #### Already Dead
+Rare. Gain a weakness to holy damage and vitality damage equal to a quarter of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
 
 #### Play Dead
 
+
 #### Non-Bipedal
+
 
 ### Ancestry Feats 5
 #### Shoony Paddle
