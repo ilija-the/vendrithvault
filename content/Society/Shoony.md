@@ -85,138 +85,138 @@ Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162). When you De
 #### Invited by other Means (1)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
-#### Dig Quickly
+#### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
-#### Scamper Underfoot
+#### Scamper Underfoot (1)
 **Prerequisites** Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
 > Leads to... Tough Tumbler (5).
 
-#### Ectoplasmic Shield
+#### Ectoplasmic Shield (1)
 **Prerequisites** Ghostly Shoony.
 Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage. If you have the Shield cantrip from a separate source, track your temporary immunity to the cantrips separately.
 
-#### Eerie Glow
+#### Eerie Glow (1)
 **Prerequisites** Ghostly Shoony.
 Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You can cast the spell as a free action instead. When you activate it, you can choose to emit only dim light up to its full radius. You can Sustain the spell to change between the two modes, or Dismiss the spell as usual.
 
-#### Already Dead
+#### Already Dead (1)
 **Prerequisites** Ghostly Shoony or Skulldog Shoony.
 Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a third of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
 > Leads to... At Home with Death (9).
 
-#### Play Dead
+#### Play Dead (1)
 **Prerequisites** Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
 Lie and pretend to be dead, others have to Seek or RK against your Deception DC to realise you are alive.
 
-#### Non-Bipedal
+#### Non-Bipedal (1)
 **Prerequisites** Inescapable Shoony.
 You're not a big fan of the whole 'walking on two legs' thing. Your base speed is increased to 30 feet, and if you have two free hands your speed is increased by 10 instead of 5. Your speed if you don't have at least 1 hand free however is 5 feet slower.
 
 ### Ancestry Feats 5
-#### Shoony Paddle
+#### Shoony Paddle (5)
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
-#### To Deny a Shoony
+#### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
-#### Catch!
+#### Catch! (5)
 Allies within 20 feet can always successfully throw an item to you (unless there are obstacles in the way), as long as you spend a reaction catching it. You need a free hand, as while you catch it with your mouth, you need to immediately transfer it to a hand or you'll drop it on the ground. You can keep the item in your mouth if you have the Handy with your Mouth feat.
 
-#### Tough Tumbler
+#### Tough Tumbler (5)
 **Prerequisites** Scamper Underfoot.
 Your movement ends only when you critically fail an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) check to [Tumble Through](https://2e.aonprd.com/Actions.aspx?ID=29) an enemy’s space (or when you don’t have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.
 
-#### Loyal Empath
+#### Loyal Empath (5)
 **Prerequisites** Lost Puppy.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
 > Leads to... Steadfast Ally (13).
 
-#### Ghostly Hover
+#### Ghostly Hover (5)
 **Prerequisites** Ghostly Shoony.
 Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
 > Leads to... Ghostly Leaps (9).
 
-#### Sickly Bite
+#### Sickly Bite (5)
 **Prerequisites** Rabid Shoony.
 Apply a disease to those you bite. Gain resistance against diseases.
 
-#### Rabid Sprint
+#### Rabid Sprint (5)
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
-#### Canine Training
+#### Canine Training (5)
 **Prerequisites** Inescapable Shoony or Watchdog Shoony.
 When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1. In addition, you gain a +2 circumstance bonus to checks to [Aid](https://2e.aonprd.com/Actions.aspx?ID=2292), and your allies gain a +2 circumstance bonus to checks to Aid you.
 
-#### Ambush Awareness
+#### Ambush Awareness (5)
 You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 ### Ancestry Feats 9
-#### Predator's Growl
+#### Predator's Growl (9)
 **Prerequisites** expert in [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7)  
 **Trigger** You successfully [Seek](https://2e.aonprd.com/Actions.aspx?ID=2301) a [hidden](https://2e.aonprd.com/Conditions.aspx?ID=79) or [undetected](https://2e.aonprd.com/Conditions.aspx?ID=96) creature.  
 You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature you just found. You don't take the –4 penalty for not sharing a language with the creature.
 
-#### Handy with your Mouth
+#### Handy with your Mouth (9)
 You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
 
-#### Greater Curse
+#### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
 The curse's circumstance bonus increases to +4.
 
-#### Ghostly Leaps
+#### Ghostly Leaps (9)
 **Prerequisites** Ghostly Hover.
 Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
-#### At Home with Death
+#### At Home with Death (9)
 **Prerequisites** Already Dead.
 Gain the advanced undead benefits.
 
-#### Skeletal Resistance
+#### Skeletal Resistance (9)
 **Prerequisites** Skulldog Shoony.
 Your body becomes resistant, your hardened bones deflecting weapons and other forms of damage. You gain resistance 2 to [cold](https://2e.aonprd.com/Traits.aspx?ID=27), [electricity](https://2e.aonprd.com/Traits.aspx?ID=56), [fire](https://2e.aonprd.com/Traits.aspx?ID=72), piercing, and slashing damage. This resistance increases to 3 at 13th level and 4 at 17th level.
 
-#### Sodbuster
+#### Sodbuster (9)
 **Prerequisites** Dig Quickly.
 You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
 
-#### Poison Mouth
+#### Poison Mouth (9)
 **Prerequisites** Sickly Bite.
 You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison, but gain a bonus to saves against all poisons.
 
 ### Ancestry Feats 13
-#### Return to Fog
+#### Return to Fog (13)
 Innate ability to create concealment.
 
-#### Curse you All
+#### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
 You can hold a grudge against 3 creatures. This increases to 5 at level 15.
 
-#### Steadfast Ally
+#### Steadfast Ally (13)
 **Prerequisites** Loyal Empath.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
-#### Phase Through
+#### Phase Through (13)
 **Prerequisites** Ghostly Shoony.
 Once per day. Attempt an Acrobatics check to phase through an object. Move through on a success, you cannot end your turn inside the object. On a failure your movement ends, and you trigger reactions as if you moved out of the square you started in.
 
 ### Ancestry Feats 17
-#### Strength of Eight Legions
+#### Strength of Eight Legions (17)
 You meditate for 24 hours in a one-time ceremony within a forest or cave; after your seclusion, your frame and limbs swell with warlike might to enact your vows. You permanently gain the effects of [_enlarge_](https://2e.aonprd.com/Spells.aspx?ID=1514), and your maximum Hit Points increase by your level. The ceremony transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size can’t transform, at the GM’s discretion).
 
-#### The Cycle Continues
+#### The Cycle Continues (17)
 **Frequency** once per day  
 **Trigger** You are reduced to 0 Hit Points and would gain the [dying](https://2e.aonprd.com/Conditions.aspx?ID=69) condition or would otherwise die.  
 You prevent yourself from [dying](https://2e.aonprd.com/Conditions.aspx?ID=69) and regain Hit Points equal to 6d8 plus half your level. If the cause of your death was a condition or effect that would still cause you to die after regaining Hit Points, such as a high value on the [doomed](https://2e.aonprd.com/Conditions.aspx?ID=67) condition, you suppress that effect for 1 minute.
 
-#### Divine Declaration
+#### Divine Declaration (17)
 Once per day, you can cast [_divine decree_](https://2e.aonprd.com/Spells.aspx?ID=82) as a 7th-rank divine [innate spell](https://2e.aonprd.com/Rules.aspx?ID=279).
 
-#### See You in Hell
+#### See You in Hell (17)
 **Frequency** once per day  
 **Trigger** You’re reduced to 0 Hit Points by a creature but not immediately killed.  
 A blast of spiritual energy lashes out from the depths of your soul, targeting the creature who attacked you. The creature takes spirit damage equal to the amount that reduced you to 0 Hit Points ([basic](https://2e.aonprd.com/Rules.aspx?ID=2297) Will save with a DC equal to your class DC or spell DC, whichever is higher).
