@@ -42,6 +42,8 @@ Vendrith Shoony share much of the core but get access to different benefits and 
 >**Free Action**, once a day. **Trigger:** you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
 
 ### Heritages
+Vendrith Shoony get access to these heritages, instead of the default Shoony ones.
+
 #### Watchdog Shoony
 You have particularly creepy eyes. Gain Darkvision.
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
