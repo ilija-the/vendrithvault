@@ -39,3 +39,15 @@ Vendrith Shoony however are Medium-sized by default, and don't get the Blunt Sno
  Free Action, once a day. Trigger: you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
 
 ### Heritages
+#### Watchdog Shoony
+You have particularly creepy eyes. Get Darkvision. Once per day you can perform an eery stare as a free action to gain a +1 circumstance bonus to an Intimidation check (the check gains the visual trait). If the Creepy Smile feat would apply, you instead increase the circumstance bonus by one.
+
+#### Rabid Shoony
+
+
+#### Skulldog Shoony
+
+#### Lost Puppy (Uncommon)
+
+
+#### Ghostly Shoony (Rare)
