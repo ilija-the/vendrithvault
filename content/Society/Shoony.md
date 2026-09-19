@@ -55,10 +55,12 @@ People aren't sure if you're quite healthy, and you occasionally foam at the mou
 Leads to...
 
 #### Skulldog Shoony
+You have bits and pieces of exoskeleton, usually in the form of a skull over your head. You gain 8 ancestry hit points instead of 6, and gain the Diehard general feat.
 
 Leads to...
 
 #### Lost Puppy (Uncommon)
+You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. Gain a skill training in a C
 
 Leads to...
 
