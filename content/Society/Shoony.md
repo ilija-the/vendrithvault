@@ -14,9 +14,11 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 ### You might...
 - Use the superstition and fear surrounding your kind to your advantage.
 - Become loyal to those who take you in, and watch over them.
-- 
+- Get too excited in the heat of things.
 ### Others probably...
-
+- Fear, and perhaps try to hide their reaction to, your presence.
+- Try to appease you without letting you too close, hoping you move on.
+- Appreciate your loyalty, once granted.
 ### Physical Description
 
 ### Society
@@ -26,7 +28,7 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 ### Adventurers
 
 ### Names
-
+Shoony names come in two main forms. One is short, guttural, and often sound like loose strings of unassociated vowels and soft consonants to people of other ancestries. The other is romantic, often pulled from literature, l
 
 # Mechanics
 Vendrith Shoony share much of the core but get access to different benefits and options. Hit points (6), Speed (25), Attribute Boosts (Dexterity, Charisma, Free), Attribute Flaw (Constitution), Languages (Common, Shoony) and Low-Light vision remain unchanged. Vendrith Shoony however are **Medium**-sized by default, and **don't get the Blunt Snout feature**. Instead they gain:
