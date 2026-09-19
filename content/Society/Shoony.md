@@ -70,19 +70,19 @@ Parts of your body, usually your limbs, are of a semi-corporeal form similar to 
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
-#### Sensitive Nose
-Lineage. Gain 30ft imprecise scent.
+#### Sensitive Nose (1)
+[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent.
 
-#### Pierce the Darkness
-Gain darkvision, but only see in black and white.
+#### Pierce the Darkness (1)
+[Lineage.](https://2e.aonprd.com/Traits.aspx?ID=641) Gain darkvision, but only see in black and white.
 
-#### Shoony Courage
+#### Shoony Courage (1)
 Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
 
-#### Creepy Smile
-Gain intimidating glare. When done from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
+#### Creepy Smile (1)
+Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162). When you Demoralise from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
 
-#### Invited by other Means
+#### Invited by other Means (1)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
 #### Dig Quickly
@@ -96,7 +96,7 @@ Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger en
 
 #### Ectoplasmic Shield
 **Prerequisites** Ghostly Shoony.
-Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage.
+Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage. If you have the Shield cantrip from a separate source, track your temporary immunity to the cantrips separately.
 
 #### Eerie Glow
 **Prerequisites** Ghostly Shoony.
