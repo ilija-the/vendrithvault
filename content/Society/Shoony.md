@@ -71,10 +71,13 @@ Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chose
 
 ### Ancestry Feats 1
 #### Sensitive Nose
+Lineage. Gain 30ft imprecise scent.
 
 #### Pierce the Darkness
+Gain darkvision, but only see in black and white.
 
 #### Shoony Courage
+Successes against fear effects become critical successes. +1 circ bonus to will saves against fear, +2 if demoralise.
 
 #### Creepy Smile
 
@@ -111,12 +114,43 @@ Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), I've Chose
 
 #### Sickly Bite
 
-#### 
+#### Rabid Sprint
+
+#### Canine Training
+
+#### Ambush Awareness
 
 ### Ancestry Feats 9
+#### Predator's Growl
 
+#### Handy with your Mouth
+
+#### Greater Curse
+
+#### Ghostly Leaps
+
+#### At Home with Death
+
+#### Skeletal Resistance
+
+#### Sodbuster
+
+#### Poison Mouth
 
 ### Ancestry Feats 13
+#### Return to Fog
 
+#### Curse you All
+
+#### Steadfast Ally
+
+#### Phase Through
 
 ### Ancestry Feats 17
+#### Strength of Eight Legions
+
+#### The Cycle Continues
+
+#### Divine Declaration
+
+#### See You in Hell
