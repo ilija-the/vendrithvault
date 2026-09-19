@@ -20,13 +20,16 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 - Try to appease you without letting you too close, hoping you move on.
 - Appreciate your loyalty, once granted.
 ### Physical Description
+Shoony are dog-like humanoids, usually akin to breeds with a longer snout and a more slender, angular form. Beyond the baseline 
 
 ### Society
 
+
 ### Beliefs
+Most shoony aren't outright evil despite the mythology, and in fact find it distasteful and brutish to be a crude monster. They do however tend to possess a very 'realist' view of the world, seeing self-interest as natural and both relations and eloquent social interaction as a means to an end - though it is only fair, given "everyone does it." 
 
 ### Adventurers
-Shoony bear a tendency to wander due to their 'ability' to gain access to
+Shoony bear a tendency to wander due to their 'advantage' in gain access to the settlements they go to, though conversely, they also are limited by the fact their kind is feared.
 
 ### Names
 Shoony names come in two main forms. One is short, guttural, and often sound like loose strings of unassociated vowels and soft consonants to people of other ancestries. The other type is romantic, evoking a sense of eloquence and also importance. Even males will often use intersex or feminine-sounding names to soften their identity. These types of names are often pulled from literature, long dead authors, heroes or even villains.
