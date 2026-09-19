@@ -12,9 +12,13 @@ tags:
 An [[Ancestries|ancestry]].
 
 ### You might...
-
+-
+-
+-
 ### Others probably...
-
+-
+-
+-
 ### Physical Description
 
 ### Society
@@ -24,6 +28,17 @@ An [[Ancestries|ancestry]].
 ### Adventurers
 
 ### Names
+
+
+---
+
+# Mechanics
+
+
+### Heritages
+
+### Ancestry Feats
+
 
 
 ---

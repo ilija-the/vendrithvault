@@ -8,7 +8,38 @@ tags:
 >[!important] WIP
 >The current is not to be considered implemented in lore yet, and is merely a placeholder, an early work in progress, or it is subject to a rework.
 
+# Overview
 The Pnoll are a possum-like [[Ancestries|people]] possibly related to [[Rabbitfolk]] and [[Ysoki]]. Nocturnal by nature and preferring to live solitarily and nomadically, few Pnoll societies exist - but those who do often live on the peripheries of civilisation and scavenge, making them similar to the [[Kholo]] of [[Galae]]. Pnoll are rare sights, but most can be found across [[Ferweth]] and parts of [[Galae]].
+
+### You might...
+-
+-
+-
+### Others probably...
+-
+-
+-
+### Physical Description
+
+### Society
+
+### Beliefs
+
+### Adventurers
+
+### Names
+
+
+---
+
+# Mechanics
+
+
+### Heritages
+
+### Ancestry Feats
+
+
 
 ---
 ###### Notes
