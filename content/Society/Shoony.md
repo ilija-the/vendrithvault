@@ -65,7 +65,7 @@ You're short in stature and can look like a bit of a puppy - whether that increa
 Leads to...
 
 #### Ghostly Shoony (Rare)
-Parts of your body 
+Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
 
 Leads to...
 
