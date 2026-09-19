@@ -29,6 +29,7 @@ An [[Ancestries|ancestry]].
 
 ### Ancestry Feats
 
+
 ---
 ###### Notes
-<small>If homebrew is pulled from somewhere,</small> <p align="right">— Ilija</p>
+<small>If homebrew is pulled from somewhere, credit it.</small> <p align="right">— Ilija</p>
