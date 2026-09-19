@@ -23,10 +23,10 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 Shoony are dog-like humanoids, usually akin to breeds with a longer snout and a more slender, angular form. Beyond the baseline however they differ a lot due to the presence of various fearsome features (much based on their heritage). These range from exoskeletal parts, ectoplasmic parts, to intense and piercing eyes, crooked and sharp teeth, sickly looking faces and lips, to sometimes rabid and eclectic movement. Some Shoony prefer to walk on three or four limbs, though they know it's frowned upon (and looks monstrous) in society and usually keep it to when they're alone.
 
 ### Society
-Shoony do not come from Shoony societies, due to their origins as 'lone wanderers out of the fog,' but they do sometimes congregate into ones. Certain settlements of a sufficient size (mostly around Ferweth) have 
+Shoony do not come from Shoony societies, due to their origins as 'lone wanderers out of the fog,' but they do sometimes congregate into ones. Certain settlements of a sufficient size (mostly around Ferweth) have semi-secret societies of Shoony whom gather to aid each other, read and discuss literature and politics, and perhaps decide to support or suppress certain factions or guilds they deem unfriendly to the Shoony. These are the 'civilised' Shoony inside settlements, though they're still viewed with suspicion. Outside of larger settlements, Shoony may form small alliances in which they help each other survive whilst being isolated from general society - some of which go on to plot infiltrations or revenge missions against those who turned them away.
 
 ### Beliefs
-Most shoony aren't outright evil despite the mythology, and in fact find it distasteful and brutish to be a crude monster. They do however tend to possess a very 'realist' view of the world, seeing self-interest as natural and both relations and eloquent social interaction as a means to an end - though it is only fair, given "everyone does it." 
+Most shoony aren't outright evil despite their popular perception, and in fact find it distasteful and brutish to act like a mere crude monster. They do however tend to possess a very 'realist' view of the world, seeing self-interest as natural and both relations and eloquent social interaction as a means to an end - though it is only fair, given "everyone does it."
 
 ### Adventurers
 Shoony bear a tendency to wander due to their 'advantage' in gain access to the settlements they go to, though conversely, they also are limited by the fact their kind is feared.
@@ -43,39 +43,38 @@ Vendrith Shoony share much of the core but get access to different benefits and 
 
 >**Shoony's Curse**
 >You see yourself fit to invite yourself into places, and bring wrath upon those who would turn you away. 
-> 
-  Free Action, once a day. **Trigger:** you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
+>**Free Action**, once a day. **Trigger:** you attempt a Charisma based check to be allowed entrance into a settlement, building, room or the like. You gain a +2 circumstance bonus to triggering check. This counts as a fear effect - creatures with bonuses against fear effects also receive them against your check (if they'd receive a bonus to a will save, add it to the DC you're rolling against).
 
 ### Heritages
 #### Watchdog Shoony
 You have particularly creepy eyes. Gain Darkvision.
 
-Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
+> Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
 You move in erratic ways, and can rush forward in disturbingly swift bursts. Your can move as if your speed was 5 feet faster if you have two free hands.
 
-Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
+> Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things.
 
-Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
+> Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
 You have bits and pieces of exoskeleton, usually in the form of a skull over your head. You gain 8 ancestry hit points instead of 6, and gain the Diehard general feat.
 
-Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
+> Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
 
 #### Lost Puppy (Uncommon)
 You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
 
-Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
+> Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
 Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
 
-Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
+> Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
 #### Sensitive Nose
@@ -96,76 +95,73 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 #### Dig Quickly
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 
-Leads to... Sodbuster (9).
+> Leads to... Sodbuster (9).
 
 #### Scamper Underfoot
-Prerequisite: Lost Puppy, Small size. 
+**Prerequisites** Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
 
-Leads to... Tough Tumbler (5).
+> Leads to... Tough Tumbler (5).
 
 #### Ectoplasmic Shield
-Prerequisite: Ghost Shoony.
+**Prerequisites** Ghostly Shoony.
 Gain a special version of the Shield cantrip as an innate spell, really working by allowing attacks to partially phase through you. The spells hardness is 1 higher, and increases by 1 more every time it is heightened. If the attack deals vitality or holy damage or comes from a weapon with ghost touch, however, the shield cannot block any damage.
 
 #### Eerie Glow
-Prerequisite: Ghost Shoony.
+**Prerequisites** Ghostly Shoony.
 Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You can cast the spell as a free action instead. When you activate it, you can choose to emit only dim light up to its full radius. You can Sustain the spell to change between the two modes, or Dismiss the spell as usual.
 
 #### Already Dead
-Prerequisite: Ghost Shoony or Skulldog Shoony.
+**Prerequisites** Ghost Shoony or Skulldog Shoony.
 Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a third of your level (rounded down, minimum of one). Gain the Basic Undead Benefits.
 
-Leads to... At Home with Death (9).
+> Leads to... At Home with Death (9).
 
 #### Play Dead
-Prerequisites: Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
+**Prerequisites** Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
 Lie and pretend to be dead, others have to Seek or RK against your Deception DC to realise you are alive.
 
 #### Non-Bipedal
-Prerequisite: Inescapable Shoony.
-You're not a big fan of the whole 'walking on two legs' thing. Your base speed is increased to 30 feet, and if you have two free hands your speed is increased by 10 instead of 5. 
-
-Your speed if you don't have at least 1 hand free however is 5 feet slower.
+**Prerequisites** Inescapable Shoony.
+You're not a big fan of the whole 'walking on two legs' thing. Your base speed is increased to 30 feet, and if you have two free hands your speed is increased by 10 instead of 5. Your speed if you don't have at least 1 hand free however is 5 feet slower.
 
 ### Ancestry Feats 5
 #### Shoony Paddle
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### To Deny a Shoony
-Prerequisite: Shoony's Curse.
+**Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
 #### Catch!
 Allies within 20 feet can always successfully throw an item to you (unless there are obstacles in the way), as long as you spend a reaction catching it. You need a free hand, as while you catch it with your mouth, you need to immediately transfer it to a hand or you'll drop it on the ground. You can keep the item in your mouth if you have the Handy with your Mouth feat.
 
 #### Tough Tumbler
-Prerequisite: Scamper Underfoot.
+**Prerequisites** Scamper Underfoot.
 Your movement ends only when you critically fail an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) check to [Tumble Through](https://2e.aonprd.com/Actions.aspx?ID=29) an enemy’s space (or when you don’t have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.
 
 #### Loyal Empath
-Prerequisite: Lost Puppy.
+**Prerequisites** Lost Puppy.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
 
-Leads to... Steadfast Ally (13).
+> Leads to... Steadfast Ally (13).
 
 #### Ghostly Hover
-Prerequisite: Ghost Shoony.
-
+**Prerequisites** Ghost Shoony.
 Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
 
-Leads to... Ghostly Leaps (9).
+> Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite
-Prerequisite: Rabid Shoony.
+**Prerequisites** Rabid Shoony.
 Apply a disease to those you bite. Gain resistance against diseases.
 
 #### Rabid Sprint
-Prerequisite: Rabid Shoony or Inescapable Shoony.
+**Prerequisites** Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
 #### Canine Training
-Prerequisite: Inescapable Shoony or Watchdog Shoony.
+**Prerequisites** Inescapable Shoony or Watchdog Shoony.
 When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1. In addition, you gain a +2 circumstance bonus to checks to [Aid](https://2e.aonprd.com/Actions.aspx?ID=2292), and your allies gain a +2 circumstance bonus to checks to Aid you.
 
 #### Ambush Awareness
@@ -181,11 +177,11 @@ You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actio
 You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
 
 #### Greater Curse
-Prerequisite: Shoony's Curse.
+**Prerequisites** Shoony's Curse.
 The curse's circumstance bonus increases to +4.
 
 #### Ghostly Leaps
-Prerequisite: Ghostly Hover.
+**Prerequisites** Ghostly Hover.
 Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
 #### At Home with Death
@@ -193,15 +189,15 @@ Prerequisite: Already Dead.
 Gain the advanced undead benefits.
 
 #### Skeletal Resistance
-Prerequisite: Skulldog Shoony.
+**Prerequisites** Skulldog Shoony.
 Your body becomes resistant, your hardened bones deflecting weapons and other forms of damage. You gain resistance 2 to [cold](https://2e.aonprd.com/Traits.aspx?ID=27), [electricity](https://2e.aonprd.com/Traits.aspx?ID=56), [fire](https://2e.aonprd.com/Traits.aspx?ID=72), piercing, and slashing damage. This resistance increases to 3 at 13th level and 4 at 17th level.
 
 #### Sodbuster
-Prerequisite: Dig Quickly.
+**Prerequisites** Dig Quickly.
 You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
 
 #### Poison Mouth
-Prerequisite: Sickly Bite.
+**Prerequisites** Sickly Bite.
 You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison, but gain a bonus to saves against all poisons.
 
 ### Ancestry Feats 13
@@ -209,11 +205,11 @@ You can apply poisons up to your level to your jaws attack without being affecte
 Innate ability to create concealment.
 
 #### Curse you All
-Prerequisite: To Deny a Shoony.
+**Prerequisites** To Deny a Shoony.
 You can hold a grudge against 3 creatures. This increases to 5 at level 15.
 
 #### Steadfast Ally
-Prerequisite: Loyal Empath.
+**Prerequisites** Loyal Empath.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw even when you haven’t prepared to help.
 
 #### Phase Through
