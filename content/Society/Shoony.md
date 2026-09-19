@@ -28,7 +28,9 @@ Shoony are a dog-like humanoid [[Ancestries|people]] with [[Undead]]-like featur
 ### Adventurers
 
 ### Names
-Shoony names come in two main forms. One is short, guttural, and often sound like loose strings of unassociated vowels and soft consonants to people of other ancestries. The other is romantic, often pulled from literature, l
+Shoony names come in two main forms. One is short, guttural, and often sound like loose strings of unassociated vowels and soft consonants to people of other ancestries. The other type is romantic, evoking a sense of eloquence and also importance. These are often pulled from literature, long dead authors, heroes or villains.
+
+**Sample names** Ahogo, Ambrose, Arnbin, Belle, Bondin, Dominic, Ebmeur, Gopor, Valentine, Hiemgur, Mufurlo, Oriog, Pulumar, Raliamar, Ruggion, Uhulrig, Ungrin.
 
 # Mechanics
 Vendrith Shoony share much of the core but get access to different benefits and options. Hit points (6), Speed (25), Attribute Boosts (Dexterity, Charisma, Free), Attribute Flaw (Constitution), Languages (Common, Shoony) and Low-Light vision remain unchanged. Vendrith Shoony however are **Medium**-sized by default, and **don't get the Blunt Snout feature**. Instead they gain:
