@@ -69,7 +69,7 @@ You're short in stature and can look like a bit of a puppy - whether that increa
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
-Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy one of your ectoplasmic hands at a range. You can cast and sustain up to 2 hands. Each requires a free hand, and you cannot use said hand for anything but what it could do as a Telekinetic Hand while it is used this way. If you have both hands deployed, you can combine their total carry weight 
+Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy one of your ectoplasmic hands at a range. You can cast and sustain up to 2 hands, and you can target an item you are holding in said hand. Each casting requires a free hand, and you cannot use said hand for anything but what it could do as a Telekinetic Hand while it is used this way. If you have both hands deployed you can carry more when using them together - initially you can carry 1 bulk, starting at spell rank 3 you can carry 2, and at spell rank 7 you can carry 4.
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
