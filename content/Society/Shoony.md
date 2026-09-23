@@ -73,20 +73,14 @@ Some of your limbs, always including a hand, and sometimes other body parts, are
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
-#### Sensitive Nose (1)
-[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent.
+#### Bloodhound's Nose (1)
+[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, or gotten the scent off from an item or location 
 
 #### Pierce the Darkness (1)
-[Lineage.](https://2e.aonprd.com/Traits.aspx?ID=641) Gain darkvision, but only see in black and white.
+Gain darkvision, but only see in black and white.
 
 #### Shoony Courage (1)
 Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
-
-#### Creepy Smile (1)
-Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162). When you Demoralise from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
-
-#### Invited by other Means (1)
-Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
 #### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
@@ -122,8 +116,14 @@ You lie prone and pretend to be a dead monster. As long as you don't move or tak
 #### Shoony Paddle (5)
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
+#### Creepy Smile (5)
+Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
+
 #### Fetch! (5)
 1 action. Stride once, and Interact to pick up an item at any point on the way. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
+
+#### Invited by other Means (5)
+Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
