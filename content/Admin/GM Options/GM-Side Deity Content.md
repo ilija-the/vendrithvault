@@ -270,7 +270,7 @@ Favoured weapons: Shears
 
 ### [[Triumphant Successor]]
 #### Intercessions
-Buff 3 - Winning a duel empowers you, giving you one immunity against a critical hit you can use to turn a critical hit against you of your choice into a normal hit. You lose this if you cheat in a duel.
+Buff 3 - Winning a duel empowers you, giving you one immunity you can use to turn a critical hit against you of your choice into a normal hit. You lose this if you cheat in a duel.
 Buff 2 - You gain Haste for 3 rounds if you engage in a duel. If you cheat, you lose it and gain slowed 1 for 3 rounds. Enemy gets stunned 1 if they cheat.
 Buff 1 - Gain an initiative buff against stealth or deception, and ignore one sneak attack.
 

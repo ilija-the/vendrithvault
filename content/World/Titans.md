@@ -2,6 +2,8 @@
 tags:
   - religion/deities
   - important
+aliases:
+  - Titan
 ---
 A term for the deific figures at the centre of [[Canath|Canathi]], [[Galae]], [[Ferweth|Ferwethi]] and [[Mogxa|Mogxan]] religion. Usually described as having the heads of animals and bodies of humanoids, often human, but sometimes other animalistic species. Said to have originated from the [[First Ascended]], whom was a human that learned to turn his body parts into those of animals - such as his head. However, their appearances, as well as names, are hard to pin down as they have appeared differently to different mortals lucky enough to have encountered them.
 
@@ -13,3 +15,25 @@ It is said all titans were exiled from [[Materia]] with the destruction of the [
 [[Reverence]]
 
 "Timeless Titan" is a term used for the oldest of Titans that have still not undergone Reverence but still carry much weight in modern religion. 
+
+The Titanic Pantheon consists/consisted of:
+- [[Astral Guide]]
+- [[Awaited Architect]]
+- [[Bombastic Peace]]
+- [[Devil Queen of Crimson|Oathbound Firestorm]]
+- [[Golden Heart]]
+- [[Grand Scheme]]
+- [[Hooded Saviour]]
+- [[Icen Maiden]]
+- [[Imminent Fortune]]
+- [[Immortal Memory]]
+- [[Luminous Idea]]
+- [[Masked Showrunner]]
+- [[Opened Way]]
+- [[Primordial Shepherd]]
+- [[Promised Revealer]]
+- [[Relentless Pen]]
+- [[Resting Crown]]
+- [[Triumphant Successor]]
+- [[Twotailed Drake]]
+- [[Wheel of Death]]

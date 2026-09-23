@@ -5,10 +5,10 @@ tags:
 aliases:
   - The Heart
 ---
-# Story
+# Overview
 
 
-# Description
+### Detailed Description
 **Summary** The Golden Heart is the patron of benevolence and justice, as well as of all enslaved or otherwise captive people. The myth says that in a golden valley unbothered by the pressures that keep most kingdoms in the dirt, a sensitive servant girl saw the chains all around herself and her equals. Through a cleansing struggle of the slave masters, the Golden Heart and her sisterhood began the quest to create an imperial paradise of kindness. Deeply connected to a slave rebellion in [[Talvas]].
 **Base of Worship** 
 **Appearance, Items and Powers.**
@@ -18,8 +18,11 @@ aliases:
 **Edicts** Destroy slavers, take charge and create a free future
 **Anathema** Fail to liberate a slave
 
----
-# Mechanical Details
+### Intercessions
+
+
+
+# Icon of the Slave Rebellion
 **Domains** [Freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [Perfection](https://2e.aonprd.com/Domains.aspx?ID=89), [Healing](https://2e.aonprd.com/Domains.aspx?ID=78), [Fire](https://2e.aonprd.com/Domains.aspx?ID=76).
 **Alternate** [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=96), [Metal](https://2e.aonprd.com/Domains.aspx?ID=112).
 **Skill** Medicine.
@@ -37,3 +40,7 @@ aliases:
 (7) [Planar Palace](https://2e.aonprd.com/Spells.aspx?ID=1634)
 (8) [Boil Blood](https://2e.aonprd.com/Spells.aspx?ID=874)
 (9) [Upheaval](https://2e.aonprd.com/Spells.aspx?ID=660)
+
+# Icon of the Gold-Hearted Maiden
+
+# Icon of the Kingdom of Gold
