@@ -148,7 +148,12 @@ Once per day. As an action, start levitating just off the ground for 1 minute. B
 
 #### Sickly Bite (5)
 **Prerequisites** Rabid Shoony, Jaws attack.
-Creatures you bite must make a Fortitude saving throw against your Class or Spell DC (whichever is higher), or gain an affliction. If the creature is taking Bleed damage, they gain a -2 cirAfter succeeding against this save or getting rid of the affliction after first getting it, a creature becomes immune to it for 24 hours.
+Creatures you bite must make a Fortitude saving throw against your Class or Spell DC (whichever is higher), or gain an affliction. If the creature is taking Bleed damage or is on less than half their max hit points, they gain a -2 circumstance bonus to the saving throw. After succeeding against this save or getting rid of the affliction after first getting it, a creature becomes immune to it for 24 hours.
+> Affliction: Rabidismalism
+> Traits. Max duration 3 rounds.
+> Stage 1
+> Stage 2
+> Stage 3
 
 #### Rabid Sprint (5)
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
@@ -192,11 +197,11 @@ You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to
 
 #### Poison Mouth (9)
 **Prerequisites** Sickly Bite.
-You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison, but gain a bonus to saves against all poisons.
+You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison.
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
-Innate ability to create concealment.
+You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
 
 #### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
