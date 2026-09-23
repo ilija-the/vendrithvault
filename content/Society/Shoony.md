@@ -38,7 +38,7 @@ Shoony names come in two main forms. One is short, guttural, and often sound lik
 ---
 
 # Mechanics
-Vendrith Shoony share much of the core but get access to different benefits and options. Hit points (6), Speed (25), Attribute Boosts (Dexterity, Charisma, Free), Attribute Flaw (Constitution), Languages (Common, Shoony) and Low-Light vision remain unchanged. Vendrith Shoony however are **Medium**-sized by default, and **don't get the Blunt Snout feature**. Instead they gain:
+Vendrith Shoony, also known as Eerie Shoony, share some of the core of [Shoony](https://2e.aonprd.com/Ancestries.aspx?ID=16). Hit points (6), Speed (25), Attribute Boosts (Dexterity, Charisma, Free), Attribute Flaw (Constitution), Languages (Common, Shoony) and Low-Light vision remain unchanged. Vendrith Shoony however are **Medium**-sized by default, and **don't get the Blunt Snout feature**. Instead they gain:
 
 >**Shoony's Curse**
 >You see yourself fit to invite yourself into places, and bring wrath upon those who would turn you away. 
