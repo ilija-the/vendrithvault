@@ -127,7 +127,7 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
 #### Fetch! (5)
-1 action. Stride once, and Interact to pick up an item at any point on 
+1 action. Stride once, and Interact to pick up an item at any point on the way. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
 
 #### Tough Tumbler (5)
 **Prerequisites** Scamper Underfoot.
@@ -205,7 +205,7 @@ You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to gr
 
 #### Phase Through (13)
 **Prerequisites** Ghostly Shoony.
-Once per day. Attempt an Acrobatics check to phase through an object. Move through on a success, you cannot end your turn inside the object. On a failure your movement ends, and you trigger reactions as if you moved out of the square you started in.
+You can phase your telekinetic hands or hands through walls - potentially allowing you Interact with items on the other side. For your hands, you can only  
 
 ### Ancestry Feats 17
 #### Strength of Eight Legions (17)
