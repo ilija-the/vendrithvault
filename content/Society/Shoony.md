@@ -106,7 +106,7 @@ Gain a special version of the Shield cantrip as an innate spell, really working 
 
 #### Eerie Glow (1)
 **Prerequisites** Ghostly Shoony.
-Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You cast the spell as a free action instead. It only emits dim light up to its full radius, and no bright light. You can Sustain the spell to change whether it's from you, or a telekinetic hand, or both; and you must Dismiss the spell as usual.
+Your ectoplasmic parts can emit light. Gain the light cantrip as an innate cantrip but you can only cast it on yourself or on your Telekinetic Hand. You cast the spell as a free action instead. It only emits dim light up to its full radius, and no bright light. You must Dismiss the spell as usual.
 
 #### Already Dead (1)
 **Prerequisites** Ghostly Shoony or Skulldog Shoony.
@@ -116,6 +116,7 @@ Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a thi
 #### Play Dead (1)
 **Prerequisites** Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
 You lie prone and pretend to be a dead monster. As long as you don't move or take any actions requiring anything other than your mind, you appear dead. To see through your ruse, another creature must succeed at a check against your Deception DC, either by [Seeking](https://2e.aonprd.com/Actions.aspx?ID=84) or [Recalling Knowledge](https://2e.aonprd.com/Actions.aspx?ID=26) (typically using Society or an appropriate Lore skill). This ability doesn't work against creatures that already know about the Shoony's undead-like appearances, unless you look particularly dead even by their standards.
+**Special** If you're a Ghostly Shoony, your ectoplasmic body parts will fade and turn invisible - potentially making you appear dismembered or as if you have gaping wounds. If you're a Skulldog Shoony or a Rabid Shoony you take advantage of your grizzled, unkept and sometimes partially rot-like outer appearance. In the latter case, you can also foam at the mouth like a recently passed corpse.
 
 ### Ancestry Feats 5
 #### Shoony Paddle (5)
