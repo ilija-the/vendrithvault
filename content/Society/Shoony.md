@@ -92,6 +92,9 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
+#### Non-Bipedal (1)
+You're not a big fan of the whole 'walking on two legs' thing. If you have two free hands, increase your base speed by 5.
+
 #### Scamper Underfoot (1)
 **Prerequisites** Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
@@ -112,12 +115,7 @@ Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a thi
 
 #### Play Dead (1)
 **Prerequisites** Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
-Lie and pretend to be dead, others have to Seek or RK against your Deception DC to realise you are alive.
-
-#### Non-Bipedal (1)
-**Prerequisites** Inescapable Shoony.
-You're not a big fan of the whole 'walking on two legs' thing. Your base speed is increased to 30 feet, and if you have two free hands your speed is increased by 10 instead of 5. Your speed if you don't have at least 1 hand free however is 5 feet slower.
-
+You lie prone and pretend to be an ordinary skeleton. As long as you don't move or take any actions requiring anything other than your mind, you appear dead. To see through your ruse, another creature must succeed at a check against your Deception DC, either by [Seeking](https://2e.aonprd.com/Actions.aspx?ID=84) or [Recalling Knowledge](https://2e.aonprd.com/Actions.aspx?ID=26) (typically using Society or an appropriate Lore skill). This ability doesn't work against creatures that already know about the Shoony's undead-like appearances, unless you look particularly dead even by their standards
 ### Ancestry Feats 5
 #### Shoony Paddle (5)
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
