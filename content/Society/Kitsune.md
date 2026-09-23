@@ -49,7 +49,7 @@ Many kitsune become travellers, either as traveling merchants, sailors, pilgrims
 - Add the following Kitsune ancestry feat to the choice pool:
   **Vulpine Form – 1st Level**
   [Kitsune]
-  You are capable of turning yourself into a Tiny sized fox. Unlike your other forms, this form cannot be changed and closely resembles your natural form. While in this form, you gain the animal trait, imprecise scent within 30 feet, can only make strikes with unarmed attacks, and cannot use most manipulate actions that require hands. Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate any items.
+  You are capable of turning yourself into a Tiny sized fox. Unlike your other forms, this form cannot be changed, closely resembles your natural form, and is clearly supernatural to the average observer. While in this form, you gain the animal trait, imprecise scent within 30 feet, can only make strikes with unarmed attacks, and cannot use most manipulate actions that require hands. Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate any items.
 - Replace the first two points from Vulpine Scamper ancestry feat description with the following: "You are used to running on fours, you increase your Speed to 30 feet."
 - Add [Astrazoan](https://2e.aonsrd.com/ancestries/1-astrazoan/feats) feats to the Kitsune choice pool with the Uncommon and Kitsune traits. *In the future, the list may be narrowed down and the uncommon trait removed.*
 <p align="right">— Vauxs</p>
