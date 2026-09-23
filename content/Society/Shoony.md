@@ -48,7 +48,7 @@ Vendrith Shoony, also known as Eerie Shoony, share some of the core of [Shoony](
 Vendrith Shoony get access to these heritages, instead of the default Shoony ones.
 
 #### Watchdog Shoony
-You have particularly creepy eyes. Gain Darkvision.
+You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. 
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
@@ -93,6 +93,7 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 > Leads to... Sodbuster (9).
 
 #### Non-Bipedal (1)
+**Prerequisites** Inescapable Shoony or Watchdog Shoony,
 You're not a big fan of the whole 'walking on two legs' thing. If you have two free hands, increase your base speed by 5.
 
 #### Scamper Underfoot (1)
@@ -116,7 +117,6 @@ Rare. Lineage. Gain a weakness to holy damage and vitality damage equal to a thi
 #### Play Dead (1)
 **Prerequisites** Ghostly Shoony, Skulldog Shoony or Rabid Shoony.
 You lie prone and pretend to be a dead monster. As long as you don't move or take any actions requiring anything other than your mind, you appear dead. To see through your ruse, another creature must succeed at a check against your Deception DC, either by [Seeking](https://2e.aonprd.com/Actions.aspx?ID=84) or [Recalling Knowledge](https://2e.aonprd.com/Actions.aspx?ID=26) (typically using Society or an appropriate Lore skill). This ability doesn't work against creatures that already know about the Shoony's undead-like appearances, unless you look particularly dead even by their standards.
-**Special** If you're a Ghostly Shoony, your ectoplasmic body parts will fade and turn invisible - potentially making you appear dismembered or as if you have gaping wounds. If you're a Skulldog Shoony or a Rabid Shoony you take advantage of your grizzled, unkept and sometimes partially rot-like outer appearance. In the latter case, you can also foam at the mouth like a recently passed corpse.
 
 ### Ancestry Feats 5
 #### Shoony Paddle (5)
@@ -126,8 +126,8 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 **Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
 
-#### Catch! (5)
-Allies within 20 feet can always successfully throw an item to you (unless there are obstacles in the way), as long as you spend a reaction catching it. You need a free hand, as while you catch it with your mouth, you need to immediately transfer it to a hand or you'll drop it on the ground. You can keep the item in your mouth if you have the Handy with your Mouth feat.
+#### Fetch! (5)
+1 action. Stride once, and Interact to pick up an item at any point on 
 
 #### Tough Tumbler (5)
 **Prerequisites** Scamper Underfoot.
