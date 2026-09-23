@@ -69,7 +69,7 @@ You're short in stature and can look like a bit of a puppy - whether that increa
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
-Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy an ectoplasmic hand.
+Parts of your body, usually your limbs, are of a semi-corporeal form similar to a ghost's ectoplasm. This usually invites a view into the bones inside of said body part. Gain Telekinetic Hand as an innate occult or divine cantrip, as you deploy one of your ectoplasmic hands at a range. You can cast and sustain up to 2 hands. Each requires a free hand, and you cannot use said hand for anything but what it could do as a Telekinetic Hand while it is used this way. If you have both hands deployed, you can combine their total carry weight 
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
 
 ### Ancestry Feats 1
@@ -205,7 +205,7 @@ You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to gr
 
 #### Phase Through (13)
 **Prerequisites** Ghostly Shoony.
-You can phase your telekinetic hands or hands through walls - potentially allowing you Interact with items on the other side. For your hands, you can only  
+You can phase your telekinetic hands through walls - potentially allowing you Interact with items on the other side. You are doing so blind unless you have a form of vision on the other side of the wall, which might require an acrobatics check to correctly locate or interact with items, or a Perception or Crafting check to identify what you are touching.
 
 ### Ancestry Feats 17
 #### Strength of Eight Legions (17)
