@@ -217,7 +217,7 @@ You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to gr
 
 #### Phase Through (13)
 **Prerequisites** Ghostly Shoony.
-You can phase your telekinetic hands through walls - potentially allowing you Interact with items on the other side. You You are doing so blind unless you have a form of vision on the other side of the wall, which might require an acrobatics check to correctly locate or interact with items, or a Perception or Crafting check to identify what you are touching.
+You can phase your telekinetic hands through walls - potentially allowing you Interact with items on the other side. When you want to do so, declare a portion of wall you're going through. The GM decides on a target for your spell which would be in the way, if there is one. Since you're doing this blind - if there is a target, you may need to make a Perception or Crafting check to identify what you are touching.
 
 ### Ancestry Feats 17
 #### Strength of Eight Legions (17)
