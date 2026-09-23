@@ -43,10 +43,12 @@ Many kitsune become travellers, either as traveling merchants, sailors, pilgrims
 *As such, here are some proposed changes to Kitsune:*
 
 - Replace Change Shape description with the following:
-  "You can transform into a Small or Medium ancestry you know with any features you choose; for example, you choose your body type, gender, and other details within the normal range for that ancestry. This shape might resemble a specific individual or be completely unique to you. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in this shape indefinitely, and you can shift back to your true kitsune form or another shape by using this action again. If you die while using an alternate shape, your body slowly shifts back to its natural form."
+  
+  "You can transform into a Small or Medium ancestry you know with any features you choose; for example, you choose your body type, gender, and other details within the normal range for that ancestry. This shape might resemble a specific individual or be completely unique to you. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You can remain in this shape indefinitely, and you can shift back to your true kitsune form or another shape by using this action again. If you die while using an alternate shape, your body instantaneously shifts back to its natural form."
 - Remove mentions of alternate forms from Kitsune heritages.
 - Remove the Myriad Forms, Shifting Faces, and Many Guises feats from the choice pool.
 - Add the following Kitsune ancestry feat to the choice pool:
+  
   **Vulpine Form – 1st Level**
   [Kitsune]
   You are capable of turning yourself into a Tiny sized fox. Unlike your other forms, this form cannot be changed, closely resembles your natural form, and is clearly supernatural to the average observer. While in this form, you gain the animal trait, imprecise scent within 30 feet, can only make strikes with unarmed attacks, and cannot use most manipulate actions that require hands. Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate any items.
