@@ -52,11 +52,11 @@ You're attentive to dangers that may befall you or your companions, but as you s
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Pursuit movement action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
-People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things.
+People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
 > Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
@@ -74,7 +74,10 @@ Some of your limbs, always including a hand, and sometimes other body parts, are
 
 ### Ancestry Feats 1
 #### Bloodhound's Nose (1)
-[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, or gotten the scent off from an item or location 
+[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, including from getting the scent from an item or location.
+
+#### Chompers (1)
+Gain a Jaws attack with the Finesse and Grapple trait.
 
 #### Pierce the Darkness (1)
 Gain darkvision, but only see in black and white.
