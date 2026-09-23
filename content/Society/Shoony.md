@@ -203,6 +203,10 @@ You can apply poisons up to your level to your jaws attack without being affecte
 #### Return to Fog (13)
 You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
 
+#### Tug of War (13)
+**Prerequisites** Chompers.
+If you have a creature grappled with your Jaws, you gain a +1 circumstance bonus to maintain your grapple on them or to use Reposition against them. On success to reposition a creature you have grappled with your jaws you can instead move them 10 feet, and on a critical success you can move the creature up to half your speed.
+
 #### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
 You can hold a grudge against 3 creatures. This increases to 5 at level 15.
@@ -213,7 +217,7 @@ You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to gr
 
 #### Phase Through (13)
 **Prerequisites** Ghostly Shoony.
-You can phase your telekinetic hands through walls - potentially allowing you Interact with items on the other side. You are doing so blind unless you have a form of vision on the other side of the wall, which might require an acrobatics check to correctly locate or interact with items, or a Perception or Crafting check to identify what you are touching.
+You can phase your telekinetic hands through walls - potentially allowing you Interact with items on the other side. You You are doing so blind unless you have a form of vision on the other side of the wall, which might require an acrobatics check to correctly locate or interact with items, or a Perception or Crafting check to identify what you are touching.
 
 ### Ancestry Feats 17
 #### Strength of Eight Legions (17)
