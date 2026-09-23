@@ -52,7 +52,7 @@ You have particularly creepy eyes. Gain Darkvision.
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and can rush forward in disturbingly swift bursts. Your can move as if your speed was 5 feet faster if you have two free hands.
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Pursuit movement action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
