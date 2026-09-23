@@ -77,7 +77,7 @@ Some of your limbs, always including a hand, and sometimes other body parts, are
 [Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, including from getting the scent from an item or location.
 
 #### Chompers (1)
-Gain a Jaws attack with the Finesse and Grapple trait.
+Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Grapple trait.
 
 #### Pierce the Darkness (1)
 Gain darkvision, but only see in black and white.
@@ -147,8 +147,8 @@ Once per day. As an action, start levitating just off the ground for 1 minute. B
 > Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite (5)
-**Prerequisites** Rabid Shoony.
-Apply a disease to those you bite. Gain resistance against diseases.
+**Prerequisites** Rabid Shoony, Jaws attack.
+Creatures you bite must make a Fortitude saving throw against your Class or Spell DC (whichever is higher), or gain an affliction. If the creature is taking Bleed damage, they gain a -2 cirAfter succeeding against this save or getting rid of the affliction after first getting it, a creature becomes immune to it for 24 hours.
 
 #### Rabid Sprint (5)
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
