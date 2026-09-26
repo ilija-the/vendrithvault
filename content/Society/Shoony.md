@@ -135,6 +135,10 @@ Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you alr
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
+#### Thrill of Adrenaline (5)
+**Prerequisites** Domesticated Shoony, Expert in Intimidation.
+The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You gain a +1 circumstance bonus to Make an Impression to and Request from creatures  you have previously successfully Coerced. 
+
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
@@ -209,7 +213,7 @@ You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival
 
 #### Eccentric Attraction (13)
 **Prerequisites** Domesticated Shoony.
-
+Your uniqueness seems to 
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
