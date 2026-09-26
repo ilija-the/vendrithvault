@@ -64,6 +64,9 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 
 > Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
 
+#### Civilised Shoony
+All things considered, you look the least like a monster from a cautionary tale out of most Shoony. Gain training in Diplomacy, or a skill of your choice if you already gain it for free. This training increases to Expert at level 3. Gain the hobnobber feat.
+
 #### Lost Puppy (Uncommon)
 You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
@@ -206,7 +209,7 @@ You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
-If you have a creature grappled with your Jaws, you gain a +1 circumstance bonus to maintain your grapple on them, and a +2 circumstance  to use Reposition against them. On success to reposition a creature you have grappled with your jaws you can instead move them 10 feet, and on a critical success you can move the creature up to half your speed.
+If you have a creature grappled with your Jaws, against them you gain a +1 circumstance bonus to maintain your grapple and a +2 circumstance bonus to Reposition. On success to reposition a creature you have grappled with your jaws you can move them 5 feet further, at the same time of which you may take a Step (as you pull them along).
 
 #### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
