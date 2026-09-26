@@ -70,7 +70,7 @@ You're short in stature and can look like a bit of a puppy - whether that increa
 
 #### Ghostly Shoony (Rare)
 Some of your limbs, always including a hand, and sometimes other body parts, are of a semi-corporeal appearance similar to a ghost's ectoplasm. Gain Telekinetic Hand as an innate occult or divine cantrip.
-> Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
+> Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Flights of Fancy (9), Phase Through (13).
 
 ### Ancestry Feats 1
 #### Bloodhound's Nose (1)
@@ -124,7 +124,7 @@ You lie prone and pretend to be a dead monster. As long as you don't move or tak
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### Creepy Smile (5)
-Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual action, such as when using intimidating glare.
+Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual trait, such as when using intimidating glare.
 
 #### Fetch! (5)
 1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
@@ -147,7 +147,7 @@ You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to gr
 
 #### Ghostly Hover (5)
 **Prerequisites** Ghostly Shoony.
-Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
+Once per day. As an action, start levitating just off the ground for 5 minutes. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
 > Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite (5)
@@ -174,13 +174,13 @@ You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actio
 **Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
-You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
+You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
 
 #### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
 The curse's circumstance bonus increases to +4.
 
-#### Ghostly Leaps (9)
+#### Flights of Fancy (9)
 **Prerequisites** Ghostly Hover.
 Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
@@ -206,7 +206,7 @@ You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
-If you have a creature grappled with your Jaws, you gain a +1 circumstance bonus to maintain your grapple on them or to use Reposition against them. On success to reposition a creature you have grappled with your jaws you can instead move them 10 feet, and on a critical success you can move the creature up to half your speed.
+If you have a creature grappled with your Jaws, you gain a +1 circumstance bonus to maintain your grapple on them, and a +2 circumstance  to use Reposition against them. On success to reposition a creature you have grappled with your jaws you can instead move them 10 feet, and on a critical success you can move the creature up to half your speed.
 
 #### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
