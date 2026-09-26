@@ -169,7 +169,7 @@ The slight fear you instil in others by nature raises their heartrate in a way t
 Your movement ends only when you critically fail an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) check to [Tumble Through](https://2e.aonprd.com/Actions.aspx?ID=29) an enemy’s space (or when you don’t have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.
 
 #### Loyal Empath (5)
-**Prerequisites** Lost Puppy.
+**Prerequisites** Lost Puppy or Watchdog Shoony.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
 > Leads to... Steadfast Ally (13).
 
