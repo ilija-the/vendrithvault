@@ -92,6 +92,13 @@ Successes against fear effects become critical successes. +1 circumstance bonus 
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
+#### Shoony Lore (1)
+
+#### Shoony Weapon Familiarity (1)
+You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [whip](https://2e.aonprd.com/Weapons.aspx?ID=404) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
+  
+At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
+
 #### Non-Bipedal (1)
 **Prerequisites** Inescapable Shoony or Watchdog Shoony,
 You're not a big fan of the whole 'walking on two legs' thing. If you have two free hands, increase your base speed by 5.
@@ -137,7 +144,7 @@ Gain half the Shoony's Curse circumstance bonus when breaking into a place you h
 
 #### Thrill of Adrenaline (5)
 **Prerequisites** Expert in Intimidation.
-The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if you wrong them in a serious way 
+The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if they feel wronged by you in a serious way. 
 
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
