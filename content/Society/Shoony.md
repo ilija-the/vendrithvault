@@ -123,7 +123,7 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
 
 #### Fetch! (5)
-1 action. Stride once, and Interact to pick up an item at any point on the way. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
+1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
 
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
