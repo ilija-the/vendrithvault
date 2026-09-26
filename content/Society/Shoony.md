@@ -79,23 +79,26 @@ Some of your limbs, always including a hand, and sometimes other body parts, are
 #### Bloodhound's Nose (1)
 [Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, including from getting the scent from an item or location.
 
+#### Courageous Breed (1)
+[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
+
 #### Chompers (1)
 Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Grapple trait.
 
 #### Pierce the Darkness (1)
 Gain darkvision, but only see in black and white.
 
-#### Shoony Courage (1)
-Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
-
 #### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
 #### Shoony Lore (1)
+You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) and [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=49). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.  
+  
+You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) general feat for [Shoony Lore](https://2e.aonprd.com/Skills.aspx?ID=41).
 
 #### Shoony Weapon Familiarity (1)
-You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [whip](https://2e.aonprd.com/Weapons.aspx?ID=404) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
+You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
   
 At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
 
