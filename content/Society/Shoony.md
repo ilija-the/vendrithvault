@@ -136,8 +136,8 @@ Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you alr
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
 #### Thrill of Adrenaline (5)
-**Prerequisites** Domesticated Shoony, Expert in Intimidation.
-The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You gain a +1 circumstance bonus to Make an Impression to and Request from creatures  you have previously successfully Coerced. 
+**Prerequisites** Expert in Intimidation.
+The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if you wrong them in a serious way 
 
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
