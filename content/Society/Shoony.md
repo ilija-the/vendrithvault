@@ -75,6 +75,10 @@ You're short in stature and can look like a bit of a puppy - whether that increa
 Some of your limbs, always including a hand, and sometimes other body parts, are of a semi-corporeal appearance similar to a ghost's ectoplasm. Gain Telekinetic Hand as an innate occult or divine cantrip.
 > Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Flights of Fancy (9), Phase Through (13).
 
+%%
+### Radiant shoony (Rare)
+For some reason you lack the eerie features of most shoony, and instead seem to stand upright and glow with an angelic-like attitude.
+%%
 ### Ancestry Feats 1
 #### Bloodhound's Nose (1)
 [Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, including from getting the scent from an item or location.
