@@ -217,8 +217,8 @@ Your body becomes resistant, your hardened bones deflecting weapons and other fo
 You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
 
 #### Poison Mouth (9)
-**Prerequisites** Sickly Bite.
-You can apply poisons up to your level to your jaws attack without being affected by them, though you can still be poisoned by fully ingesting an ingested poison, but you gain the bonus from Rabid Shoony also against all Poisons.
+**Prerequisites** Rabid Shoony.
+Gain the bonus from Rabid Shoony also against all Poisons, and Poison resistance equal to half your level. **Special** If you have a jaws unarmed attack you can apply poisons up to your level to your jaws attack without being affected in any harmful way, though you can still be poisoned by fully ingesting an ingested poison. The potential penalty to saving throws for the target from the Sickly Bite feat also apply.
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
