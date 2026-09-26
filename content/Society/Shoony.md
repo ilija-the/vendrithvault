@@ -49,7 +49,7 @@ Vendrith Shoony get access to these heritages, instead of the default Shoony one
 
 #### Watchdog Shoony
 You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. 
-> Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
+> Leads to... Canine Training (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
 You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Shoony Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
@@ -152,13 +152,17 @@ Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you alr
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
-#### Thrill of Adrenaline (5)
-**Prerequisites** Expert in Intimidation.
-The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if they feel wronged by you in a serious way. 
+#### Ambush Awareness (5)
+**Prerequisites** Watchdog Shoony
+You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls, increasing to +3 if any enemy uses Stealth as their initiative. These bonuses rise to +3 and +4 respectively if you gain Master in Perception. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
+
+#### Thrill of Adrenaline (5)
+**Prerequisites** Expert in Intimidation.
+The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if they feel wronged by you in a serious way. 
 
 #### Tough Tumbler (5)
 **Prerequisites** Scamper Underfoot.
@@ -186,9 +190,6 @@ Creatures you bite must make a Fortitude saving throw against your Class or Spel
 #### Rabid Sprint (5)
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
-
-#### Ambush Awareness (5)
-You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls, increasing to +3 if any enemy uses Stealth as their initiative. These bonuses rise to +3 and +4 respectively if you gain Master in Perception. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 ### Ancestry Feats 9
 #### Guardian's Growl (9)
