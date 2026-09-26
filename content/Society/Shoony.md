@@ -56,7 +56,7 @@ You move in erratic ways, and rush forward in disturbingly swift bursts. Gain th
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
-People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
+People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against disease, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
 > Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
@@ -138,6 +138,9 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 
 #### Creepy Smile (5)
 Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual trait, such as when using intimidating glare.
+%%
+#### Civilised Grace
+%%
 
 #### Fetch! (5)
 1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
@@ -215,7 +218,7 @@ You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to
 
 #### Poison Mouth (9)
 **Prerequisites** Sickly Bite.
-You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison.
+You can apply poisons up to your level to your jaws attack without being affected by them, though you can still be poisoned by fully ingesting an ingested poison, but you gain the bonus from Rabid Shoony also against all Poisons.
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
