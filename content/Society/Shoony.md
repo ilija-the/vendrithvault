@@ -188,7 +188,7 @@ Creatures you bite must make a Fortitude saving throw against your Class or Spel
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
 #### Ambush Awareness (5)
-You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
+You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls, increasing to +3 if any enemy uses Stealth as their initiative. These bonuses rise to +3 and +4 respectively if you gain Master in Perception. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 ### Ancestry Feats 9
 #### Guardian's Growl (9)
