@@ -52,7 +52,7 @@ You're attentive to dangers that may befall you or your companions, but as you s
 > Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Shoony Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
@@ -68,7 +68,7 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 All things considered, you look the least like a monster from a cautionary tale out of most Shoony. Still not the most suited for public socialisation, you probably find the thrills of engaging with other people within guild halls and secret societies. Gain training in Diplomacy or Deception, or a skill of your choice if you already gain both for free. This proficiency increases to Expert at level 3. Gain the Hobnobber feat if you chose diplomacy, the Charming Liar feat if you chose Deception, or one of your choice if you gained both skills for free from elsewhere.
 
 #### Lost Puppy (Uncommon)
-You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
+You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +3 circumstance bonus to Aid allies on any Charisma based check.
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
