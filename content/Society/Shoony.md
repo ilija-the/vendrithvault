@@ -64,8 +64,8 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 
 > Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
 
-#### Civilised Shoony
-All things considered, you look the least like a monster from a cautionary tale out of most Shoony. Gain training in Diplomacy, or a skill of your choice if you already gain it for free. This training increases to Expert at level 3. Gain the hobnobber feat.
+#### Domesticated Shoony
+All things considered, you look the least like a monster from a cautionary tale out of most Shoony. Still not the most suited for public socialisation, you probably find the thrills of engaging with other people within guild halls and secret societies. Gain training in Diplomacy or Deception, or a skill of your choice if you already gain both for free. This proficiency increases to Expert at level 3. Gain the Hobnobber feat if you chose diplomacy, the Charming Liar feat if you chose Deception, or one of your choice if you gained both skills for free from elsewhere.
 
 #### Lost Puppy (Uncommon)
 You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
@@ -206,6 +206,10 @@ You can apply poisons up to your level to your jaws attack without being affecte
 ### Ancestry Feats 13
 #### Return to Fog (13)
 You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
+
+#### Eccentric Attraction (13)
+**Prerequisites** Domesticated Shoony.
+
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
