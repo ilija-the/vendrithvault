@@ -93,6 +93,10 @@ Successes against fear effects become critical successes. +1 circumstance bonus 
 **Prerequisites** Inescapable Shoony or Watchdog Shoony,
 You're not a big fan of the whole 'walking on two legs' thing. If you have two free hands, increase your base speed by 5.
 
+#### Canine Training (1)
+**Prerequisites** Inescapable Shoony or Watchdog Shoony.
+When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1.
+
 #### Scamper Underfoot (1)
 **Prerequisites** Lost Puppy, Small size. 
 Gain a +1 circumstance bonus to acrobatics to tumble through medium or larger enemies, and they don't become difficult terrain.
@@ -120,7 +124,7 @@ You lie prone and pretend to be a dead monster. As long as you don't move or tak
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### Creepy Smile (5)
-Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
+Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual action, such as when using intimidating glare.
 
 #### Fetch! (5)
 1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
@@ -159,18 +163,15 @@ Creatures you bite must make a Fortitude saving throw against your Class or Spel
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
-#### Canine Training (5)
-**Prerequisites** Inescapable Shoony or Watchdog Shoony.
-When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1. In addition, you gain a +2 circumstance bonus to checks to [Aid](https://2e.aonprd.com/Actions.aspx?ID=2292), and your allies gain a +2 circumstance bonus to checks to Aid you.
-
 #### Ambush Awareness (5)
 You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
 
 ### Ancestry Feats 9
-#### Predator's Growl (9)
+#### Guardian's Growl (9)
 **Prerequisites** expert in [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7)  
 **Trigger** You successfully [Seek](https://2e.aonprd.com/Actions.aspx?ID=2301) a [hidden](https://2e.aonprd.com/Conditions.aspx?ID=79) or [undetected](https://2e.aonprd.com/Conditions.aspx?ID=96) creature.  
 You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature you just found. You don't take the –4 penalty for not sharing a language with the creature.
+**Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
 You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
