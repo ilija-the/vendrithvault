@@ -230,7 +230,7 @@ Your body becomes resistant, your hardened bones deflecting weapons and other fo
 
 #### Sodbuster (9)
 **Prerequisites** Dig Quickly.
-You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
+You gain a burrow Speed of 10 feet through loose soil or dirt. This speed increases to 15 feet at level 11.
 
 #### Poison Mouth (9)
 **Prerequisites** Rabid Shoony.
@@ -238,11 +238,11 @@ Gain the bonus from Rabid Shoony also against all Poisons, and Poison resistance
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
-You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
+You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 8 instead of 11, and for a creature Concealed by fog it is 3 instead of 5.
 
 #### Eccentric Attraction (13)
 **Prerequisites** Domesticated Shoony.
-Your uniqueness seems to 
+%%Your uniqueness seems to %%
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
