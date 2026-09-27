@@ -52,8 +52,8 @@ You're attentive to dangers that may befall you or your companions, but as you s
 > Leads to... Canine Training (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Shoony Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
-> Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the **Shoony Pursuit** action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
+> Leads to... Non-Bipedal (1), Canine Training (1), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against disease, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
@@ -88,16 +88,17 @@ For some reason you lack the eerie features of most shoony, and instead seem to 
 
 #### Chompers (1)
 Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Grapple trait.
+> Leads too... Sickly Bite (5).
 
 #### Pierce the Darkness (1)
-Gain darkvision, but only see in black and white.
+Gain Darkvision, but only see in black and white.
 
 #### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
 #### Shoony Lore (1)
-You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) and [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=49). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.  
+You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in Religion and Intimidation. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. 
   
 You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) general feat for [Shoony Lore](https://2e.aonprd.com/Skills.aspx?ID=41).
 
