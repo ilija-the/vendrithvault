@@ -1,0 +1,1 @@
+Located on the far west side of the [[Isle of Flod]] hugging the long mountainside, the Nishi Sekai Clan is a well defended and lively territory. While its villages are said to be teeming with people, it is also said to be an eerie place that nobody wants to stay in besides its natives and the one remaining family member, [[Ansonī Fōdo]].

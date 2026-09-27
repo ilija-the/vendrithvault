@@ -18,4 +18,4 @@ The Sanitorium really consists of a number of bodies, but power is most concentr
 The Sanitorium exerts considerable influence, and most of the other states of Mogxa are [[Feudalism]] of the Sanitorium. The Sanitorium is also increasingly involved in directing the [[Horizan Guild Association]], especially since many Crusader-aligned Canathi began to leave the guild in protest. Another important point of leverage over the guild is that the Sanitationist-controlled port of [[Singsong]] has become the HGA's most used departure port towards Horiza.
 
 
- ![InkDrawing](<_admin/Assets/_admin/Ink/2026.9.23 - 19.33pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=280&aspectRatio=0.551&viewBoxX=5.203&viewBoxY=123.341&viewBoxW=1905.633&viewBoxH=3459.419)
+ ![InkDrawing](<2026.9.23 - 19.33pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=280&aspectRatio=0.551&viewBoxX=5.203&viewBoxY=123.341&viewBoxW=1905.633&viewBoxH=3459.419)

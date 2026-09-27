@@ -1,0 +1,1 @@
+Ansonī Fōdo is an old lizardfolk inventor and leader of the [[Nishi Sekai Clan]].
