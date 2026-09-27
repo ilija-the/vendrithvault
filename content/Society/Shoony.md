@@ -49,14 +49,14 @@ Vendrith Shoony get access to these heritages, instead of the default Shoony one
 
 #### Watchdog Shoony
 You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. 
-> Leads to... Canine Training (5), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
+> Leads to... Canine Training (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Shoony Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
 > Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
 
 #### Rabid Shoony
-People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
+People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against disease, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
 > Leads to... Rabid Sprint (5), Sickly Bite (5), Poison Mouth (9).
 
 #### Skulldog Shoony
@@ -64,17 +64,27 @@ You have bits and pieces of exoskeleton, usually in the form of a skull over you
 
 > Leads to... Play Dead (1), Already Dead (1), At Home with Death (9), Skeletal Resistance (9).
 
+#### Domesticated Shoony
+All things considered, you look the least like a monster from a cautionary tale out of most Shoony. Still not the most suited for public socialisation, you probably find the thrills of engaging with other people within guild halls and secret societies. Gain training in Diplomacy or Deception, or a skill of your choice if you already gain both for free. This proficiency increases to Expert at level 3. Gain the Hobnobber feat if you chose diplomacy, the Charming Liar feat if you chose Deception, or one of your choice if you gained both skills for free from elsewhere.
+
 #### Lost Puppy (Uncommon)
-You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +2 circumstance bonus to Aid allies on any Charisma based check.
+You're short in stature and can look like a bit of a puppy - whether that increases your creep or cuteness varies on how you use it. *You're **Small** instead of Medium*. Gain a skill training in a Charisma based skill of your choice, or any skill if you already had training in all of them. You gain a +3 circumstance bonus to Aid allies on any Charisma based check.
 > Leads to... Scamper Underfoot (1), Tough Tumbler (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Ghostly Shoony (Rare)
 Some of your limbs, always including a hand, and sometimes other body parts, are of a semi-corporeal appearance similar to a ghost's ectoplasm. Gain Telekinetic Hand as an innate occult or divine cantrip.
-> Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Ghostly Leaps (9), Phase Through (13).
+> Leads to... Ectoplasmic Shield (1), Eerie Glow (1), Already Dead (1), Ghostly Hover (5), Flights of Fancy (9), Phase Through (13).
 
+%%
+### Radiant shoony (Rare)
+For some reason you lack the eerie features of most shoony, and instead seem to stand upright and glow with an angelic-like attitude.
+%%
 ### Ancestry Feats 1
 #### Bloodhound's Nose (1)
 [Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Gain 30ft imprecise scent. You gain a +1 circumstance bonus to Track creatures you have smelled before, including from getting the scent from an item or location.
+
+#### Courageous Breed (1)
+[Lineage](https://2e.aonprd.com/Traits.aspx?ID=641). Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
 
 #### Chompers (1)
 Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Grapple trait.
@@ -82,16 +92,27 @@ Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Gra
 #### Pierce the Darkness (1)
 Gain darkvision, but only see in black and white.
 
-#### Shoony Courage (1)
-Successes against fear effects become critical successes. +1 circumstance bonus to will saves and DCs against fear, +2 if its against demoralise.
-
 #### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
+#### Shoony Lore (1)
+You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) and [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=49). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.  
+  
+You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) general feat for [Shoony Lore](https://2e.aonprd.com/Skills.aspx?ID=41).
+
+#### Shoony Weapon Familiarity (1)
+You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
+  
+At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
+
 #### Non-Bipedal (1)
 **Prerequisites** Inescapable Shoony or Watchdog Shoony,
 You're not a big fan of the whole 'walking on two legs' thing. If you have two free hands, increase your base speed by 5.
+
+#### Canine Training (1)
+**Prerequisites** Inescapable Shoony or Watchdog Shoony.
+When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1.
 
 #### Scamper Underfoot (1)
 **Prerequisites** Lost Puppy, Small size. 
@@ -120,30 +141,41 @@ You lie prone and pretend to be a dead monster. As long as you don't move or tak
 You ignore difficult terrain and greater difficult terrain from bogs and shallow water. When you roll a success to [Swim](https://2e.aonprd.com/Actions.aspx?ID=39), you get a critical success instead.
 
 #### Creepy Smile (5)
-Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus.
+Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual trait, such as when using intimidating glare.
+%%
+#### Civilised Grace
+%%
 
 #### Fetch! (5)
-1 action. Stride once, and Interact to pick up an item at any point on the way. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
+1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
 
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
 
+#### Ambush Awareness (5)
+**Prerequisites** Watchdog Shoony
+You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls, increasing to +3 if any enemy uses Stealth as their initiative. These bonuses rise to +3 and +4 respectively if you gain Master in Perception. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
+
 #### To Deny a Shoony (5)
 **Prerequisites** Shoony's Curse.
 You damn those who reject your right to enter still. When rejected, choose one creature responsible. You gain a grudge against this creature until you decide to drop it or gain a new grudge. You gain a status bonus to damage rolls, intimidation checks and stealth checks against this creature equal to half the circumstance bonus.
+
+#### Thrill of Adrenaline (5)
+**Prerequisites** Expert in Intimidation.
+The slight fear you instil in others by nature raises their heartrate in a way that feels exciting. You can add a +2 circumstance bonus to Make an Impression and Request against creatures you have successfully Coerced in the past, though the activities gain the Fear trait (which creatures may gain benefits against). Creatures remain susceptible to this indefinitely once you've Coerced them, though the GM may remove the possibility if they feel wronged by you in a serious way. 
 
 #### Tough Tumbler (5)
 **Prerequisites** Scamper Underfoot.
 Your movement ends only when you critically fail an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=1) check to [Tumble Through](https://2e.aonprd.com/Actions.aspx?ID=29) an enemy’s space (or when you don’t have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.
 
 #### Loyal Empath (5)
-**Prerequisites** Lost Puppy.
+**Prerequisites** Lost Puppy or Watchdog Shoony.
 You can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction to grant a bonus to another creature’s Will saving throw.
 > Leads to... Steadfast Ally (13).
 
 #### Ghostly Hover (5)
 **Prerequisites** Ghostly Shoony.
-Once per day. As an action, start levitating just off the ground for 1 minute. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
+Once per day. As an action, start levitating just off the ground for 5 minutes. Become immune to non-magical difficult terrain and ground-based hazards. Also gain access to arrest a fall while active.
 > Leads to... Ghostly Leaps (9).
 
 #### Sickly Bite (5)
@@ -159,27 +191,21 @@ Creatures you bite must make a Fortitude saving throw against your Class or Spel
 **Prerequisites** Rabid Shoony or Inescapable Shoony.
 2 actions, requirement: both hands free. You run on all fours as fast as you can. Stride three times.
 
-#### Canine Training (5)
-**Prerequisites** Inescapable Shoony or Watchdog Shoony.
-When you [Scout](https://2e.aonprd.com/Actions.aspx?ID=2629), you grant your party a +2 circumstance bonus to initiative rolls instead of the normal +1. In addition, you gain a +2 circumstance bonus to checks to [Aid](https://2e.aonprd.com/Actions.aspx?ID=2292), and your allies gain a +2 circumstance bonus to checks to Aid you.
-
-#### Ambush Awareness (5)
-You gain a +2 circumstance bonus to Perception checks attempted as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.
-
 ### Ancestry Feats 9
-#### Predator's Growl (9)
+#### Guardian's Growl (9)
 **Prerequisites** expert in [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7)  
 **Trigger** You successfully [Seek](https://2e.aonprd.com/Actions.aspx?ID=2301) a [hidden](https://2e.aonprd.com/Conditions.aspx?ID=79) or [undetected](https://2e.aonprd.com/Conditions.aspx?ID=96) creature.  
 You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature you just found. You don't take the –4 penalty for not sharing a language with the creature.
+**Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
-You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first.
+You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
 
 #### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
 The curse's circumstance bonus increases to +4.
 
-#### Ghostly Leaps (9)
+#### Flights of Fancy (9)
 **Prerequisites** Ghostly Hover.
 Unlimited use 'Flight' action but you have to end your turn on the ground, UNLESS you have ghostly hover active.
 
@@ -196,16 +222,20 @@ Your body becomes resistant, your hardened bones deflecting weapons and other fo
 You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
 
 #### Poison Mouth (9)
-**Prerequisites** Sickly Bite.
-You can apply poisons up to your level to your jaws attack without being affected by them. You can still be poisoned by fully ingesting an ingested poison.
+**Prerequisites** Rabid Shoony.
+Gain the bonus from Rabid Shoony also against all Poisons, and Poison resistance equal to half your level. **Special** If you have a jaws unarmed attack you can apply poisons up to your level to your jaws attack without being affected in any harmful way, though you can still be poisoned by fully ingesting an ingested poison. The potential penalty to saving throws for the target from the Sickly Bite feat also apply.
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
 You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
 
+#### Eccentric Attraction (13)
+**Prerequisites** Domesticated Shoony.
+Your uniqueness seems to 
+
 #### Tug of War (13)
 **Prerequisites** Chompers.
-If you have a creature grappled with your Jaws, you gain a +1 circumstance bonus to maintain your grapple on them or to use Reposition against them. On success to reposition a creature you have grappled with your jaws you can instead move them 10 feet, and on a critical success you can move the creature up to half your speed.
+If you have a creature grappled with your Jaws, against them you gain a +1 circumstance bonus to maintain your grapple and a +2 circumstance bonus to Reposition. On success to reposition a creature you have grappled with your jaws you can move them 5 feet further, at the same time of which you may take a Step (as you pull them along).
 
 #### Curse you All (13)
 **Prerequisites** To Deny a Shoony.
