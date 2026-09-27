@@ -103,12 +103,13 @@ You've learned what you can about your mysterious and dispersed people, as well 
 You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) general feat for [Shoony Lore](https://2e.aonprd.com/Skills.aspx?ID=41).
 
 #### Shoony Weapon Familiarity (1)
-You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
+%%Dracula themed weapons%%
+	You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
   
 At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
 
 #### Suspicious Eyes (1)
-%%Watchful Halfling feat
+%%Watchful Halfling feat%%
 You pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to Perception checks when using the [Sense Motive](https://2e.aonprd.com/Actions.aspx?ID=85) basic action to notice enchanted or possessed characters. If you aren't actively using Sense Motive on an enchanted or possessed character, the GM rolls a secret check, without your usual circumstance bonus, for you to potentially notice the enchantment or possession anyway.  
   
 In addition to using it for skill checks, you can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) basic action to grant a bonus to another creature's saving throw or other check to overcome enchantment or possession. As usual for Aid, you need to prepare by using an action on your turn to encourage the creature to fight against the effect.
@@ -206,7 +207,7 @@ You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actio
 **Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
-You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
+You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. While the action keeps the Manipulate trait, you automatically succeeds the flat check from being grappled when you use this version. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable use jaws attacks, do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
 
 #### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
