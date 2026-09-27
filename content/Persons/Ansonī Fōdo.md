@@ -1,1 +1,7 @@
-Ansonī Fōdo is an old lizardfolk inventor and leader of the [[Nishi Sekai Clan]].
+---
+tags:
+  - ancestries/iruxi
+  - places/vilhun/flod
+  - campaigns/hunts-of-vilhun
+---
+Ansonī Fōdo is an old [[iruxi]] [[Inventor|inventor]] and leader of the [[Nishi Sekai Clan]].
