@@ -152,10 +152,12 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual trait, such as when using intimidating glare.
 %%
 #### Civilised Grace
+**Prerequisite** Domesticated Shoony or Lost Puppy.
+Something to do with the Domesticated Shoony's affect
 %%
 
 #### Fetch! (5)
-1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
+1 Action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
 
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
@@ -207,7 +209,8 @@ You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actio
 **Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
-You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. While the action keeps the Manipulate trait, you automatically succeeds the flat check from being grappled when you use this version. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable use jaws attacks, do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
+%% Alternate name "What's in your Mouth!"%%
+You can as an action prepare an item that you carry in your mouth. You can safely Release the item into a free hand again as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. While the action keeps the Manipulate trait, you automatically succeeds the flat check from being grappled when you use this version. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable use jaws attacks, do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
 
 #### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
