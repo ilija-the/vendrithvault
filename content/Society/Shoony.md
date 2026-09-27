@@ -48,12 +48,12 @@ Vendrith Shoony, also known as Eerie Shoony, share some of the core of [Shoony](
 Vendrith Shoony get access to these heritages, instead of the default Shoony ones.
 
 #### Watchdog Shoony
-You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. 
-> Leads to... Canine Training (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
+You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. Your Perception DC against other's attempts to Sneak or Hide gains a +2 circumstance bonus, and you the same bonus to Seek a Hidden creature within 30 feet of you.
+> Leads to... Canine Training (1), Suspicious Eyes (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
 You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the **Shoony Pursuit** action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
-> Leads to... Non-Bipedal (1), Canine Training (1), Rabid Sprint (5).
+> Leads to... Non-Bipedal (1), Suspicious Eyes (1), Canine Training (1), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against disease, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
@@ -106,6 +106,12 @@ You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) 
 You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
   
 At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
+
+#### Suspicious Eyes (1)
+%%Watchful Halfling feat
+You pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to Perception checks when using the [Sense Motive](https://2e.aonprd.com/Actions.aspx?ID=85) basic action to notice enchanted or possessed characters. If you aren't actively using Sense Motive on an enchanted or possessed character, the GM rolls a secret check, without your usual circumstance bonus, for you to potentially notice the enchantment or possession anyway.  
+  
+In addition to using it for skill checks, you can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) basic action to grant a bonus to another creature's saving throw or other check to overcome enchantment or possession. As usual for Aid, you need to prepare by using an action on your turn to encourage the creature to fight against the effect.
 
 #### Non-Bipedal (1)
 **Prerequisites** Inescapable Shoony or Watchdog Shoony,
