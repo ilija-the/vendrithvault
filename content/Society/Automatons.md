@@ -42,6 +42,14 @@ The existence and treatment of Automatons is often a topic of debate, with a not
 
 ### Ancestry Feats
 
+## Possible Changes
+
+*The world of Vilhun is primarily intended to only have two clockwork-style robot ancestries, [[Automatons]], and the ancient [[Elves]]. As such, the remaining cast of robot-like ancestries are in high likelyhood of being folded into these pre-existing ancestries.*
+
+*As such, here are some proposed changes to Automatons:
+- Add Android feats to the Automaton choice pool with the Uncommon and Automaton traits. *In the future, the list may be narrowed down and the uncommon trait removed.*
+- Add Conrasu feats to the Automaton choice pool with the Uncommon and Automaton traits. *In the future, the list may be narrowed down and the uncommon trait removed.*
+
 
 ---
 ###### Notes

@@ -48,6 +48,14 @@ The formula for creating new elves appears to be lost - despite countless attemp
 
 ### Ancestry Feats
 
+## Possible Changes
+
+*The world of Vilhun is primarily intended to only have two clockwork-style robot ancestries, [[Automatons]], and the ancient [[Elves]]. As such, the remaining cast of robot-like ancestries are in high likelyhood of being folded into these pre-existing ancestries.*
+
+*As such, here are some proposed changes to Elves:
+- Add Android feats to the Elf choice pool with the Uncommon and Automaton traits. *In the future, the list may be narrowed down and the uncommon trait removed.*
+- Add Conrasu feats to the Elf choice pool with the Uncommon and Automaton traits. *In the future, the list may be narrowed down and the uncommon trait removed.
+
 
 ---
 ###### Notes
