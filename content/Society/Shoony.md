@@ -48,12 +48,12 @@ Vendrith Shoony, also known as Eerie Shoony, share some of the core of [Shoony](
 Vendrith Shoony get access to these heritages, instead of the default Shoony ones.
 
 #### Watchdog Shoony
-You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. 
-> Leads to... Canine Training (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
+You're attentive to dangers that may befall you or your companions, but as you sit watch you have a glassy look on your eyes, as if staring into the abyss. Your Perception DC against other's attempts to Sneak or Hide gains a +2 circumstance bonus, and you the same bonus to Seek a Hidden creature within 30 feet of you.
+> Leads to... Canine Training (1), Suspicious Eyes (1), Ambush Awareness (5), Loyal Empath (5), Steadfast Ally (13).
 
 #### Inescapable Shoony
-You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the Shoony Pursuit action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
-> Leads to... Non-Bipedal (1), Canine Training (5), Rabid Sprint (5).
+You move in erratic ways, and rush forward in disturbingly swift bursts. Gain the **Shoony Pursuit** action: 1 action, movement. Requirement: not adjacent to an enemy. Stride up to your speed with a +5 feet circumstance bonus to your speed, or a +10 if you have two free hands. You must move in a straight line towards an enemy, and end up closer to an enemy than you started.
+> Leads to... Non-Bipedal (1), Suspicious Eyes (1), Canine Training (1), Rabid Sprint (5).
 
 #### Rabid Shoony
 People aren't sure if you're quite healthy, and you occasionally foam at the mouth in the heat of things. You gain a +2 circumstance bonus to saving throws against disease, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead.
@@ -88,23 +88,31 @@ For some reason you lack the eerie features of most shoony, and instead seem to 
 
 #### Chompers (1)
 Gain a Jaws attack dealing 1d4 piercing damage with the Unarmed, Finesse and Grapple trait.
+> Leads too... Sickly Bite (5).
 
 #### Pierce the Darkness (1)
-Gain darkvision, but only see in black and white.
+Gain Darkvision, but only see in black and white.
 
 #### Dig Quickly (1)
 2 Actions to dig your tile into difficult terrain. Also can help put out a fire adjacent.
 > Leads to... Sodbuster (9).
 
 #### Shoony Lore (1)
-You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) and [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=49). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.  
+You've learned what you can about your mysterious and dispersed people, as well as how you best survive in this world frightened by you. You gain the trained proficiency rank in Religion and Intimidation. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. 
   
 You also gain the [Additional Lore](https://2e.aonprd.com/Feats.aspx?ID=5114) general feat for [Shoony Lore](https://2e.aonprd.com/Skills.aspx?ID=41).
 
 #### Shoony Weapon Familiarity (1)
-You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
+%%Dracula themed weapons%%
+	You gain access to all [uncommon](https://2e.aonprd.com/Traits.aspx?ID=721) weapons with the Shoony trait and those listed here. You have familiarity with weapons with the Shoony trait plus the [Whip](https://2e.aonprd.com/Weapons.aspx?ID=404), [Scorpion Whip](https://2e.aonprd.com/Weapons.aspx?ID=114) [Spiked Chain](https://2e.aonprd.com/Weapons.aspx?ID=417) and [Scourge](https://2e.aonprd.com/Weapons.aspx?ID=531) — for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.  
   
 At 5th level, whenever you get a critical hit with one of these weapons, you get its [critical specialization effect](https://2e.aonprd.com/Rules.aspx?ID=235).
+
+#### Suspicious Eyes (1)
+%%Watchful Halfling feat%%
+You pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to Perception checks when using the [Sense Motive](https://2e.aonprd.com/Actions.aspx?ID=85) basic action to notice enchanted or possessed characters. If you aren't actively using Sense Motive on an enchanted or possessed character, the GM rolls a secret check, without your usual circumstance bonus, for you to potentially notice the enchantment or possession anyway.  
+  
+In addition to using it for skill checks, you can use the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) basic action to grant a bonus to another creature's saving throw or other check to overcome enchantment or possession. As usual for Aid, you need to prepare by using an action on your turn to encourage the creature to fight against the effect.
 
 #### Non-Bipedal (1)
 **Prerequisites** Inescapable Shoony or Watchdog Shoony,
@@ -144,10 +152,12 @@ You ignore difficult terrain and greater difficult terrain from bogs and shallow
 Gain [intimidating glare](https://2e.aonprd.com/Feats.aspx?ID=5162) - if you already have it as a chosen feat, you can immediately retrain out of it. When you [Demoralise](https://2e.aonprd.com/Actions.aspx?ID=2395) a creature from dim light or darkness against someone who can't see fully at that level of light, gain a +1 circumstance bonus. This only works if it has the visual trait, such as when using intimidating glare.
 %%
 #### Civilised Grace
+**Prerequisite** Domesticated Shoony or Lost Puppy.
+Something to do with the Domesticated Shoony's affect
 %%
 
 #### Fetch! (5)
-1 action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
+1 Action. Flourish. Stride once, and you can Interact to pick up an item at any point on the way. You gain a +10 circumstance bonus to your speed for this movement as long as you do Interact to pick up an item. If you have the Handy with your Mouth feat, you can pick the item up with your mouth.
 
 #### Invited by other Means (5)
 Gain half the Shoony's Curse circumstance bonus when breaking into a place you have been denied entry. Applies to Thievery Checks to Pick a Lock and and Athletics checks to  Force Open.
@@ -199,7 +209,8 @@ You give a throaty growl to attempt to [Demoralize](https://2e.aonprd.com/Actio
 **Special** If you have the Creepy Smile ancestry feat, you may add its bonus to this check if applicable despite not being a visual intimidation.
 
 #### Handy with your Mouth (9)
-You can as an action prepare an item that you carry in your mouth. You can move the item into a free hand as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
+%% Alternate name "What's in your Mouth!"%%
+You can as an action prepare an item that you carry in your mouth. You can safely Release the item into a free hand again as a free action, or if the item is a consumable, you can consume it yourself as a free action without needing to hold it in a hand first. While the action keeps the Manipulate trait, you automatically succeeds the flat check from being grappled when you use this version. As long as you an item in your mouth your speech is noticeably difficult to understand, and you are unable use jaws attacks, do auditory actions that require you to speak like Demoralise, and to cast Spells without the subtle trait.
 
 #### Greater Curse (9)
 **Prerequisites** Shoony's Curse.
@@ -219,7 +230,7 @@ Your body becomes resistant, your hardened bones deflecting weapons and other fo
 
 #### Sodbuster (9)
 **Prerequisites** Dig Quickly.
-You gain a burrow Speed of 10 feet through loose soil or dirt. This increases to 15 at level 11.
+You gain a burrow Speed of 10 feet through loose soil or dirt. This speed increases to 15 feet at level 11.
 
 #### Poison Mouth (9)
 **Prerequisites** Rabid Shoony.
@@ -227,11 +238,11 @@ Gain the bonus from Rabid Shoony also against all Poisons, and Poison resistance
 
 ### Ancestry Feats 13
 #### Return to Fog (13)
-You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 9 instead of 11, and for a creature Concealed by fog it is 4 instead of 5.
+You have an easier time navigating fog. Gain a +4 circumstance bonus to Survival checks to navigate fog. In addition, the flat check DCs for you to target a creature Hidden by fog is 8 instead of 11, and for a creature Concealed by fog it is 3 instead of 5.
 
 #### Eccentric Attraction (13)
 **Prerequisites** Domesticated Shoony.
-Your uniqueness seems to 
+%%Your uniqueness seems to %%
 
 #### Tug of War (13)
 **Prerequisites** Chompers.
