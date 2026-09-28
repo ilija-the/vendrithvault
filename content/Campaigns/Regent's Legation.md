@@ -10,7 +10,7 @@ aliases:
 Its members include:
 - [[Hachiko]]
 - [[Zō-Ali Oxenfree|The Ox]]
-- ~~[[Shun]]~~
+- [[Shun]]
 - [[Ciraxi]]
 - [[Raskiff]]
 
