@@ -10,7 +10,7 @@ aliases:
 
 Note that Guilds still exist in Mogxa, usually as more local thing for various trades. In the grand city of [[Philosophia]], the [[Guilds of Philosophia|Pactlaw Guilds]] run almost the entire show. 
 
-The fact unsupportive adventurers ran many of the important societies of Mogxa contributed to the [[Adventurer Crisis]]. Since then, the Sanitorium has taken on a candy and whip approach. The whip is the spies they inserted into the most important societies, capable of warning the Sanitorium when a society turns rebellious. The candy is their close cooperation with certain more trusted societies, whom continue to be a
+The fact unsupportive adventurers ran many of the important societies of Mogxa contributed to the [[Adventurer Crisis]]. Since then, the Sanitorium has taken on a candy and whip approach. The whip is the spies they inserted into the most important societies, capable of warning the Sanitorium when a society turns rebellious. The candy is their close cooperation with certain more trusted societies, whom continue to be allowed to offer certain public services in the government's name.
 
 Mogxan Secret Societies are usually sorted into:
 - [[Wheel Societies]]
