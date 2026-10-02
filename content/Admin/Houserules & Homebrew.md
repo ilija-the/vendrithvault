@@ -82,6 +82,8 @@ In need of finishing, testing and/or a rework.
 	**Overhealing.** For Slow Healing. Meant to to make limited healing not potentially "wasted" if done while at high health (or stamina if using simple stamina as below), incentivising use early on instead of when already grievously injured. If you receive healing that takes you up to max HP (and stamina), you only list the amount of healing up to reach that number as your condition. However if the healing source was status or item, the points that went above that you receive as Temporary Hit Points that last 1 round.
 	**Others?** For Slow Healing. Hero Points may allow for taking the action Second Wind.
 - **Simple Stamina.** Intended for Slow Healing, but can be used standalone too. Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina.
+- **Currency, Item and Bulk Rebalance.** 
+- **Use-or-Lose Consumables.** 
 - **Node Travel.**
 - **Base Upgrades.** Potentially mergable with the ones from that other book.
 ![[Pasted image 20260830145729.png]]
