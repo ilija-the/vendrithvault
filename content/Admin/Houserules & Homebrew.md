@@ -84,9 +84,8 @@ In need of finishing, testing and/or a rework.
 - **Simple Stamina.** Intended for Slow Healing, but can be used standalone too. Stamina except there is no resource involved, you can just always recover half of your health. In addition, things that heal Hit Points can also heal Stamina, starting by filling out your HP and then the rest covering Stamina.
 - **Cleared Quest Rewards.** 
 - **Use-or-Lose Consumables.** Either actual expiries, or a guild-quest system where you're granted consumables to deal with a quest BUT have to turn in ones remaining afterwards (ties in neatly with Clearer Quest Rewards). They're covered with a magical tag/seal which the guild can 'connect to' with a ritual to check whether the items have been used or not, which they do when a quest reward is to be collected. Any consumables you don't turn in have their costs subtracted from the quest reward
-- **Currency Rebalance.** Basically I hate that only Gold Pieces matter, even at level 1. Also if adventurers can pay for a peasant's family for the rest of their lives with the leftover change of a consumable item they're buying, even at lower levels, the socio-economic inequality because so ridiculously stark that no adventurer can ever be considered a moral person.
-- **Item and Bulk Rebalance.** 
-
+- **Currency Rebalance.** Basically I hate that only Gold Pieces matter, even at level 1. Also if adventurers can pay for a peasant's family for the rest of their lives with the leftover change of a consumable item they're buying, even at lower levels, the socio-economic inequality because so ridiculously stark that no adventurer can ever be considered a moral person. Unlikely to do anything with this though unless there is a particularly elegant way to do it without individually repricing the entire existing catalogue and future items to be released.
+- **Item and Bulk Rebalance.** I think carrying capacity doesn't come into play enough, and I think you can carry way too much junk items, and especially consumables, that you then end up never using. I propose making basically all consumables cost 1 bulk carrying capacity, and replacing the negligible bulk category with L bulk instead (and just calling it 0.1 bulk). 
 - **Node Travel.**
 - **Base Upgrades.** Potentially mergable with the ones from that other book.
 ![[Pasted image 20260830145729.png]]
