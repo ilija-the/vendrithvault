@@ -33,14 +33,14 @@ Most kobolds, whether wild or civilised, tend to put a lot of value into ingenui
 ### Adventurers
 Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos. Wildling kobolds may take up adventure as the only way to escape their paradoxical situation of being marginalised whilst belonging to an often privileged group, during which they can either rise to become a noble kobold or try to redeem the good name of or otherwise serve their previous wildling communities.
 ### Names
+Civilised kobolds tend to have given names resembling ideals the family cherishes, and take great pride in honouring their family names by living up to it. Meanwhile, a young wildling kobold's given name is rarely more than a syllable or two. However, as they age, achieve status, and accomplish great deeds, they might add more syllables to their names. Wildling kobolds rarely have surnames except in an effort to better fit into a community, in which case they typically adopt the surname of an inspiring figure in that group.
 
-
-**Sample Names** 
+**Sample Names** Victory, Azrnak, Draahzin, Enga, Fazgyn, Fazij, Jekkajak, Kib, Kirrok, Kholek,  Mirkol, Minky, Tarka, Urkak, Varshez, Vroklan, Zekstikah, Zgaz
 
 ---
 
 # Mechanics
-
+Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, dexterity, charisma and free attribute boosts, constitution attribute flaw, darkvision, and the common and sakv
 
 ### Heritages
 
