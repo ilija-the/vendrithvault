@@ -20,9 +20,8 @@ Kobolds are a small but intelligent and tricky [[Ancestries|people]], whom arche
 - Appreciate your ingenuity and resourcefulness, especially when it comes to leadership and building defences.
 ### Physical Description
 Kobolds are reptilian in appearance and nature. The most well known archetype of kobold shares a draconic appearance, though they can end up taking various forms. Some grow feathers, and a very few can grow both scales and fur. 
-
 ### Society
-Many
+Kobolds tend to either occupy a very high position in society, or one almost entirely outside of it. The former tend to be from dynasties with aristocratic roots, or which have serve
 
 ### Beliefs
 
