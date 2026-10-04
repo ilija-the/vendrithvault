@@ -45,13 +45,20 @@ Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, de
 ### Heritages
 #### Climber Kobold
 You've taken up a physical hobby that actually enjoys a great deal of respect amongst kobolds - that of climbing. You gain the [Combat Climber](https://2e.aonprd.com/Feats.aspx?ID=768) skill feat, even if you don't meet the prerequisites. You can use your clawed feet and tail to [Climb](https://2e.aonprd.com/Actions.aspx?ID=33), leaving your hands free. Additionally, if you succeed at an [Athletics](https://2e.aonprd.com/Skills.aspx?ID=3) check to Climb, you critically succeed instead. 
-
-#### Cavern Kobold
-You hatched in a warren with narrow tunnels that was also home to a being of primal earth energy, which has made you limber and flexible. When [Climbing](https://2e.aonprd.com/Actions.aspx?ID=2374) rock walls, stalactites, and other natural stone features, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have [Quick Climb](https://2e.aonprd.com/Feats.aspx?ID=5192)). This doesn't affect you if you're using a climb Speed. If you roll a success on an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=34) check to [Squeeze](https://2e.aonprd.com/Actions.aspx?ID=2372), you get a critical success instead.
-
-%%#### Seasalt Kobold%%
-
-%%#### Ezelbold%% 
+#### Heavenscribe Kobold
+Your connection to wise and celestial imperial dragons has led others to seek your advice. You can speak [Draconic](https://2e.aonprd.com/Languages.aspx?ID=156). Whenever you critically fail a [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39) check to [Make an Impression](https://2e.aonprd.com/Actions.aspx?ID=2392) or [Request](https://2e.aonprd.com/Actions.aspx?ID=2393), you get a failure instead.
+#### Spellhorn Kobold
+Since hatching in the vicinity of a powerful source of magic, a trace of it flows through your veins. Choose one common [cantrip](https://2e.aonprd.com/Traits.aspx?ID=550) from the [arcane spell list](https://2e.aonprd.com/SpellLists.aspx?Tradition=1). You can Cast this Spell as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. You are trained in the spell attack modifier and spell DC statistics, and your spellcasting ability is Charisma.
+#### Strongjaw Kobold
+Your warren is noted for their powerful jaws and sharp teeth, either to help protect against natural predators or due to reverence of a mighty beast. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [brawling](https://2e.aonprd.com/WeaponGroups.aspx?ID=4) group and have the [finesse](https://2e.aonprd.com/Traits.aspx?ID=602) and [unarmed](https://2e.aonprd.com/Traits.aspx?ID=719) traits.
+#### Seadrawn Kobold
+You gain a swim speed of 15 feet. 
+#### Venomtail Kobold
+Thanks to the proximity of a venomous creature to your warren, you were born with a vestigial spur in your tail that secretes deadly venom. You gain the Tail Toxin action.  
+  
+**Tail Toxin** [one-action] ([manipulate](https://2e.aonprd.com/Traits.aspx?ID=645)) **Frequency** once per day; **Requirements** You are wielding a piercing or slashing weapon; **Effect** You apply your tail's venom to a piercing or slashing weapon. If your next Strike with that weapon before the end of your next turn hits and deals damage, you deal [persistent poison damage](https://2e.aonprd.com/Conditions.aspx?ID=29) equal to your level to the target
+%%#### Ezelbold
+Uncommon rarity.%% 
 
 ### Ancestry Feats
 
