@@ -10,8 +10,6 @@ aliases:
 # Overview
 Kobolds are a small but intelligent and tricky [[Ancestries|people]], whom archetypically look scaled and like a miniature humanoid dragon. In reality, kobolds are an adaptive species which, while always reptilian underneath, magically adopt various characteristics of a powerful and magical [[Creatures|creature]] nearby while in their eggs. "Wild" Kobolds as such have historically sought safety in being submissive to and serving such creatures. In [[Mogxa]] however, since the end of [[Draconic Empire|Dragon Rule]], Kobolds have sat on the [[Kobold Throne|throne]] and staffed the imperial government, and as such have developed a culture of superiority. Inverting the typical power relation, Mogxan kobolds made the [[Dragonbloods|Dragonbloods]] subservient as labourers and soldiers, and used them to ensure they retained their draconic look.
 
-Kobolds are reptilian in appearance and nature, though some grow feathers, and a very few can grow both scales and fur. 
-
 ### You might...
 -
 -
@@ -21,6 +19,7 @@ Kobolds are reptilian in appearance and nature, though some grow feathers, and a
 -
 -
 ### Physical Description
+Kobolds are reptilian in appearance and nature. The most well known archetype of kobold shares a draconic appearance, though they can end up taking various forms. Some grow feathers, and a very few can grow both scales and fur. 
 
 ### Society
 
