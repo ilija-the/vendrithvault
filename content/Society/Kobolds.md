@@ -30,10 +30,8 @@ Most kobolds, whether wild or civilised, tend to put a lot of value into ingenui
 
 **Popular Edicts** work smarter not harder, find your place in any power structure
 **Popular Anathema** face a threat alone, throw caution to the wind
-
 ### Adventurers
-Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos.
-
+Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos. Wildling kobolds may take up adventure as the only way to escape their paradoxical situation of being marginalised whilst belonging to an often privileged group, during which they can either rise to become a noble kobold or try to redeem the good name of or otherwise serve their previous wildling communities.
 ### Names
 
 
@@ -51,4 +49,4 @@ Kobolds often adventure in pursuit of the power, lore, and treasure that they fe
 
 ---
 ###### Notes
-<small>If homebrew is pulled from somewhere, credit it.</small> <p align="right">— Ilija</p>
+<small>Many things are taken directly from the official kobold lore and mechanics.</small> <p align="right">— Ilija</p>
