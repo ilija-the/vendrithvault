@@ -43,7 +43,15 @@ Civilised kobolds tend to have given names resembling ideals the family cherishe
 Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, dexterity, charisma and free attribute boosts, constitution attribute flaw, darkvision, and the common and sakvroth language.
 
 ### Heritages
-#### Seasalt Kobo
+#### Climber Kobold
+You've taken up a physical hobby that actually enjoys a great deal of respect amongst kobolds - that of climbing. You gain the [Combat Climber](https://2e.aonprd.com/Feats.aspx?ID=768) skill feat, even if you don't meet the prerequisites. You can use your clawed feet and tail to [Climb](https://2e.aonprd.com/Actions.aspx?ID=33), leaving your hands free. Additionally, if you succeed at an [Athletics](https://2e.aonprd.com/Skills.aspx?ID=3) check to Climb, you critically succeed instead. 
+
+#### Cavern Kobold
+You hatched in a warren with narrow tunnels that was also home to a being of primal earth energy, which has made you limber and flexible. When [Climbing](https://2e.aonprd.com/Actions.aspx?ID=2374) rock walls, stalactites, and other natural stone features, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have [Quick Climb](https://2e.aonprd.com/Feats.aspx?ID=5192)). This doesn't affect you if you're using a climb Speed. If you roll a success on an [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=34) check to [Squeeze](https://2e.aonprd.com/Actions.aspx?ID=2372), you get a critical success instead.
+
+%%#### Seasalt Kobold%%
+
+%%#### Ezelbold%% 
 
 ### Ancestry Feats
 
