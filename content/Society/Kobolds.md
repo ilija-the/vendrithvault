@@ -24,14 +24,15 @@ Kobolds tend to either occupy a very high position in society, usually found in 
 
 The other type of kobold is those which may have lost everything or chosen to 'go native' in more rural regions, and who end up side-lined by societies that resent them or find their comparatively 'uncivilised' behaviour uncomfortable. Some of these have formed kobold tribes in the mountainsides. The most infamous are those inhabiting old mines, forced into there by periodic periods of unrest in which rural populations hunt kobolds to take out their frustrations against. Some of these wild kobolds end up 'reverting' to serving or worshipping powerful creatures for protection, which can lead to newly hatched kobolds taking on new appearances and characteristics again.
 
-Noble kobolds have on occasion debated and touched on the "wildling kobold question," though many also avoid it entirely due to embarrassment by association. 
+Noble kobolds have on occasion debated and touched on the "wild kobold question," sometimes also calling them "wildlings," though many also avoid it entirely due to embarrassment by association. 
 ### Beliefs
-Most kobolds, whether wild or civilised, tend to put a lot of value into ingenuity  
+Most kobolds, whether wild or civilised, tend to put a lot of value into ingenuity.
 
-**Popular Edicts** work smarter not harder, 
-**Popular Anathema** 
+**Popular Edicts** work smarter not harder, find your place in any power structure
+**Popular Anathema** face a threat alone, throw caution to the wind
 
 ### Adventurers
+Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos.
 
 ### Names
 
