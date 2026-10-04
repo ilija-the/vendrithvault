@@ -47,11 +47,15 @@ Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, de
 You've taken up a physical hobby that actually enjoys a great deal of respect amongst kobolds - that of climbing. You gain the [Combat Climber](https://2e.aonprd.com/Feats.aspx?ID=768) skill feat, even if you don't meet the prerequisites. You can use your clawed feet and tail to [Climb](https://2e.aonprd.com/Actions.aspx?ID=33), leaving your hands free. Additionally, if you succeed at an [Athletics](https://2e.aonprd.com/Skills.aspx?ID=3) check to Climb, you critically succeed instead. 
 #### Heavenscribe Kobold
 Your connection to wise and celestial imperial dragons has led others to seek your advice. You can speak [Draconic](https://2e.aonprd.com/Languages.aspx?ID=156). Whenever you critically fail a [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39) check to [Make an Impression](https://2e.aonprd.com/Actions.aspx?ID=2392) or [Request](https://2e.aonprd.com/Actions.aspx?ID=2393), you get a failure instead.
+#### Dragonscaled Kobold
+Thanks to your warren's association with a dragon, your scales are sturdier than other kobolds'. You gain 10 Hit Points from your ancestry instead of 6. You gain a +1 circumstance bonus to saves against dragon breath, effects with the [sleep](https://2e.aonprd.com/Traits.aspx?ID=696) trait, and effects that would make you [paralyzed](https://2e.aonprd.com/Conditions.aspx?ID=85).
+#### Elementalheart Kobold
+When you hatched, you imprinted on a creature strongly associated with one of the Elemental Planes, such as an [elemental](https://2e.aonprd.com/Traits.aspx?ID=587) or [genie](https://2e.aonprd.com/MonsterFamilies.aspx?ID=417). Choose air, earth, fire, metal, water, or wood for your elemental benefactor. You gain resistance equal to half your level (minimum 1) to the damage type associated with your elemental benefactor: cold for air, electricity for earth, fire for fire, sonic for metal, acid for water, or poison for wood.
 #### Spellhorn Kobold
 Since hatching in the vicinity of a powerful source of magic, a trace of it flows through your veins. Choose one common [cantrip](https://2e.aonprd.com/Traits.aspx?ID=550) from the [arcane spell list](https://2e.aonprd.com/SpellLists.aspx?Tradition=1). You can Cast this Spell as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. You are trained in the spell attack modifier and spell DC statistics, and your spellcasting ability is Charisma.
 #### Strongjaw Kobold
 Your warren is noted for their powerful jaws and sharp teeth, either to help protect against natural predators or due to reverence of a mighty beast. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the [brawling](https://2e.aonprd.com/WeaponGroups.aspx?ID=4) group and have the [finesse](https://2e.aonprd.com/Traits.aspx?ID=602) and [unarmed](https://2e.aonprd.com/Traits.aspx?ID=719) traits.
-#### Seadrawn Kobold
+#### Seaborne Kobold
 You gain a swim speed of 15 feet. 
 #### Venomtail Kobold
 Thanks to the proximity of a venomous creature to your warren, you were born with a vestigial spur in your tail that secretes deadly venom. You gain the Tail Toxin action.  
