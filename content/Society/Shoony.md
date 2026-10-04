@@ -28,8 +28,8 @@ Shoony are dog-like humanoids, usually akin to breeds with a longer snout and a 
 Shoony do not come from Shoony societies, due to their origins as 'lone wanderers out of the fog,' but they do sometimes congregate into ones. Certain settlements of a sufficient size (mostly around Ferweth) have semi-secret societies of Shoony whom gather to aid each other, read and discuss literature and politics, and perhaps decide to support or suppress certain factions or guilds they deem unfriendly to the Shoony. These are the 'civilised' Shoony inside settlements, though they're still viewed with suspicion. Outside of larger settlements, Shoony may form small alliances in which they help each other survive whilst being isolated from general society - some of which go on to plot infiltrations or revenge missions against those who turned them away.
 ### Beliefs
 Most shoony aren't outright evil despite their popular perception, and in fact find it distasteful and brutish to act like a mere crude monster. They do however tend to possess a very 'realist' view of the world, seeing self-interest as natural and both relations and eloquent social interaction as a means to an end - though it is only fair, given "everyone does it."
-**Popular Edicts** do what you can to make yourself safer, use people's fears for your gain
-**Popular Anathema** risk your own hide for someone els
+**Popular Edicts** exploit people's fears, ensure your own security
+**Popular Anathema** risk your own hide for strangers, act like a crude monster
 ### Adventurers
 Shoony bear a tendency to wander due to their 'advantage' in gain access to the settlements they go to, though conversely, they also are limited by the fact their kind is feared.
 ### Names
