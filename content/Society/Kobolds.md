@@ -21,7 +21,9 @@ Kobolds are a small but intelligent and tricky [[Ancestries|people]], whom arche
 ### Physical Description
 Kobolds are reptilian in appearance and nature. The most well known archetype of kobold shares a draconic appearance, though they can end up taking various forms. Some grow feathers, and a very few can grow both scales and fur. 
 ### Society
-Kobolds tend to either occupy a very high position in society, or one almost entirely outside of it. The former tend to be from dynasties with aristocratic roots, or which have serve
+Kobolds tend to either occupy a very high position in society, or one almost entirely outside of it. The former tend to be from dynasties with aristocratic roots, or which have served bureaucracy over generations. Despite no longer enjoying a privileged legal role in Mogxa, many Mogxan Kobolds still enjoy a high position with accrued wealth and prestige, and they often end up taking up high positions in government, secret societies or guilds. Others may resent them for this, including many Dragonbloods whom still see the Kobolds as usurpers.
+
+The other type of kobold is those which may have lost everything or chosen to 'go native' in more rural regions, and who end up side-lined by societies that resent them or find their comparatively 'uncivilised' behaviour uncomfortable. Some of these have formed 
 
 ### Beliefs
 
