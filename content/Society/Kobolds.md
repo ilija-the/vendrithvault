@@ -40,9 +40,10 @@ Civilised kobolds tend to have given names resembling ideals the family cherishe
 ---
 
 # Mechanics
-Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, dexterity, charisma and free attribute boosts, constitution attribute flaw, darkvision, and the common and sakv
+Vendrith Kobolds retain official kobolds' 6 hit points, small size, 25 speed, dexterity, charisma and free attribute boosts, constitution attribute flaw, darkvision, and the common and sakvroth language.
 
 ### Heritages
+
 
 ### Ancestry Feats
 
