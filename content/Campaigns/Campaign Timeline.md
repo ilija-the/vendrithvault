@@ -72,11 +72,16 @@
 >
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
+>The nearby village of Tuliziah takes in refugees and grows in Gounleish' place.
 >The Sanitorium takes on a harder line against dissent.
 >The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
+>
+>123X ADc
+>Famous clockwork inventor and architect of Philosophia disappears.
+>The Ferwethi Crusader Sect of Veridica is founded after a shipwrecking on the coast.
 > 
 >1245 ADc
 >[[Gator Grippli]] (and possibly [[Schnappi]]) born.
@@ -134,7 +139,7 @@
 >
 >125X ADc
 >The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans.
->Certain historical Titans are 
+>Certain historical Titans and other deity-like figures are allowed to be honoured in terms of their non-deific identity and importance.
 >
 >1260 ADc
 >Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
