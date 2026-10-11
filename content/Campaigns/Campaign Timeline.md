@@ -9,10 +9,12 @@
 >
 >766 ADc
 > [[Resting Crown|Idur]] makes a name for himself by uniting a large realm in [[Canath]].
-> An elf awakens in the Zardoban Desert.
 > 
 > 769 ADc
 > The Great Conqueror [[Resting Crown|Idur]] conquers [[Mogxa]] from the Eastern Kobold Dynasty, forming the first realm spanning [[Iduria|Canath-Mogxa]].
+> 
+> 7XX ADc
+> An elf awakens in the Zardoban Desert.
 > 
 > 796 ADc
 > [[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
