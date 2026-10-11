@@ -106,7 +106,10 @@
 >[[Cantro]] born.
 >The [[Espionage Crisis]] leads to the [[March of the Roses]].
 >Bande Aparte makes a name for himself helping capture [[Chaucer]].
-> 
+>
+>124X/125X ADc
+> Sanitorium influence over the [[Horizan Guild Association|HGA]] rises, Crusaders begin falling out with them.
+>
 >1250 ADc
 >[[Cardinal Rackawn]] born.
 >[[Ergruff Ward]] born, found and taken in by [[Chatwood]].
@@ -115,6 +118,7 @@
 >1251 ADc
 >[[Magnus Strike]] born.
 >[[Twist]] incarnated.
+>[[Jed]] is invaded by Crusaders. Crusader-aligned 
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
@@ -148,10 +152,13 @@
 >1263 ADc
 >[[Wereforged]] project begins.
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
->.
+>
+>126X ADc
+>The Third Wave of [[Horiza|Horizan]] Settlement begins.
+>
 >126X ADc
 >The Peacemakers are ousted from any prominent position of power and disassembled.
->Bishop the Peacemaker leaves for refuge in Mogxa, and is granted permission to leave for Horiza. 
+>Bishop the Peacemaker seeks refuge in Mogxa, and is granted permission to leave for Horiza. 
 > 
 >1266 ADc
 >[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (34), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
