@@ -154,13 +154,13 @@
 >
 >1260 ADc
 >Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
+>
+>126X ADc
+>The Third Wave of [[Horiza|Horizan]] Settlement begins.
 > 
 >1263 ADc
 >[[Wereforged]] project begins.
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
->
->126X ADc
->The Third Wave of [[Horiza|Horizan]] Settlement begins.
 >
 >126X ADc
 >The Peacemakers are ousted from any prominent position of power and disassembled.
@@ -175,6 +175,9 @@
 >
 >1267 ADc
 >==[[Campaigns#Winters of Vön - A Land out of Time|Winters of Vön]] campaign?==
+>
+>1271 ADc
+>Magnus Strike tours the Rubyfirth bay whilst writing his thesis.
 > 
 >1272 ADc
 >[[Campaigns#Fools of Veridica Fool Me Once|Fool Me Once]] oneshot, including [[Gourdon]] (x), [[Lieutenant]] (x), [[Ergruff Ward]] (22), and [[Wick]] (200).
@@ -183,6 +186,7 @@
 >The once-captured [[Chaucer]] goes missing, either dead or in hiding.
 >[[Campaigns#So-Called Heroes Road to Longdawn|Road to Longdawn]] campaign, including [[Sheppie]] (17), [[Cantro]] (23), [[Kai]] (22), [[Minky]] (23), [[Valentine Volmari|Valentine]] (35?) and [[Monlan Qiproth]] (20)
 >[[Campaigns#Regent's Legation Hunts of Vilhun|Hunts of Vilhun]] campaign.
+>Magnus Strike returns from his trip to Rubyfirth, finishes thesis.
 > 
 >1273 ADc
 >[[Campaigns#Bishop's Disciples Call of the Cardinals|Call of the Cardinals]] oneshot, including [[Louen Leonceur|Louen]] (24), [[Tricky]] (x), [[Nimbus]] (x) and [[Rex Stormwind|Rex]](x).
