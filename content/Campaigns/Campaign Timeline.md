@@ -31,6 +31,9 @@
 >1086 ADc
 >[[Wick]] meets their fate but becomes [[Undead]].
 >
+>1192 ADc
+>A new land, [[Horiza]], is supposedly discovered.
+>
 >1193 ADc
 >[[War Over Haeven]] concludes and the Age of the [[The Great Silence|Great Silence]] begins.
 >The [[Sanitorium]] is declared and the last kobold emperor abdicates.
@@ -118,7 +121,8 @@
 >1251 ADc
 >[[Magnus Strike]] born.
 >[[Twist]] incarnated.
->[[Jed]] is invaded by Crusaders. Crusader-aligned 
+>Crusaders begin a boycoy of the [[Horizan Guild Association|HGA]].
+>[[Jed]] is invaded by Crusaders.
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
