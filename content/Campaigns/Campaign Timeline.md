@@ -1,26 +1,26 @@
 > [!timeline|blue] Campaign Timeline
-> 0 ADc
-> The [[Draconic Empire]] is defeated, the [[Draconic Concordat]] is signed.
-> Dragons are no longer able to reproduce, but given the option to become [[Dragonbloods|Dragonblood]].
-> [[First Kobold Dynasty]] takes over the throne of [[Mogxa]].
+>0 ADc
+>The [[Draconic Empire]] is defeated, the [[Draconic Concordat]] is signed.
+>Dragons are no longer able to reproduce, but given the option to become [[Dragonbloods|Dragonblood]].
+>[[First Kobold Dynasty]] takes over the throne of [[Mogxa]].
 > 
-> 333 ADc
-> The Trimillennial Revolution takes place, [[Eastern Kobold Dynasty]] is born.
+>333 ADc
+>The Trimillennial Revolution takes place, [[Eastern Kobold Dynasty]] is born.
 >
 >766 ADc
-> [[Resting Crown|Idur]] makes a name for himself by uniting a large realm in [[Canath]].
+>[[Resting Crown|Idur]] makes a name for himself by uniting a large realm in [[Canath]].
 > 
-> 769 ADc
-> The Great Conqueror [[Resting Crown|Idur]] conquers [[Mogxa]] from the Eastern Kobold Dynasty, forming the first realm spanning [[Iduria|Canath-Mogxa]].
+>769 ADc
+>The Great Conqueror [[Resting Crown|Idur]] conquers [[Mogxa]] from the Eastern Kobold Dynasty, forming the first realm spanning [[Iduria|Canath-Mogxa]].
 > 
-> 7XX ADc
-> An elf awakens in the Zardoban Desert.
+>7XX ADc
+>An elf awakens in the Zardoban Desert.
 > 
-> 796 ADc
-> [[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
+>796 ADc
+>[[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
 > 
-> 856 ADc
-> Mogxan interregnum ends, [[Western Kobold Dynasty]] established.
+>856 ADc
+>Mogxan interregnum ends, [[Western Kobold Dynasty]] established.
 > 
 >1072 ADc
 >[[Wick]] born.
@@ -38,6 +38,7 @@
 >
 >1199 ADc
 >[[Shzorzy]] born.
+>The [[Eternal Crusade]] is declared.
 > 
 >1219 ADc
 >[[Petunia Beaumont]] born.
@@ -59,6 +60,9 @@
 >
 >1233 ADc
 >[[Punk Weight]] born.
+>
+>123X ADc
+>
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
