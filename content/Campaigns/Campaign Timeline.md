@@ -57,6 +57,8 @@
 >
 >122X ADc
 >The Sanitine Wars are considered over, with the Sanitorium having come out as a worthy successor state to the Mogxan Empires.
+>A publicly attenable Roundtable initiation ceremony functions like a crowning ceremony for the new empire.
+>The Sanitorium is considered mighty at the time, but in hindsight this period is called the Paper Tiger Period.
 > 
 >1231 ADc
 >[[Treyl D'Jzari]] born.
@@ -65,7 +67,7 @@
 > The [[Adventurer Crisis]] takes place, threatening to tear the Sanitorium apart. 
 > 
 > 123X ADc
-> The Adventurer Crisis is concluded. The Sanitorium softens their tone and appeases adventurers, mercenaries and secret societies for the time being.
+> The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
 >
 >1232 ADc
 >[[Nduwa]] born.
