@@ -51,15 +51,19 @@
 > 
 >1228 ADc
 >[[Grokk]] born.
->.
->122X
+>
+>122X ADc
+>The Sanitine Wars are considered over, with the Sanitorium having come out as a worthy successor state to the Mogxan Empires.
 > 
 >1231 ADc
 >[[Treyl D'Jzari]] born.
 > 
-> 123X 
-> The [[Adventurer Crisis]] takes place.
+> 123X ADc
+> The [[Adventurer Crisis]] takes place, threatening to tear the Sanitorium apart. 
 > 
+> 123X ADc
+> The Adventurer Crisis is concluded. The Sanitorium softens their tone and appeases adventurers, mercenaries and secret societies for the time being.
+>
 >1232 ADc
 >[[Nduwa]] born.
 >
@@ -68,6 +72,7 @@
 >
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
+>The Sanitorium takes on a harder line against dissent.
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
