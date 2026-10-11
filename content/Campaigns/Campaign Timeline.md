@@ -73,6 +73,7 @@
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
 >The Sanitorium takes on a harder line against dissent.
+>The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
@@ -87,9 +88,13 @@
 >[[Kholek]] born.
 >[[Roslyn Chatkur]] born.
 >
->124X
+>124X ADc
 >[[Upcoming Local Game]] campaign.
-> 
+>
+>124X ADc
+> The Round Table is reshuffled, and the Knights are reined in.
+> New Philosophers develop a more popular line.
+>
 >1249 ADc
 >[[Louen Leonceur]] born.
 >[[Minky]] born.
@@ -125,7 +130,11 @@
 >Bande Aparte's temporary comrade [[Goldsheen]] is killed for it, he flees alive.
 > 
 >1258 ADc
->[[Boney]] born. 
+>[[Boney]] born.
+>
+>125X ADc
+>The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans.
+>Certain historical Titans are 
 >
 >1260 ADc
 >Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
