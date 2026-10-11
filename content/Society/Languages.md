@@ -67,7 +67,7 @@ Common languages include:
 - Ylfi, spoken in the [[Longdawn|City of Longdawn]], capital of Ferweth. It is speculated to be related to the Shoony language.
 - Geyli, a common language that once helped unify [[Galae|Galaens]] that fell out of favour, but is seeing some attempted revival.
 - Vili, the language of the common folk of [[Vilhun|Vilhun]], related to old Mogxan languages like Draconic.
-- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Hommagong]] and [[The Rend]].
+- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Hommagong]] and [[The Rend]]. It was once the court language of the Kobold Empire, during which Hommagong learned the language for the benefits of dealing with and being recognised by their overlord. Kobolds still usually learn the language for pride's sake. 
 - Skald, an old language of [[Fenrunr]] that for a long while only had a spoken form. It is speculated that the [[Dwarves|dwarven]] ancestral language is a written form of old Skald, and that both are progenitors of the "logical" language of [[Arcane Magic]].
 - Bay Pidgin, a common language formed as a mixture of the various peoples of the [[Rubyfirth Bay]] who went to [[Horiza]] during the second wave of migration. Centred on [[Adamsworth]]. 
 - Harza Pidgin, formed by the peoples of Horiza's third wave of migration.
@@ -87,7 +87,7 @@ Ancestral languages include:
 - Ysoki, spoken by the [[Ysoki|Ratfolk]] often around the [[Hommagong]] and cities of [[Mogxa]]. It often coexists with Sakvroth, which it shares much of its sound with.
 - Iruxi, spoken by the [[Iruxi|Lizardfolk]] primarily centred on [[Veducia]] and [[The Rend]].
 - Tripkee, spoken by the [[Tripkee]] centred on [[Veducia]] and [[The Rend]].
-- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Hommagong]] and [[The Rend]].
+- Sakvroth, something in-between a common language and an ancestral language spoken by a number of people in the [[Hommagong]] and [[The Rend]]. It was once the court language of the Kobold Empire, during which Hommagong learned the language for the benefits of dealing with and being recognised by their overlord. Kobolds still usually learn the language for pride's sake. 
 %%- Amurrun, a language that all [[Amurrun|Catfolk]] grow up learning as they grow up without even being taught it. Outsiders comment that it sounds like various other languages messily combined.%%
 - Kitsune, spoken by the [[Kitsune]] of [[Vilhun]].
 - Dwarven, spoken by the [[Dwarves]] primarily found around northern [[Fenrunr]], [[Mogxa]] and [[Galae]]. Its written script is likely inspired by the Skaldic language, and is perhaps the originator of the [[Arcane Magic|Arcane]] language. The Draconic language's written script also seems to have come from Dwarven.
