@@ -9,6 +9,7 @@
 >
 >766 ADc
 > [[Resting Crown|Idur]] makes a name for himself by uniting a large realm in [[Canath]].
+> An elf awakens in the Zardoban Desert.
 > 
 > 769 ADc
 > The Great Conqueror [[Resting Crown|Idur]] conquers [[Mogxa]] from the Eastern Kobold Dynasty, forming the first realm spanning [[Iduria|Canath-Mogxa]].
@@ -69,6 +70,9 @@
 >1248 ADc
 >[[Kholek]] born.
 >[[Roslyn Chatkur]] born.
+>
+>124X
+>[[Upcoming Local Game]] campaign.
 > 
 >1249 ADc
 >[[Louen Leonceur]] born.
