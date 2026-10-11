@@ -38,7 +38,7 @@
 >
 >1199 ADc
 >[[Shzorzy]] born.
->The [[Eternal Crusade]] is declared.
+>The [[Eternal Crusade]] is proclaimed in [[Kallea]].
 > 
 >1219 ADc
 >[[Petunia Beaumont]] born.
@@ -51,9 +51,14 @@
 > 
 >1228 ADc
 >[[Grokk]] born.
+>.
+>122X
 > 
 >1231 ADc
 >[[Treyl D'Jzari]] born.
+> 
+> 123X 
+> The [[Adventurer Crisis]] takes place.
 > 
 >1232 ADc
 >[[Nduwa]] born.
@@ -62,7 +67,7 @@
 >[[Punk Weight]] born.
 >
 >123X ADc
->
+>A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
