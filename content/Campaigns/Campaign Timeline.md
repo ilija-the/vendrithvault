@@ -72,7 +72,7 @@
 >
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
->The nearby village of Tuliziah takes in refugees and grows in Gounleish' place.
+>The nearby manor-village of Tuliziah takes in refugees and grows in Gounleish' place.
 >The Sanitorium takes on a harder line against dissent.
 >The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 >
@@ -140,6 +140,7 @@
 >125X ADc
 >The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans.
 >Certain historical Titans and other deity-like figures are allowed to be honoured in terms of their non-deific identity and importance.
+>Bishop's Peacemaker faction in the Crusader movement reach their Zenith.
 >
 >1260 ADc
 >Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
@@ -147,6 +148,10 @@
 >1263 ADc
 >[[Wereforged]] project begins.
 >[[Sir Gordon|Gordon]] created as [[Wereforged|wereforged]].
+>.
+>126X ADc
+>The Peacemakers are ousted from any prominent position of power and disassembled.
+>Bishop the Peacemaker leaves for refuge in Mogxa, and is granted permission to leave for Horiza. 
 > 
 >1266 ADc
 >[[Campaigns#Eyes of Ire|Eyes of Ire]] oneshot, including [[Andie]] (x), [[Andia]] (x), [[Nduwa]] (34), [[Sydney Rascal|Sydney]] (x) and [[Twist]] (x).
