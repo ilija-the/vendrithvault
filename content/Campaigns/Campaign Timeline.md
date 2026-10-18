@@ -15,12 +15,14 @@
 > 
 >7XX ADc
 >An elf awakens in the Zardoban Desert.
+>Secret House of Dulli is born.
 > 
 >796 ADc
 >[[Resting Crown|God-King Idur]] abdicates the throne, the empire immediately fragments.
+>Period of competition known as Mogxan Interregnum begins.
 > 
 >856 ADc
->Mogxan interregnum ends, [[Western Kobold Dynasty]] established.
+>Mogxan interregnum ends, [[Western Kobold Dynasty]] established as emperor.
 > 
 >1072 ADc
 >[[Wick]] born.
