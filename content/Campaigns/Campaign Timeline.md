@@ -99,11 +99,10 @@
 >[[Roslyn Chatkur]] born.
 >
 >124X ADc
->[[Upcoming Local Game]] campaign.
+>[[Unamed TNT Game]] campaign, including [[Mink]] Nimble (27), [[Victory Cliffclaw]] (19), [[Lavender Dulli]] (23), and [[Seppo Ilmaren]] (unknown).
 >
 >124X ADc
-> The Round Table is reshuffled, and the Knights are reined in.
-> New Philosophers develop a more popular line.
+> The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
 >1249 ADc
 >[[Louen Leonceur]] born.
