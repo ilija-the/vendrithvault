@@ -8,6 +8,7 @@ aliases:
   - Idur
   - God-King
   - God-King Idur
+  - Serene Crown
 ---
 # Story
 
