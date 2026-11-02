@@ -78,7 +78,8 @@
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
 >The nearby manor-village of Tuliziah takes in refugees and grows in Gounleish' place.
->The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease the socie"
+>The Cliffclaw family head is publicly executed for planning a rebellion, his son imprisoned indefinitely. Rest of the family essentially scatters to avoid further persecution.
+>The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease society (referring to secret societies), destroy the enemy."
 >The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 >
 >1237 ADc
