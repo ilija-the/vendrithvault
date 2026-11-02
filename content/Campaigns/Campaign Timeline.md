@@ -147,7 +147,7 @@
 >[[Boney]] born.
 >
 >125X ADc
->The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans.
+>The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans, as covertly promised to adventurers during the adventurer crisis.
 >Certain historical Titans and other deity-like figures are allowed to be honoured in terms of their non-deific identity and importance.
 >Bishop's Peacemaker faction in the Crusader movement reach their Zenith.
 >
