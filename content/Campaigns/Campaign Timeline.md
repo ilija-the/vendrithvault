@@ -80,7 +80,8 @@
 >123X ADc
 >A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
 >The nearby manor-village of Tuliziah takes in refugees and grows in Gounleish' place.
->The Sanitorium takes on a harder line against dissent.
+>The Cliffclaw family head is publicly executed for planning a rebellion, his son imprisoned indefinitely. Rest of the family essentially scatters to avoid further persecution.
+>The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease society (referring to secret societies), destroy the enemy."
 >The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 >
 >1237 ADc
@@ -149,11 +150,13 @@
 >[[Boney]] born.
 >
 >125X ADc
->The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans.
+>The Sanitorium formally allows the cultivation of Saints, provided they are not intrinsically linked to Titans, as covertly promised to adventurers during the adventurer crisis.
 >Certain historical Titans and other deity-like figures are allowed to be honoured in terms of their non-deific identity and importance.
+>Philosophia is officially granted an exception that allows Titan worship, as previously only de facto. Sanitationist Jade takes credit for this compromise, which also grants the Sanitorium greater control in other ways he'll soon take advantage of.
 >Bishop's Peacemaker faction in the Crusader movement reach their Zenith.
 >
 >1260 ADc
+>Some believe Philosophia is turning into a Titan-worshipping safe-haven right at the core of the Sanitorium, destined to bring it down from the inside.
 >Bande Aparte arrives in [[Philosophia]] and begins to serve [[Jade the Just]].
 >
 >126X ADc
