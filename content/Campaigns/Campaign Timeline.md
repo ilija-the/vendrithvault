@@ -44,9 +44,13 @@
 >1199 ADc
 >[[Shzorzy]] born.
 >The [[Eternal Crusade]] is proclaimed in [[Kallea]].
+>
+>1203 ADc
+>[[Chatwood]] born.
 > 
 >1219 ADc
 >[[Petunia Beaumont]] born.
+>[[Chaucer]] born.
 > 
 >1220 ADc
 >[[Beirgit]] born.
@@ -81,7 +85,7 @@
 >[[Valentine Volmari]] born?
 >
 >123X ADc
->Famous clockwork inventor and architect of Philosophia disappears.
+>Famous clockwork inventor and architect of Philosophia disappears%% narrowly escaping capture by Chaucer%%.
 >The Ferwethi Crusader Sect of Veridica is founded after a shipwrecking on the coast.
 >
 >123X ADc
