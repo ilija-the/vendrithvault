@@ -117,9 +117,10 @@
 >[[Cantro]] born.
 >The [[Espionage Crisis]] leads to the [[March of the Roses]].
 >Bande Aparte makes a name for himself helping capture [[Chaucer]].
+>[[Chatwood]] transports the captured Chaucer to [[Veridica]].
 >
 >124X/125X ADc
-> Sanitorium influence over the [[Horizan Guild Association|HGA]] rises, Crusaders begin falling out with them.
+>Sanitorium influence over the [[Horizan Guild Association|HGA]] rises, Crusaders begin falling out with them.
 >
 >1250 ADc
 >[[Cardinal Rackawn]] born.
@@ -130,7 +131,7 @@
 >[[Magnus Strike]] born.
 >[[Twist]] incarnated.
 >Crusaders begin a boycoy of the [[Horizan Guild Association|HGA]].
->[[Jed]] is invaded by Crusaders.
+>[[Jed]] is surprise-invaded by Crusaders. They captured large parts, but failed to capture the capital of Jedaia. Control of the island is now split.
 > 
 >1252 ADc
 >[[Ashur Holdok]] born.
