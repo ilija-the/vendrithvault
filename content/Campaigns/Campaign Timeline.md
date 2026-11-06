@@ -67,15 +67,15 @@
 > 
 > 123X ADc
 > The [[Adventurer Crisis]] takes place, threatening to tear the Sanitorium apart. 
-> 
-> 123X ADc
-> The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
 >
 >1232 ADc
 >[[Nduwa]] born.
 >
 >1233 ADc
 >[[Punk Weight]] born.
+>
+>123X ADc
+> The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
