@@ -77,19 +77,19 @@
 >1233 ADc
 >[[Punk Weight]] born.
 >
->123X ADc
->A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
->The nearby manor-village of Tuliziah takes in refugees and grows in Gounleish' place.
->The Cliffclaw family head is publicly executed for planning a rebellion, his son imprisoned indefinitely. Rest of the family essentially scatters to avoid further persecution.
->The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease society (referring to secret societies), destroy the enemy."
->The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
->
 >1237 ADc
 >[[Valentine Volmari]] born?
 >
 >123X ADc
 >Famous clockwork inventor and architect of Philosophia disappears.
 >The Ferwethi Crusader Sect of Veridica is founded after a shipwrecking on the coast.
+>
+>123X ADc
+>A number of settlements, including Gounleish, is massacred and destroyed in the [[False Rebellion]]. 
+>The nearby manor-village of Tuliziah takes in refugees and grows in Gounleish' place.
+>The Cliffclaw family head is publicly executed for planning a rebellion, his son imprisoned indefinitely. Rest of the family essentially scatters to avoid further persecution.
+>The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease society (referring to secret societies), destroy the enemy."
+>The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
 > 
 >1245 ADc
 >[[Gator Grippli]] (and possibly [[Schnappi]]) born.
@@ -104,7 +104,7 @@
 >124X ADc
 >[[Unamed TNT Game]] campaign, including [[Mink]] Nimble (27), [[Victory Cliffclaw]] (19), [[Lavender Dulli]] (23), and [[Seppo Ilmaren]] (unknown).
 >
->124X ADc
+>124X/125X ADc
 > The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
 >1249 ADc
