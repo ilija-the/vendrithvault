@@ -4,6 +4,7 @@ tags:
   - sanitationists
   - ancestries/amurrun
   - campaigns/fool-me-once
+Birth: 1219 ADc
 ---
 Chaucer was an [[Amurrun]] agent of [[Sanitorium]] ideology, infamous for having committed various atrocities towards people associated with the [[Crusaders]]. Even in Mogxa he was controversial, his brutality too much for all but the most ardent sanitationists to bear.
 
