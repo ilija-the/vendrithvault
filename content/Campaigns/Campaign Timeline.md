@@ -77,6 +77,7 @@
 >
 >1233 ADc
 >[[Punk Weight]] born.
+>[[Saint Karvi Massiri|Karvi Massiri]] born
 >
 >123X ADc
 > The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
@@ -109,7 +110,7 @@
 >[[Unamed TNT Game]] campaign, including [[Mink]] Nimble (27), [[Victory Cliffclaw]] (19), [[Lavender Dulli]] (23), and [[Seppo Ilmaren]] (unknown).
 >
 >124X/125X ADc
-> The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
+>The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
 >1249 ADc
 >[[Louen Leonceur]] born.
