@@ -113,7 +113,7 @@
 >The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
 >1248 ADc
->A ship carrying [[Saint Karvi Massiri|Karvi]], [[Doctor Hallan Aerf|Hallan]], [[Auldwell Fareawel|Auldwell]], and the [[The Architect (Friedport)|Architect Twins]], amongst other Crusaders,
+>A ship carrying the Crusaders [[Doctor Hallan Aerf|Hallan]], [[Auldwell Fareawel|Auldwell]], and the [[The Architect (Friedport)|Architect Twins]], as well as [[Saint Karvi Massiri|The Scurvymaster]], sails for Horiza.
 >
 >1249 ADc
 >[[Louen Leonceur]] born.
