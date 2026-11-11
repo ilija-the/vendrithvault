@@ -112,8 +112,10 @@
 >124X/125X ADc
 >The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
->1248 ADc
+>%%1248 ADc
 >A ship carrying the Crusaders [[Doctor Hallan Aerf|Hallan]], [[Auldwell Fareawel|Auldwell]], and the [[The Architect (Friedport)|Architect Twins]], as well as [[Saint Karvi Massiri|The Scurvymaster]], sails for Horiza.
+>Wait this is actually a plothole? Hallan being sent needs to happen after Bande Aparte flees Architrave? Hmmm I think there's a solution/reason for this in my notes but I'd need to investigate. In the meanwhile I can assume these guys arrived first, and then the whole plan for Operation Blackout, and the reinforcements to make it happen, came in 1258?
+>%%
 >
 >1249 ADc
 >[[Louen Leonceur]] born.
