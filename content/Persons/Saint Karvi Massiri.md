@@ -20,11 +20,11 @@ Fate: 1274 ADc
 pronouns: He/Him
 ---
 > [!important] History rewriting-shenanigans.
-> At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[The Landcrab Plot]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
+> At the end of the Landcrab Plot campaign, a phenomenon occurred in which memories about Karvi Massiri seemingly were rewritten to differ from the [[The Landcrab Plot|Newcomers]] whom stopped him. What follows immediately below is the widely remembered and believed story, whereas what the Newcomers remembered will be listed further down.
 
 ---
 # Summary
-Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaurs]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual and community leader.
+Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured in [[Horiza|Horiza]], now an icon of Sincerity and fighting the urge of Hypocrisy. A [[Minotaurs|Minotaur]] prodigy from the [[Singsong]] area, he arrived in [[Friedport]] as a teen and became ingrained in the city's [[Landcrabs|Landcrab]] culture, eventually becoming a spiritual and community leader.
 
 ![[KarviAtRest.png]]
 
@@ -33,7 +33,7 @@ Karvi Massiri is one of the first largely recognised [[Saint|saints]] honoured i
 ## Massiri Family
 ``Content Warning: Physical, familial abuse, implied suicide.``
 
-Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaurs]] father and grandfather, and a [[Kholo]] mother and sister.
+Karvi Massiri was raised in an eastern [[Mogxa|Mogxan]] noble house, in a manor not too far outside of [[Singsong]]. He had a [[Minotaurs|Minotaur]] father and grandfather, and a [[Kholo]] mother and sister.
 
 The Massiri family is most known for Karvi's grandfather, whom was a popularly beloved [[Knights of the Round|Knight of the Round]]. With such responsibilities however he rarely visited the Massiri household, and remained mostly an aspirational symbol. Karvi's father, son of the famous Knight, had a condition which amongst other things caused his leg muscles to atrophy, preventing him from becoming a warrior like his own father. It is perhaps because of this he put so much pressure on the young Karvi to become a hero. When it became increasingly clear Karvi had inherited this condition, including potentially having a stunted growth as a whole, this pressure turned into denial and abuse. Karvi was scolded for showing signs of having the condition around anyone.
 
