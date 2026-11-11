@@ -77,10 +77,10 @@
 >
 >1233 ADc
 >[[Punk Weight]] born.
->[[Saint Karvi Massiri|Karvi Massiri]] born
+>[[Saint Karvi Massiri|Karvi Massiri]] born.
 >
 >123X ADc
-> The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
+>The Adventurer Crisis is concluded. The Sanitorium appeases adventurers, mercenaries and secret societies for the time being.
 >
 >1237 ADc
 >[[Valentine Volmari]] born?
