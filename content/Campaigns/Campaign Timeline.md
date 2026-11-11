@@ -112,6 +112,9 @@
 >124X/125X ADc
 >The Round Table is reshuffled, and the Knights are reined in. The new Philosophers develop a more popular line.
 >
+>1248 ADc
+>A ship carrying [[Saint Karvi Massiri|Karvi]], [[Doctor Hallan Aerf|Hallan]], [[Auldwell Fareawel|Auldwell]], and the [[The Architect (Friedport)|Architect Twins]], amongst other Crusaders,
+>
 >1249 ADc
 >[[Louen Leonceur]] born.
 >[[Minky]] born.
