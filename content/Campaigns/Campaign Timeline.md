@@ -95,7 +95,10 @@
 >The Cliffclaw family head is publicly executed for planning a rebellion, his son imprisoned indefinitely. Rest of the family essentially scatters to avoid further persecution.
 >The Sanitorium takes on a harder line against dissent. Their unofficial policy is "appease society (referring to secret societies), destroy the enemy."
 >The Knights of the Round become increasingly powerful, referred to as the real authority of the realm.
-> 
+>
+>%%At latest 1246 ADc
+>Karvi's grandfather, a beloved Knight of the Round, dies.
+> %%
 >1245 ADc
 >[[Gator Grippli]] (and possibly [[Schnappi]]) born.
 >
